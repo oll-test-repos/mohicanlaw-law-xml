@@ -1,0 +1,1080 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+  <prefix>CHAPTER</prefix>
+  <num>52</num>
+  <heading>WORKER'S COMPENSATION</heading>
+  <section>
+    <num>52.1</num>
+    <heading>Statement of Purpose</heading>
+    <text>The objectives of this Ordinance are:</text>
+    <para>
+      <num>(A)</num>
+      <text>To provide medical treatment for injured workers and fair income benefits to injured workers and their dependents;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>To provide an administrative system for the delivery of medical and financial benefits to injured workers;</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>To create a process whereby disputes over compensation can be resolved in a fair and unbiased manner; and</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>To restore the injured worker physically and economically to a self-sufficient status in an expeditious manner and to the greatest extent practicable.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.2</num>
+    <heading>Definitions</heading>
+    <para>
+      <num>(A)</num>
+      <text>"Accident" is an event that is sudden, unexpected and unforeseen by the injured person.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>"Administrative Law Judge" (ALJ) refers to a person who conducts dispute resolution under this Ordinance.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>"Claim" means a written request for worker's compensation benefits under this Ordinance.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>"Compensation" means worker's compensation and benefits under this Ordinance.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>"Disability" means the actual incapacity to perform the tasks usually encountered in the worker's employment and the wage loss resulting therefrom, or physical impairment of the body that may or may not be incapacitating.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>"Employer" under this Ordinance refers to the Stockbridge-Munsee Community and its subdivisions, as well as any other entity, organization or person that employs three (3) or more persons and chooses to fall under this Ordinance.</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>"Healing Period" means the period when improvement to the worker's condition occurs as the result of treatment and convalescence for an injury.  This is the period of time before the condition becomes stationary.</text>
+    </para>
+    <para>
+      <num>(H)</num>
+      <text>"Injury" means harm to a worker caused by accident or disease that was a result of employment related duties.  Injury also includes death, as well as damage to or destruction of artificial member, dental appliances, teeth, hearing aids and eyeglasses.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Cumulative Injury" means an injury to a worker that is caused over time, such as a repetitive motion injury and back problems.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Traumatic Injury" means an injury to a worker from a sudden, specific incident.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Occupational Disease" means an injury that is the result of occupational exposure, but is not so sudden or traumatic as to fit within the definition of accident, such as black lung disease or asbestosis.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Nontraumatic mental injury may be considered injury under this Ordinance, if it is the result of extraordinary circumstances (a situation of greater dimensions than emotional strains and differences encountered by employees in that type of position daily without mental injury).</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Heart disease is not considered a compensable injury under this Ordinance unless the harm is caused by the performance of employment related duties that involve severe exertion beyond the normal daily work duties.</text>
+      </para>
+    </para>
+    <para>
+      <num>(I)</num>
+      <text>"Insurer" means an employer's worker's compensation insurance carrier for this Ordinance.  This also includes programs that are self-funded or partially self-funded.</text>
+    </para>
+    <para>
+      <num>(K)</num>
+      <text>"Time of injury," "occurrence of injury," or "date of injury" means:</text>
+      <para>
+        <num>(1)</num>
+        <text>In the case of accidental injury, the date of the accident which caused the injury.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In the case of cumulative injury or occupational disease, the date when the condition is diagnosed.</text>
+      </para>
+    </para>
+    <para>
+      <num>(L)</num>
+      <text>"Worker(s)" means those persons who work for an eligible employer located on the tribal lands of the Stockbridge-Munsee Community, whether or not the person is a resident of or is employed within tribal lands, and are engaged in the normal scope of employment.</text>
+      <para>
+        <num>(1)</num>
+        <text>This does not include independent contractors.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Part-time employees are considered workers under this Ordinance.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For the Stockbridge-Munsee Community, those persons who are on the tribal payroll are considered workers.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>For the Stockbridge-Munsee Community, law enforcement and/or peace officers from other departments who respond to a request for mutual aid from the Stockbridge-Munsee Community will be treated as workers of the Stockbridge-Munsee Community, unless the employing parties have an agreement in place providing otherwise.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>52.3</num>
+    <heading>Persons Eligible</heading>
+    <text>The following persons are eligible to apply for compensation under this Ordinance:</text>
+    <para>
+      <num>(A)</num>
+      <text>Workers.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Beneficiaries of the worker, if the injury results in the death of the worker.  This includes:</text>
+      <para>
+        <num>(1)</num>
+        <text>The surviving spouse of the worker.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Dependent children of the worker.</text>
+        <para>
+          <num>(a)</num>
+          <text>This includes individuals who have not reached the age of 18 and are the natural or adopted child, step-child, legal ward, or orphan of the worker.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>This does not include minor children who are not dependents or who are not supported by the worker.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any payments to or on account of a minor dependent or beneficiary collected under this chapter terminate when such child reaches 18 years of age, unless the child is a dependent invalid child or is under 25 years of age and enrolled full-time at an accredited school.</text>
+          <para>
+            <num>(i)</num>
+            <text>If enrolled full-time in school, payments terminate when such child reaches 25 years of age or ceases to be a full-time student, whichever occurs first.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the child is a dependent invalid, the payments continue until he or she shall cease to be dependent.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>As warranted, other persons for whom the worker provides more than 50% of the support for their needs may also be included as beneficiaries.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>52.4</num>
+    <heading>Employer Liability</heading>
+    <text>An employer is liable for worker's compensation to a worker when all of the following conditions concur:</text>
+    <para>
+      <num>(A)</num>
+      <text>Where, at the time of the injury, both the worker and the employer are subject to this Ordinance.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Where the worker sustains an injury.  The injury can arise from an accident, a cumulative injury, or an occupational disease that is related to the employment.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Where, at the time of the injury, the worker is performing service growing out of and incidental to his or her employment.</text>
+      <para>
+        <num>(1)</num>
+        <text>Any worker going to and from his or her employment in the ordinary and usual way, once on the premise of the place of work and in the normal scope of employment, is performing a service growing out of and incidental to employment. The premises of the employer include the premises of any other person on whose premises the worker performs service.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Every worker whose employment requires the worker to travel shall be deemed to be performing service growing out of and incidental to the worker's employment at all times while on a trip, except when engaged in a deviation for a private or personal purpose.</text>
+        <para>
+          <num>(a)</num>
+          <text>Acts reasonably necessary for living or incidental thereto shall not be regarded as such a deviation.  Side trips, while traveling for the employer, are considered a personal deviation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any accident or disease arising out of a hazard of such service shall be deemed to arise out of the worker's employment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A worker is considered to be performing a service growing out of and incidental to the worker's employment during lunch and scheduled breaks, unless the worker leaves the premises of the place of work or engages in activities outside of the normal scope of employment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Where the injury is not intentionally inflicted to a worker by that worker, a fellow worker, or other party, so that the worker may receive compensation.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Where the cause of the worker's injury arises out of the worker's employment.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.5</num>
+    <heading>Reporting an Accident or Diagnosis of Cumulative Injury or Occupational Disease</heading>
+    <para>
+      <num>(A)</num>
+      <text>Notice to Employer.</text>
+      <para>
+        <num>(1)</num>
+        <text>Any incident that results or may result in injury to the worker should be reported by the end of the worker's shift.  The incident must be reported to the employer by the worker or someone on the worker's behalf within 48 hours of the incident.  In limited circumstances, the 48-hour time period may be extended upon a showing of good cause.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A worker, who has been diagnosed with a cumulative injury or occupational disease and understands the relation of the disease to the employment, must report that diagnosis to the employer within 48 hours.  In limited circumstances, the 48-hour time period may be extended upon a showing of good cause.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The worker shall report the accident or diagnosis of cumulative injury or occupational disease by providing a written notice of the incident or diagnosis to the employer.</text>
+        <para>
+          <num>(a)</num>
+          <text>If a worker is unable to file a written report within 48 hours for a reasonable reason, the worker must make an initial report of the incident or diagnosis through a method like leaving a telephone message.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Timely initial verbal reports must be followed with a written notice as soon as possible.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Notice of the injury shall be submitted to the worker's supervisor, the employer's designated worker's compensation representative, the Human Resources department, or a manager.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If a worker does not make a timely report of an injury to the employer and the worker is aware or should have been aware of the connection between the employment and the injury, any claim for compensation based on that injury shall be barred.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The absence of notice does not bar recovery under this Ordinance, if the employer was aware or should have been aware of the worker's injury, which was directly related to employment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>After the employer receives notice, if the worker's injury persists beyond three (3) days, the employer shall notify the insurer.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The insurer or their designee shall send information to the worker or the worker's beneficiaries about their worker's compensation rights and how to apply for benefits as soon as possible after receiving notice of the worker's injury from the employer.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.6</num>
+    <heading>Worker's Compensation Claims Procedure</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Claim.</heading>
+      <text>If the worker feels that he or she is eligible for benefits under this Ordinance, the worker shall file a written request for benefits with the insurer.</text>
+      <para>
+        <num>(1)</num>
+        <text>The claim request must be made within one year after the worker or the worker's beneficiaries learn of the worker's rights under this Ordinance regarding a reported injury or the claim shall be barred.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Unless evidence to the contrary is shown, a worker learns of his or her rights one week after the insurer sends the notice of the worker's rights under this Ordinance.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To limit the effect of any intervening events, the worker must receive medical treatment within 30 days of the accident or the claim shall be barred.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Investigation.</heading>
+      <text>After receiving an application for compensation, the insurer shall promptly investigate the reported injury and administer valid claims for compensation arising from the reported injury.  The insurer shall develop a written record of the claim.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text><u>Compensation Determination</u>.</text>
+      <para>
+        <num>(1)</num>
+        <text>The insurer shall conduct an initial investigation promptly, so that a preliminary decision is made as to whether the worker shall receive compensation.  In claims where compensation is payable, the insurer shall make the first payment thereof within 14 days after receipt of the claim.  This preliminary decision is not a binding determination of any obligations for compensation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The insurer may continue to investigate the injury to ascertain the accuracy of the preliminary decision and the extent of the insurer's liability for compensation, so that a determination as to the worker's rights to compensation may be reached.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The insurer shall pay such compensation, including temporary disability, permanent disability, and death benefits, as is due to the worker under this Ordinance.  No benefits shall be paid until the injury is reported, unless circumstances prevented prompt reporting.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If the worker is eligible to receive mileage for transportation expenses related to medical examination or treatment, the mileage rate shall be based on the federal mileage rate in effect at that time.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <heading>Communication with Employer.</heading>
+      <text>The worker shall maintain contact with his or her employer throughout the worker's compensation process.  This includes providing all required notices and documents, as well as regular updates on the worker's condition and prognosis.</text>
+      <para>
+        <num>(1)</num>
+        <text>The worker shall contact the employer at least two (2) times per month during the healing period.  Compensation will not be paid for any period during which the worker fails to maintain this contact.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>52.7</num>
+    <heading>Medical Care and Examination for Claims</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Employer Directed Medical.</heading>
+      <text>Employer shall furnish reasonable medical services and supplies to treat injured workers, but the employer may designate the medical care providers from whom the worker shall seek treatment for injuries under this Ordinance.</text>
+      <para>
+        <num>(1)</num>
+        <text>The treatment must be offered promptly and be reasonably suited to treat the injury without undue inconvenience to the worker.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a worker obtains a written statement indicating the employer's prior approval of treatments by a non-designated provider, such medical services are covered under this Ordinance.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a worker is dissatisfied with the medical care offered by the designated providers, the worker shall submit a written statement to the employer indicating this dissatisfaction and the reasons for it.</text>
+        <para>
+          <num>(a)</num>
+          <text>Based on this statement, the worker and employer may agree that a worker shall be permitted to seek alternative treatments or care providers.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the worker and the employer cannot agree as to alternative care, the worker may receive a second opinion by a care provider of the worker's choice.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The worker must receive the employer's prior approval before receiving any treatments from the care provider chosen by worker. If prior approval is not obtained, the employer is not responsible for any expense except the initial evaluation.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Other care providers used by the worker may confer with and obtain information on the worker's condition from the employer-retained physician.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Reasonable Examination.</heading>
+      <text>Whenever a worker makes a claim for compensation, the worker shall submit to reasonable, additional examinations by physicians, chiropractors, psychologists, podiatrists, or vocational experts that are provided and paid for by the employer or insurer upon written request of that party.</text>
+      <para>
+        <num>(1)</num>
+        <text>An employer or insurer who requests such an examination shall pay the worker all necessary expenses, including transportation expenses.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The worker is entitled to have a doctor that is selected by and paid by the worker present at the examination.  The worker may also request and receive a copy of all reports of the examination.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Independent Medical Examination.</text>
+        <para>
+          <num>(a)</num>
+          <text>If either party disagrees with the treating provider's determination as the worker's level of disability for the purposes of compensation, an independent medical examination ("IME") can be requested.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The IME will be provided by an independent provider, such as through Medical Evaluations, Inc., and will be paid for by the insurer.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If the disability rating from the IME differs from the one from the treating provider, the two ratings shall be averaged and the compensation shall be based on this average.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Refusal.</heading>
+      <text>If the worker, after a written request of the employer or insurer, refuses to submit to or in any way obstructs medical examinations, treatment, or rehabilitation (other than surgery that may endanger life or limb), the worker's right to begin or maintain any proceeding to receive worker's compensation is suspended, unless it is shown that the request is unreasonable.</text>
+      <para>
+        <num>(1)</num>
+        <text>A worker who fails to comply with reasonable restrictions identified by his or her health care provider will be viewed as obstructing the treatment process.  The worker will not be eligible for further worker's compensation benefits; provided that the worker has received notice of the restrictions and there is documented evidence that a worker has engaged in activities in violation of these restrictions on two (2) or more occasions.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <heading>Testimony.</heading>
+      <text>Any physician, chiropractor, psychologist, podiatrist or vocational expert who is present at any examination under subsection (B) or attended to a worker for any condition or complaint reasonably related to the condition for which the worker claims compensation:</text>
+      <para>
+        <num>(1)</num>
+        <text>May be required to testify as to the results of their examination.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May be required to furnish information and reports, relative to the claim, to the worker, employer or insurer.</text>
+      </para>
+    </para>
+    <para>
+      <num>(E)</num>
+      <heading>Privilege Waived.</heading>
+      <text>A worker, who reports an injury alleged to be work-related or files an application for a hearing, waives all doctor-patient privilege with respect to any condition or complaint reasonably related to the condition for which the worker claims compensation.  Any physician, chiropractor, psychologist, podiatrist, dentist, hospital, or health care provider shall, within a reasonable time after written request, provide the worker, employer, or insurer with any information or written material reasonably related to any injury for which the worker claims compensation.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <heading>Medical Excuse from Work.</heading>
+      <text>To receive leave from work and benefits for lost wages under this Ordinance, a worker must provide his or her employer with a written excuse from an authorized health care provider that excuses the worker from reporting to work.  If the worker is released for work in a restricted capacity, the worker shall provide his or her employer with a written excuse from an authorized health care provider that describes the worker's restrictions.  A copy of the written excuse must be provided to the employer the next work day after the appointment.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.8</num>
+    <heading>Claim Closure</heading>
+    <para>
+      <num>(A)</num>
+      <text>A worker's compensation claim shall be closed after payment of the worker's last medical treatment when the health care provider determines that the injured worker has reached the point where no further material improvement would reasonably be expected from medical treatment or the passage of time.</text>
+      <para>
+        <num>(1)</num>
+        <text>If more than one (1) year has passed since a worker last received treatment for an injury, the worker's compensation claim shall be closed and the worker is barred from receiving additional treatment or benefits.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>When the insurer determines that a worker's claim for compensation will be denied by the insurer, the worker shall be informed about the availability of dispute resolution proceedings.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>If compensation was paid under this Ordinance; a claim may be re-opened within one year after the date of claim closure, based on an objective finding of a material worsening in the underlying condition.  Furthermore, a claim may be re-opened during the period up to three years after claim closure, for the payment of medical benefits if a pathological worsening of the underlying condition is established by clear and convincing medical evidence.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.9</num>
+    <heading>Limitations on Recovery</heading>
+    <para>
+      <num>(A)</num>
+      <text>If the worker has a right to recover compensation under this Ordinance, such compensation shall be the exclusive remedy against the employer, any other worker of the same employer, and the insurer.</text>
+      <para>
+        <num>(1)</num>
+        <text>This does not limit the right of a worker to bring an action for an assault intended to cause bodily harm or against a co-worker for negligent operation of a motor vehicle not owned or leased by the employer.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>A worker shall not recover any amount spent by the worker for medical or other treatment, unless, the worker has reported the injury, filed a claim with the insurer, and:</text>
+      <para>
+        <num>(1)</num>
+        <text>he or she has requested the employer or insurer to furnish such treatment, or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the nature of the injury required such treatment and the employer or insurer, having knowledge of the injury, neglected to provide or authorize the treatment.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>52.10</num>
+    <heading>Fraudulent Claims</heading>
+    <text>Nothing in this Ordinance shall be construed to prevent any party from pursuing criminal prosecution or from bringing a civil action for recovery, as appropriate.</text>
+  </section>
+  <section>
+    <num>52.11</num>
+    <heading>Dispute Resolution</heading>
+    <para>
+      <num>(A)</num>
+      <text>Controversies between the worker, the employer, or the insurer over the compensation determination may be submitted for dispute resolution.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Dispute resolution under the Ordinance will be done by an Administrative Law Judge (ALJ).</text>
+      <para>
+        <num>(1)</num>
+        <text>The ALJ shall be a licensed attorney who is not a current employee of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The ALJ shall be appointed by the Stockbridge-Munsee Tribal Council on either a case-by-case basis or for a term not to exceed two years and may be renewed for subsequent terms.  If appointment is for a term, the ALJ may only be removed for cause from this appointment, prior to the end of the term, by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The ALJ shall receive appropriate compensation for services provided under this Ordinance.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Dispute resolution duties and authority.</text>
+      <para>
+        <num>(1)</num>
+        <text>The ALJ will assess the record and other evidence presented and make a decision regarding controversies over initial worker's compensation decisions.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The ALJ may require the insurer to accelerate payments so that the worker or the worker's beneficiaries receive a lump-sum payout of worker's compensation benefits, if the ALJ finds that there is good cause for such a payout.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The ALJ may make a general review of the compensation amount, but may not deviate from the scheduled amounts by more than five (5) percent.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>The interested parties, for all controversies subject to dispute resolution, are the worker or the worker's beneficiaries, the employer and the insurer.  All of the interested parties may participate in dispute resolution regarding a controversy between two of the interested parties.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.12</num>
+    <heading>Settlement</heading>
+    <para>
+      <num>(A)</num>
+      <text>Nothing in this Ordinance shall impair the rights of the parties to settle on any liability that is claimed under this Ordinance on account of injury or death.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The worker, employer or insurer may petition the ALJ for review of a settlement within 3 months of reaching the compromise.  If the ALJ determines that a compromise is unjust, the ALJ may set aside the compromise and determine the rights of the parties.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.13</num>
+    <heading>Dispute Resolution Procedures</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Application.</heading>
+      <text>Any party to a worker's compensation claim can initiate dispute resolution by filing a written petition for dispute resolution with the Mohican Nation Insurance Department of the Stockbridge-Munsee Community within 30 days of the insurer's initial decision regarding a claim.  Parties are allowed a 5 day grace period for filing this petition.  A filing fee of $25.00 must be submitted with the petition.</text>
+      <para>
+        <num>(1)</num>
+        <text>The petition may be in any written format and shall at least contain the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>the name and address of the petitioner;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>a statement identifying the controversy for which dispute resolution is sought;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>a brief description of the factual background;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>a summary of the previous proceedings and decision regarding the claim; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>a specific request stating the required relief.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The petitioner shall serve a copy of the petition on all other parties in interest.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The ALJ may bring in additional parties by service of a copy of the petition, if necessary.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Answer.</heading>
+      <text>The respondent shall file an answer to the petition for dispute resolution within 20 days.  The answer shall also be filed with the Mohican Nation Insurance Department and a copy served on the petitioner and provided to all other parties in interest.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Dismissal.</heading>
+      <text>The ALJ may dismiss the petition for dispute resolution, if:</text>
+      <para>
+        <num>(1)</num>
+        <text>the petition is incomplete and the petitioner does not complete it upon request; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>review of the petition and answer indicate that the petition is groundless.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <heading>Notice.</heading>
+      <text>If dispute resolution proceedings are appropriate, the ALJ shall schedule a hearing based on the petition and provide notice of the hearing to each interested party, by serving such notice on the interested party personally or by mailing a copy to the interested party's last-known address at least 10 days before such hearing.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <heading>Hearing.</heading>
+      <text>The parties shall have a full, fair hearing on the merits of the dispute.</text>
+      <para>
+        <num>(1)</num>
+        <text>Prior to a hearing on the merits, the ALJ may order the parties to clarify issues and disclose or exchange information that may assist in the disposition of the disputed matter.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a hearing is required, the ALJ shall schedule an initial informal conference to discuss preliminary matters with the parties, including scheduling, motions, and discovery within 30 days after the respondent's answer is filed.  The hearing shall be scheduled no later than 30 days following this conference, except that this time may be extended for an additional 30 days upon a finding of good cause.</text>
+      </para>
+    </para>
+    <para>
+      <num>(F)</num>
+      <heading>Record.</heading>
+      <text>The ALJ shall develop and maintain a full record of dispute resolution proceedings.</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <heading>Participation.</heading>
+      <text>All parties concerned have the right to be present at any hearing, in person or by attorney or other agent, and to present such testimony as may be pertinent to the controversy before the ALJ.  Participation via telephone will be allowed upon the ALJ's discretion.</text>
+    </para>
+    <para>
+      <num>(H)</num>
+      <heading>Burden of Proof.</heading>
+      <text>The petitioner has the burden of proof to establish his or her claim beyond a legitimate doubt.</text>
+    </para>
+    <para>
+      <num>(I)</num>
+      <heading>Subpoena.</heading>
+      <text>Any party, including the ALJ, may issue a subpoena to compel the attendance of a witness or the production of evidence at the hearing by service of a subpoena upon the person, along with a tender of witness fees.</text>
+    </para>
+    <para>
+      <num>(J)</num>
+      <heading>Evidence.</heading>
+      <text>The parties have a right to present relevant evidence regarding the disputed claim. Opposing parties have the right to cross-examine persons testifying as to such evidence and present information to question such evidence.  The ALJ shall take care to ensure that the evidence presented is credible.</text>
+    </para>
+    <para>
+      <num>(K)</num>
+      <heading>Medical Evidence.</heading>
+      <text>The contents of certified medical reports by licensed practitioners, who have examined or treated the worker, may be used as prima facie evidence regarding the matter contained in them, instead of requiring the practitioner to testify in person.  The ALJ may not admit into evidence a certified report that was not filed with the ALJ and all parties in interest at least 10 days before the date of the hearing, unless the ALJ is satisfied that there is good cause for the failure to timely file the report.</text>
+    </para>
+    <para>
+      <num>(L)</num>
+      <heading>Independent Evidence.</heading>
+      <text>The ALJ may, with or without notice to any party, cause testimony to be taken, an inspection of the premises where the injury occurred to be made, the time books and payrolls of the employer to be examined, or may direct any worker claiming compensation to be examined by an independent doctor, if such information is needed to resolve the dispute.</text>
+      <para>
+        <num>(1)</num>
+        <text>The testimony so taken, and the results of any such inspection or examination, shall be reported to the ALJ for its consideration.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All information gathered for the ALJ shall be provided to the parties and any party shall have opportunity to question the evidence at the hearing.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The expense of such examination shall be paid out of the ALJ's budget.</text>
+      </para>
+    </para>
+    <para>
+      <num>(M)</num>
+      <heading>Time Limitations.</heading>
+      <text>The right to proceed in dispute resolution shall not extend beyond 4 years from the date of the injury or the date that compensation, other than treatment or burial expenses, was last paid.  Payment of wages by the employer, during disability or absence from work to obtain treatment, shall be deemed payment of compensation for the purpose of this Section, if the employer knew of the worker's condition and its alleged relation to the employment.</text>
+    </para>
+    <para>
+      <num>(N)</num>
+      <heading>Expense Statement.</heading>
+      <text>Unless otherwise agreed to by all parties, an injured worker shall file with the ALJ and serve on all parties, at least 10 days before the date of the hearing, an itemized statement of all expenses claimed by the injured worker.</text>
+      <para>
+        <num>(1)</num>
+        <text>The itemized statement shall include, if applicable, information relating to any travel expenses incurred by the injured worker in obtaining treatment, including the destination, number of trips, round trip mileage, and meal and lodging expenses.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The ALJ may not admit into evidence any information relating to expenses claimed by an injured worker, which was not filed in a timely manner, unless the ALJ is satisfied that there is good cause for the failure to file and serve the itemized statement.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>52.14</num>
+    <heading>Findings, Orders and Awards</heading>
+    <para>
+      <num>(A)</num>
+      <text>All parties shall be afforded opportunity for a full, fair hearing, but disposition of the dispute may be done by settlement, stipulation, agreement, or default without a hearing.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Within 30 days after the final hearing and close of the record, the ALJ shall make and file:</text>
+      <para>
+        <num>(1)</num>
+        <text>its findings upon the ultimate facts involved in the controversy,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>its order, which shall state its determination as to the rights of the parties, and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>if warranted, an award of benefits or other compensation owed under this Ordinance, plus reasonable costs and fees.  Awards may also include a penalty, if it is shown that the opposing party's actions were the result of malice or bad faith.  This penalty is the exclusive remedy for malice or bad faith and shall not exceed the lesser of 200% of the total compensation due or $15,000.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>If the ALJ awards compensation, payment shall be made within 21 days.  Orders based on a settlement shall be paid within 10 days.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.15</num>
+    <heading>Review by the ALJ</heading>
+    <para>
+      <num>(A)</num>
+      <text>On its own motion and for reasons that it deems sufficient, the ALJ may set aside its decision in a matter, upon the grounds of mistake or newly discovered evidence, within one year after the date of the decision.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>If it appears that a mistake may have been made as to the cause of injury, where an injury was attributed to an accident when the worker was suffering from cumulative injury or occupational disease, the ALJ may upon its own motion, within 3 years of the decision, set aside the decision.  After review of the claim and an opportunity for a hearing, the ALJ may make new findings and award, or it may reinstate the previous findings, order or award, if in fact the worker is suffering from a cumulative injury or occupational disease arising out of the employment.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The ALJ may set aside an order or award where there is sufficient evidence that the order or award was procured by fraud.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.16</num>
+    <heading>Judgment on Award</heading>
+    <text>If any party presents a certified copy of the award to the Stockbridge-Munsee Tribal Court, the Tribal Court shall, without notice, render judgment in accordance therewith.  A judgment rendered under this Section shall have the same effect as though rendered in an action tried and determined by the Tribal Court.</text>
+  </section>
+  <section>
+    <num>52.17</num>
+    <heading>Judicial Review</heading>
+    <para>
+      <num>(A)</num>
+      <text>Decisions of the ALJ may be appealed for review by the Stockbridge-Munsee Tribal Court, which will act as a court of review, not a fact-finding court.</text>
+      <para>
+        <num>(1)</num>
+        <text>A party requesting judicial review must file a notice of appeal within 20 days of the decision by the ALJ.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Parties must exhaust the dispute resolution procedure before a case can be appealed to the Tribal Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Judicial Review Procedures.</text>
+      <para>
+        <num>(1)</num>
+        <text>The appellant shall file a written statement describing the grounds of his or her appeal within 20 days of filing the notice of appeal.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The responding party has 20 days from the filing of the appellant's brief to file a written reply to the appellant's statement.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>At its discretion, the Tribal Court may order that an oral hearing be held on the matter.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All appellate decisions shall be accompanied by a written opinion, briefly stating the issues, as they appeared to the Tribal Court, and the basis for the decision.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Tribal Court may affirm the ALJ's decision, reverse the decision or remand the decision for appropriate action, including clarification of the facts.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Tribal Court does not have discretion to vary the amount of compensation or the permanent partial disability compensation schedule.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The decision of the Tribal Court may not be appealed.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The commencement of an action for review by the Stockbridge-Munsee Tribal Court shall not relieve the insurer or employer from paying compensation as directed by the ALJ.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.18</num>
+    <heading>Disability Benefits</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Definitions.</heading>
+      <text>As used in this Ordinance:</text>
+      <para>
+        <num>(1)</num>
+        <text>"Temporary disability" occurs during the healing period for an injury.  "Temporary disability benefits" is the compensation a worker receives for wage loss that occurs during this healing period.</text>
+        <para>
+          <num>(a)</num>
+          <text>A worker can receive temporary total disability benefits when there is complete wage loss.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A worker can receive temporary partial disability benefits when there is a partial wage loss.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Permanent disability" occurs when a worker has permanent effects from an injury at the end of the healing period for that injury.  "Permanent disability benefits" is the compensation a worker receives for these permanent effects and is compensation for future losses of earnings, theoretically.</text>
+        <para>
+          <num>(a)</num>
+          <text>A worker can receive permanent total disability benefits when they have total physical impairment for industrial use of both eyes, or the loss of both arms at or near the shoulder, or of both legs at or near the hip, or of one arm at the shoulder and one leg at the hip, or in other circumstances as appropriate.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A worker receives permanent partial disability benefits when he or she suffers permanent effects less than total impairment.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Rates.</heading>
+      <text>Compensation rates are based on a worker's "average weekly wage," which is the wage rate in effect at the time of the injury.  The average weekly wage is used to calculate the worker's wage loss and applicable disability benefits.</text>
+      <para>
+        <num>(1)</num>
+        <text>The compensation rates for disability benefits are subject to the maximum and minimum limits as described in <strong>Wis. Stat. § 102.11 (1)</strong> and its periodic updates.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The average weekly wage is calculated based on a worker's daily earnings at the time of the injury.  The daily earnings are multiplied by the number of days and fractional days normally worked per week.  For a complete description of how to calculate the average weekly wage and calculating the wage in special situations, see <strong>Wis. Stat. § 102.11 (1)(a) to (g)</strong>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The average annual earnings for this Ordinance shall consist of fifty (50) times the worker's average weekly wage.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Compensation.</heading>
+      <text>Benefits shall be due starting after the third day of disability, excluding Sundays unless the employee regularly works Sundays.  If the disability exists beyond 7 days, the employee may receive benefits for the first 3 days.</text>
+      <para>
+        <num>(1)</num>
+        <heading>Temporary Total Disability.</heading>
+        <text>If the injury causes temporary total disability, the worker shall receive temporary total disability benefits.  These benefits are two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
+        <para>
+          <num>(a)</num>
+          <text>There is no limitation on the number of weeks that a worker can receive temporary disability benefits, unless limited elsewhere in this Ordinance.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The worker may be eligible for supplemental benefits of up to $233, as described in <strong>Wis. Stat. § 102.44 (1)</strong>, if on continuous temporary total disability for 24 months.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Temporary total disability benefits shall end on the date the worker:</text>
+          <para>
+            <num>(i)</num>
+            <text>is released for full-duty work by a health care practitioner; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>is given a limited release to return to light-duty work and the employer can accommodate the restrictions (the limitations in subsections (C)(2)(c) and (C)(2)(d) of this Section shall apply in relation to the worker's temporary total disability benefits); or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>has reached the maximum medical improvement for the injury.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Temporary Partial Disability.</heading>
+        <text>If the injury causes temporary partial disability, the worker shall receive such proportion of temporary total disability benefits as the actual wage loss of the worker bears to the worker's average weekly wage at the time of the injury.</text>
+        <para>
+          <num>(a)</num>
+          <text>Benefits are subject to the maximum and minimum amounts discussed in subsection (B)(1) of this Section.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>There is no limitation on the number of weeks that a worker can receive temporary disability benefits.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A worker may be given a limited release to return to work by a health care practitioner during a period of temporary partial disability.</text>
+          <para>
+            <num>(i)</num>
+            <text>An employer is not required to make light-duty work available while a worker is on a limited release.  If the employer chooses to do so, the worker shall be notified that the light-duty position is temporary.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the employer provides light-duty work at a lower wage than the worker's normal wage at the time of the injury, the worker is entitled to temporary partial disability benefits proportional to the wage loss.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>If the worker refuses the offer of light-duty work, the worker is only entitled to temporary partial disability benefits based on the proportional wage loss as discussed in subsection (C)(2)(c)(ii) above.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If the worker does not inform the employer of a limited release for work, the worker loses eligibility for continuing temporary disability benefits, even if the worker does not expect light-duty work to be offered.  This does not apply if the health care practitioner only informs the employer of the limited release.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Temporary partial disability benefits shall end on the date the worker is released for full-duty work by a health care practitioner or has reached the maximum medical improvement for the injury.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If, at the end of the healing period, a doctor determines that the worker has permanent effects from the injury that impact the ability to work, the worker may receive permanent disability benefits.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Permanent Total Disability.</heading>
+        <text>If there is total physical impairment, the permanent total disability benefit rate is the same as that for temporary total disability or two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
+        <para>
+          <num>(a)</num>
+          <text>The worker may be eligible for a supplemental benefit to the permanent total disability benefit of up to $233 per week.  Eligibility for and amount of such a supplemental benefit is described in <strong>Wis. Stat. § 102.44 (1)</strong>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A worker on permanent total disability is eligible for benefits for the rest of his or her life.  The worker's dependents will be eligible for a death benefit, regardless of cause of death, unless the worker has exceeded his or her lifetime disability benefits of 1000 weeks of total disability.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <heading>Permanent Partial Disability.</heading>
+        <text>If the permanent effects result in less than total impairment, permanent partial disability benefits are paid at the rate of two-thirds of the average weekly wage for the period provided in the permanent partial disability schedule.  These amounts are subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
+        <para>
+          <num>(a)</num>
+          <text>The permanent partial disability schedule sets out the number of weeks that a worker receives further benefits at the end of the healing period.  The time periods in the schedule vary depending on the location and degree of the permanent effects.  The schedule can be found in <strong>Wis. Stat. § 102.52</strong>.  The application of the permanent partial disability schedule is discussed in <strong>Wis. Stat. §§ 102.53 to 102.56</strong>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For permanent partial disabilities not covered by the permanent partial disability schedule, such as those to the head and torso, the number of weeks of compensation shall bear such relation to 1,000 weeks as the injury bears to one causing permanent total disability.  During this period (not to exceed 1,000 weeks), compensation shall be paid at the rate of two-thirds of the average weekly wage.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>When calculating permanent partial disability, in no case shall the compensation be greater than 100% of permanent total disability.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <heading>Mental Injury.</heading>
+        <text>Benefits for mental injuries shall be paid for a maximum of two (2) years at the rate of two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Death.</text>
+        <para>
+          <num>(a)</num>
+          <text>Where death proximately results from the injury and the deceased leaves a person wholly dependent for support, the death benefit shall equal 4 times his or her average annual earnings, but when added to the disability indemnity paid and due at the time of death, shall not exceed two-thirds of the weekly wage for the scheduled number of weeks.  This benefit shall be paid to those persons wholly dependent for support as determined by the ALJ.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If death occurs, other than as a proximate result of the injury before disability compensation ends, death benefits and burial expense shall be allowed as followed:</text>
+          <para>
+            <num>(i)</num>
+            <text>if the injury proximately caused permanent total disability, the injury shall be treated as if it had caused death, or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>if the injury caused permanent partial disability, the remaining compensation shall be applied toward funeral expenses and any remaining sum paid to persons wholly dependent for support.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>However, if the worker is not survived by any persons wholly dependent for support, those persons who were partially dependent on the deceased worker for support may receive such benefits as ordered by the ALJ.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>If the disability period involves a fractional week, compensation shall be paid for each day of such week, except Sundays only, at the rate of one-sixth of the weekly compensation.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <heading>Burial Expenses.</heading>
+      <text>In cases where death of the worker proximately results from the injury, reasonable burial expenses shall be paid, not exceeding $6,000.00.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.19</num>
+    <heading>Limitations on Compensation</heading>
+    <para>
+      <num>(A)</num>
+      <text>In cases where it is determined that periodic benefits granted by the federal Social Security Act are paid to the worker because of disability, the benefits payable under this Ordinance shall be reduced as discussed in <strong>Wis. Stat. § 102.44 (5)</strong>.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The worker may not claim compensation for a disability if he or she was rehired in a position where the actual wage loss in comparison with earnings at the time of the injury equals or exceeds 15% as in <strong>Wis. Stat. § 102.44 (6)</strong>.  The worker is required to make a diligent effort to find employment.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Compensation will be denied, if the injury results from the worker's:</text>
+      <para>
+        <num>(1)</num>
+        <text>failure to use safety devices that have been provided by the employer, which the worker has notice of and does not have a valid reason or a medical excuse for not using the safety devices,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>failure to obey any reasonable rule adopted and reasonably enforced by the employer for the safety of workers and of which the worker has notice and does not have a valid reason or a medical excuse for not following the rule; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>misconduct, including use of alcohol or controlled substances.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Compensation, for a claim due to cumulative injury or occupational disease, will be reduced if the worker has been employed for a limited time, as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Workers are not eligible for compensation when employed full-time for a period up to 4 months.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Workers receive 25% of eligible compensation for a claim made while employed full-time for a period of 4 to 8 months.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Workers receive 50% of eligible compensation for a claim made while employed full-time for a period of 8 to 12 months.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Workers receive 75% of eligible compensation for a claim made while employed full-time for a period of 12 to 18 months.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Workers are eligible for full compensation after being employed full-time more than 18 months.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The time frames, which are provided in subsection (D) above, should be lengthened appropriately for workers who are employed on a part-time basis.</text>
+      </para>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Claims due to tobacco use or second-hand smoke in the workplace shall not be compensable.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>A worker is no longer eligible to receive temporary disability benefits, if the worker returns to work, or could return to work, and then is subsequently discharged for employment-related misconduct.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.20</num>
+    <heading>Pre-existing Medical Conditions</heading>
+    <para>
+      <num>(A)</num>
+      <text>If the worker has a pre-existing medical condition when an injury arises and that condition delays or prevents complete recovery, it shall be ascertained, as nearly as possible:</text>
+      <para>
+        <num>(1)</num>
+        <text>the period over which the injury would have caused disability, were it not for the pre-existing condition, and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the extent of the impairment, which the injury would have caused, were it not for the pre-existing condition.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Compensation shall only be awarded for the period and extent of the injury not attributable to the pre-existing medical condition.</text>
+    </para>
+  </section>
+  <section>
+    <num>52.21</num>
+    <heading>Recovery for Compensation in Error or Due to Fraud</heading>
+    <para>
+      <num>(A)</num>
+      <text>The worker shall repay such compensation that the worker is not entitled to and is received because of a clerical error, mistaken identity, innocent misrepresentation mistakenly acted upon, or any other circumstance of a similar nature and not induced by fraud.</text>
+      <para>
+        <num>(1)</num>
+        <text>Recoupment may be made from any future payments due the worker on any worker's compensation claim.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The insurer or employer must make a claim for such repayment or recoupment within one year of when the compensation is paid or the repayment shall be barred.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The ALJ may waive, at its discretion and in whole or in part, the amount of such timely claim where the recovery would be against equity and good conscience.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Whenever the payment of compensation to a worker has been induced by fraud, the recipient shall repay any such compensation together with a penalty of fifty percent (50%) of the total of any such payments.</text>
+      <para>
+        <num>(1)</num>
+        <text>Recoupment may be made form any future payments due the worker on any worker's compensation claim.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The insurer or employer shall make a claim for repayment or recoupment within one year of the discovery of the fraud.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>52.22</num>
+    <heading>Effect of Other Laws</heading>
+    <text>Wisconsin worker's compensation law and permanent partial disability schedules (Wis. Stat. Chap. 102 and regulations) shall be used to inform and interpret Stockbridge-Munsee tribal law regarding worker's compensation benefits.  This refers to the law in effect at the time this Ordinance is adopted and subsequent amendments to those statutes and regulations.</text>
+  </section>
+  <annotations>
+    <annotation type="Editor's Notes">1. Adopted by Council on September 30, 1999, Resolution No. 64-99.  Approved by BIA November 1, 1999.</annotation>
+    <annotation type="Editor's Notes">2. On October 3, 2000, Tribal Council designated the Stockbridge-Munsee Health Center as the primary health care provider, in accordance with Section 52.7(A), effective January 1, 2001, by Resolution No. 64-00.</annotation>
+    <annotation type="Editor's Notes">3. On February 21, 2006, Tribal Council by Resolution No. 026-06 made several changes:</annotation>
+    <annotation type="Editor's Notes">creating Sections 52.2(H)(2); 52.2(H)(5); 52.6(A)(3); 52.6(C)(4); 52.6(D); 52.7(B)(3); 52.7(C)(1); 52.7(F); 52.8(A)(1); 52.18(C)(1)(c); 52.18(C)(2)(e); 52.19(E); and 52.19(F);</annotation>
+    <annotation type="Editor's Notes">amending Sections 52.2(H); 52.2(K)(2); 52.7(C); 52.13(A); 52.13(E)(2); 52.18(C)(1)(b); 52.18(C)(4)(a); 52.19(B); and 52.19(C); moving Sections 52.2(J) to be 52.2(H)(3); and 52.9(C) to be 52.8(C); and making technical changes to Sections 52.2(G); 52.2(L); 52.3(B); 52.4(B); 52.4(E); 52.5(A)(B)(C); 52.6(A)(1); 52.6(B); 52.6(C)(2); 52.7(A); 52.9(B); 52.12(A); 52.13(G); 52.15(B); 52.18(A); 52.18(B); 52.18(C)(1); 52.18(C)(2); 52.18(C)(3); 52.18(C)(5)(b); 52.18(C)(7)(a)(b); 52.18(D); 52.19(D); 52.20(A); and 52.20(B).  Approved by BIA on April 10, 2006.</annotation>
+    <annotation type="Editor's Notes">4. Amendments adopted by Tribal Council on May 7, 2013, by Resolution No. 049-13, are creating a new Section 52.2 (L)(4) and amending Section 52.11 (B)(1-3).  Approved by the BIA on February 10, 2015.</annotation>
+  </annotations>
+</container>

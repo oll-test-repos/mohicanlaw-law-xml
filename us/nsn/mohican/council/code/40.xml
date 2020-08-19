@@ -1,0 +1,856 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+  <prefix>CHAPTER</prefix>
+  <num>40</num>
+  <heading>LAND ORDINANCE</heading>
+  <section>
+    <num>40.1</num>
+    <heading>Authority</heading>
+    <para>
+      <num>(A)</num>
+      <text>The Stockbridge-Munsee Community has jurisdiction and authority over tribal lands as established under Article II of its Constitution as well as its inherent authority as a tribal government and under federal law.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The Stockbridge-Munsee Tribal Council has authority to establish ordinances regulating tribal lands, including the making, holding and revoking of tribal land assignments, under Article VII (f) of its Constitution.</text>
+    </para>
+  </section>
+  <section>
+    <num>40.2</num>
+    <heading>Statement of Purpose</heading>
+    <para>
+      <num>(A)</num>
+      <text>While the Stockbridge-Munsee Community holds tribal land for the common benefit of the members of the Stockbridge-Munsee Community, it recognizes the benefits of allowing individual tribal members to have certain rights of use and control in relation to specific parcels such as the site of their home.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>This ordinance establishes a system for the Stockbridge-Munsee Community to assign the use of specific parcels of tribal land to individual Tribal members.</text>
+    </para>
+  </section>
+  <section>
+    <num>40.3</num>
+    <heading>Interpretation</heading>
+    <text>This ordinance shall be deemed a reasonable and proper exercise of the sovereign power of the Stockbridge-Munsee Community for the protection of the Tribe's land, welfare, health, peace and culture.  All provisions of this ordinance shall be liberally construed for the accomplishment of these purposes.</text>
+  </section>
+  <section>
+    <num>40.4</num>
+    <heading>Definitions</heading>
+    <text>In this ordinance, unless the context otherwise requires:</text>
+    <para>
+      <num>(A)</num>
+      <text>"Dwelling" means a habitable structure which is designed for residential purposes.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>"Grant" means Grant of Standard Assignment or other similar document wherein the Tribal Council grants use rights for a land assignment to an individual tribal member.  A grant does not vest title or other compensable interest in the land to a grantee.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>"Grantee" means an enrolled Tribal member who has received an approved land assignment from the Tribal Council.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>"Land Assignment" refers to a specific parcel(s) of tribal land that the Tribal Council, through a grant, has designated for the use by an individual enrolled member of the Stockbridge-Munsee Community for non-commercial/business purposes.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Residential Land Assignment" means a land assignment granted for occupancy by the grantee as his or her place of residence.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Recreational Land Assignment" means a land assignment granted for recreational uses that include, but are not limited to, camping and picnicking.  Such recreational land assignments cannot be developed and/or used as a residence for the grantee.</text>
+      </para>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>"Land Committee" means members of the Stockbridge-Munsee Community serving as an investigatory and advisory body to the Stockbridge-Munsee Tribal Council in reviewing land assignment applications and other issues related to the use of tribal land.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>"Married" means legally married persons, but does not mean common law marriage or other informal living arrangements.</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>"Subdivision" means areas and/or neighborhoods that the Tribe has identified as being the sites for concentrated residential developments where the Tribe has subdividing lots/assignments and installing infrastructure such as roads, sewer, water, gas, electricity or other similar infrastructure.  The following are tribal subdivisions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Ah Toh Wuk in the NW ¼ of Section 35, Bartelme;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Koo Yi Kun in the NE ¼ of Section 32, Bartelme;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Koan Tuk in the NE ¼ of Section 34, Bartelme;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Taconic in the SE ¼ of Section 27, Bartelme;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>the Tribal Housing residential area, which includes the area along Camp 14 Road from Moh He Con Nuck Road to Murphy's Road and the roadways and area generally in between like Birch, Oak, Maplewood, Cherry, Poplar and Elm Streets in Sections 15 and 16, Bartelme; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>similar areas identified as subdivisions in the future.</text>
+      </para>
+    </para>
+    <para>
+      <num>(H)</num>
+      <text>"Tribal Council" means the authorized, governing body of the Tribe.</text>
+    </para>
+    <para>
+      <num>(I)</num>
+      <text>"Tribal Land" means any land where the title is held in trust for the benefit of the Stockbridge-Munsee Tribe and any land owned by the Tribe.</text>
+    </para>
+    <para>
+      <num>(J)</num>
+      <text>"Tribe" means the Stockbridge-Munsee Community.</text>
+    </para>
+  </section>
+  <section>
+    <num>40.5</num>
+    <heading>Land Committee</heading>
+    <para>
+      <num>(A)</num>
+      <text><u>Committee</u>.</text>
+      <para>
+        <num>(1)</num>
+        <text>As authorized under Article IV, Section 3 of the Stockbridge-Munsee Constitution, the Tribal Council establishes a five member Land Committee from among the enrolled members.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In no event shall a member of the Land Committee serve as a member of the Tribal Council during the term of his/her appointment as a Land Committee member.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Appointments to the Land Committee shall be for a two year term.  In odd-numbered years three appointments will be made to the Land Committee and in even-numbered years, two appointments will be made to the Land Committee.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Tribal Council retains the authority to remove any appointed committee member at will for just cause and to appoint another Tribal member to fill the vacant seat.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Powers and Responsibilities of the Committee.</heading>
+      <text>Subject to the general responsibilities of all Stockbridge-Munsee Tribal Committees as defined by the policy enacted September 6, 2005, as amended, and any properly adopted Land Committee By-laws, the Land Committee shall exercise the following powers and responsibilities:</text>
+      <para>
+        <num>(1)</num>
+        <text>Accept land applications, voluntary relinquishments, and requests for permits of temporary use.  Investigate and review all applicable resources and information to determine the suitability of the request,</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Present data, along with the Committee's recommendation to the Tribal Council on grant or denial of applications.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Present Committee's recommendations to Tribal Council regarding voluntary relinquishments, grantee requests to allow another individual to occupy their land assignment, and for revocations of a land assignment.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Advise the Tribal Council in matters relating to Tribal land use.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Submit recommendations and reports to Tribal Council on land-related issues.</text>
+        <para>
+          <num>(a)</num>
+          <text>Recommendations and reports shall be in writing, typically in the form of meeting minutes.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The recommendation to grant or deny a land assignment on the application shall bear the signatures of at least three Land Committee members.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Perform any other land-related duties or functions prescribed by the Tribal Council.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>40.6</num>
+    <heading>Grants of Land Assignments</heading>
+    <para>
+      <num>(A)</num>
+      <text>The Tribe issues a Grant to assign rights of use in a specific land assignment to a grantee.</text>
+      <para>
+        <num>(1)</num>
+        <text>A Grant does not assign a right of exclusive use to a land assignment; however, grantees do have a zone of privacy in the area around the buildings on their land assignments.  The zone of privacy encompasses the area around the buildings on a land assignment, but shall not exceed the 300-foot setback for development established under Chapter 43.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A grantee's use rights do not supersede the Tribe's right to manage the land and its resources.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Grants are hereby acknowledged to be a valid contract between the Tribe and the Grantee.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Land assignments granted prior to the effective date of this ordinance are hereby reaffirmed and re-acknowledged as valid contracts between the Tribe and Grantee.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Land assignments granted between July 2, 2002 and July 15, 2014 shall be identified as either residential or recreational assignments.  Residential land assignments shall only be issued for areas where development is permitted in conformance with Chapter 43, the Land Use Code.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>As of July 15, 2014, the Tribe shall no longer issues grants for recreational land assignments.  Grantees who hold recreational land assignments may continue to hold those assignments; however, such assignments will not be reassigned if relinquished, revoked or upon the death of the grantee.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>As of July 15, 2014, grants shall only be issued in areas where development is permitted in conformance with Chapter 43, the Land Use Code.</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>Recreational assignments are not authorized to be places of residence for the grantee and no grantee may construct or maintain a dwelling on a recreational assignment.  Examples of authorized recreational uses include camping and picnicking.</text>
+      <para>
+        <num>(1)</num>
+        <text>Recreational assignments are only available in areas with commercial forest or multi-purpose designations as defined in Chapter 43, the Land Use Code.  The Tribe shall not grant a recreational assignment in areas that are identified for residential development.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Recreational assignments shall not be used to circumvent other provisions of</text>
+        <text>Tribal law.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Grantees shall not build permanent structures on recreational assignments.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Recreational assignments shall not have electricity unless electricity can be obtained from an existing electric line within 50 feet or less.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>New wells and new septic are not permitted on recreational assignments.</text>
+      </para>
+    </para>
+    <para>
+      <num>(H)</num>
+      <text>Business/commercial uses of land are covered by individual leases and/or other applicable contracts with Tribal Council.  The Tribe does not authorize the use of tribal land for a business/commercial use through a grant, except that home businesses are allowed in accordance with Chapter 43.</text>
+    </para>
+    <para>
+      <num>(I)</num>
+      <text>The Tribal Council reserves the right to revoke all or a portion of a grant or to authorize easements or rights-of-way across a land assignment, if such actions are necessary for public purposes.</text>
+    </para>
+  </section>
+  <section>
+    <num>40.7</num>
+    <heading>Eligibility for a Grant to Hold a Land Assignment</heading>
+    <para>
+      <num>(A)</num>
+      <text>Only enrolled members of the Tribe who are eighteen years of age or older are eligible to hold a grant for a land assignment.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>An enrolled member of the Tribe may only hold one (1) land assignment, which can be for either residential or recreational purposes, at any given time.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>If a tribal member has had a land assignment that reverted back to the Tribe, then that tribal member must wait at least one (1) year from the date of the revision before he or she is eligible to apply for another land assignment.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>If a tribal member's grant for a land assignment is revoked by the Tribal Council for a noncompliance with the terms of the grant or applicable law, then that tribal member is not eligible to apply for another land assignment until the latter of:</text>
+      <para>
+        <num>(1)</num>
+        <text>two (2) years from the date of the revocation, or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the tribal member has paid all damages due and owing to the Tribe in relation to the non-compliance(s) that caused the grant to be revoked.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>40.8</num>
+    <heading>Grounds for Tribal Council to Issue a Grant</heading>
+    <para>
+      <num>(A)</num>
+      <text>When a land assignment becomes available for assignment or re-assignment, the Land Committee will review the file and any applications and make a recommendation to the Tribal Council on who should receive a grant for the land assignment.  The Tribal Council makes the final decision on who receives the grant.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>When a grantee executes paperwork to relinquish their land assignment to an eligible tribal member and that tribal member applies for the land assignment, the Land Committee and Tribal Council will give great weight to the tribal members' wishes in making their decision.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>When a grantee dies and has identified an eligible beneficiary for his/her land assignment, particularly for residential land assignments that contain improvements, the Land Committee and Tribal Council will give great weight to the tribal member's wishes in relation to the named beneficiary in making their decision to reassign the land assignment.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>New land assignments or assignments that have reverted back to the Tribe for reassignment shall be granted on the basis of need.</text>
+      <para>
+        <num>(1)</num>
+        <text>The following factors are considered when assessing an individual's need:</text>
+        <para>
+          <num>(a)</num>
+          <text>whether the tribal member owns or has an accepted offer to purchase an existing house on the land assignment;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>whether the applicant intends to use the land assignment as his/her primary residence within the next two (2) years;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>whether the land assignment had previously been held by the applicant's relatives;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>whether the applicant had a previous land assignment revoked by the Tribe;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>the timing of when the tribal member submitted their application in relation to other applicants; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>other similar factors.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>When a land assignment becomes available for assignment and the Land Committee has authorized that it be posted as being available, Land and Enrollment Department staff will advertise the availability of the land assignment for at least 30 days in the tribal newspaper, tribal posting places and on the tribal website, and accept applications for the land assignment.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Land Committee shall assess the applications on the basis of need and provide the Tribal Council with a recommendation on the granting of the land assignment.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>40.9</num>
+    <heading>General Standards Applicable to Land Assignments</heading>
+    <para>
+      <num>(A)</num>
+      <text>Grantees are responsible for maintaining their land assignments and improvements on the land assignment in good condition in accordance with all applicable laws, including Chapters 43 and 16.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>When a grantee applies for and is granted a land assignment, the land assignment is granted in "as is" condition. The grantee is responsible to perform any maintenance or remediation required so that the land assignment and improvements are in good condition within a reasonable timeframe.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>A land assignment shall be one contiguous parcel of land.  This requirement shall not affect any previously granted non-contiguous parcels.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>A land assignment shall not exceed five (5) acres, if the application for the land assignment is dated after June 15, 1979.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Grants for land assignments approved and issued prior to June 15, 1979 are hereby declared valid notwithstanding the five acre limit herein.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>Public roads and rivers, excluding logging roads, shall serve as natural boundaries for all land assignments.</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>Roads and Right-of-Ways, as defined in Chapter 43, the Stockbridge-Munsee Land Use Code, which run through a land assignment, shall not be blocked and shall be open for public access.</text>
+    </para>
+    <para>
+      <num>(H)</num>
+      <text>In addition to the terms and conditions imposed by the grant and this ordinance, all assignments shall be subject to all terms and conditions contained in Chapter 43, the Land Use Code and other applicable laws.</text>
+    </para>
+    <para>
+      <num>(I)</num>
+      <text>All grantees shall be required, upon the written request of the Tribal Council, to comply with any soil, water, or timber conservation program that may be initiated by the Tribal Council.</text>
+    </para>
+    <para>
+      <num>(J)</num>
+      <text>Structures shall be built in accordance with Chapter 43, the Land Use Code and other applicable laws.</text>
+    </para>
+    <para>
+      <num>(K)</num>
+      <text>
+        <u>Improvements.</u>
+      </text>
+      <para>
+        <num>(1)</num>
+        <text>Buildings and other improvements placed upon land assignment by a grantee are recognized as the personal property of that grantee.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Tribe does not permit the purchase and ownership of improvements on a land assignment by individuals other than the grantee and/or the grantee's spouse without the consent of the Tribal Council to such purchase and ownership.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A house may not be removed from a land assignment without the consent of the Tribal Council, except that a mobile home may be removed for replacement or if it is uninhabitable.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Improvements such as driveways, fences, shrubs, utility lines, wells, septic systems and other items of a similar nature, even if placed on the property by the grantee, are considered to be attached to the land and become part of the land assignment.</text>
+      </para>
+    </para>
+    <para>
+      <num>(L)</num>
+      <heading>Abandonment.</heading>
+      <text>The Tribe may have a land assignment that contains a dwelling declared abandoned through the Tribal Court.</text>
+      <para>
+        <num>(1)</num>
+        <text>Grounds for an action to declare a land assignment to be abandoned are:</text>
+        <para>
+          <num>(a)</num>
+          <text>when the land assignment is secured, but unoccupied and not maintained by either the grantee or an authorized individual for a period of eighteen (18) consecutive months;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>when a grantee has provided a written statement that he or she is abandoning the property; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>where there is other significant evidence abandonment with no intent to return such as the property not being secured or being open to the elements.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The grantee has the burden to show by preponderance of the evidence that he/she or another authorized person has not abandoned the property in order to prevent the Tribal Court from declaring the land assignment as being abandoned.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the Tribal Court declares that a land assignment has been abandoned, then that assignment shall revert to the Tribe.</text>
+        <para>
+          <num>(a)</num>
+          <text>The former grantee shall have no rights to dispose of improvements such as the house after a declaration of abandonment.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The former grantee shall have a reasonable period of time from the date of the declaration, not to exceed 60 days, to remove all personal belongings from the land assignment.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Tribe shall post notice that the property has been declared abandoned by the Tribal Court on the door of any house located on the land assignment and provide unauthorized tenants with an opportunity, not to exceed 30 days, to remove personal belongings from the land assignment.</text>
+        </para>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>40.10</num>
+    <heading>Development Requirement for Land Assignments</heading>
+    <para>
+      <num>(A)</num>
+      <text>If a land assignment is for land located in a subdivision or land that it newly opened for assignment, then the land assignment will revert back to the Tribe unless the grantee has substantially completed a dwelling on the land assignment within two (2) years after the Grant is executed unless the grantee has received an extension as provided for in Section 40.10 (B)(3)(a).</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Failure to Substantially Complete Dwelling.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Land and Enrollment Department shall track when assignments are granted for new residential development.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Land and Enrollment Department shall work with the Land Management Department to verify whether a grantee has complied with the requirement for a substantially completed dwelling on an annual basis.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In the event that a grantee does not substantially complete the required dwelling within 2 years, then one of the following will occur.</text>
+        <para>
+          <num>(a)</num>
+          <heading>Request for Extension.</heading>
+          <text>The grantee may petition the Land Committee and Tribal Council to request a one-time, two-year extension.  The grantee must show good cause for the extension.  If the extension is granted by Tribal Council, the grantee must have substantially completed a dwelling on the land assignment within two (2) years after the Tribal Council action, or the land assignment will revert back to the Tribe.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Relinquishment of Land Assignment.</heading>
+          <text>A grantee may relinquish the land assignment to another eligible tribal member.  However, if a grantee relinquishes his/her land assignment to another Tribal Member, then the new grantee must have a substantially completed dwelling on the land assignment within the relinquisher's original timeline(s), except in extenuating circumstances if approved by Tribal Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><em>Automatic Reversion of Land Assignment to Tribe</em>.</text>
+          <para>
+            <num>(i)</num>
+            <text>When a dwelling is not substantially completed within the required time frame, then the land assignment shall automatically revert back to the Tribe.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The Land and Enrollment Department will send a letter to the grantee documenting the automatic reversion of the land assignment due to non-compliance with this requirement.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The individual must remove all personal belongings from the land assignment within thirty (30) days of the date of the letter documenting the automatic reversion.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>40.11</num>
+    <heading>Use of Land Assignment by Other Individuals</heading>
+    <para>
+      <num>(A)</num>
+      <text>Grants authorize the occupancy and use of the land assignment by the grantee and his/her immediate family.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Grantees may have visitors who are not tribal members and not members of the grantee's family in the part of the land assignment that are in the development zone established under Chapter 43.  However, such visitors are not authorized at a recreational land assignment unless there is public road (not including tribal logging roads) providing direct access to such recreational land assignment.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Except for valid grants, no person shall have the right to occupy or use Tribal land or Tribal resources thereon without the approval of the Tribal Council or other permitted uses from Chapter 43 and other tribal laws.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Approval Process for Other Tribal Members and/or First-Line or Second-Line Descendants to Occupy Land Assignment.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Tribe recognizes that there may be times when a grantee or his/her immediate family cannot occupy a land assignment. During such times, the following individuals may be authorized to occupy the land assignment by the Tribal Council:  other tribal members, 1<sup>st</sup>-line descendants, 2<sup>nd</sup>-line descendants, or such other persons as the Tribal Council may accept on a case-by-case basis for extenuating circumstances.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the grantee wishes to allow another individual to occupy his/her land assignment while grantee is not occupying it, then the grantee must submit this request to the Land and Enrollment Department in writing.  The grantee must identify who the person(s) occupying the land assignment will be.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Land and Enrollment Department forward a copy of the request to the Land Committee to make a recommendation for the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Tribal Council will make the final decision on whether to authorize the occupancy by the other individuals.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>After the Tribal Council makes their decision about the grantee's request during a Tribal Council meeting, the Land and Enrollment Department will send a letter documenting the Council's decision to the grantee.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A new request for approval of other occupancy needs to be submitted to the Tribal Council when the grantee's tenant changes.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>40.12</num>
+    <heading>Transfer of Land Assignment Following Death of Grantee</heading>
+    <para>
+      <num>(A)</num>
+      <text>Land assignments are normally re-assigned to another tribal member following the death of a grantee unless the grantee has a surviving spouse who wishes to continue to reside on the land assignment or unless the grantee's beneficiary is a minor child.  As long as one of these exceptions is applicable, the land assignment will continue to be held in the name of the deceased grantee and other individuals will have the rights and obligations provided for under this ordinance.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Upon the death of the grantee, the grantee's surviving spouse shall have a right to continue to reside on the land assignment in accordance with Section 40.13.  The surviving spouse shall be responsible to use and maintain the land assignment in accordance with tribal law for as long as the spouse holds it as his/her residence.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>In the event that there is no surviving spouse or the surviving spouse does not wish to reside on the land assignment, then the land assignment may be transferred to the grantee's beneficiary.</text>
+      <para>
+        <num>(1)</num>
+        <text>The grantee may designate in writing his/her named beneficiaries to such land assignment.  Such beneficiaries must be tribal members.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Within 30 days of the death of a grantee, the Land and Enrollment Department will send notice to the identified beneficiary that informs the beneficiary of his/her beneficiary status and provides an opportunity to apply for the land assignment.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the beneficiary is eligible for and interested in obtaining the land assignment, the beneficiary must submit an application for the assignment within 90 days of the date that the beneficiary is notified that he/she is the identified beneficiary.  This application will be processed in accordance with this ordinance.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Beneficiary is Minor Child.</heading>
+        <text>If the identified beneficiary is a tribal member who is a minor child, then the following process shall apply:</text>
+        <para>
+          <num>(a)</num>
+          <text>Notice shall be sent to the parent(s)/guardian(s) for the minor child by the Land and Enrollment Department to notify them that the child is a named beneficiary.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the parent(s)/guardians(s) wish to assume responsibility for the land assignment on behalf of the child until the child becomes an adult, then the parent(s)/guardians(s) shall submit a notarized, written statement to the Land and Enrollment Department confirming that the parent(s)/guardians(s) accept responsibility for the land assignment until the minor child turns 18-years of age.</text>
+          <para>
+            <num>(i)</num>
+            <text>The Land and Enrollment Department shall forward this response to the Land Committee, who shall make a recommendation to the Tribal Council.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The Tribal Council shall accept or reject the proposal by the parent(s)/guardian(s).</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>In the event that the proposal is accepted, the parent(s)/guardian(s) shall be responsible to ensure that any use of the land assignment is in accordance with applicable law during the time it is under their control.</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>If the parent(s)/guardian(s) use of the land assignment does not comply with applicable laws, then the parent(s)/guardians shall forfeit all use rights in the land assignment and the minor child shall forfeit all beneficiary rights in the land assignment.  The land assignment shall revert to the Tribe and parties shall be required to vacate the property consistent with Section 40.12 (D).</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Once the child turns 18-years old, the Land and Enrollment Department shall send notice to the beneficiary that informs the beneficiary of his/her beneficiary status and provide an opportunity to apply for the land assignment.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If the beneficiary is interested in obtaining the land assignment, the beneficiary must submit an application for the assignment within 60 days of the date that the beneficiary is notified that he/she is the identified beneficiary.  This application will be processed in accordance with this ordinance.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The land assignment shall remain in the deceased grantee's name until the minor beneficiary has reached 18-years of age and had an opportunity to apply for the land assignment.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>In the event there is no surviving spouse who wishes to reside on the land, there is no named beneficiary or the beneficiary does not obtain the land assignment, then the land assignment will automatically revert to the Tribe.</text>
+      <para>
+        <num>(1)</num>
+        <text>The grantee's heir(s) will have a reasonable period of time, not to exceed six (6) months, to vacate the land assignment from the later of the date of death or, if applicable, when probate closes.  Heir(s) may be required to provide evidence that they have a legal right to dispose of personal property.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If grantee's heir(s) were living on the land assignment at the time of the grantee's death, then the heir(s) may continue to live there while preparing to vacate the land assignment so long as there is Tribal Council approval.  However, the heir(s) are not authorized to move onto the property after the grantee's death.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The grantee's heir(s) may apply to the Tribal Council for a one-time extension of this deadline for up to an additional six (6) months.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Personal property that has not been removed from the land assignment by the grantee's heir(s) within the six (6) month time frame will be deemed abandoned and disposed of by the Tribe.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>40.13</num>
+    <heading>Rights of Surviving Spouse in Land Assignment</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Non-Member Spouse.</heading>
+      <text>Notwithstanding any other agreement, if a grantee is married to a non-member of the Tribe and dies, the surviving non-member spouse shall be entitled to reside on the land assignment, not to exceed five acres, for his/her lifetime or until marriage to a non-member of the Tribe, whichever occurs first.</text>
+      <para>
+        <num>(1)</num>
+        <text>If the surviving non-member spouse does not wish to reside on the land assignment, said spouse shall be entitled to receive compensation from the new grantee or beneficiary for the reasonable fair market value of all improvements placed by the deceased grantee and not otherwise disposed.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a beneficiary is not willing to pay a reasonable fair market value for the improvements placed by the land assignment, then the surviving spouse may attempt to sell the improvements to another eligible tribal member. The beneficiary shall have a right of first refusal to match the price of any legitimate offer from another tribal member.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the improvements are sold to another tribal member, then that tribal member would need to submit an application to be granted the land assignment.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If the surviving non-tribal spouse has not resided on the land assignment for a period of at least twelve (12) consecutive months, the Tribe can seek to have the Tribal Court declare that the spouse has abandoned his/her rights under this section.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Upon termination of the surviving non-member spouse's right to reside on said assignment, such surviving non-member spouse or the spouse's heirs shall have a reasonable period of time, not to exceed six (6) months to vacate said assignment.  Personal property that has not been removed from the land assignment within this time will be deemed abandoned and disposed of by the Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Tribal Member Spouse.</heading>
+      <text>Notwithstanding any other agreement, if a grantee is married to a member of the Tribe and the grantee dies, the land assignment, not to exceed five acres, shall revert to the surviving tribal member spouse.</text>
+      <para>
+        <num>(1)</num>
+        <text>If the surviving tribal member spouse has an existing valid residential land assignment, the surviving tribal member spouse must relinquish one land assignment.  The failure to act in 90 days will result in referral to the Land Committee, so that a recommendation can be made to the Tribal Council for action.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the surviving member spouse does not wish to occupy the assignment, said spouse shall be entitled to receive compensation from the new grantee or beneficiary for the reasonable fair market value of all improvements placed by the deceased grantee and not otherwise disposed.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a beneficiary is not willing to pay a reasonable fair market value for the improvements placed by the land assignment, then the surviving spouse may attempt to sell the improvements to another eligible tribal member. The beneficiary shall have a right of first refusal to match the price of any legitimate offer from another tribal member.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If the improvements are sold to another tribal member, then that tribal member would need to submit an application to be granted the land assignment.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Upon termination of the surviving member spouse's right to use and occupy said assignment, such surviving member spouse shall have a reasonable period of time, not to exceed six (6) months to vacate said assignment.  Personal property that has not been removed from the land assignment within this time will be deemed abandoned and disposed of by the Tribe.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>40.14</num>
+    <heading>Relinquishment of Land Assignments</heading>
+    <para>
+      <num>(A)</num>
+      <text>A grantee may relinquish his or her land assignment in writing to another eligible tribal member or to the Tribe.  Such relinquishment shall not be effective until accepted by the Tribal Council.  The former grantee shall vacate the premises within sixty (60) days of when the relinquishment is accepted, unless the Tribal Council has granted use rights to the individual in another form, such as a lease.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>If a grantee relinquishes or otherwise loses his/her membership in the Tribe, then any land assignment that individual may have held automatically reverts back to the Tribe.  The individual will have sixty (60) days to remove their personal belongings from the land assignment.  Personal belongings that have not been removed within this time frame will be deemed abandoned and will be disposed of by the Tribe.</text>
+    </para>
+  </section>
+  <section>
+    <num>40.15</num>
+    <heading>Revocation, Modification or Cancellation of Land Assignment</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Revocation.</heading>
+      <text>In the event a grantee fails to comply with the terms of the Grant and applicable laws in relation to the land assignment, it shall be deemed a noncompliance.  The grantee shall be considered to be in breach of the grant and it may be subject to revocation consistent with the following process.</text>
+      <para>
+        <num>(1)</num>
+        <heading>Initiation of Revocation Process.</heading>
+        <text>A grantee will typically have an opportunity to cure a breach, but this step may be skipped in the event of an egregious noncompliance.</text>
+        <para>
+          <num>(a)</num>
+          <text>When the Tribe becomes aware of a noncompliance by a grantee, tribal staff shall send a letter to the grantee notifying him/her of the noncompliance and providing an opportunity to cure the noncompliance.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the event the noncompliance is believed to rise to the level of being an egregious noncompliance, then the matter shall be referred to the Land and Enrollment Department to have the grantee's file forwarded to the Land Committee for consideration of revocation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text><em>Land Committee</em>.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Land Committee shall review the matter and make a recommendation on whether the Tribal Council should revoke the land assignment or take some other action, if appropriate.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Land and Enrollment Department shall prepare a letter, for signature by a member of the Land Committee, documenting the Land Committee's recommendation on the issue.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The signed letter with the Land Committee's recommendation shall be served on the grantee with a copy also sent to the Tribal Council Secretary.  The letter shall contain the following information:</text>
+          <para>
+            <num>(i)</num>
+            <text>The letter shall identify the noncompliance.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The letter shall identify the Land Committee's recommendation.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The letter shall notify the grantee that he/she has thirty (30) days to file a request with the Tribal Council Secretary for an opportunity to appear before the Tribal Council and present evidence why the land assignment should not be revoked.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text><em>Tribal Council</em>.</text>
+        <para>
+          <num>(a)</num>
+          <text>After thirty (30) days, the Tribal Council Secretary shall place the Land Committee's recommendation on open agenda for a Tribal Council meeting.</text>
+          <para>
+            <num>(i)</num>
+            <text>If the grantee has made a timely request to appear before the Tribal Council, the Secretary shall work with the grantee on scheduling when the recommendation will be put on the agenda of a Council meeting so that the grantee has an opportunity to be heard.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the grantee has not submitted a request to appear, then the recommendation will be put on the next regularly scheduled Council meeting.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The Secretary shall notify the Land and Enrollment Department when the issue will be on the agenda so that the Land Committee and/or tribal staff can be present.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Tribal Council will consider the Land Committee's recommendation including any supporting materials from tribal staff or interested parties, and any evidence from the grantee on why the land assignment should not be revoked.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Tribal Council shall act by motion on the recommendation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Tribal Secretary.</heading>
+        <text>The Tribal Secretary will send a letter documenting the Tribal Council's decision to the grantee, with a copy provided to the Land and Enrollment Department.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <heading>Effect of Revocation.</heading>
+        <text>If the Tribal Council revokes the land assignment, the revocation shall be effective upon the date of the Tribal Council's motion.</text>
+        <para>
+          <num>(a)</num>
+          <text>The former grantee shall have up to thirty (30) days to vacate and remove their personal property from the land assignment.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Personal property that has not been removed from the land assignment within this time will be deemed abandoned and disposed of by the Tribe.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If the land assignment contains a house, then the Tribe shall act as receiver and hold the house until it is sold or disposed of consistent with the following requirements.</text>
+          <para>
+            <num>(i)</num>
+            <text>The Tribe shall attempt to sell the property by public sale for a bona fide cash offer to be paid within forty-five (45) days of the public sale.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If no offer is accepted at the public sale, then the Tribe may sell the house by private sale.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The proceeds from any such public or private sale shall be first used to satisfy any secured loan owed on the house, then any indebtedness owed to the Tribe based on land assignment noncompliance(s) and any remainder shall be paid to the former grantee.</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>In the event that there is no public or private sale, then the property maybe disposed of by the Tribe and the former grantee shall have no interest in the proceeds.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text><u>Modification</u>.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Tribal Council may modify the size of a land assignment, but the size shall not exceed 5 acres, with the consent of the grantee.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Tribal Council may modify a land assignment without the consent of the grantee when necessary for public purposes or in order to resolve disputes between grantees.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Cancellation.</heading>
+      <text>In the event that the Tribal Council determines that a land assignment was granted in error, it may be cancelled by action of the Tribal Council.  The tribal member shall have up to 60 days to vacate the land assignment from the date of the cancellation.</text>
+    </para>
+  </section>
+  <section>
+    <num>40.16</num>
+    <heading>Temporary Permits</heading>
+    <para>
+      <num>(A)</num>
+      <text>Permits for temporary use and occupancy of Tribal lands may be granted by motion of the Tribal Council, at its discretion.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Said temporary permits shall be subject to any terms, conditions, and qualifications designated under this ordinance, Chapter 43 the Land Use Code and any other applicable Tribal ordinance, rule, regulation, or policy.</text>
+    </para>
+  </section>
+  <section>
+    <num>40.17</num>
+    <heading>Violation: Jurisdiction</heading>
+    <para>
+      <num>(A)</num>
+      <text>Except for duties and responsibilities of the Land Committee and Tribal Council, the Land and Enrollment Department and the Land Management Department have day to day responsibilities associated with land assignments.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Any person who violates any provision of this ordinance or any rule or regulation authorized thereunder, shall be guilty of a Tribal Civil offense punishable by a fine of not more than five hundred dollars ($500.00).</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The Stockbridge-Munsee Tribal Court shall have jurisdiction over all violations of this ordinance and over all persons who are authorized occupants or recipients of a temporary permit issued pursuant thereto, and may, in addition to the penalty described herein, grant such other relief as is necessary and proper for the enforcement of this ordinance.</text>
+    </para>
+  </section>
+  <annotations>
+    <annotation type="Editor's Notes">1. Ordinance No. 11-A Lands, as adopted by the Stockbridge-Munsee Tribal Council Nov. 21, 1939 and returned by BIA for lack of signature space. (10/15/40 BIA Letter to Chairman).</annotation>
+    <annotation type="Editor's Notes">2. Ordinance No. 1 Lands as adopted by the Stockbridge Munsee Tribal Council on Sept. 27, 1940 and approved by the Department of the Interior, June 30, 1941.</annotation>
+    <annotation type="Editor's Notes">3. Amended by Stockbridge-Munsee Resolution No. 0663 (June 15, 1979).</annotation>
+    <annotation type="Editor's Notes">4. See also Tribal Agricultural Land Standard Assignment (Form approved by the Secretary of the Interior June 30, 1941) and Grant of Standard Assignment (Form approved June 30, 1941 as amended by Stockbridge Munsee Resolution No. 0988, July 15, 1986); and Tribal Council meeting minutes of January 2, 1975, June 15, 1979, and April 1, 1986.</annotation>
+    <annotation type="Editor's Notes">5. A new land ordinance approved for adoption by Tribal Council on March 3, 1987, by Resolution No.  0988.</annotation>
+    <annotation type="Editor's Notes">6. Legislative attorney's note: Sections 40.3(B) (deleting the word exclusive), 40.5(B)(4) (reflecting the time frame for improvements be three years), 40.6(A) (deleting Secretary of Interior Approval), and 40.6(F) (deleting the word exploit) amended by Tribal Council on June 12, 1987, Resolution No. 1037.  However, the amendment had not been incorporated into the Ordinance.  Upon this discovery, the amendment was incorporated into the Ordinance on July 27, 2000 by the Legal Department.</annotation>
+    <annotation type="Editor's Notes">7. Section 8 (B) which is now Section 40.8 (B) amended by Resolution 1552-95 on Nov. 7, 1995 by replacing Tribal Council with Tribal Court.</annotation>
+    <annotation type="Editor's Notes">8. Several amendments and other modifications adopted by Tribal Council on August 20, 2002, by Resolution No. 045-02.  Section 40.1, Short Title is deleted, resulting in the other sections being renumbered.  Other sections deleted were Section 40.5 [now 40.4] (B)(3), (B)(4), (B)(7), (B)(8), and Section 40.6 [now 40.5] (D), (G), (J).  Sections amended were 40.2 [now 40.1], 40.3 [now 40.2] (A), (B), 40.4 [now 40.3] (A), (B), (C), (D), (E), 40.5 [now 40.4] (A)(1), (A)(3), (A)(4), (B)(1), (B)(2), (B)(5) [now (B)(3)], (B)(6) [now (B)(4)], (B)(9) [now (B)(5)], 40.6 (now 40.5) (A)(1), (A)(2), (B), (E) [now (D)], (H) [now (F)], (I) [now (G)].  Approved by BIA on September 18, 2002.</annotation>
+    <annotation type="Editor's Notes">9. On May 3, 2005, Tribal Council by Resolution No. 028-05 amended Chapter 40 by creating Sections 40.2(A),(B),(E); Section 40.4(A)(3); Section 40.5(H); and by amending Section 40.5(A), 40.5(A)(1), 40.5(A)(3); 40.5(E); 40.5(G).  Approved by BIA on February 24, 2006.</annotation>
+    <annotation type="Editor's Notes">10. On November 22, 2005, Tribal Council by Resolution No. 07-06 amended Chapter 40 by creating sections 40.2(B); 40.2(F); 40.2(G); 40.3(B)(1)(a),(b),(c); 40.4(B)(3); 40.5(A)(2)(a),(b),(c),(d); 40.7(A) and technical changes to sections 40.5(B),(D)(E)(H); and 40.6(B).  Approved by BIA on April 10, 2006.</annotation>
+    <annotation type="Editor's Notes">11. On July 15, 2014, the Tribal Council repealed the existing Chapter 40 and adopted a new Chapter 40.  This was done by Resolution No. 036-14 and was necessary since the entire ordinance was re-organized and many changes were adopted to clarify tribal practices in relation to the granting of, rights to and obligations in relation to tribal land assignments.  These changes were approved by the BIA on July 28, 2014.</annotation>
+  </annotations>
+</container>

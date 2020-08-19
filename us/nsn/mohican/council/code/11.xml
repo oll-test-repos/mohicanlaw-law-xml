@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+  <prefix>CHAPTER</prefix>
+  <num>11</num>
+  <heading>YOUTH CODE</heading>
+  <heading>ADOPTION</heading>
+  <section>
+    <num>11.1</num>
+    <heading>Adoption - General Provisions.-</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Petition - Who May File:</heading>
+      <text>Any person eighteen (18) years or older wishing to adopt a youth may file a petition with the Youth Court requesting that he or she be appointed as an adoptive parent. If the petitioner is married:  his or her spouse must also be at least eighteen (18) years old and must sign the petition unless the spouse's whereabouts is unknown or unless this requirement is waived by the Court.  "Spouse" for purposes here includes parties to a marriage recognized under tribal custom or parties to a relationship wherein the couple has resided together for seven (7) years or more and intend to reside together as a family.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Petition - Contents:</heading>
+      <text>The adoption petition shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name, date of birth, residence and tribal status of the Youth;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The full name to be given to the child to be adopted;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The name, age, place and duration of residence and the tribal status of the 	petitioner(s);</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The relation, if any, of the petitioner(s) to the youth;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The names and addresses, if known, of all persons whose consent is required; and proof of consent, if given;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A description of any previous civil proceedings involving the care or custody of the youth to be adopted and the results of these proceedings;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The reasons the petitioner(s) desire(s) to adopt the youth.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>11.2</num>
+    <heading>Availability for Adoption.</heading>
+    <text>A youth may be adopted only if he has no parents by reason of death or by the voluntary or involuntary termination of the parent-child relationship.  The Court may conduct a hearing as provided under Chapter 10, Termination of Parental Rights, prior to or in consolidation with an adoption hearing.</text>
+  </section>
+  <section>
+    <num>11.3</num>
+    <heading>Adoption Hearing.</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Setting the Hearing:</heading>
+      <text>When the Court receives the petition for adoption, it shall set a date for the adoption hearing, which shall not be more than sixty (60) days after the Court receives the petition, unless extended for good cause shown.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Notice of Hearing:</heading>
+      <text>Notice of hearing shall be served on all parties in the manner specified under Section 7.12 of Chapter 7.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
+      <para>
+        <num>(1)</num>
+        <text>The petitioner(s);</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The youth;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The youth's parent(s), guardian or custodian;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Presenting Officer;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Any person the Court deems necessary for proper adjudication; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Any person the parties believe necessary for the hearing.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Pre-Adoption Report:</heading>
+      <text>The Indian Child Welfare Worker, in consultation with the Social Services Staff, shall prepare a pre-adoption report.  In preparing the report, the Indian Child Welfare Worker shall conduct a complete home study including all information reasonably available concerning:</text>
+      <para>
+        <num>(1)</num>
+        <text>The physical and mental condition of the youth, the petitioner(s) and the petitioner(s)' family;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The parent(s) of the youth;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The home environment, family life, health facilities and resources of the petitioner(s);</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The youth's cultural heritage and tribal status;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The marital status of the petitioner(s), if married, and divorce, if any.  The names and ages of other children, both natural and adopted, of the petitioner(s);</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The recommendation, if any, of the Stockbridge-Munsee Community Tribal Council regarding the adoption; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Any other facts and circumstances relating to the propriety and advisability of the adoption as may be required by the Court.</text>
+        <text>When the petitioner(s) is a member of the youth's extended family, the Court, in its discretion, may waive the formal written requirements for the pre-adoptive report and require only such oral information from the Indian Child Welfare Worker and Social Services Staff as the Court deems necessary.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Pre-Adoption Report - Service:  The Indian Child Welfare Worker shall mail the pre-adoption report to the Court and all parties to the proceedings at least ten (10) days before the hearing.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <heading>Additional Reports:</heading>
+      <text>Any party may file a report which shall include his or her recommendations for consideration by the Court.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <heading>Adoption Hearing - Purpose:</heading>
+      <text>The Court shall conduct the adoption hearing to determine whether adoption is in the best interest of the youth.</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <heading>Adoption Hearing - Conduct:</heading>
+      <text>The hearing shall be private and closed.  The following procedural rules apply, Section 8.8 (F)-(O) of Chapter 8.</text>
+    </para>
+  </section>
+  <section>
+    <num>11.4</num>
+    <heading>Grounds for Entering Decree of Adoption.</heading>
+    <text>The Court may enter a decree of adoption if it finds that all necessary procedures have been followed, and that it would be in the best interest of the youth.</text>
+  </section>
+  <section>
+    <num>11.5</num>
+    <heading>Denial of Adoption Petition.</heading>
+    <text>If the adoption petition is denied, the Court shall specifically state the reasons for the denial and shall designate who shall have custody of the youth.</text>
+  </section>
+  <section>
+    <num>11.6</num>
+    <heading>Decree of Adoption.</heading>
+    <para>
+      <num>(A)</num>
+      <text>If the Court grants the petition for adoption, the decree shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Such facts as are necessary to establish the youth is available for adoption, and that the adoptive home and parents are adequate and capable of providing proper care of the youth:</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A provision that the Bureau of Vital Statistics of the state where the child was born and the Bureau of Indian Affairs shall be notified of the adoption and a certified copy of the decree shall be mailed to those offices, and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A provision changing the legal name of the person adopted may be included.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Effect of Decree of Adoption:</heading>
+      <text>A decree of adoption has the following effect:  It creates the relationship between the adopted person and the petitioner and all relatives of the petitioner, that would have existed if the adopted person were a legitimate blood descendant of the petitioner.  This relationship shall be created for all purposes, including inheritance and applicability of statutes, documents, and instruments, whether executed before or after entry of the adoption decree.</text>
+    </para>
+  </section>
+  <section>
+    <num>11.7</num>
+    <heading>Adoption Records.</heading>
+    <text>All records, reports, proceedings, and orders in adoption cases are confidential and shall not be available for release or inspection.  Information contained in such records may be released upon petition to the Youth Court by the adopted person after reaching legal majority.  However, information may be released as necessary to amend the child's birth certificate.</text>
+  </section>
+</container>

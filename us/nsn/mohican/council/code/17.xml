@@ -1,0 +1,527 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+  <prefix>CHAPTER</prefix>
+  <num>17</num>
+  <heading>FINANCIAL RESPONSIBILITY CODE</heading>
+  <section>
+    <num>17.1</num>
+    <heading>Jurisdiction</heading>
+    <para>
+      <num>(A)</num>
+      <text>Except for Section 17.1(C), the Stockbridge-Munsee Tribal Court shall have jurisdiction to hear any civil action where at least one of the parties to the action is Indian and which:</text>
+      <para>
+        <num>(1)</num>
+        <text>Involve a debt or contractual obligation arising or occurring within the territorial jurisdiction of the court; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Involve the ownership or the right to use or to possess any land in trust or restricted status; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Involves the right to possession or the ownership of any personal property within the territorial jurisdiction of the court.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>In addition the court shall have jurisdiction to recognize and enforce or to refuse to recognize and enforce foreign judgments.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>In accordance with Chapter 27.9, the Stockbridge-Munsee Court shall not have jurisdiction to hear any matters relating to or affecting per capita payments, as defined in Chapter 27.7(A), except as provided in Chapter 27.7(F) and 27.7(G).</text>
+    </para>
+  </section>
+  <section>
+    <num>17.2</num>
+    <heading>Definitions</heading>
+    <para>
+      <num>(A)</num>
+      <text>"Contract" shall mean a promissory agreement between two (2) or more persons supported by consideration, to do or not to do a particular thing, or which creates, modifies or destroys a legal obligation.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>"Court" shall mean the Stockbridge-Munsee Tribal Court as established by the Stockbridge-Munsee Tribal Council of the Stockbridge-Munsee Band of Mohican Indians.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>"Debt" shall mean a sum of money or a quantity of property due by certain and express agreement where the amount is fixed and specific and does not depend on any subsequent valuation to settle it.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>"Default Judgment" shall mean a judgment rendered by the court because a defendant failed to appear or plead at the appointed time.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>"Execution" shall mean a proceeding whereby the personal property belonging to and in the possession of a judgment debtor is attached by the Court to be held for public sale in order to satisfy all or part of a judgment rendered against the debtor by the Court.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>"Exempt Property" shall mean any property held in trust by the Bureau of Indian Affairs or income derived therefrom, as well as any property, wages or otherwise which is protected by federal statute.</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>"Foreign Judgment" shall mean any final judgment, order or decree rendered or issued by a Court that is not a Court of the Stockbridge-Munsee Tribe.</text>
+    </para>
+    <para>
+      <num>(H)</num>
+      <text>"Garnishee" shall mean the person against whom the process of garnishment is issued, and who has property, including money, and/or credits in his possession belonging to the debtor; notice having been given to the garnishee not to deliver or pay the property or credits over to the debtor until the result of the garnishment proceeding is determined.</text>
+    </para>
+    <para>
+      <num>(I)</num>
+      <text>"Garnishment" shall mean a proceeding whereby a judgment debtor's money, or credits including salary, in possession or under control of, or owing by, another are sought to be applied to payment of the former person's debt to a third person by properly authorized process against the debtor.</text>
+    </para>
+    <para>
+      <num>(J)</num>
+      <text>"Judgment Creditor" shall mean one who has obtained a judgment against his debtor, under which he can enforce its execution.</text>
+    </para>
+    <para>
+      <num>(K)</num>
+      <text>"Judgment Debtor"  shall mean one against whom a judgment has been rendered and which remains unsatisfied, and shall include a judgment debtor's successors in interest.</text>
+    </para>
+    <para>
+      <num>(L)</num>
+      <text>"Legal Holiday" shall include New Year's Day, Independence Day, Labor Day, Veteran's Day, Thanksgiving Day, Christmas Day, and any other day appointed as a holiday by the President, or the Congress of the United States or by the Stockbridge-Munsee Tribal Council.</text>
+    </para>
+    <para>
+      <num>(M)</num>
+      <text>"Person" shall mean women as well as men and may include artificial beings such as a Corporation, a tribal entity, organization or association.</text>
+    </para>
+    <para>
+      <num>(N)</num>
+      <text>"Preponderance of the Evidence" shall mean the greater weight of the evidence or the evidence which is more believable and Convincing.</text>
+    </para>
+    <para>
+      <num>(O)</num>
+      <text>"Reservation" shall mean the exterior boundaries of the Stockbridge-Munsee Reservation as defined by the Treaty of 1856.</text>
+    </para>
+  </section>
+  <section>
+    <num>17.3</num>
+    <heading>The Pleadings</heading>
+    <para>
+      <num>A)</num>
+      <text>A civil action brought pursuant to this Code shall be commenced upon the filing of a complaint in the Stockbridge-Munsee Tribal Court.  The complaint shall include the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name and address of the plaintiff;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The name and address or place of residence of the defendant;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A brief and concise statement of the nature and/or amount of the Plaintiff's claim and the time the claim accrued:</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A signed statement by the plaintiff stating that the plaintiff made a good faith effort to have the claim satisfied by the defendant before filing the complaint in Tribal Court;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A sworn verification by the plaintiff of the truth of the complaint;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>In an action involving the right to possession under a lease or other form of tenancy, a statement that the plaintiff gave the defendant notice to deliver possession of real property to the plaintiff and an indication of how much notice was given.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The defendant shall have thirty (30) days from the date of service to file an answer to the complaint.  Failure to answer or otherwise appear will result in a default judgment against the defendant.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Any party to an action filed pursuant to this Chapter may use the appropriate complaint and answer forms provided by the Tribal Court.</text>
+    </para>
+  </section>
+  <section>
+    <num>17.4</num>
+    <heading>Service:  Proof of Service</heading>
+    <para>
+      <num>(A)</num>
+      <text>Within fourteen (14) days of the filing of the complaint the Court shall issue a summons directing the named defendant to appear before the Court and respond to the complaint.  The Plaintiff shall deliver the court issued summons and a copy of the complaint for service on the defendant.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Service of Process.</heading>
+      <text>Service of process shall consist of delivering to the party served an authenticated copy of the Summons and Complaint.  The Summons shall advise the defendant that he or she is required to answer the complaint within twenty (20) days or a default judgment may be entered against him or her.</text>
+      <para>
+        <num>(1)</num>
+        <text>The return of service shall be endorsed with the name of the person serving and the date, time and place of service and shall be filed with the Clerk of Court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Service may be made on a party by delivering the required papers to the party himself or herself or upon some person of suitable age and discretion over fourteen (14) years of age at the party's house or principle place of business, or on an officer, managing agent, or employee, or partner of a non-individual party.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Service may be made by any law enforcement officer or other person, not a party, eighteen (18) years of age or older.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Service upon a person subject to the jurisdiction of the Tribal Court System may be made anywhere in the United States.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If a person personally refuses to accept service, service shall be deemed performed, if the person is informed of the purpose of the service and offered copies of the papers served.  In this instance, the person serving the defendant(s) shall execute an affidavit indicating the defendant(s) refused service.  The Plaintiff may file the affidavit with the Clerk of Court and the Trial Court shall accept the affidavit as proof of service.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>If, after three (3) attempts to serve the defendant on three (3) different days, a person is unable to serve the defendant with an authenticated copy of the Summons and Complaint, the Plaintiff may serve the defendant by publication.  Service by publication may be made by publishing the contents of the Summons in a newspaper of general circulation in the state and city of the defendant's last known address in two consecutive publications.  The Plaintiff must file a copy of all legal notices as published in the newspaper with the Tribal Court and must also provide an extra authenticated copy of the Complaint and Summons to the Tribal Court System for the Defendant.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Service of pleadings, other than a Summons and Complaint, may be made by regular U.S. Mail.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Proof of service shall be maintained as part of each case file.  When the defendant has been   served personally, an affidavit of service shall be returned to the Court Clerk and filed in the Court records.  When service is obtained by mail, the return receipt of the delivery shall be made a part of the Court records. When service is obtained by publication, an authenticated copy of the published newspapers must be returned to the Court Clerk and filed in the court records.</text>
+    </para>
+  </section>
+  <section>
+    <num>17.5</num>
+    <heading>Subpoena</heading>
+    <para>
+      <num>(A)</num>
+      <text>On motions of any party to the case or on the Court's own motion, the Court may issue subpoenas to compel the attendance of witnesses or the production of tangible objects Necessary to the determination of the case.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>A subpoena shall be served by an officer of the Stockbridge-Munsee Tribal Police Department, or by any person certified as an officer of the Court by delivering a copy thereof to the person ordered to appear or to produce a tangible object.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>A proof of service shall be filed by the person serving the subpoena.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Failure by any person without adequate explanation to comply with a subpoena duly served upon him may be deemed in contempt of Court and punished as provided for in Section 17.21 of this Code.</text>
+    </para>
+  </section>
+  <section>
+    <num>17.6</num>
+    <heading>Court Costs</heading>
+    <para>
+      <num>(A)</num>
+      <text>A schedule for determining fees, costs and other expenses pursuant to this Code shall be made available to any person requesting same from the Court Clerk.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>In order to file a complaint pursuant to this Code the plaintiff shall pay a filing fee to the Court Clerk.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Court costs for each case going to Tribal Court shall accrue on a per day basis to be charged against the losing party at the close of the trial.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Any other cost expended by a party in an action brought pursuant to this Code shall be properly documented to the Court when reimbursement for same is sought.</text>
+    </para>
+  </section>
+  <section>
+    <num>17.7</num>
+    <heading>Representation</heading>
+    <text>It shall be proper for any party to an action filed pursuant to this Code to be represented by an attorney or other advocate at his own expense.</text>
+  </section>
+  <section>
+    <num>17.8</num>
+    <heading>The Tribe as a Real Party in Interest</heading>
+    <text>It shall be appropriate for any organization or department in the governmental structure of the Stockbridge-Munsee Tribe through the Tribe's Legal Department to file a complaint pursuant to this Code on behalf of the real party in interest, namely, the Stockbridge-Munsee Indian Reservation in order to collect on a debt or to seek enforcement of a contractual obligation owed to the complaining tribal organization or department.  For all foreign debts filed involving tribal employees, the Tribe shall be a real party in interest. The director, chairman, or person in charge of the complaining tribal organization or department shall be the proper person to initiate a complaint through the Legal Department pursuant to this Section.</text>
+  </section>
+  <section>
+    <num>17.9</num>
+    <heading>Trial by Court</heading>
+    <text>There shall be no right to a jury trial in actions brought pursuant to this Code.  Upon the filing of pleadings the Court shall set a date for a trial of the case, and the trial shall be to the Court.  The Court shall determine all issues of fact and law based upon the testimony and evidence submitted, and renders a judgment for either the plaintiff or defendant. The judgment of the Court shall be final.</text>
+  </section>
+  <section>
+    <num>17.10</num>
+    <heading>Sufficiency of Proof</heading>
+    <text>The plaintiff shall have the burden of proving the allegations in his complaint by a preponderance of the evidence.</text>
+  </section>
+  <section>
+    <num>17.11</num>
+    <heading>Evidence</heading>
+    <text>Although not mandatory, the Federal Rules of Evidence may govern the introduction and use of evidence in all cases before the Court.  However, all material and relevant evidence which the Court deems proper and necessary for reaching a true and just verdict shall be admitted.</text>
+  </section>
+  <section>
+    <num>17.12</num>
+    <heading>Continuance</heading>
+    <para>
+      <num>A.</num>
+      <text>The Court may grant a Continuance in any action brought pursuant to this Code when it deems the interests of justice will be served thereby.</text>
+    </para>
+  </section>
+  <section>
+    <num>17.13</num>
+    <heading>Time Computation</heading>
+    <text>In computing any period of time, the date of the act or event from which the designated period of time begins to run shall not be included.  The last day of the period so computed shall be included, unless it is a Saturday, a Sunday, or a legal holiday.  When a period of time prescribed or allowed is less than seven days, intermediate Saturdays, Sundays and legal holidays shall be excluded in the computation.</text>
+  </section>
+  <section>
+    <num>17.14</num>
+    <heading>Judgments</heading>
+    <para>
+      <num>(A)</num>
+      <text>Where either party prevails in an action pursuant to this Code, the Court shall enter a judgment consisting of an order for relief which the Court deems just and proper.  Such an order may include but is not limited to directing payment to the plaintiff for the monies found owing him, awarding money damages to be paid to the injured party, ordering a party to deliver possession of real or personal property to another party within a prescribed period of time, ordering the performance of some other act for the benefit of the injured party, or finding in favor of the defendant.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Upon the failure of the defendant to appear before the Court and respond to the complaint, the Court may render a default judgment against the defendant, provided evidence is offered by the plaintiff indicating that the defendant was validly served with the Summons and complaint involved, and proof is offered substantiating the plaintiff's claim for relief.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Upon the failure of the plaintiff to appear in Court on the date set for trial, the Court shall dismiss the action.  Such dismissal shall not bar the plaintiff from refiling his complaint with the Court.</text>
+    </para>
+  </section>
+  <section>
+    <num>17.15</num>
+    <heading>Costs Allowed</heading>
+    <text>Unless otherwise directed by the Court, the party against whom judgment is entered shall be liable to the prevailing party for all court costs incurred in the action, including filing fees, service fees, expense of witnesses, attorney's fees, and any other incidental costs.</text>
+  </section>
+  <section>
+    <num>17.16</num>
+    <heading>Payment of Judgment</heading>
+    <text>If the judgment is against a party to make payment or to otherwise satisfy the judgment the party shall act without delay upon the terms and conditions prescribed by the Court.</text>
+  </section>
+  <section>
+    <num>17.17</num>
+    <heading>Enforcement of the Judgment</heading>
+    <para>
+      <num>(A)</num>
+      <text>Upon failure of a party to pay or otherwise satisfy the terms of the conditions of the judgment rendered by the Court pursuant to this Code, the prevailing party may seek  satisfaction of the judgment as provided for below:</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Execution:</text>
+      <para>
+        <num>(1)</num>
+        <text>The judgment creditor may seek a Writ of Execution upon any specific personal property of the judgment debtor when such property is in the possession of the judgment debtor and is found within the jurisdiction of the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Writ shall specify the property to be seized and the amount owing to the judgment creditor.  Such property is to be seized by a duly authorized enforcement officer and sold in order to satisfy all or part of the judgment.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A notice of sale shall be mailed to the judgment debtor and shall be posted at two public places within the reservation for ten (10) days prior to the sale by the Court.  The sale shall be conducted by the Court Clerk or a duly authorized law enforcement officer who shall issue a bill of sale for the property to the highest bidder in return for a cash amount but not for less than the appraised value of the property.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Proceeds of the sale shall first go to satisfy the cost of the sale, second to any unpaid court costs, next to satisfy any portion of the judgment still owing.  Any amount remaining after the above has been paid shall be paid over to the defendant.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Garnishment:</text>
+      <para>
+        <num>(1)</num>
+        <text>The judgment creditor may seek a Writ of Garnishment upon any specific personal property of credits, including wages or salary owed by another to the judgment debtor which is in the possession of a third party and is found within the jurisdiction of the Stockbridge-Munsee Tribal Court.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Writ shall specify the amount owing to the judgment creditor, as well as the name and address of the garnishee in whose possession the subject matter listed in the writ of garnishment is in.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Notice of garnishment shall be served on the garnishee ordering the garnishee not to pay or deliver the property or credits owing to the debtor until the result of the garnishment proceeding is determined.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The garnishee shall be required to file a return with the Court containing the amount and a description of property of the judgment debtor which is in the garnishee's possession.  Such return shall be filed with the Court within ten (10) days from the date the garnishee was served with notice of the garnishment.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>It shall be proper for the Court to issue a Writ of Garnishment against the Stockbridge-Munsee Tribe when it is determined the Tribe qualifies as a garnishee, and for this limited purpose the Tribe shall not exert its immunity from suit.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Writ of Recovery:</text>
+      <para>
+        <num>(1)</num>
+        <text>Whenever the Court has issued a judgment ordering the party to deliver possession of real or personal property to another party and such deliver has not taken place within the time limit prescribed in the judgment, the aggrieved party may seek a writ of recovery for such property.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Writ shall describe the real or personal property involved in enough detail to enable officers of the Court to locate such property, and shall authorized a law enforcement officer to take possession of specified real or personal property from a wrongful holder and deliver possession thereof to the party indicated on the Writ.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>17.18</num>
+    <heading>Service of Writs</heading>
+    <para>
+      <num>(A)</num>
+      <text>Service of any Writs shall be made personally on the recipient by an officer of the Stockbridge-Munsee Tribal Police Department or any person certified as an officer of the Court authorized to make personal service.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Proof of service of each Writ shall be maintained as part of each case file in the form of an affidavit of service sworn to and filed with the Court by the officer who served the Writ.</text>
+    </para>
+  </section>
+  <section>
+    <num>17.19</num>
+    <heading>Exempt Property</heading>
+    <para>
+      <num>(A)</num>
+      <text>The following property shall be exempt from execution and garnishment:</text>
+      <para>
+        <num>(1)</num>
+        <text>Trust property;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Income from trust property; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any property, wages or otherwise which is protected statute.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>This section shall not prohibit any person from voluntarily assigning all rights possessed in trust property on income from trust property to the judgment creditor.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>This section shall not prohibit the Stockbridge-Munsee Tribal Court from adjudicating the right to possession of any trust property in actions brought pursuant to this Code to enforce rental, lease, purchase of like agreements.</text>
+    </para>
+  </section>
+  <section>
+    <num>17.20</num>
+    <heading>Sovereign Immunity</heading>
+    <text>Nothing in this Code shall affect the right of the Stockbridge-Munsee Tribe of the Stockbridge-Munsee Indian Reservation to assert immunity from suit by virtue of its status as a sovereign entity, except that the Tribe may not assert sovereign immunity when served as a garnishee pursuant to Section of this Code.</text>
+  </section>
+  <section>
+    <num>17.21</num>
+    <heading>Contempt of Court</heading>
+    <para>
+      <num>(A)</num>
+      <text>Any person or persons found guilty of any of the following acts shall be adjudged to be in contempt of Court and shall be punished as the Court may direct.</text>
+      <para>
+        <num>(1)</num>
+        <text>Disorderly, contemptuous or insolent behavior toward a judge or interrupt the due course of a trial or other judicial proceedings.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Breach of the peace, boisterous conduct or creation of a disturbance in the presence of a judge or in the immediate vicinity of the Court held by him which tends to interrupt the due course of a trial or other judicial proceedings.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Disobedience of any order or judgment of the Court or refusal to be sworn or to answer as a witness.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>When a contempt is committed in the immediate view and presence of the judge it may be punished summarily.  To that end an order must be made reciting the facts as they occurred and adjudging that the person proceeded against is thereby guilty of the contempt and that he be punished as therein prescribed.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>When a contempt is not committed in the immediate view and presence of the judge, a warrant of arrest may be issued by a judge upon the Court's own motion or the motion of another based on proof sufficient enough to indicate contempt of court may have been committed.  The person who is charged may be forthwith arrested and brought before the judge at which time the accused must be given an opportunity to be heard in his defense or excuse his action or actions.  The judge may thereupon convict him or dismiss the charge.</text>
+    </para>
+  </section>
+  <section>
+    <num>17.22</num>
+    <heading>Recognition and Enforcement of Foreign Judgments</heading>
+    <para>
+      <num>(A)</num>
+      <text>The Stockbridge-Munsee Tribal Court shall not recognize and enforce any foreign judgment unless the proponent of the foreign judgment;</text>
+      <para>
+        <num>(1)</num>
+        <text>Complies with the procedure set forth in Section 17.22 of this Code:</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Submits proof that the person against whom the foreign judgment has been rendered is subject to the jurisdiction of the Stockbridge-Munsee Tribal Court;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Submits proof that the foreign judgment is based on valid subject matter jurisdiction;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Submits proof that an attempt was made to enforce the judgment in the jurisdiction which the foreign judgment  was rendered and that such attempt was unsuccessful; or  good cause why an attempt at enforcement of the foreign judgment in the jurisdiction in which the foreign judgment was rendered would be futile;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Submits proof that the foreign judgment is final and that no appeal therefrom is pending; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Submits proof that the government from which the foreign judgment is issued provides reciprocal full faith and credit to the order, decrees and judgments of the Stockbridge-Munsee Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The Stockbridge-Munsee Tribal Court shall not recognize or enforce a foreign judgment when to do so would require the Tribe to waive its immunity from suit, except when the Tribe is served as a garnishee for the wages or property of an employee, in which case the requirements set out in Section 17.17 of this Code shall be adhered to.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The Stockbridge-Munsee Tribal Court need not recognize a foreign judgment if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The defendant in the proceedings in the foreign court did not receive notice of the proceedings in sufficient time to allow him to defend;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The foreign judgment decree or order violated the Indian Civil Rights Act of 1968, 25 U.S.C. 1301-1341;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The foreign judgment was obtained by fraud;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The foreign judgment would serve to violate any federal law, tribal law, custom or tradition, or the Treaty of 1856 between the Stockbridge-Munsee Tribe and the federal government; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The cause of action on which the judgment is based is contrary to the general welfare of the Stockbridge-Munsee Tribe or its members.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>17.23</num>
+    <heading>Procedure for Recognition and Enforcement of Foreign Judgments</heading>
+    <para>
+      <num>(A)</num>
+      <text>In order for a foreign judgment to be recognized and enforced, such judgment shall be filed by its proponent with the Stockbridge-Munsee Tribal Court within one year from the date of its issuance.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Proper filing of a foreign judgment with the Stockbridge-Munsee Tribal Court shall be accomplished when the proponent thereof has delivered to the Court a certified copy of the foreign judgment, the date of its entry, the record of any subsequent entries affecting it, such as levies of execution and payments in partial satisfaction, and a motion requesting that the Stockbridge-Munsee Tribal Court recognize and enforce the foreign judgment.  A properly filed foreign judgment shall be docketed and recorded in the Tribal Court in the same manner as other cases.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Upon proper filing of a foreign judgment with the Stockbridge-Munsee Tribal Court, the Court shall issue a summons directing the defendant to appear on a date not more than 30 days from the date of service and respond to the motion requesting the Stockbridge-Munsee Tribal Court to recognize and enforce the foreign judgment.  Such a summons shall be served on the defendant in a manner consistent with this Code.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Failure to appear as directed by the summons or failure to respond to the motion requesting the Court to recognize and enforce the foreign judgment once personal jurisdiction over the defendant has been obtained shall not prevent the Court from ruling on the motion.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>After reviewing all the relevant evidence concerning the foreign judgment the Court shall issue an order granting or denying the motion to recognize and enforce the foreign judgment. Such an order shall be a final judgment of the Stockbridge-Munsee Tribal Court in favor of either the plaintiff or defendant to the foreign judgment and shall be enforceable as such.</text>
+    </para>
+  </section>
+  <section>
+    <num>17.24</num>
+    <heading>Enforcement of the Tribal Court Judgments in State Court</heading>
+    <text>Whenever a judgment of the Stockbridge-Munsee Tribal Court is not enforceable within the jurisdiction of the court, and a department or program within the Stockbridge-Munsee Tribe is a party to the judgment, the Court may direct the Tribal Attorney to seek recognition and enforcement of its judgment as a foreign judgment in the appropriate jurisdiction.</text>
+  </section>
+  <section>
+    <num>17.25</num>
+    <heading>Unlawful Interference</heading>
+    <text>No person holding office in tribal government or employed by the Stockbridge-Munsee Tribe or the other governmental entities on the Stockbridge-Munsee Indian Reservation shall use or attempt to use his position to influence any decision of the Stockbridge-Munsee Tribal Court.</text>
+  </section>
+  <annotations>
+    <annotation type="Editor's Notes">1. Ordinance Committee approved Financial Responsibility Ordinance on April 5, 1989 and submitted to Tribal Council.</annotation>
+    <annotation type="Editor's Notes">2. Tribal Council approved for posting on April 18, 1989.</annotation>
+    <annotation type="Editor's Notes">3. Tribal Council approved Financial Responsibility Ordinance on May 16, 1988, by Resolution No. 1146.</annotation>
+    <annotation type="Editor's Notes">4. Letter from Bureau of Indian Affairs approving Financial Responsibility Ordinance dated June 5, 1989.</annotation>
+    <annotation type="Editor's Notes">5. Section 17.1 amended by Tribal Council by adding Section 17.1(C) on June 25, 2002, Resolution No. 02-034.  Approved by BIA July 3, 2002.</annotation>
+    <annotation type="Editor's Notes">6. Section 17.1(C) amended by Tribal Council by adding "and 27.7(G)" at the end of the sentence on June 1, 2004, Resolution No. 026-04 to permit enforcement of child support orders.  Approved by BIA June 15, 2004.</annotation>
+    <annotation type="Editor's Notes">7. On March 3, 2015, the Tribal Council adopted Resolution No. 024-15 deleting Section 17.4 (B) in its entirety and replacing with a new section on service of process which permits service on an individual through a member of the household over the age of 14 years, at a principal place of business, and through legal publication if after 3 attempts to serve an individual on 3 different days, a person is unable to serve them. Section 17.4 (C) amended by adding "When service is obtained by publication, an authenticated copy of the published newspapers must be returned to the Court Clerk and filed in the court records." Section 17.6 (D) <em>Court Costs </em>"The cost of serving the Summons and complaint on the defendant shall be determined on a per mile basis." is struck in its entirety. Section 17.8 The Tribe as a Real Party in Interest is amended by adding "through the Tribe's Legal Department." Throughout the document correcting grammatical errors and clarifying intent. Approved by the BIA on June 12, 2015.</annotation>
+  </annotations>
+</container>

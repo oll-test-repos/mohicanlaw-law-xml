@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+  <prefix>CHAPTER</prefix>
+  <num>2</num>
+  <heading>STOCKBRIDGE-MUNSEE BILL OF RIGHTS-</heading>
+  <section>
+    <num>2.1</num>
+    <heading>Rights</heading>
+    <text>The Stockbridge-Munsee Community, in exercising its powers of self-government, shall not:</text>
+    <para>
+      <num>(A)</num>
+      <text>Make or enforce any law prohibiting the free exercise of religion, or abridging the freedom of speech, or of the press, or of the right of the people to assemble and to petition for a redress of grievances;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Violate the right of people to be secure in their persons, houses, papers and effects against unreasonable search and seizures, nor issue warrants, but upon probable cause, support by oath or affirmation, and particularly describing the place to be searched and the person or thing to be seized;</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Subject any person for the same offense to be twice put in jeopardy;</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Compel any person in any criminal case to be a witness against himself or herself;</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Take any private property for a public use without just compensation;</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>Deny to any person in a criminal proceeding the right to a speedy and public trial, to be informed of the nature and cause of the accusation, to be confronted with the witnesses against him or her, to have compulsory process for obtaining witnesses in his or her favor, and at his or her own expense to have the assistance of counsel for his or her defense and to have these rights explained at the time of arrest;</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>Require excessive bail, impose excessive fines, or inflict cruel and unusual punishment;</text>
+    </para>
+    <para>
+      <num>(H)</num>
+      <text>Deny to any persons within its jurisdiction the equal protection of its laws, provided that, this clause shall not be interpreted to grant those who are not members of the Stockbridge-Munsee Community those rights and benefits to which members of the Stockbridge-Munsee Community are entitled by virtue of their membership;</text>
+    </para>
+    <para>
+      <num>(I)</num>
+      <text>Deprive any person of liberty or property without due process of law;</text>
+    </para>
+    <para>
+      <num>(J)</num>
+      <text>Pass any bill of attainder or ex post facto law; or</text>
+    </para>
+    <para>
+      <num>(K)</num>
+      <text>In the event the Tribe exercises criminal jurisdiction, deny to any person accused of an offense punishable by imprisonment the right, upon request, to a trial by jury of not less than six persons.</text>
+    </para>
+  </section>
+  <section>
+    <num>2.2</num>
+    <heading>Enforcement; Waiver</heading>
+    <para>
+      <num>(A)</num>
+      <text>In order to enforce the provisions of this Ordinance, the Tribe shall be subject to suit in law and equity for declaratory judgment and prospective injunctive relief in the Stockbridge-Munsee Tribal Court by persons subject to the jurisdiction of the Stockbridge-Munsee Tribal Court. No money damages shall be available in suits under this section.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The Stockbridge-Munsee Community does not waive or limit any rights that it may have to be immune from suit in the courts of the United States or of any State.</text>
+    </para>
+  </section>
+</container>

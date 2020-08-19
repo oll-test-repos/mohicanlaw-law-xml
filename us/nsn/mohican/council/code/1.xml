@@ -1,0 +1,1043 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+  <prefix>CHAPTER</prefix>
+  <num>1</num>
+  <heading>TRIBAL COURT CODE</heading>
+  <section>
+    <num>1.1</num>
+    <heading>Council Findings</heading>
+    <para>
+      <num>(A)</num>
+      <text>Recognizing that tribal self-sufficiency cannot be fully realized without first exerting control over such matters as may be vital to tribal interests, the Stockbridge-Munsee Tribal Council finds:</text>
+      <para>
+        <num>(1)</num>
+        <text>That Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution and By-Laws (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community....and establishing proper agencies for law enforcement of the Community," and this provision authorizes the Tribal Council to create a tribal court system and adopt a comprehensive code of law; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>That the Stockbridge-Munsee Community desires to deal fairly and equitably with all persons; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>That the Stockbridge-Munsee Community desires to administer, in a just and impartial fashion, all applicable laws, ordinances, regulations and policies; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>That the Stockbridge-Munsee Community would best be served by a judicial system separate and independent of the legislative branch of tribal government; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>That the Stockbridge-Munsee Community desires to preclude state infringement of tribal sovereignty in all matters essential to the tribe's goal of self-sufficiency.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>1.2</num>
+    <heading>Purpose and Construction</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Declaration of Purpose.</heading>
+      <text>This ordinance shall be interpreted and understood to accomplish the following tribal objectives:</text>
+      <para>
+        <num>(1)</num>
+        <text>To exert jurisdiction over all matters essential to the Tribe's goal of self-determination and self-governance; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To provide orderly procedures for resolving conflicts that reflect tribal traditions as well as the prevailing community standards, and which afford all affected persons a fair, prompt and impartial hearing; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To establish a court system for the interpretation of Stockbridge-Munsee Tribal Law and such other law as may properly come before the Court; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To ensure that all matters shall be conducted in a manner so as to afford all persons who appear before the Stockbridge-Munsee Tribal Court all rights guaranteed by the Stockbridge-Munsee Bill of Rights; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>To ensure that the sovereignty of the Stockbridge-Munsee Community is recognized in all matters affecting the welfare of the Stockbridge-Munsee Community.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Construction.</heading>
+      <text>This ordinance is exempted from the rule of strict construction. It shall be read and understood in a manner that gives full effect to the purposes for which it is enacted. Whenever there is uncertainty or a question as to the interpretation of certain provisions of this ordinance, tribal law or custom shall be controlling and where appropriate may be based on the written or oral testimony of a qualified tribal elder, historian or other representative.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.3</num>
+    <heading>Establishment of the Tribal Court System</heading>
+    <para>
+      <num>(A)</num>
+      <text>The Tribal Council hereby establishes the Stockbridge-Munsee Tribal Court System.  The Tribal Court System shall consist of a Trial Court and a Court of Appeals.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The Tribal Court System shall maintain independence in its judicial operations from the Tribal Council to ensure a separation of Tribal governmental powers.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.4</num>
+    <heading>Tribal Court System Funding</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Tribal Court System Budget.</heading>
+      <text>When allocating the budget money for the Tribal Court System, the amount of money appropriated by the Tribal Council for the Tribal Court System budget shall not be less than $225,000.  The baseline budget shall be increased annually to cover inflation.  However, if there is a spending freeze on all tribal budgets, such spending freeze shall also apply to the Tribal Court System budget.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Peacemaker System Budget.</heading>
+      <text>The Tribal Court System shall set aside a portion of such funding to be used for the operation of the Peacemaker System as established under Chapter 4 of Stockbridge-Munsee Tribal Law.  The Tribal Court System shall be responsible for all aspects of the Peacemaker Program including the hiring, training and supervision of Peacemakers.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Judge Compensation.</heading>
+      <text>The Chief Judge and Judges shall receive such compensation as set by the Tribal Council.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.5</num>
+    <heading>Definitions</heading>
+    <para>
+      <num>(A)</num>
+      <heading>AUTHORIZED ENFORCEMENT OFFICER(S):</heading>
+      <text>Stockbridge-Munsee Community tribal law enforcement officers and such other enforcement officers as may be recognized by the Tribe.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>CHIEF JUDGE:</heading>
+      <text>A person who meets the qualifications listed in Section 1.6 and who has been elected by the Stockbridge-Munsee Community in accordance with tribal law.  In the absence of a duly-elected Chief Judge, another sitting Judge shall be appointed to fulfill the duties of Chief Judge by the Tribal Council until the election of a Chief Judge.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>CONTEMPT OF COURT:</heading>
+      <text>Disorderly or insolent behavior committed during a Tribal Court System proceeding, including the willful refusal of an individual to be sworn as a witness, or willful disobedience of a lawfully-issued order of the Tribal Court System.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <heading>DECISION:</heading>
+      <text>A written determination of the Tribal Court System following the Tribal Court System's review of the facts and law.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <heading>IMMEDIATE FAMILY:</heading>
+      <text>The person's spouse or partner and the people within the following degree of kinship of the person or the person's spouse or partner:  parents, grandparents, foster parents, children, foster children, grandchildren, foster grandchildren, brothers, sisters, aunts and uncles, nieces and nephews or the spouses or partners of all such persons.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <heading>JUDGE:</heading>
+      <text>A person who meets the qualifications listed in Section 1.6 and who has been hired by the Judiciary Commission.</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <heading>JUDICIARY COMMISSION:</heading>
+      <text>An elected body established under Section 1.7 that is responsible for fulfilling the responsibilities outlined in this ordinance.</text>
+    </para>
+    <para>
+      <num>(H)</num>
+      <heading>ORDER:</heading>
+      <text>Written direction of the Tribal Court System which determines the outcome of a motion.  An order shall either grant or deny, in whole or in part, the relief requested in a motion.</text>
+    </para>
+    <para>
+      <num>(I)</num>
+      <heading>STOCKBRIDGE-MUNSEE COMMUNITY LAW OR TRIBAL LAW:</heading>
+      <text>The Stockbridge-Munsee Community Tribal Constitution and all codes, ordinances, regulations and policies duly adopted by Tribal Council resolution.  Tribal custom may constitute Stockbridge-Munsee Community Law or Tribal Law only in the absence of an applicable Constitutional provision, code, ordinance, regulation, or policy.</text>
+    </para>
+    <para>
+      <num>(J)</num>
+      <heading>STOCKBRIDGE-MUNSEE COMMUNITY OR "TRIBE":</heading>
+      <text>The Stockbridge-Munsee Community, unless the context in which "Tribe" is used clearly indicates otherwise.</text>
+    </para>
+    <para>
+      <num>(K)</num>
+      <heading>SUBSTITUTE JUDGE:</heading>
+      <text>A judge of any tribal court, qualified through training, education or experience that is selected in accordance with this Ordinance and appointed by the Chief Judge to preside over a Tribal Court System proceeding when all Judges are unavailable due to absence or disqualification. Substitute judges shall not be held to meet required qualifications as set out in Section 1.6 (C).</text>
+    </para>
+    <para>
+      <num>(L)</num>
+      <heading>VIOLATION NOTICE.</heading>
+      <text>An order, issued by authorized law enforcement personnel to a suspected violator in connection with a violation of tribal law, to appear before the Stockbridge-Munsee Tribal Court at a later date; commonly known as a citation or notice of infraction.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.6</num>
+    <heading>The Trial Court</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Establishment of the Trial Court.</heading>
+      <text>The Tribal Council does hereby establish for the Stockbridge-Munsee Community a court to be known as the Trial Court.  The Trial Court shall consist of at least one Chief Judge and one or more Judge(s).</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text><u>Jurisdiction</u>.</text>
+      <para>
+        <num>(1)</num>
+        <heading>Subject Matter Jurisdiction.</heading>
+        <text>The Trial Court shall be a court of general jurisdiction 	with the power to hear cases pursuant to the laws of the Stockbridge-Munsee Community.  	The Trial Court shall have the power to decide issues of both fact and law.  The Trial Court 	shall act as an appellate review body for decisions made by Tribal administrative boards 	and shall hear appeals from such administrative bodies in accordance with Tribal laws.  	The Trial Court shall be the final arbiter of any appeal of an administrative body decision.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Territorial Jurisdiction.</heading>
+        <text>The territorial jurisdiction of the Tribal Court System shall 	extend to all territory described as Indian Country within the meaning of Section 1151 of 	Title 18 of the United States Code over which the Stockbridge-Munsee Community has 	authority, including tribal or individual, trust, non-trust and restricted land, and including 	all land owned by tribal agencies in their own name,  and any other such land, or interest in 	land, which may be subsequently acquired by virtue of Executive Order, a declaration or 	regulation of the United States Department of Interior, a declaration or order of any Court 	of competent jurisdiction, by purchase, gift, relinquishment, or by any other lawful means.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Personal Jurisdiction.</heading>
+        <text>Personal jurisdiction shall exist over all defendants served 	within 	the territorial jurisdiction of the Tribal Court System, or served anywhere in cases 	arising 	within the territorial jurisdiction of the Stockbridge-Munsee Community, and over 	all persons consenting to such jurisdiction.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Qualifications of Judges.</heading>
+      <text>The Chief Judge and all other Judges must be qualified to either be duly-elected or to be hired by the Judiciary Commission.</text>
+      <para>
+        <num>(1)</num>
+        <text>A Chief Judge and Judge shall meet the following qualifications:</text>
+        <para>
+          <num>(a)</num>
+          <text>be at least thirty-five (35) years of age.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>complete an examination approved by the Tribal Council with at least 75% proficiency.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>have demonstrated knowledge of Federal Indian Law.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>successfully obtain an Elder-Youth License pursuant to Chapter 65.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>be mentally competent.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>have demonstrated experience with the law and dispute resolution.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>shall not have been convicted of, or entered a plea of no contest to, any felony.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Judiciary Commission may consider the following skills as preferential when 	hiring a Judge:</text>
+        <para>
+          <num>(a)</num>
+          <text>Knowledge of Stockbridge-Munsee Tribal customs.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A bachelor's degree or a master's or other advanced degree.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Previous experience as a judge in a court of general jurisdiction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Chapter 54 shall apply to the hiring of any Judge.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>No person shall serve as Chief Judge or Judge while serving as a member of the Tribal 	Council or while employed by the Stockbridge-Munsee Community or its enterprises in 	another capacity.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <heading>Substitute Judges.</heading>
+      <text>In any case where the Chief Judge and all Judges are prevented from presiding by virtue of disqualification, illness, or absence, the Clerk of Court shall contact the Wisconsin Tribal Judges Association (WTJA) to request that the WTJA provide a Substitute Judge who shall be selected in accordance with WTJA policies and procedures from the WTJA judges available to serve as a Substitute Judge for the Trial Court.  After the Substitute Judge is selected by WTJA, the Substitute Judge must then be approved and appointed to the case by the Chief Judge in a timely fashion.  Approval of Substitute Judge by the Chief Judge is a ministerial act.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.7</num>
+    <heading>Judiciary Commission</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Establishment.</heading>
+      <text>As authorized under Article IV, Section 3 of the Stockbridge-Munsee Constitution, the Tribal Council establishes a Judiciary Commission.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>
+        <u>Delegation of Authority.</u>
+      </text>
+      <para>
+        <num>(1)</num>
+        <heading>Selection of Judges.</heading>
+        <text>The Tribal Council delegates the authority to select qualified individual(s) to serve as Judge to the Judiciary Commission.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Assessment of Qualifications.</heading>
+        <text>The Tribal Council delegates the authority to assess the qualifications of persons who wish to be elected as Chief Judge to the Judiciary Commission.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Regulation of Judicial Misconduct.</heading>
+        <text>The Tribal Council delegates the authority to regulate judicial misconduct by the Chief Judge or Judge(s), including disciplinary measures up to and including the removal from office, to the Judiciary Commission.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Scope of Authority.</heading>
+        <text>The scope of this delegation of authority is limited to the purpose of fulfilling the role identified for the Judiciary Commission and to actions that are undertaken in compliance with all applicable laws.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Membership.</heading>
+      <text>The Judiciary Commission shall consist of five (5) members.</text>
+      <para>
+        <num>(1)</num>
+        <heading>Qualifications.</heading>
+        <text>All members of the Judiciary Commission shall meet the following qualifications:</text>
+        <para>
+          <num>(a)</num>
+          <text>Be an enrolled member of the Tribe;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Be at least 25 years of age;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Not be a current member of the Tribal Council, a Tribal Judge or a Tribal Court clerk or employed by the Tribe in the Legal Department or as a tribal law enforcement officer;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Be familiar with the judicial process; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Not have been convicted of, or entered a plea of no contest to, any felony.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Term.</heading>
+        <text>Members of the Judiciary Commission shall serve staggered, five (5) year terms.  In order to establish staggered terms, if more than three (3) individuals are elected to serve on the Judiciary Commission in a single year, then two (2) of the newly elected members shall instead serve a three (3) year term with those members being selected by lot.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Election.</heading>
+        <text>Individuals shall be elected to serve as a member of the Judiciary Commission by majority vote of tribal members eligible to vote.</text>
+        <para>
+          <num>(a)</num>
+          <text>Elections shall be held as part of the regularly scheduled tribal elections with the individuals who get the most votes filling vacant seats.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Individuals interested in running to be a member of the Judiciary Commission shall submit a sworn and signed affidavit to the Tribal Secretary at least one (1) month prior to the election verifying that they meet the qualifications to serve on the Judiciary Commission and therefore are eligible to have their name on the ballot.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The verification of eligibility is subject to confirmation by the Tribal Council or its designee.  If the verification of eligibility cannot be confirmed, then the name of that individual shall not be on the ballot.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Removal.</heading>
+        <text>The Tribal Council retains the authority to remove members of the Judiciary Commission for neglect of duty, gross misconduct or the failure to retain eligibility to serve on the Judiciary Commission.</text>
+        <para>
+          <num>(a)</num>
+          <text>An individual may only be removed from the Judiciary Commission by an affirmative vote of five (5) members of the Tribal Council in support of removal at a Tribal Council meeting.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The individual must be given a full and fair opportunity to reply to any and all charges at a designated Tribal Council meeting prior to the Tribal Council's vote on removal.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The individual must have at least ten (10) days prior notice of the charges and the date when the Tribal Council will be meeting to discuss the charges and vote on removal.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <heading>Vacancy.</heading>
+        <text>In the event that a member of the Judiciary Commission should die, resign or be removed from office, the Tribal Council shall declare the seat vacant.  The Tribal Council retains the authority to appoint another eligible tribal member to fill the vacant seat until the next regularly-scheduled tribal election.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <heading>Practice before the Court.</heading>
+        <text>Members of the Judiciary Commission are prohibited from practicing before the Tribal Court for the duration of their membership on the Judiciary Commission.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <heading>Conflict of Interest.</heading>
+        <text>Members of the Judiciary Commission shall recuse themselves from all matters where they have or could be perceived to have a conflict of interest.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>
+        <u>Powers and Responsibilities.</u>
+      </text>
+      <para>
+        <num>(1)</num>
+        <heading>Selection of Judges.</heading>
+        <text>The Judiciary Commission shall select qualified individuals to be hired as Tribal Judges.</text>
+        <para>
+          <num>(a)</num>
+          <text>When there is an opening for a Judge, the Judiciary Commission shall work with the Tribe's Human Resources Department to post for applications for the position of Judge in the Trial Court.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Judiciary Commission shall review all applications to assess whether applicants should be granted an interview.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Judiciary Commission shall conduct interviews to assess qualifications and select a qualified individual, as well as alternates if appropriate, who shall be offered the position of Judge.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Tribe's Human Resources Department shall work with the Judiciary Commission throughout the hiring process and provide administrative support to implement the hiring process in accordance with tribal law and policies.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Although the Tribe employs Judges, it does so as a ministerial act.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Verification of Eligibility for Election as Chief Judge.</heading>
+        <text>The Judiciary Commission shall have the final authority to assess and verify whether a Stockbridge-Munsee tribal member is qualified to stand for election as Chief Judge consistent with Section 1.8.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Administer Judicial Qualification Exam.</heading>
+        <text>The Judiciary Commission shall offer the judicial qualification exam provided for under Section 1.6(C)(a)(2) at least annually.  The Judiciary Commission shall be responsible to ensure that the examination is proctored appropriately and is graded by someone who is competent to do so.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Meet with the Court.</heading>
+        <text>The Judiciary Commission shall periodically meet with the Chief Judge and Judges for general discussions about judicial conduct, the role of the Tribal Court System and court operations.  Discussion of specific cases currently active before the Tribal Court System is prohibited.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <heading>Administer Complaints.</heading>
+        <text>The Judiciary Commission shall accept complaints about judicial misconduct and, when appropriate, investigate such complaints.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Judiciary Commission has the authority to conduct investigatory hearings and subpoena witnesses as part of such investigations.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Judiciary Commission shall conduct investigations in a confidential manner.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Judiciary Commission shall provide the judge accused of judicial misconduct with a full and fair opportunity to provide a defense as part of any investigatory process.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>At the conclusion of any investigation, the Judiciary Commission shall issue a written report documenting its investigation and determination, including any judicial disciplinary measures, to the judge accused of misconduct.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Judiciary Commission shall maintain a record of its investigations and any disciplinary actions issued. Once the investigation is complete, the record shall be turned over to the Tribal Council to be maintained in a secure fashion. The Judiciary Commission may seal an investigatory record when it determines it is appropriate.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <heading>Discipline Judges.</heading>
+        <text>The Judiciary Commission shall discipline a judge when it determines judicial discipline is warranted by vote of at least three (3) members.</text>
+        <para>
+          <num>(a)</num>
+          <text>Judicial discipline is warranted when the Judiciary Commission has found, after a hearing on the matter in which the Chief Judge or Judge has received notice and an opportunity to be heard, that the Chief Judge or a Judge has failed to perform any of the duties and responsibilities provided for in Section 1.10 of these rules or has violated any provision of the Ethical Code for Judges.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Potential disciplinary actions may include the issuance of a confidential caution letter, admonishing a judge publicly, censuring a judge publicly, removal from a case, suspension from the bench or removal from the bench.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Judiciary Commission shall take such actions as are necessary to implement judicial disciplinary measures.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Tribe shall, as a ministerial act, take such actions as necessary to implement the judicial disciplinary measures.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <heading>Recommendations to the Tribal Council.</heading>
+        <text>The Judiciary Commission shall provide recommendations and advice to the Tribal Council about matters relating to the Tribal Court.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The Judiciary Commission shall approve the content of all continuing education courses required for Chief Judges and Judges, Guardians ad Litem and Lay Advocates.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The Judiciary Commission shall act in accordance with the general responsibilities of all Stockbridge-Munsee tribal committees and any properly adopted Judiciary Commission By-laws.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>1.8</num>
+    <heading>Election of Chief Judge</heading>
+    <para>
+      <num>(A)</num>
+      <text><u>Verification of Eligibility</u>.</text>
+      <para>
+        <num>(1)</num>
+        <text>At least three (3) months prior to an election, any qualified Stockbridge-Munsee tribal member who wishes to appear on the ballot as a candidate for Chief Judge must submit a written request, with all necessary support, to the Judiciary Commission to verify that the candidate satisfies the judicial qualifications outlined in Section 1.6 (C).</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Judiciary Commission shall review and investigate the request as necessary to verify the candidate's qualifications.  The Judiciary Commission may request additional information from the candidate as appropriate to complete the verification and the candidate must comply with such requests.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Judiciary Commission shall provide a written response to the candidate on whether or not the candidate meets the judicial qualifications.</text>
+        <para>
+          <num>(a)</num>
+          <text>If the candidate is determined to not be qualified, then the written response shall specifically identify the qualification that the candidate does not meet.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A copy of this written response will also be provided to the Tribal Secretary, on behalf of the Election Board.  The Tribal Secretary shall cause the written response to be provided to the Election Board.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The candidate shall be provided an opportunity for an in-person meeting with the Judiciary Commission to contest any finding that he/she does not meet the qualifications, but the Judiciary Commission's assessment shall be final.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Request to have Name Placed on Ballot.</heading>
+      <text>If the Judiciary Commission verifies that a Stockbridge-Munsee tribal member is a qualified to be a candidate for Chief Judge, then that person may submit a written request, along with the verification of qualifications from the Judiciary Commission, to the Tribal Secretary, on behalf of the Election Board, that the person's name be placed on the ballot as a candidate for Chief Judge.  The Tribal Secretary shall cause these materials to be provided to the Election Board.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Election.</heading>
+      <text>The election of the Chief Judge will be conducted consistent with tribal election laws, policies and procedures, except that candidates for Chief Judge are not nominated at a tribal caucus.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <heading>Term.</heading>
+      <text>The qualified candidate who receives the most votes in the election will be sworn into office as Chief Judge by the Tribal President for a term of seven (7) years.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.9</num>
+    <heading>The Court of Appeals</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Jurisdiction.</heading>
+      <text>The Court of Appeals shall have jurisdiction to hear appeals from the Stockbridge-Munsee Community Tribal Court Division, unless otherwise restricted by Stockbridge-Munsee Community Tribal Code.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Composition.</heading>
+      <text>The Stockbridge-Munsee Court of Appeals is the appellate body for the Stockbridge-Munsee Community. Panels shall be composed of three appellate justices appointed by the Stockbridge-Munsee Tribal Council, with one serving as the Chief Justice of the Court of Appeals. The Court of Appeals shall not include any judge of the Stockbridge-Munsee Trial Court Division.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Selection of Justices.</heading>
+      <text>Appellate Panel shall be selected by the Stockbridge-Munsee Tribal Council. The Stockbridge-Munsee Tribal Council shall contract with the Appellate Justices.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <heading>Length of Appointment.</heading>
+      <text>Appellate justices shall be appointed by the Stockbridge-Munsee Tribal Council for a three-year term. During that three-year term, the position of Chief Justice of the Appellate Court will rotate and each appellate justice will serve one year as the Chief Justice of the Appellate Court. The Appellate Panel will determine who serves as Chief Justice.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Qualifications of Appointees:</text>
+      <para>
+        <num>(1)</num>
+        <text>An attorney in good standing and licensed to practice law in a court of last resort of a state and whose experience demonstrates extensive knowledge of Indian law.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Must demonstrate a working knowledge of the laws and ordinances of the Stockbridge-Munsee Community and knowledge of the Stockbridge-Munsee Community Tribal Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>(F)</num>
+      <heading>Compensation.</heading>
+      <text>Appellate Justices shall be compensated at a rate as determined by the Stockbridge-Munsee Tribal Council.</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>Appeal Types.</text>
+      <para>
+        <num>(1)</num>
+        <heading>Presiding Appellate Judge.</heading>
+        <text>When an appeal is submitted pursuant to Chapter 5 Section 5.22, the Chief Justice of the Appellate Panel shall solely preside over that appeal, unless there is a conflict in which case the Chief Justice shall be responsible for assigning the appeal to another member of the Appellate Panel.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>En Banc Panel.</heading>
+        <text>An en banc panel shall be composed of all three Appellate Justices of the Stockbridge-Munsee Court of Appeals.</text>
+        <para>
+          <num>(a)</num>
+          <text>A party to an appeal and/or the Chief Justice may request an en banc panel be empaneled to preside over an appeal in lieu of the Chief Justice solely presiding.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Once an appeal is decided by the presiding Appellate Judge, a party to an appeal has the right to request a final appeal be heard by an en banc panel of the three Appellate Justices pursuant to Section 5.22(A). The Court has discretion as to whether to grant the request.  The Court's determination is final.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Court of Appeals has discretion to hear or dismiss appeals that come before it in accordance with tribal law.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Errors of law will be reviewed de novo with no deference to the Trial Court's holding.  Errors of fact will be reviewed based on whether there is substantial evidence to support the finding.  Judicial rulings in discretionary matters are reviewed based on whether there was an abuse of discretion. Errors that are not likely to have had a substantial impact on the decision or on substantial rights are considered "harmless errors" and are not a basis for reversal.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Decisions of the Court of Appeals shall be entered with the Clerk of Court and are final.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>1.10</num>
+    <heading>Judicial Duties and Responsibilities</heading>
+    <para>
+      <num>(A)</num>
+      <text>The Chief Judge and all Judges shall perform the following duties:</text>
+      <para>
+        <num>(1)</num>
+        <text>Hear and decide all matters fairly and promptly.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be faithful and maintain competence in the law.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Avoid all ex parte communications which deal with any substantive matter before the Tribal Court System.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Issue written decisions and/or orders within forty-five (45) days of a hearing or 	trial requiring a decision or order.  The Chief Judge or Judge may delegate the task of 	preparing an order to a plaintiff or defendant, but a Chief Judge or Judge may not delegate 	the task of writing a decision to a plaintiff or defendant.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Manage cases.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>In addition to the duties described in Subsection (A) above, a Chief Judge shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Manage the Tribal Court System budget.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Manage the operation of the Tribal Court System.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Manage and supervise the staff of the Tribal Court System.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Implement and manage a system of licensing attorneys, guardians ad litem and lay advocates for practice before the Tribal Court System.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Each year, every Chief Judge and Judge shall attend at least fifteen (15) hours of continuing education.  The Chief Judge or Judge shall provide proof of attendance to the Clerk of Court by December 31<sup>st</sup>.  The Clerk of Court shall maintain such proof in a file at the Tribal Court System.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.11</num>
+    <heading>Tribal Court System Personnel and Practice before the Tribal Court System</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Tribal Prosecutor.</heading>
+      <text>The Tribal Council shall appoint a person or persons to represent the Stockbridge-Munsee Community in prosecuting cases before the Tribal Court System.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Prosecutor shall be appointed by the Tribal Council pursuant to tribal personnel policy.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Prosecutor may be removed for cause by the Tribal Council upon 5/7 vote of the Council.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Prosecutor shall have the power to issue complaints on the basis of his/her own investigation or on the basis of information furnished by enforcement officers or others.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Prosecutor shall have discretion to decline to prosecute an action where he/she shall find that there is not sufficient justification for the complaint.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Prosecutor shall represent the people of the Stockbridge-Munsee Community in all proceedings in the Tribal Court System in which the Tribe is a party, acting on their behalf and in their best interests.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The Prosecutor shall be empowered to establish policies and procedures not 	inconsistent with tribal law necessary to carry out the duties of office.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Prosecutor shall receive such compensation as shall be set by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>An attorney from the Stockbridge-Munsee Legal Department may serve as Prosecutor and his or her regular salary shall constitute compensation by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>A special prosecutor may be retained by the Tribal Counsel to prosecute cases involving a member of the Tribal Council or if the Prosecutor and all in-house attorneys are unable to represent the Tribe in a case.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Clerk of Court.</heading>
+      <text>The Chief Judge shall hire one individual to serve as Clerk of Court and may hire additional Deputy Clerks of Court as necessary.  The job description for the Clerk of Court and Deputy Clerk shall be approved by the Tribal Council and shall not be subject to change by the Chief Judge.  The Chief Judge shall consult with the Tribe's Human Resources Department when hiring a Clerk of Court or Deputy Clerk.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Clerk of Court or any Deputy Clerk of Court shall not have been convicted of, or entered a plea of no contest to, any felony and shall obtain an Elder Youth License from the Tribe prior to the start of employment.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In addition to the duties the Clerk of Court shall comply with in the job description for the position, the Clerk of Court shall have a statutory duty to perform the following tasks:</text>
+        <para>
+          <num>(a)</num>
+          <text>Schedule and prepare the courtroom for every proceeding and maintain and enforce courtroom protocols.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Develop and maintain and up-to-date list of all lay advocates, attorneys, peacemakers, and guardians ad litem.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Accept pleadings on behalf of the Tribal Court System and ensure pleadings are properly logged in case files.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Ensure timely delivery of all orders and judgments of the Tribal Court System to appropriate parties and entities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Clerk of Court or any Deputy Clerk of Court shall not practice law as a lawyer or an advocate before the Tribal Court System, shall not act as a peacemaker under the Peacemaker Ordinance, and shall not serve on the Tribal Council while Clerk of Court or Deputy Clerk of Court.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Guardians ad Litem and Lay Advocates.</heading>
+      <text>The Clerk of Court shall maintain a list of all individuals approved by the Tribal Court System to act as guardian ad litem and lay advocate.  In order to serve as guardian ad litem or lay advocate, an individual must be approved by the Chief Judge and must meet the following qualifications:</text>
+      <para>
+        <num>(1)</num>
+        <text>A Guardian ad Litem must hold an elder youth license pursuant to tribal law, and a lay advocate must hold an elder-youth license prior to representing any client in a case involving Chapters 7, 8, 10, 12, 13, 14, 15, or 66 of Stockbridge-Munsee tribal law;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Demonstrate successful completion of a Guardian ad Litem or Lay Advocate training course within the prior year from a training program approved by the Judiciary Commission;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be licensed to practice before the Tribal Court System.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>1.12</num>
+    <heading>Rule-Making Power</heading>
+    <para>
+      <num>(A)</num>
+      <text>The Tribal Court System may from time to time prescribe Rules of Procedure for the conduct of Tribal Court System business.  Such rules shall be consistent with tribal law.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.13</num>
+    <heading>Contempt of Court</heading>
+    <para>
+      <num>(A)</num>
+      <text>A Judge may find an individual in contempt of court if the individual willfully obstructs judicial proceedings.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Prior to imposing any punishment for contempt of court, the Judge shall provide the individual notice of the charges and an opportunity to be heard on the record.  Said notice and opportunity to be heard may occur in the same court proceeding or may be scheduled to be heard at a subsequent proceeding.</text>
+    </para>
+  </section>
+  <section>
+    <num>1.14</num>
+    <heading>Ethical Rules for Tribal Court System Judges</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Preface to Ethics Code.</heading>
+      <text>These rules set standards of judicial conduct for Chief Judges and Judges. The purpose of these rules is to encourage a spirit of impartiality toward individuals involved in proceedings before the Tribal Court System and to ensure fundamental fairness and due process in all Tribal Court System proceedings.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Who is Bound by These Rules.</heading>
+      <text>These rules apply to any Chief Judge, Judge, Substitute Judge or judge serving on the Court of Appeals.  Any judge serving in the Tribal Court System:</text>
+      <para>
+        <num>(1)</num>
+        <text>is required to comply with these rules;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>shall not practice law either as a lawyer or an advocate:</text>
+        <para>
+          <num>(a)</num>
+          <text>in the Tribal Court System, or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>in any court or as part of any administrative hearing process subject to the appellate jurisdiction of the Tribal Court System;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>shall not act as a lawyer or advocate in a proceeding in which he or she has served or in any related proceeding.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Honesty and Independence of the Stockbridge-Munsee Judiciary.</heading>
+      <text>Judges in the Tribal Court System shall uphold the integrity and independence of the Tribal Court System. An independent and honorable Tribal Court System is essential to justice in the tribal community. All judges shall help create and maintain such a Tribal Court System, and shall observe high standards of conduct toward achieving this goal.</text>
+      <para>
+        <num>(1)</num>
+        <text>A Chief Judge, Judge or Substitute Judge shall encourage a separation between the judicial branch and other branches of tribal government, and shall avoid any contact or duty that violates such a separation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Chief Judge, Judge or Substitute Judge shall not participate in legislative or executive decision making except where such participation is in accordance with the tradition of the Tribe.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <heading>Impropriety and the Appearance of Impropriety.</heading>
+      <text>All judges in the Tribal Court System shall avoid impropriety and the appearance of impropriety in all his/her activities.</text>
+      <para>
+        <num>(1)</num>
+        <text>All judges shall respect and comply with the laws and traditions of the Tribe and shall at all times act in a manner that promotes public confidence in the honesty and impartiality of the Stockbridge-Munsee judiciary.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All judges shall not allow family social or other personal relationships to influence his/her judicial conduct.  He/she shall not attempt to use the prestige of his/her office to advance the private interests of others; nor shall he/she convey the impression that anyone has special influence on the Judge.</text>
+      </para>
+    </para>
+    <para>
+      <num>(E)</num>
+      <heading>Diligence and Impartiality.</heading>
+      <text>All Judges in the Tribal Court System shall perform the duties of the office impartially and diligently.</text>
+      <para>
+        <num>(1)</num>
+        <text>All judges in the Tribal Court System shall adhere to the laws of the Tribe. Decisions shall not be influenced by partisan interests, public clamor, political pressure, or fear of criticism. All judges in the Tribal Court System shall resist influences on the Tribal Court System by other tribal officials, governmental officials or any others attempting to improperly influence the Tribal Court System.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All judges shall be patient, dignified and courteous to litigants, witnesses, lawyers, advocates and others with whom he/she deals in his/her official capacity and shall require similar conduct of other persons in Tribal Court System proceedings including the conduct of Tribal Court System personnel who are subject to the direction and control of the judges.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All judges shall give to every person who is a legally interested party in a proceeding or his/her representative, the right to be heard according to tribal law and tradition. All judges shall avoid out-of-court or other communications with tribal officials, agents, or others concerning a pending proceeding unless all parties to the proceeding are present or represented, except for scheduling or other administrative matters.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All judges in the Tribal Court System shall maintain order as part of proceedings before the court. Judges shall not interfere in proceedings except where necessary to protect the rights of the parties. Judges shall not assume an advocate's role and shall rely on only those procedures prescribed by the laws of the Tribe.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>All judges shall dispose promptly of the business of the court.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>All judges in the Tribal Court System shall not comment publicly on any proceeding pending in the Tribal Court System and shall also prohibit other Tribal Court personnel from such public comment.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>All judges in the Tribal Court System shall diligently perform his/her administrative 	responsibilities.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A Chief Judge shall require his/her staff and Tribal Court System officials to observe high standards of honesty and diligence.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Any judge in the Tribal Court System shall recuse himself/herself in a proceeding in which his/her impartiality might reasonably be questioned, including instances where:</text>
+        <para>
+          <num>(a)</num>
+          <text>the judge has a personal bias or prejudice concerning a party or personal knowledge of disputed evidentiary facts;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>the judge served as lawyer, advocate, or personal representative in the matter before the Tribal Court System, or a person with whom the judge has been directly associated in a professional capacity served as a lawyer, advocate or personal representative concerning the matter;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>the judge knows that he/she individually (or any member of the family of the judge), residing in his/her household has a financial interest in the subject matter in controversy or is a party to the proceeding, or has any other interest that could be substantially affected by the proceedings;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>the judge or the spouse, partner or a person in a reasonably close family relationship to the judge:</text>
+          <para>
+            <num>i.</num>
+            <text>is a party to the proceeding, or an officer, director, or trustee of a party;</text>
+          </para>
+          <para>
+            <num>ii.</num>
+            <text>is acting as a lawyer or advocate in the proceeding;</text>
+          </para>
+          <para>
+            <num>iii.</num>
+            <text>is known by the judge to have an interest that could be substantially affected by the outcome of the proceeding; or</text>
+          </para>
+          <para>
+            <num>iv.</num>
+            <text>is likely to be a material witness in the proceeding.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Any judge in the Tribal Court System disqualified by the terms of Section 1.14(E) (9)(c) or (d) above may, instead of withdrawing from the proceeding, disclose on the record the basis of his or her disqualification. If, based on such disclosure, the parties and lawyers all agree on the record and in writing that participation by the judge is not prejudicial or that the judge is no longer disqualified and may participate in the proceeding. The agreement, signed by all parties and lawyers, shall be incorporated in the record of the proceeding.</text>
+      </para>
+    </para>
+    <para>
+      <num>(F)</num>
+      <heading>Improvement of the Legal System.</heading>
+      <text>All judges in the Tribal Court System may engage in activities to improve the law, the legal system and the administration of justice. A judge may engage in the following activities, if in doing so, he/she does not cast doubt on his/her capacity to decide impartially any issue that may come before the Tribal Court System:</text>
+      <para>
+        <num>(1)</num>
+        <text>The judge may speak, write, lecture, teach and participate in other activities concerning tribal law and custom, the legal system of the Tribe and the administration of justice.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The judge may appear at a public hearing before a tribal executive or legislative body or official on matters concerning the Tribal Court System and the administration of justice, and he/she may otherwise consult with a tribal executive or legislative body or official but only on matters concerning the general administration of justice.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The judge may serve as a member, officer, or director of an organization devoted to the improvement of tribal law, its legal system or the administration of justice.  A judge may not serve as a member, officer or director of any other tribal governmental entity.</text>
+      </para>
+    </para>
+    <para>
+      <num>(G)</num>
+      <heading>Extra-judicial Activities.</heading>
+      <text>A Chief Judge, Judge and Substitute Judge shall regulate his/her extrajudicial activities to minimize the risk of conflict with judicial duties.</text>
+      <para>
+        <num>(1)</num>
+        <text>A Chief Judge, Judge or Substitute Judge may write, lecture, teach and speak on non-legal subjects, and engage in the arts, sports, and other social and recreational activities of the Tribe, if these activities do not interfere with the performance of his/her duties.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Chief Judge, Judge or Substitute Judge may participate in civic, charitable, and other tribal activities that do not reflect upon his/her impartiality or interfere with the performance of his/her judicial duties. However, such participation shall not occur with respect to an organization which will likely be involved in proceedings in the Tribal Court System.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A Chief Judge, Judge or Substitute Judge shall avoid financial and business dealings that tend to reflect adversely on his/her impartiality, interfere with the performance of his/her judicial duties, exploit his/her judicial position, or involve him/her in frequent transactions with lawyers or others likely to come before the Tribal Court System.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Except as allowed by the laws and traditions of the Tribe, neither a Chief Judge, Judge or Substitute Judge nor a member of his/her immediate family residing in the household shall accept a gift, bequest, favor, or loan from anyone which would affect or appear to affect his/her impartiality in judicial proceedings, or on the appearance of fairness of the Chief Judge, Judge or Substitute Judge.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A Chief Judge or Judge may represent the Tribe on ceremonial occasions or in 	connection with historical, educational, and cultural activities.</text>
+      </para>
+    </para>
+    <para>
+      <num>(H)</num>
+      <heading>Political Activities of Chief Judges and Judges.</heading>
+      <text>A Chief Judge and Judge shall refrain from political activity inappropriate to his/her judicial office.</text>
+      <para>
+        <num>(1)</num>
+        <heading>Political conduct in general.</heading>
+        <text>A Chief Judge or Judge shall not engage in any tribal political activity except on behalf of measures to improve the law, the tribal legal system, or the administration of justice.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Campaign Conduct.</heading>
+        <text>Candidates for election as Chief Judge may campaign for office, but shall comply with the following standards:</text>
+        <para>
+          <num>(a)</num>
+          <text>Maintain the dignity appropriate to judicial office and shall refrain from any political activity that might interfere with the performance of his/her judicial duties.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Encourage members of his/her family to adhere to the same standards of political conduct that apply to him/her.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Not make pledges or promises of conduct in judicial office or than the faithful and impartial performance of the duties of office.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Not announce his/her views on disputed legal or political issues.</text>
+        </para>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>1.15</num>
+    <heading>Court Costs and Fees</heading>
+    <para>
+      <num>(A)</num>
+      <text>The minimum filing fee to initiate a civil cause of action shall be thirty-five dollars ($35.00), however, the Chief Judge may set a higher filing fee.  Additionally, the Chief Judge shall set a schedule of other filing fees and costs for the administration of the Tribal Court System.  All sums collected by the Tribal Court System under this Section shall be deposited to the Tribe's general account.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>In addition to such other costs as may be assessed by the Tribal Court System, a defendant found liable in a forfeiture action shall pay costs in an amount set by the Trial Court, but not less than twenty dollars ($20.00).</text>
+    </para>
+  </section>
+  <section>
+    <num>1.16</num>
+    <heading>Amendments and Severability</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Amendments.</heading>
+      <text>Amendments to these rules will be effective upon enactment by the Stockbridge-Munsee Community Tribal Council without further review by the Secretary of the Interior.</text>
+      <para>
+        <num>(1)</num>
+        <text>All amendments to this ordinance shall have prospective effect.</text>
+        <para>
+          <num>(a)</num>
+          <text>When qualifications for judicial office or for court personnel are amended, persons filling the position(s) at the time the amendments are approved are allowed to complete their term of service under the qualifications in place at the time they began their term of service.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Guardians ad litem and lay advocates who cannot hold an elder-youth license, but who are actively engaged in a case or cases before the Tribal Court System at the time of the enactment of Section 1.11(C)(1) requiring an elder-youth license may complete their representation or assignment in the given case or cases.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Severability.</heading>
+      <text>If any section, provision, or portion of these rules is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of these rules will not be affected thereby. The Tribe declares there is no liability on the part of the Tribe, its agencies, or employees for damages that may occur as a result of reliance upon or conformance with these rules.</text>
+    </para>
+  </section>
+  <annotations>
+    <annotation type="Editor's Notes">1. A Court Code was adopted on October 4, 1988 by the Tribal Council, Resolution No. 1109.</annotation>
+    <annotation type="Editor's Notes">2. Amendments to the Court Code were adopted and renumbered as Chapter 1 in 1995.</annotation>
+    <annotation type="Editor's Notes">3. On September 2, 1997, Tribal Council amended Section 1.6, through Resolution No. 0246-97.</annotation>
+    <annotation type="Editor's Notes">4. On November 19, 2002, Tribal Council amended by adding Section 1.10(D) [notice to Tribe], Resolution No. 070-02.  Approval by BIA on December 27, 2002.</annotation>
+    <annotation type="Editor's Notes">5. On March 4, 2004, Tribal Council amended by creating Section 1.13(G) [Harassment Temporary Restraining Orders and Injunctions], Resolution No. 06-04.  Approval by BIA on March 29, 2004.</annotation>
+    <annotation type="Editor's Notes">6. On October 11, 2006, Tribal Council amended by deleting Section 1.2(B); amends Section 1.13(G)(5)(C) and Section 1.33(E), Resolution No. 07-001.  Approved by BIA on April 9, 2007.</annotation>
+    <annotation type="Editor's Notes">7. Tribal Council amended on June 2, 2009, by Resolution No. 058-09, making the following changes.  Creating new Sections 1.4(B), 1.5(I), 1.6(DD), 1.6(L)(1)-(6), 1.6(N), 1.6.5, 1.8(J), 1.9(D), 1.31.5, 1.33(F), 1.33(G), and 1.34(F).  Amending Sections 1.4(A), 1.5(A), 1.5(B), 1.5(H), 1.6(C)(1), 1.6(E), 1.6(F), 1.6(H), 1.6(I), 1.6(M), 1.6(N), 1.8(H), 1.8(I), 1.9(A), 1.10(B)(3), 1.12, 1.22(A)(1), 1.22(B), and 1.22(C).  Making technical changes to Sections 1.6(C)(5)-(6), 1.15, 1.22(D) and the Legislative History.  Approved by the BIA, Great Lakes Agency, on June 16, 2009 (no comments from Minneapolis Regional Office during 90-day comment period).</annotation>
+    <annotation type="Editor's Notes">8. Tribal Council, on March 17, 2015, posted for comment whole-scale revisions amending Chapter 1 by adding a new Section 1.7 to creating an elected Judiciary Commission responsible for selection of judges and judiciary oversight; removing Sections 1.6.5, 1.7, 1.10, 1.11, 1.13. 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20, 1.29, 1.3, 1.31.5, 1.32, 1.33 and 1.34 to be addressed in a new civil procedure ordinance; as well as amending and renumbering the remaining sections.</annotation>
+    <annotation type="Editor's Notes">Following review of comments, the Tribal Council made additional amendments to provide for a process for the direct election of the Chief Judge, clarifying revised requirements for judicial office and court personnel (including implementation of such requirements), providing due process when the Judiciary Commission disciplines judges, addresses court funding and fees, and clarifying contempt of court.  These additional amendments were posted for comment on January 19, 2016.</annotation>
+    <annotation type="Editor's Notes">On March 15, 2016, the Tribal Council by Resolution No. 037-16 adopted amendments to Chapter 1, Court Code, that made the following whole-scale changes:</annotation>
+    <annotation type="Editor's Notes">Repealed the existing headings and sections of the ordinance other than Sections 1.1, 1.3, 1.12, 1.21, 1.23, 1.24, 1.28 and 1.35.</annotation>
+    <annotation type="Editor's Notes">Removed Sections 1.6.5, 1.7, 1.10, 1.11, 1.13. 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20, 1.29, 1.3, 1.31.5, 1.32, 1.33 and 1.34 to be addressed in Chapter 5, Civil Procedure Ordinance.</annotation>
+    <annotation type="Editor's Notes">Renumbered sections and updated terminology throughout entire document.</annotation>
+    <annotation type="Editor's Notes">Adopted new Sections 1.3, 1.4, 1.5, 1.6, 1.9, 1.11, 1.14 and 1.15 that are amended versions of prior court code language.</annotation>
+    <annotation type="Editor's Notes">Adopted new Section 1.7 establishing an elected Judiciary Commission, who is responsible for selection of Judges (other than Chief Judge) and judiciary oversight.</annotation>
+    <annotation type="Editor's Notes">Adopted new Section 1.8 providing for direct election of a Chief Judge.</annotation>
+    <annotation type="Editor's Notes">Adopted new Section 1.10 outlining judicial duties and responsibilities.</annotation>
+    <annotation type="Editor's Notes">Adopted new Section 1.13 addressing contempt of court authority.</annotation>
+    <annotation type="Editor's Notes">Adopted new subsections 1.16 (A)(1)(a)-(b) addressing implementation of the amendments.</annotation>
+    <annotation type="Editor's Notes">Per Section 1.16(A), which was retained and was Section 1.35(A) prior to renumbering, this ordinance is effective upon enactment by the Stockbridge-Munsee Community without further review by the Secretary of Interior.</annotation>
+    <annotation type="Editor's Notes">Posting of revised ordinance withheld pending approval of a new Chapter 5, Civil Procedure Ordinance, that moved civil procedure sections to new ordinance.  New Chapter 5 approved by the BIA on August 3, 2017.</annotation>
+    <annotation type="Editor's Notes">9. On August 7, 2017, added Legislative Note correcting typo in Section 1.11 (C)(1).</annotation>
+    <annotation type="Editor's Notes">10. On March 6, 2018, the Tribal Council adopted Resolution 027-18, adopted amendments to Section 1.9 that establishes the Court of Appeals as a 3-judge appellate panel appointed by the Tribal Council for 3-year terms with the Chief Justice of the Court of Appeals rotating each year.  The amendments also created a new process for appeals where the Chief Judge of the panel solely presides over appeals unless there is a request for a 3-judge panel.  Per Section 1.16 (A), this ordinance is effective upon enactment of the Tribal Council.</annotation>
+  </annotations>
+</container>

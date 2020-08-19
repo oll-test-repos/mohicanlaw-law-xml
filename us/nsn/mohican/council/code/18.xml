@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+  <prefix>Chapter</prefix>
+  <num>18</num>
+  <heading>DOOR TO DOOR SALES ORDINANCE</heading>
+  <section>
+    <num>18.1</num>
+    <heading>Council Findings</heading>
+    <text>Tribal Council finds that the Community will benefit from regulations governing the conduct of persons who are engaged in the business of door to door sales.  Door to door sales often involve the sales person contacting Tribal members at the Tribal Member's residence.  These sales contacts are often unsolicited and Tribal members and their families have indicated a desire to regulate the conduct of door to door sellers.  Unregulated door to door sellers threaten or directly affects the political integrity, the economic security, and/or the heath and welfare of the Tribe.</text>
+  </section>
+  <section>
+    <num>18.2</num>
+    <heading>Interpretation</heading>
+    <text>This Ordinance should be interpreted to give the consumer the broadest rights possible and should be construed broadly to accomplish this purpose.</text>
+  </section>
+  <section>
+    <num>18.3</num>
+    <heading>Definitions</heading>
+    <para>
+      <num>(A)</num>
+      <text>"Consumer" means an individual to whom a seller offers to sell, sells, lease, or promote the sale of goods or services.  "Consumer" does not include an individual who regularly purchases goods or services in a business or Tribal capacity, or for resale to others.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>"Consumer goods or services" means good or services typically (but not always) used for personal, family, or household purposes.  "Consumer goods or services" includes, but is not limited to personal investment opportunities, personal business opportunities, personal training courses, cemetery lots, funeral services, real estate and timeshares but does not include goods or services offered for sale to a business or to the Tribe.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>"Direct Marketer" means a person engaged in a face-to-face solicitation.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>"Disclose" means to make a clear and conspicuous oral and written statement that is reasonably designed to be noticed and readily understood by the consumer.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>"Face-to-face solicitation" means solicitation (as defined in Section 18.3(M)) that a seller makes in a person-to-person encounter with a consumer.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>"Face-to-face transaction" means any of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A face-to-face solicitation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Purchase contracts and other dealings that result from a face-to-face solicitation.</text>
+      </para>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>"Person" means an individual, corporation, partnership, cooperative association, limited liability company, trust or other organization or entity.</text>
+    </para>
+    <para>
+      <num>(H)</num>
+      <text>" Purchase" means to buy or lease consumer goods or services.</text>
+    </para>
+    <para>
+      <num>(I)</num>
+      <text>"Purchase contract" means an agreement to purchase consumer goods or services, regardless of whether that agreement is subject to a later right of cancellation.  Purchase contract includes a purchase commitment that arises under any of those agreements as a result of a consumer's subsequent action, non-action or omission.  Purchase contract does not include the following agreements:</text>
+      <para>
+        <num>(1)</num>
+        <text>An agreement authorizing the trial delivery of consumer goods or services which the consumer has not yet agreed to purchase, provided that the agreement includes no minimum purchase requirement.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An negative option plan that complies with 16 CFR 425, or similar regulation, or law.</text>
+      </para>
+    </para>
+    <para>
+      <num>(J)</num>
+      <text>"Sale" means the passing of an ownership or leasehold interest in consumer goods or services to a consumer for consideration.</text>
+    </para>
+    <para>
+      <num>(K)</num>
+      <text>"Sell" means to engage in the sale of consumer goods or services, or to accept payment pursuant to a purported sale of consumer goods or services.</text>
+    </para>
+    <para>
+      <num>(L)</num>
+      <text>"Seller" or "door to door seller or sale" means a person who is engaged in the business of selling, offering to sell, or promoting the sale of consumer goods or services to consumers.  "Seller" includes, but is not limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>A person who accepts payment for a purported sale of consumer goods or services to a consumer.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An employee or agent of the seller.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A direct marketer working with, or any other arrangement with a seller.</text>
+      </para>
+    </para>
+    <para>
+      <num>(M)</num>
+      <text>"Solicitation" means a communication received by a consumer at a place other than the seller's regular place of business, in which a seller offers or promotes the sale of consumer goods or services to a consumer, or which is part of a seller's plan or scheme to sell consumer goods or services to a consumer.  "Solicitation" does not include any of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A mass advertisement.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A telephone, mail, or electronic communication initiated by the consumer, unless prompted by the seller's prior solicitation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A written communication that invites a consumer to the seller's regular place of business.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A communication at an established public gathering, pow-wow or similar event, unless that communication was prompted by the seller's prior solicitation to the consumer.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The delivery of goods or services to a consumer previously sold to the consumer in a transaction other than a telephone, mail, or face-to-face transaction.</text>
+      </para>
+    </para>
+    <para>
+      <num>(N)</num>
+      <text>"Written" or "in writing" means legibly printed on paper or another tangible non-electronic medium that is delivered to the consumer, or legibly printed in an electronic form that the consumer can electronically retrieve, store, or print for future reference.</text>
+    </para>
+  </section>
+  <section>
+    <num>18.4</num>
+    <heading>Applicability</heading>
+    <text>This Ordinance is applicable to face-to-face transactions arising within the reservation as established by the 1856 Treaty between the United States and the Stockbridge Indians.  This Ordinance does not apply to face-to-face solicitations initiated by sellers who volunteer for charities, are selling on behalf of the charity, and the proceeds will go to the charity.  This Ordinance does not apply to pow-wows, fundraisers, or other similar events.</text>
+  </section>
+  <section>
+    <num>18.5</num>
+    <heading>Opening Disclosures</heading>
+    <para>
+      <num>(A)</num>
+      <text>In a face-to-face solicitation, a seller shall disclose all of the following to the consumer:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of the principle seller.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The name of the individual making the face-to-face solicitation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>That the seller is offering or promoting the sale of consumer goods or services.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The nature of the goods or services which the seller is offering or promoting.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>A seller shall make the opening disclosure before asking any questions or making any statements to a consumer, other than an initial greeting.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>A seller shall not use any fictitious name in the opening disclosure, except that a seller may use a trade name if all of the following apply:</text>
+      <para>
+        <num>(1)</num>
+        <text>The seller is widely known by and consistently does business under that name.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The name does not have the tendency or capacity to confuse or mislead the consumer as to the seller's true identity.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>18.6</num>
+    <heading>Disclosures Prior to Sale</heading>
+    <para>
+      <num>(A)</num>
+      <text>In a face-to-face transaction, a seller shall disclose all of the following to a consumer before the consumer enters into any purchase contract, and before the seller takes the consumer's credit card number or accepts any payment from the consumer:</text>
+      <para>
+        <num>(1)</num>
+        <text>The nature and quantity of consumer goods or services included in the sale.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The total cost to purchase and receive the consumer goods or services.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All materials terms and conditions affecting the sale, receipt or use of any consumer goods or services, including credit terms if any as required by any applicable law.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The name, mailing address and telephone number of the principle seller.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The seller's policy related to refunds, cancellations, exchanges or repurchases if any of the following apply:</text>
+        <para>
+          <num>(a)</num>
+          <text>The seller has a policy that prevents or substantially limits refunds, cancellations, exchanges or repurchases.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The seller makes any claim or representation regarding refunds, cancellations, exchanges or repurchases.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The buyer's right to cancel the transaction by midnight of the 3<sup>rd</sup> business day.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Whenever a consumer signs any written agreement in a face-to-face transaction, the seller shall provide the consumer with a true copy of that agreement.</text>
+    </para>
+  </section>
+  <section>
+    <num>18.7</num>
+    <heading>Unauthorized Payment</heading>
+    <text>No seller in a face-to-face transaction may obtain or submit for payment any check, draft or other negotiable instrument drawn on a consumer's account without the consumer's express authorization.  Express written authorization may include the consumer's signature on the check, draft or other negotiable instrument.</text>
+  </section>
+  <section>
+    <num>18.</num>
+    <heading>8 Misrepresentations Prohibited</heading>
+    <para>
+      <num>(A)</num>
+      <text>No seller may do any of the following, directly or by implication, in a face-to-face transaction:</text>
+      <para>
+        <num>(1)</num>
+        <text>Misrepresent a seller's identity, affiliation, location, or other characteristics.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Misrepresent the nature, purpose, or intended length of a face-to-face transaction.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Misrepresent the nature or terms of a face-to-face transaction, or any document related to that transaction.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Misrepresent the cost of goods or services offered or promoted by a seller, or fail to disclose all costs payable by the consumer.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Misrepresent the nature, quantity, material characteristics, performance or efficacy of the goods or services offered or promoted by the seller.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Misrepresent or fail to disclose material restrictions, limitations or conditions on the purchase, receipt, use or return of goods or services offered or promoted by the seller.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Misrepresent the material terms of the seller's refund, cancellation, exchange, repurchase or warranty policies.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Misrepresent that a seller is offering consumer goods or services free of charge or at a reduced price.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Misrepresent that a seller is affiliated with, or endorsed by, any government or 3<sup>rd</sup>-party organization.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Represent that the seller has specially selected the consumer unless the representation is true and the seller concurrently discloses to the consumer the specific basis on which the seller makes the representation.  The seller may not misrepresent that basis.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Represent that the seller is conducting a special sales promotion, is making a special offer limited to a few persons, is making a special offer for a limited period of time, or is authorized to place the offered goods or services in a limited number of homes, unless the representation is true and the seller concurrently discloses to the consumer the specific basis on which the representation is made.  The seller may not misrepresent that basis.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Represent that the seller is participating in a contest or conducting a survey unless the representation is true and all of the following and all of the following apply:</text>
+        <para>
+          <num>(a)</num>
+          <text>The seller first makes all of the opening disclosures under section 18.5.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The seller concurrently discloses the name of the contest or survey sponsor, and the specific terms of the contest or survey.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The seller concurrently discloses that the seller is attempting to sell goods or services, or to obtain information to identify sales prospects, if that is the case.</text>
+        </para>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Misrepresent any material aspect of a personal investment opportunity offered to the consumer, including any aspect such as risk, liquidity, earnings potential, or profitability.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Fail to disclose in connection with every purported offer of free goods or services in a face-to-face transaction, any costs that the consumer may incur, or any conditions that the consumer must meet in order to receive these free goods or services.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Make any false, deceptive or misleading representation to a consumer.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>18.9</num>
+    <heading>Prohibited Practices</heading>
+    <para>
+      <num>(A)</num>
+      <text>No seller may do any of the following in a face-to face transaction:</text>
+      <para>
+        <num>(1)</num>
+        <text>Threaten, intimidate or harass a consumer.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Fail to leave a consumer's premises immediately upon request.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Request or receive payment for seeking or arranging a loan or extension of credit until the consumer actually receives that loan or extension of credit.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Fail to disclose the consumer's right to cancel within the 3<sup>rd</sup> business day following a sale.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Fail to honor the consumer's right to cancel within the 3<sup>rd</sup> business day following a sale.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>18.10</num>
+    <heading>Remedies and Jurisdiction</heading>
+    <para>
+      <num>(A)</num>
+      <text>Sellers who perform direct marketing and/or solicitation within section 18.4 consent to the jurisdiction of the Stockbridge-Munsee Community and the Stockbridge-Munsee Tribal Court.</text>
+      <para>
+        <num>(1)</num>
+        <text>Tribal Police, or any other police officer, have the authority to enforce any provision of this Ordinance, including but not limited to removing a seller from a consumer's premises and issuing citations.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>In addition to any other rights, consumers or family member residing with the consumer, have the right to bring a private cause of action against a seller for any violation of this Ordinance in Tribal Court.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Tribal Court may award actual damages, punitive damages, and any other award or remedy the court deems just.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The Tribe may bring a cause of action against any seller violating this Ordinance in Tribal Court.</text>
+      <para>
+        <num>(1)</num>
+        <text>Violations of this Ordinance shall be subject to a forfeiture of up to $1,000.00 for each separate violation.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>18.11</num>
+    <heading>Severability</heading>
+    <text>If a court of competent jurisdiction finds any portion of this Ordinance illegal, the remaining portions of this Ordinance shall remain unaffected and remain in force.</text>
+  </section>
+  <section>
+    <num>18.12</num>
+    <heading>Effective Date</heading>
+    <text>This Ordinance shall take effect 5 calendar days after Bureau of Indian Affairs approval.</text>
+  </section>
+  <annotations>
+    <annotation type="Editor's Notes">Adopted by Tribal Council on June 20, 2000 by Resolution No. 037-2000.</annotation>
+    <annotation type="Editor's Notes">Approved by BIA, July 13, 2001</annotation>
+  </annotations>
+</container>

@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+  <prefix>CHAPTER</prefix>
+  <num>10</num>
+  <heading>YOUTH CODE</heading>
+  <heading>TERMINATION OF PARENTAL RIGHTS</heading>
+  <section>
+    <num>10.1</num>
+    <heading>Starting an Action for Termination of Parental Rights.</heading>
+    <para>
+      <num>(A)</num>
+      <heading>Petition:</heading>
+      <text>A proceeding to terminate parental rights shall be initiated by filing a petition with the Court.  The petition shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name, birth date, residence, and tribal status of the youth who is the subject of the petition;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The name, birth date, residence, and tribal status, if known, of the Youth's parent(s), guardian or custodian;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the youth is residing with someone other than a parent, the location and length at that location; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A concise statement of the facts and reasons supporting request that parental rights be terminated.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <heading>Setting the Hearing:</heading>
+      <text>When the Court receives the petition, it shall set a date for the termination hearing, which shall not be more than sixty (60) days after the Court receives the petition.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <heading>Notice of Hearing:</heading>
+      <text>Notice of hearing shall be served on all parties in the manner specified under Section 7.12 of Chapter 7.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
+      <para>
+        <num>(1)</num>
+        <text>The youth;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The youth's parent(s), guardian or custodian;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any person the Court deems necessary for proper adjudication; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any person the parties believe necessary for the hearing.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Pre-termination Report - Preparation:  The Indian Child Welfare Worker, in consultation with the Social Services Staff and/or Child Protective Board, shall prepare a pre-termination report.  In preparing the report the Indian Child Welfare Worker shall consult with the Youth╒s parents, guardian, or custodian and all social services, health, law enforcement and education personnel who have had prior professional contacts with the youth and his or her parent(s), guardian or custodian to determine whether termination of parental rights would be in the best interest of the youth.  The Indian Child Welfare Worker may also review any pertinent court record.  In addition, the Indian Child Welfare Worker must obtain from the Stockbridge-Munsee Tribal Council any recommendation it may have as to disposition and any other relevant issues.  The pre-termination report shall be in writing and contain the professional opinion of all personnel consulted.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>Pre-termination Report - Service:  The Indian Child Welfare Worker shall mail the pre-termination report to the Court and all parties to the proceeding, at least ten (10) days before the hearing.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <heading>Additional Reports:</heading>
+      <text>Any party may file a pre-termination report which shall include his or her recommendations for consideration by the Court.</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>Termination Hearing - Purpose:  The Court shall conduct the termination hearing to determine whether termination of parental rights is in the best interest of the youth.</text>
+    </para>
+    <para>
+      <num>(H)</num>
+      <text>Termination Hearing - Conduct:  The hearing shall be private and closed.  The following procedural rules apply, Section 8.8 (F)-(O) of Chapter 8.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Court shall hear testimony to determine whether termination of parental rights is in the best interest of the youth.  The Court shall consider all pre-termination reports submitted for review.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All parties shall be given the opportunity to contest the factual contents and conclusions of the pre-termination reports.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>10.2</num>
+    <heading>Grounds for Termination and Burden of Proof.</heading>
+    <para>
+      <num>(A)</num>
+      <text>The Court may terminate a person's parental rights only when the following conditions have been proved beyond a reasonable doubt:</text>
+      <para>
+        <num>(1)</num>
+        <text>That termination of parental rights is in the best interest of the youth;  and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>That guardianship, rather than termination of parental rights, is not in the youth's best interest;  and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>That an appropriate adoptive home is available and that adoption proceedings have been filed in conjunction with the termination proceedings.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>In addition, the Court must find by proof beyond a reasonable doubt that:</text>
+      <para>
+        <num>(1)</num>
+        <text>the parent has consented to the termination of his or her parental rights under the terms of Section 10.3, or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>That the parent is responsible for abuse of the youth as defined in Section 10.4.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>10.3</num>
+    <heading>Consent.</heading>
+    <para>
+      <num>(A)</num>
+      <text>Consent of the parent to terminate parental rights is not valid unless:</text>
+      <para>
+        <num>(1)</num>
+        <text>It is in writing;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The parent has received counseling from the Stockbridge Munsee Community Social Services Staff on alternatives to termination such as guardianship, parental support services, and so on;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The parent orally explains his understanding of the meaning of termination of parental rights and its consequences to the Youth Court judge and the judge certifies that the terms and consequences of the consent were fully explained and were fully understood by the parent; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The consent was given no sooner than thirty (30) days after the birth of the youth.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Any consent may be withdrawn prior to the entry of a final decree of adoption and, if no other grounds exist for terminating parental rights, the child shall be returned to the parent.</text>
+    </para>
+  </section>
+  <section>
+    <num>10.4</num>
+    <heading>Abuse - Defined.-</heading>
+    <text>Abuse as a condition of termination of parental rights means: conduct resulting or likely to result in serious psychological/emotional or physical harm to a child including sexual abuse or exploitation when such conduct is engaged in or permitted by a person having care or custodial authority over such child.</text>
+  </section>
+  <section>
+    <num>10.5</num>
+    <heading>Disposition.</heading>
+    <text>If parental rights are terminated, adoption procedures shall proceed.  If parental rights are not terminated but sufficient grounds for finding the youth is in need of care have been proved to the Court, the Court may make a disposition consistent with the Youth in Need of Care provisions of this Code.</text>
+  </section>
+  <section>
+    <num>10.6</num>
+    <heading>Enrollment Prior to Entry of Termination Order.</heading>
+    <text>If a youth is eligible for enrollment in the Stockbridge-Munsee Tribe, the Indian Child Welfare Worker shall submit an application for enrollment of the youth to the Stockbridge-Munsee Community tribal enrollment clerk prior to any final order terminating parental rights.</text>
+  </section>
+</container>
