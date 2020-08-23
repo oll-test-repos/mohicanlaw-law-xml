@@ -590,17 +590,767 @@
     <para>
       <num>(B)</num>
       <text>All current applicants, employees, volunteers, volunteer organizations that are within the scope of this Ordinance must apply for an Elder/Youth license within 60 calendar days after this Ordinance takes effect.</text>
+      <text>
+        <table>
+          <tbody>
+            <tr>
+              <td>346.63</td>
+              <td proof="needed">
+                <p>OWI (F)</p>
+                <p class="text-indent-2">
+                  <strong>If with passenger &lt; 16 yoa</strong>
+                </p>
+                <p class="text-indent-2">
+                  <strong>(F)       If 3</strong>
+                  <sup>
+                    <strong>rd</strong>
+                  </sup>
+                  <strong> or greater offense</strong>
+                </p>
+              </td>
+              <td proof="needed"/>
+              <td proof="needed">
+                <p>XX</p>
+                <p>XX</p>
+              </td>
+            </tr>
+            <tr>
+              <td>346.62(4)</td>
+              <td>Reckless Driving – Causing Great Bodily Harm</td>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>346.67</th>
+              <th>Hit and Run – Causing Great Bodily Harm or Death</th>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <td>346.67</td>
+              <td>Hit and Run – Cause Bodily Harm or Property Damage</td>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>940.01</th>
+              <th>1<sup>st</sup> Degree Intentional Homicide</th>
+              <td>XX</td>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.02</th>
+              <th>1<sup>st</sup> Degree Reckless Homicide</th>
+              <td>XX</td>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td>940.03</td>
+              <td>Felony Murder</td>
+              <td>XX</td>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.05</th>
+              <th>2<sup>nd</sup> Degree Intentional Homicide</th>
+              <td>XX</td>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.06</th>
+              <th>2<sup>nd</sup> Degree Reckless Homicide</th>
+              <td>XX</td>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.07</th>
+              <td>Homicide by Negligent Control of a Dangerous Animal</td>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>940.08</th>
+              <th>Homicide by Negligent Handling of Dangerous Weapon, Explosives or Fire</th>
+              <td>XX</td>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.09</th>
+              <td>Homicide by Intoxicated Use of a Vehicle or Firearm</td>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>940.12</th>
+              <td>Assisting Suicide</td>
+              <td>XX</td>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.19(1)</th>
+              <th>Battery (Misdemeanor)</th>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>940.19(2)-(6)</th>
+              <th>Battery (Felony)</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <td>940.19(5)</td>
+              <td>Battery to an Unborn Child</td>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>940.20</th>
+              <th>Battery – Special Circumstances</th>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>940.20(3)</th>
+              <th>Battery or Threat to Witnesses</th>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>940.203</th>
+              <th>Battery or Threat to Judge</th>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>940.205</th>
+              <th>Battery or Threat to a Department of Revenue Employee</th>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>940.207</th>
+              <th>Battery or Threat to a Dept. of Commerce or DIHL Employee</th>
+              <td proof="needed"/>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>940.21</th>
+              <th>Mayhem</th>
+              <td>XX</td>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.22(2)</th>
+              <th>Sexual Exploitation by Therapist, Sexual Contact</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.22(3)</th>
+              <th>Sexual Exploitation by Therapist – Duty to Report</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.225(1)</th>
+              <th>1<sup>st</sup> Degree Sexual Assault</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.225(2)</th>
+              <th>2<sup>nd</sup> Degree Sexual Assault</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.225(3)</th>
+              <th>3<sup>rd</sup> Degree Sexual Assault</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.225(3m)</th>
+              <th>4<sup>th</sup> Degree Sexual Assault</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.23</th>
+              <th>Reckless Injury</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>940.25</th>
+              <th>Injury by Intoxicated Use of a Vehicle</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>940.285(F) (M)</th>
+              <th>Abuse of Vulnerable Adults (Felony and Misdemeanor)</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.29</th>
+              <th>Abuse of Residents of a Penal Facility</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.291</th>
+              <td>Law Enforcement – Failure to Render Aid</td>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.295 (F) (M)</th>
+              <th>Abuse/Neglect of Patients and Residents</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.30</th>
+              <th>False Imprisonment</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>940.305</th>
+              <th>Taking Hostages</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.31</th>
+              <th>Kidnapping</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.32</th>
+              <th>Stalking (Felony)</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>940.32</th>
+              <th>Stalking (Misdemeanor)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>940.43</th>
+              <th>Intimidation of Witnesses</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>940.45</th>
+              <th>Intimidation of Victims (F or M)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>941.20(1)</th>
+              <th>Endangering Safety – Dangerous Weapon (M)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>941.20(2) or (3)</th>
+              <th>Endangering Safety – Dangerous Weapon (F)</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>941.21</th>
+              <th>Disarming a Peace Officer</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>941.30</th>
+              <th>Recklessly Endangering Safety</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>941.32</th>
+              <th>Administering Dangerous or Stupefying Drug</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>941.38</th>
+              <th>Criminal Gang Member Solicitation &amp; Contact</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>942.08</th>
+              <td>Invasion of Privacy</td>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>943.10(1)</th>
+              <th>Burglary</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>943.10(2)</th>
+              <th>Burglary While Armed</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>943.20</th>
+              <th>Theft</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>943.201</th>
+              <th>Misappropriation of Personal Identifying Information or Documents</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>943.23(1g, 1m,or 1r)</th>
+              <th>Operate Motor Vehicle without Owners Consent</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>943.32(1)</th>
+              <th>Robbery (F)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>943.32(2)</th>
+              <th>Robbery with a Dangerous Weapon</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>943.50</th>
+              <th>Retail Theft</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>944.20</th>
+              <th>Lewd and Lascivious Behavior</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>944.205</th>
+              <th>Photographs, Motion Pictures, Videotapes, or Other Visual Representations Showing Nudity</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>946.43</th>
+              <th>Assaults by Prisoners</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>946.74(1)</th>
+              <th>Aiding Escape from Mental Institution (Misdemeanor)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>946.74(2)</th>
+              <th>Aiding Escape from Mental Institution (Felony)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>947.013</th>
+              <td proof="needed">
+                <p>Harassment</p>
+                <p>
+                  <strong>Forfeiture</strong>
+                </p>
+                <p>
+                  <strong>Misdemeanor</strong>
+                </p>
+                <p>Felony</p>
+              </td>
+              <td proof="needed">
+                <p>XX</p>
+                <p>XX</p>
+              </td>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>948.02(1)</th>
+              <th>1<sup>st</sup> Degree Sexual Assault of a Child</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.02(2)</th>
+              <th>2<sup>nd</sup> Degree Sexual Assault of a Child</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.02(3)</th>
+              <th>Sexual Assault of a Child – Failure to Act</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.02(3m)</th>
+              <th proof="needed">
+                <p>Sexual Assault of a Child – Sexual Assault by Certain</p>
+                <p>Persons</p>
+              </th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.025</th>
+              <th>Repeated Acts of Sexual Assault of Same Child</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.03(2)</th>
+              <th>Physical Abuse of a Child - Intentional</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.03(3)</th>
+              <th>Physical Abuse of a Child – Reckless</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.03(4)</th>
+              <th>Physical Abuse of a Child – Failure to Act</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.04</th>
+              <th>Causing Mental Harm to a Child</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.05</th>
+              <th>Sexual Exploitation of a Child</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.055</th>
+              <th>Causing a Child to View or Listen to Sexual Activity</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.06</th>
+              <th>Incest with a Child</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.07</th>
+              <th>Child Enticement</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.08</th>
+              <th>Soliciting a Child fro Prostitution</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.09</th>
+              <th>Sexual Assault with a Child Age 16 or Older</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>948.095</th>
+              <th>Sexual Assault of Student by School Staff</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.10</th>
+              <th>Exposing Genitals or Pubic Area</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.11(2a)</th>
+              <th>Exposing a Child to Harmful Material (Felony)</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.11(2b)</th>
+              <th>Exposing a Child to Harmful Material (Misdemeanor)</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.12</th>
+              <th>Possession of Child Pornography</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.13</th>
+              <th>Child Sex Offender Working with Children</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.20</th>
+              <th>Abandonment of a Child</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.21</th>
+              <th>Neglecting a Child (Misdemeanor)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>948.21</th>
+              <th>Neglecting a Child – Result in Death (F)</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.22</th>
+              <th>Failure to Support (F)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>948.23</th>
+              <th>Concealing Death of Child</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.24</th>
+              <th>Unauthorized Placement for Adoption</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.30</th>
+              <th>Abduction of Another's Child; Constructive Custody</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.31</th>
+              <th>Interference with Custody by Parent or Others</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>948.35</th>
+              <th>Solicitation of a Child to Commit a Felony</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.36</th>
+              <th>Solicitation of a Chile to Commit a Class A Felony</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.40</th>
+              <th>Contribute to the Delinquency of a Minor (M)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>948.40</th>
+              <th>Contribute to the Delinquency of a Minor (F)</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>948.51</th>
+              <td proof="needed">
+                <p>Hazing</p>
+                <p>Felony</p>
+                <p>
+                  <strong>Misdemeanor</strong>
+                </p>
+              </td>
+              <td>XX</td>
+              <td>XX</td>
+            </tr>
+            <tr>
+              <th>948.60</th>
+              <th proof="needed">
+                <p>Possession of a Dangerous Weapon by Person Under 18</p>
+                <p>(Felony)</p>
+              </th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>948.605(3)</th>
+              <th>Gun-Free School Zones; Discharge of Firearm (F)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>948.61</th>
+              <th>Dangerous Weapons Other Than Firearms on School Premises</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>948.62</th>
+              <th>Receiving Stolen Property from a Child (Felony)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>********</th>
+              <td>
+                <u>ALL OTHER 948 CRIMES THAT ARE FELONIES</u>
+              </td>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>961.41(1)</th>
+              <th>Manufacture, Distribution, or Delivery</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>961.41(1m)</th>
+              <th>Possession with Intent to Manufacture, Distribute, or Deliver</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>961.41(3g)</th>
+              <th>Possession (F)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>961.43(1)(a)</th>
+              <th>Acquire or Obtain Possession of a Controlled Substance by Misrepresentation, Fraud, Forgery, Deception, or Subterfuge (Felony)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>961.43(1)(b)</th>
+              <th>To Possess/Make a Counterfeit Substance or to Duplicate the Appearance, Packaging, Form or Label of a Controlled Substance (Felony)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>961.455</th>
+              <th>Using a Child for Illegal Drug Distribution or Manufacturing Purposes</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>961.46</th>
+              <th proof="needed">
+                <p>
+                  <u>Distribution to Persons Under 18</u>
+                </p>
+                <p>(Felony)</p>
+                <p>(Misdemeanor)</p>
+              </th>
+              <td proof="needed">
+                <p>XX</p>
+                <p>XX</p>
+              </td>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>961.465</th>
+              <th>Distribution to Prisoners</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>961.49</th>
+              <th>Distribution of or Possession with Intent to Deliver at or Near Certain Places</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>961.492</th>
+              <th>Distribution of or Possession with Intent to Deliver on Public Transit (Felony)</th>
+              <td proof="needed"/>
+              <th>XX</th>
+            </tr>
+            <tr>
+              <th>961.575</th>
+              <th>Delivery of Drug Paraphernalia to a Minor (Misd)</th>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th>********</th>
+              <td>ALL OTHER 961 CRIMES THAT ARE FELONIES</td>
+              <th>XX</th>
+              <td proof="needed"/>
+            </tr>
+          </tbody>
+          <tfoot>
+            <tr>
+              <td proof="needed" colspan="4">
+                <p>**All crime convictions include attempt, conspiracy, solicitation, or party to crimes</p>
+                <p>
+                  <strong>**If conviction is from another jurisdiction and involves all elements of an above-listed crime, that</strong>
+                </p>
+                <p>
+                  <strong>conviction or plea is treated as the above-listed crime</strong>
+                </p>
+              </td>
+            </tr>
+          </tfoot>
+        </table>
+      </text>
     </para>
   </section>
   <annotations>
-    <annotation type="Editor's Notes">Adopted by Tribal Council on September 7, 1999, Resolution Number 057-99.</annotation>
-    <annotation type="Editor's Notes">Approved by BIA November 1, 1999.</annotation>
-    <annotation type="Editor's Notes">Technical changes made in footnote 1, §65.2(A), and 65.5(1).  §65.3(C) added and Appendix A moves the crime reckless driving – cause great bodily harm, felony 346.63(4) from a Category I – Permanent Bar to a Category II – Risk Review Crime on December 6, 1999, Resolution Number 082-99.</annotation>
-    <annotation type="Editor's Notes">Approved by BIA December 17, 1999.</annotation>
-    <annotation type="Editor's Notes">Technical changes made in §§65.2(A), 65.3(A)(4), 65.9(A), and 65.9(A)(2) adding to "Abuse" definition, allowing for otherwise confidential records to be available for lawful regulatory purposes, and changing a two-year limited background check to a four-year complete background check on March 21, 2000, Resolution Number 09-2000.</annotation>
-    <annotation type="Editor's Notes">Technical changes approved by BIA March 29, 2000.</annotation>
-    <annotation type="Editor's Notes">Wisconsin Department of Health and Family Services approves Tribal Elder/Youth License and Tribe as a Tribal Designated Rehabilitative Review Agency, May 8, 2000.</annotation>
-    <annotation type="Editor's Notes">On November 19, 2002, Tribal Council, by Resolution No. 071-02, amended sections 65.6(B) [90 days to 120 days], 65.6(B)(2) [90 days to 120 days], 65.8(E) [2 years to 4 years], 65.9(A)(1) [90 days to 120 days], and section 65.9(B) clarifying Compliance and Human Resources responsibilities.  Approved by BIA December 31, 2002.  Wisconsin Department of Health and Family Services notified on January 14, 2003.</annotation>
-    <annotation type="Editor's Notes">On December 16, 2003, Tribal Council, by Resolution No.  056-03, amended Section 65.9 by creating Sections 65.9(B)(1), 65.9(B)(1)(a), 65.9(B)(1)(b) and 65.9(B)(2).  Approved by BIA on January 22, 2004.</annotation>
+    <annotation type="Editor's Notes">
+      <text>Legislative History</text>
+      <text>Adopted by Tribal Council on September 7, 1999, Resolution Number 057-99.</text>
+      <text>Approved by BIA November 1, 1999.</text>
+      <text>Technical changes made in footnote 1, §65.2(A), and 65.5(1).  §65.3(C) added and Appendix A moves the crime reckless driving – cause great bodily harm, felony 346.63(4) from a Category I – Permanent Bar to a Category II – Risk Review Crime on December 6, 1999, Resolution Number 082-99.</text>
+      <text>Approved by BIA December 17, 1999.</text>
+      <text>Technical changes made in §§65.2(A), 65.3(A)(4), 65.9(A), and 65.9(A)(2) adding to "Abuse" definition, allowing for otherwise confidential records to be available for lawful regulatory purposes, and changing a two-year limited background check to a four-year complete background check on March 21, 2000, Resolution Number 09-2000.</text>
+      <text>Technical changes approved by BIA March 29, 2000.</text>
+      <text>Wisconsin Department of Health and Family Services approves Tribal Elder/Youth License and Tribe as a Tribal Designated Rehabilitative Review Agency, May 8, 2000.</text>
+      <text>On November 19, 2002, Tribal Council, by Resolution No. 071-02, amended sections 65.6(B) [90 days to 120 days], 65.6(B)(2) [90 days to 120 days], 65.8(E) [2 years to 4 years], 65.9(A)(1) [90 days to 120 days], and section 65.9(B) clarifying Compliance and Human Resources responsibilities.  Approved by BIA December 31, 2002.  Wisconsin Department of Health and Family Services notified on January 14, 2003.</text>
+      <text>On December 16, 2003, Tribal Council, by Resolution No.  056-03, amended Section 65.9 by creating Sections 65.9(B)(1), 65.9(B)(1)(a), 65.9(B)(1)(b) and 65.9(B)(2).  Approved by BIA on January 22, 2004.</text>
+    </annotation>
   </annotations>
 </container>

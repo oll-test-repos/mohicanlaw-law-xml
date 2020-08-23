@@ -1566,28 +1566,95 @@
     </section>
   </container>
   <annotations>
-    <annotation type="Editor's Notes">1. Conservation Code was adopted by Tribal Council at a meeting held November 14, 1978 (Resolution #0637).</annotation>
-    <annotation type="Editor's Notes">2. Sent to BIA - Great Lakes Agency approved on 11/17/78 by the Superintendent.</annotation>
-    <annotation type="Editor's Notes">3. Letter from Elmer T. Nitzschke, Field Solicitor to Edwin Demery, Area Director of Minneapolis Area Office on comments dated January 24, 1979.</annotation>
-    <annotation type="Editor's Notes">4. Memo from Minneapolis Area Office Director to Superintendent of Great Lakes Agency enclosed was the Solicitor's review of the S/M Conservation Code dated Feb. 9, 1979.</annotation>
-    <annotation type="Editor's Notes">5. Letter to Tribal Chairman from Acting Superintendent of Great Lakes Agency which stated the approval of the Code and Field Solicitor's comments to the Area Director dated February 15, 1979.</annotation>
-    <annotation type="Editor's Notes">6. Resolution #0641 making changes to the Conservation Code (Section 22.01) dated January 29, 1979.</annotation>
-    <annotation type="Editor's Notes">7. Resolution #0730 is adopting Forestry Committee's Policies and Procedures to govern the forestry resources dated November 8, 1980.</annotation>
-    <annotation type="Editor's Notes">8. Resolution #0746 making changes to Section 22.01 and 23.02 of the Conservation Code dated May 2, 1981.</annotation>
-    <annotation type="Editor's Notes">9. Resolution #0766-1 making changes to Section 13.02 and 13.03 of the Conservation Code dated August 8, 1981.  Resolution #0766 making changes to Section 32.04 and 32.04(a)(b) of the Conservation Code dated August 8, 1981.</annotation>
-    <annotation type="Editor's Notes">10. Resolution #1026 adding a new section titled "Denial of Permit(s)" and adding new provisions to appropriate sections dated June 2, 1987.  It was approved on June 16, 1987 by Council.</annotation>
-    <annotation type="Editor's Notes">11. Ordinance Committee approved to go to Tribal Council for review at the November 28, 1988 Committee meeting with appropriate changes.</annotation>
-    <annotation type="Editor's Notes">12. Tribal Council action to post at January 3, 1989.</annotation>
-    <annotation type="Editor's Notes">13. Tribal Council approved on February 7, 1989 - Resolution #1127.</annotation>
-    <annotation type="Editor's Notes">14. Recommended changes by the BIA passed by Tribal Council Resolution #1161 on July 18, 1989.</annotation>
-    <annotation type="Editor's Notes">15. Section 20.16 (W) and 20.23 (C) added by Council resolution 102-97, January 8, 1997.</annotation>
-    <annotation type="Editor's Notes">16. Ordinance amended by Tribal Council on February 7, 2006, Resolution No.  021-06.  All sections updated, including adding committee by-laws and adding preference section, 22.17 into ordinance.  (Section 22.17 originally approved as a policy by Council Motion, 4-3-01).</annotation>
-    <annotation type="Editor's Notes">17. Amended by Tribal Council on February 7, 2006 and June 6, 2007 by incorporating the existing forestry committee by laws, existing policies including the Tribal preference policy, and many updates throughout the existing Chapter 22, including amending 22.6, Resolution No's 021-06 and 045-06.</annotation>
-    <annotation type="Editor's Notes">18. On May 6, 2008, Tribal Council repealed existing Chapter 22 and adopted a new Chapter 22 that renumbered and had changes clarifying numerous sections and incorporated enforcement and other relevant sections of Chapter 20.  This was done by Resolution No. 031-08.  BIA reviewed Chapter 22 revisions and had comments, but did not approve the 2008 revisions.</annotation>
-    <annotation type="Editor's Notes">19. The proposed 2008 revisions were amended by the Tribal Council on September 18, 2009 through Resolution No. 083-09.   The revisions include amending Sections 22.4 (Article I.B), 22.4 (Article II.A), 22.10, 22.12(A), 22.12(B), 22.12(C)(1), and 22.13 (C)(2); creating new Sections 22.12(A)(9), 22.12(A)(10), and 22.12(C)(8); deleting Section 22.12(B)(3); and renumbering Sections 22.12(B)(4-6).</annotation>
-    <annotation type="Editor's Notes">Approved by the BIA on April 16, 2012, except for Section 22.24, and with the correction of a typo in the citation to 25 CFR in Section 22.13. Section 22.24, regarding the need for BIA approval of future amendments, was deleted.</annotation>
-    <annotation type="Editor's Notes">20. On August 17, 2010, a new Section 22.11 (A)(3) was added and typographical corrections to Section 22.22 were made by the Tribal Council by Resolution No. 054-10.</annotation>
-    <annotation type="Editor's Notes">21. On July 7, 2015, Tribal Council repealed existing Chapter 22 and adopted a new version of Chapter 22 that renumbered, reorganized and made changes clarifying numerous sections.  Substantive changes include the 2010 revisions, as amended, as well as additional language to clarify jurisdictional authority, definitions, harvest of ginseng, forest roads, permits for sale of firewood and on how sales of forest products are handled.  This was done by Resolution No. 053-15.</annotation>
-    <annotation type="Editor's Notes">Approved by the Bureau of Indian Affairs on July 22, 2015 – EXCEPT, Section 22.15 (F), Temporary Use Permit, which is approved with the following condition.  Access through allotments or lands that are not owned 100% by the Tribe requires appropriate approvals from the Bureau of Indian Affairs.</annotation>
+    <annotation type="Editor's Notes">
+      <text>LEGISLATIVE HISTORY</text>
+      <para>
+        <num>1.</num>
+        <text>Conservation Code was adopted by Tribal Council at a meeting held November 14, 1978 (Resolution #0637).</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Sent to BIA - Great Lakes Agency approved on 11/17/78 by the Superintendent.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <heading>Letter from Elmer T.</heading>
+        <text>Nitzschke, Field Solicitor to Edwin Demery, Area Director of Minneapolis Area Office on comments dated January 24, 1979.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Memo from Minneapolis Area Office Director to Superintendent of Great Lakes Agency enclosed was the Solicitor's review of the S/M Conservation Code dated Feb. 9, 1979.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Letter to Tribal Chairman from Acting Superintendent of Great Lakes Agency which stated the approval of the Code and Field Solicitor's comments to the Area Director dated February 15, 1979.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Resolution #0641 making changes to the Conservation Code (Section 22.01) dated January 29, 1979.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Resolution #0730 is adopting Forestry Committee's Policies and Procedures to govern the forestry resources dated November 8, 1980.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Resolution #0746 making changes to Section 22.01 and 23.02 of the Conservation Code dated May 2, 1981.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Resolution #0766-1 making changes to Section 13.02 and 13.03 of the Conservation Code dated August 8, 1981.  Resolution #0766 making changes to Section 32.04 and 32.04(a)(b) of the Conservation Code dated August 8, 1981.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Resolution #1026 adding a new section titled "Denial of Permit(s)" and adding new provisions to appropriate sections dated June 2, 1987.  It was approved on June 16, 1987 by Council.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>Ordinance Committee approved to go to Tribal Council for review at the November 28, 1988 Committee meeting with appropriate changes.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <text>Tribal Council action to post at January 3, 1989.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>Tribal Council approved on February 7, 1989 - Resolution #1127.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>Recommended changes by the BIA passed by Tribal Council Resolution #1161 on July 18, 1989.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>Section 20.16 (W) and 20.23 (C) added by Council resolution 102-97, January 8, 1997.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>Ordinance amended by Tribal Council on February 7, 2006, Resolution No.  021-06.  All sections updated, including adding committee by-laws and adding preference section, 22.17 into ordinance.  (Section 22.17 originally approved as a policy by Council Motion, 4-3-01).</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <text>Amended by Tribal Council on February 7, 2006 and June 6, 2007 by incorporating the existing forestry committee by laws, existing policies including the Tribal preference policy, and many updates throughout the existing Chapter 22, including amending 22.6, Resolution No's 021-06 and 045-06.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>On May 6, 2008, Tribal Council repealed existing Chapter 22 and adopted a new Chapter 22 that renumbered and had changes clarifying numerous sections and incorporated enforcement and other relevant sections of Chapter 20.  This was done by Resolution No. 031-08.  BIA reviewed Chapter 22 revisions and had comments, but did not approve the 2008 revisions.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>The proposed 2008 revisions were amended by the Tribal Council on September 18, 2009 through Resolution No. 083-09.   The revisions include amending Sections 22.4 (Article I.B), 22.4 (Article II.A), 22.10, 22.12(A), 22.12(B), 22.12(C)(1), and 22.13 (C)(2); creating new Sections 22.12(A)(9), 22.12(A)(10), and 22.12(C)(8); deleting Section 22.12(B)(3); and renumbering Sections 22.12(B)(4-6).</text>
+        <text>Approved by the BIA on April 16, 2012, except for Section 22.24, and with the correction of a typo in the citation to 25 CFR in Section 22.13. Section 22.24, regarding the need for BIA approval of future amendments, was deleted.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>On August 17, 2010, a new Section 22.11 (A)(3) was added and typographical corrections to Section 22.22 were made by the Tribal Council by Resolution No. 054-10.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>On July 7, 2015, Tribal Council repealed existing Chapter 22 and adopted a new version of Chapter 22 that renumbered, reorganized and made changes clarifying numerous sections.  Substantive changes include the 2010 revisions, as amended, as well as additional language to clarify jurisdictional authority, definitions, harvest of ginseng, forest roads, permits for sale of firewood and on how sales of forest products are handled.  This was done by Resolution No. 053-15.</text>
+        <text>Approved by the Bureau of Indian Affairs on July 22, 2015 – EXCEPT, Section 22.15 (F), Temporary Use Permit, which is approved with the following condition.  Access through allotments or lands that are not owned 100% by the Tribe requires appropriate approvals from the Bureau of Indian Affairs.</text>
+      </para>
+    </annotation>
   </annotations>
 </container>

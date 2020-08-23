@@ -1506,13 +1506,40 @@
     </section>
   </container>
   <annotations>
-    <annotation type="Editor's Notes">1. Approved by Tribal Council on August 20, 1996 by Resolution Number 054-96.</annotation>
-    <annotation type="Editor's Notes">2. Amendments pending.</annotation>
-    <annotation type="Editor's Notes">3. Approved by Tribal Council on January 19, 1999 by Resolution Number 05-99.</annotation>
-    <annotation type="Editor's Notes">4. Not approved by the Great Lakes Agency, Bureau of Indian Affairs on February 22, 1999.</annotation>
-    <annotation type="Editor's Notes">5. Modified and approved by Tribal Council on April 8, 1999 by Resolution Number 19-99</annotation>
-    <annotation type="Editor's Notes">6. Approved by Bureau of Indian Affairs May 11, 1999.</annotation>
-    <annotation type="Editor's Notes">7. Amended on February 7, 2006, Resolution No.  022-06, by creating section 46.7-1 through 46.7-12, and renumbering the remainder of section 46.7.  Approved by BIA on April 7, 2006.</annotation>
-    <annotation type="Editor's Notes">8. Amended on October 11, 2006, Resolution No. 002-06, by amending Section 46.6-8(A)(5).  Approved by BIA on April 9, 2007.</annotation>
+    <annotation type="Editor's Notes">
+      <text>LEGISLATIVE HISTORY</text>
+      <para>
+        <num>1.</num>
+        <text>Approved by Tribal Council on August 20, 1996 by Resolution Number 054-96.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Amendments pending.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Approved by Tribal Council on January 19, 1999 by Resolution Number 05-99.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Not approved by the Great Lakes Agency, Bureau of Indian Affairs on February 22, 1999.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Modified and approved by Tribal Council on April 8, 1999 by Resolution Number 19-99</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Approved by Bureau of Indian Affairs May 11, 1999.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Amended on February 7, 2006, Resolution No.  022-06, by creating section 46.7-1 through 46.7-12, and renumbering the remainder of section 46.7.  Approved by BIA on April 7, 2006.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Amended on October 11, 2006, Resolution No. 002-06, by amending Section 46.6-8(A)(5).  Approved by BIA on April 9, 2007.</text>
+      </para>
+    </annotation>
   </annotations>
 </container>

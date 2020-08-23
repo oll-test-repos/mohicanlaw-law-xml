@@ -50,8 +50,20 @@
     </para>
   </section>
   <annotations>
-    <annotation type="Editor's Notes">1. Approved 11/19/85.</annotation>
-    <annotation type="Editor's Notes">2. Proposed Amendments submitted to Tribal Council 11/24/98.</annotation>
-    <annotation type="Editor's Notes">3. Amendments approved by Tribal Council on November 17, 1998 by Resolution No. 074-98.</annotation>
+    <annotation type="Editor's Notes">
+      <text>Legislative History:</text>
+      <para>
+        <num>1.</num>
+        <text>Approved 11/19/85.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Proposed Amendments submitted to Tribal Council 11/24/98.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Amendments approved by Tribal Council on November 17, 1998 by Resolution No. 074-98.</text>
+      </para>
+    </annotation>
   </annotations>
 </container>
