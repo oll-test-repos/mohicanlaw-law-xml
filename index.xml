@@ -14,4 +14,14 @@
     </canonical-urls>
   </meta>
   <xi:include href="./us/nsn/mohican/council/code/index.xml"/>
+  <collection name="us/nsn/mohican/council/resolutions">
+    <heading>Council Resolutions</heading>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2019/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2018/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2016/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2015/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2010/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2009/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2007/index.xml"/>
+  </collection>
 </library>

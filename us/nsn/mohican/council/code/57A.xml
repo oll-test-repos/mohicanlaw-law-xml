@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+  <prefix>CHAPTER</prefix>
+  <num>57A</num>
+  <heading>ROOM TAX ORDINANCE</heading>
+  <section>
+    <num>57-A.1</num>
+    <heading>Definitions</heading>
+    <text>In this chapter the following definitions shall apply:</text>
+    <para>
+      <num>(A)</num>
+      <text>"Gross receipts" means the total revenue received from the retail furnishing of rooms, lodging, or similar accommodations by a hotel or motel as defined herein.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>"Hotel" and "motel" mean a building or a group of buildings located on the Stockbridge-Munsee Reservation in which the public may obtain accommodations for consideration, including, without limitation, such establishments as inns, motels, tourist homes, tourist houses, or bed and breakfast establishments and any other building in which accommodations are available to the public.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>"Payer" means the person or entity who owes the tax imposed by this Ordinance.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>"Room Tax" means the tax imposed by this Ordinance.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>"Tribe" means the Stockbridge-Munsee Community.</text>
+    </para>
+  </section>
+  <section>
+    <num>57-A.2</num>
+    <heading>Imposition of Room Tax</heading>
+    <text>A tax is hereby imposed on the privilege and services of furnishing, at retail, of rooms or lodging to transients by hotel keepers, motel operators and other persons furnishing accommodations that are available to the public.  Such tax shall be at the rate of six percent (6%) of the gross receipts from such retail furnishing of rooms or lodging.  Such tax may not be imposed upon sales to the federal, state and tribal governments and their employees on official business, members of the Stockbridge-Munsee Community, other Tribal governments and any other enrollment card carrying member from any tribe anywhere, and any person as to whom, or any occupancy as to which, it is beyond the power of the Stockbridge-Munsee Community to impose the tax herein provided..</text>
+  </section>
+  <section>
+    <num>57-A.3</num>
+    <heading>Collection of Tax</heading>
+    <text>The collection of the tax imposed by this article shall be administered by the Tribal Treasurer.  The tax imposed is due and payable on the last day of the month next succeeding the calendar quarters for which imposed.  A return shall be filed with the Tribal Treasurer by those furnishing at retail such rooms and lodging, on or before the same date on which the tax is due and payable.  Such return shall show the gross receipts of the preceding calendar quarters from such retail furnishings of rooms or lodging, the amount of taxes imposed for such period, and such other non-confidential information as the Tribal Treasurer deems reasonably necessary.  Every person required to file such a quarterly return shall, with their first return, elect to file an annual calendar or fiscal year return.  Such annual returns shall be filed within 90 days of the close of each fiscal year.  The annual return shall summarize the quarterly returns, reconcile and adjust for errors in the quarterly returns, and shall contain such additional non-confidential information as the Tribal Treasurer requires.  Such annual returns shall be made on forms as prescribed by the Tribal Treasurer.  All such returns shall be signed by the person required to file a return.  The Tribal Treasurer may, for good cause, extend the time for filing any return, but in no event longer than one month from the filing date.</text>
+  </section>
+  <section>
+    <num>57-A.4</num>
+    <heading>Record Keeping Requirements</heading>
+    <text>Every entity liable for the tax imposed by this Ordinance shall keep or cause to be kept such records, receipts, invoices and other pertinent papers relating to the payment of room taxes in such forms as the Tribal Treasurer requires.</text>
+  </section>
+  <section>
+    <num>57-A.5</num>
+    <heading>Confidentiality of Tax Returns</heading>
+    <text>All tax returns, schedules, exhibits, writings or audit reports relating to such returns on file with the Tribal Treasurer are deemed to be confidential, except the Tribal Treasurer may divulge their contents to the Stockbridge-Munsee Tribal Council and employees of the Council.</text>
+  </section>
+  <section>
+    <num>57-A.6</num>
+    <heading>Use of Tax Revenues</heading>
+    <text>All taxes pursuant to Section 57-A.2 shall be deposited in a separated account and utilized according to tribal government determination.</text>
+  </section>
+  <annotations>
+    <annotation type="Editor's Notes">1. On July 6, 2010, the Stockbridge-Munsee Tribal Council adopted a new ordinance titled the "Room Tax Ordinance" by Resolution 047-10.  The ordinance was approved by the BIA on August 13, 2010.</annotation>
+    <annotation type="Editor's Notes">2. Prior to publication, the Room Tax Ordinance was numbered as Chapter 57-A of Stockbridge-Munsee Tribal Law and internal references were updated accordingly.</annotation>
+  </annotations>
+</container>
