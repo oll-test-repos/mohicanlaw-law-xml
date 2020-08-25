@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
-  <prefix>Chapter</prefix>
-  <num>47</num>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
+  <prefix>CHAPTER</prefix>
+  <num>47A</num>
   <heading>ALL TERRAIN VEHICLE SAFETY ORDINANCE</heading>
   <section>
     <num>47-A.1</num>
@@ -263,7 +263,7 @@
   </section>
   <annotations>
     <annotation type="Editor's Notes">
-      <text>Legislative History</text>
+      
       <text>Adopted by Tribal Council on August 8, 2000, Resolution No. 048-2000.</text>
       <text>Approved by BIA August 23, 2000.</text>
       <text>Amended by Tribal Council on April 5, 2005, Resolution No. 020-05.  Sections 47-A.4(F) Residential area, 47-A.5(A)(2), 47-A.5(C), 47-A.5(D), 47-A.5(E)(5)(d), 47-A.5(E)(5)(e), 47-A.5(E)(6)(b), 47-A.5(E)(6)(c), 47-A.5(E)(6)(d), 47-A.10 are newly created; Section 47-A.4(H) Tribal housing area is deleted; Sections 47-A.1, 47-A.5(E)(1), 47-A.5(E)(4), 47-A.6(A), 47-A.6(B), 47-A.6(B)(7), 47-A.6(B)(7)(a) are amended.  Approved by BIA on May 3, 2005.</text>
