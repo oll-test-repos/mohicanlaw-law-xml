@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
   <prefix>CHAPTER</prefix>
   <num>61</num>
   <heading>MARRIAGE</heading>
@@ -203,7 +203,16 @@
     <text>The marriage document, legibly and completely filled out in ink shall be returned by the officiating person or by the parties to the marriage contract to the clerk of court within 10 days after the date of marriage, so that it may be filed on record with the Tribal Enrollment Office and a copy of the same with the State of Wisconsin Bureau of Vital Statistics.</text>
   </section>
   <annotations>
-    <annotation type="Editor's Notes">1. Chapter 61, Marriage, approved by the Stockbridge-Munsee Tribal Council, Resolution No. 108-97, January 21, 1997.</annotation>
-    <annotation type="Editor's Notes">2. Chapter 61, Marriage was amended by the Stockbridge-Munsee Tribal Council by Resolution No. 024-16, February 2, 2016. Approved by BIA on February 22, 2016.</annotation>
+    <annotation type="Legislative History">
+      <text/>
+      <para>
+        <num>1.</num>
+        <text>Chapter 61, Marriage, approved by the Stockbridge-Munsee Tribal Council, Resolution No. 108-97, January 21, 1997.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Chapter 61, Marriage was amended by the Stockbridge-Munsee Tribal Council by Resolution No. 024-16, February 2, 2016. Approved by BIA on February 22, 2016.</text>
+      </para>
+    </annotation>
   </annotations>
 </container>

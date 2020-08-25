@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
   <prefix>CHAPTER</prefix>
   <num>5</num>
   <heading>CIVIL PROCEDURE ORDINANCE</heading>
@@ -699,9 +699,21 @@
     </para>
   </section>
   <annotations>
-    <annotation type="Editor's Notes">1. Adopted by Resolution #1560-95 on December 27, 1995 by Tribal Council</annotation>
-    <annotation type="Editor's Notes">2. On March 17, 2015, the Tribal Council posted a new Civil Procedure Ordinance for comment.  This document repealed and replaced Chapter 5, Administrative Appeals, with a new ordinance addressing civil procedures for practice before the Stockbridge-Munsee Tribal Court System.  It included provisions addressing civil procedures that had previously been addressed in Chapter 1, new rules of procedure, as well as procedures relating to administrative appeals.</annotation>
-    <annotation type="Editor's Notes">The Tribal Council reviewed comments received on the posting.  Proposed revisions were posted for additional comment on January 19, 2016.  On March 15, 2016, the Tribal Council, by Resolution No. 038-16, repealed the existing Chapter 5 and replaced it with the new Civil Procedure Ordinance.  The ordinance was approved by the BIA on August 3, 2017.</annotation>
-    <annotation type="Editor's Notes">3. On November 5, 2019, the Tribal Council adopted amendments to address a new Appellate Procedure ordinance (Chapter 5-A) by Resolution 011-20.  More specifically, Section 5.2 (A)(3) was amended to add a cross-reference to Chapter 5-A and Section 5.22, which previously addressed appellate procedure, was deleted.  The amendments were approved by the BIA on _____________.</annotation>
+    <annotation type="Legislative History">
+      <text/>
+      <para>
+        <num>1.</num>
+        <text>Adopted by Resolution #1560-95 on December 27, 1995 by Tribal Council</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>On March 17, 2015, the Tribal Council posted a new Civil Procedure Ordinance for comment.  This document repealed and replaced Chapter 5, Administrative Appeals, with a new ordinance addressing civil procedures for practice before the Stockbridge-Munsee Tribal Court System.  It included provisions addressing civil procedures that had previously been addressed in Chapter 1, new rules of procedure, as well as procedures relating to administrative appeals.</text>
+        <text>The Tribal Council reviewed comments received on the posting.  Proposed revisions were posted for additional comment on January 19, 2016.  On March 15, 2016, the Tribal Council, by Resolution No. 038-16, repealed the existing Chapter 5 and replaced it with the new Civil Procedure Ordinance.  The ordinance was approved by the BIA on August 3, 2017.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>On November 5, 2019, the Tribal Council adopted amendments to address a new Appellate Procedure ordinance (Chapter 5-A) by Resolution 011-20.  More specifically, Section 5.2 (A)(3) was amended to add a cross-reference to Chapter 5-A and Section 5.22, which previously addressed appellate procedure, was deleted.  The amendments were approved by the BIA on _____________.</text>
+      </para>
+    </annotation>
   </annotations>
 </container>

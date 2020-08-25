@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
   <prefix>CHAPTER</prefix>
   <num>49</num>
   <heading>ELECTION ORDINANCE</heading>
@@ -710,18 +710,50 @@
     </para>
   </section>
   <annotations>
-    <annotation type="Editor's Notes">1. Ordinance No. 2 Elections was approved May 16, 1939.</annotation>
-    <annotation type="Editor's Notes">2. Section 2 was amended 1949 by deleting a provision to allow for a polling place in Red Springs.</annotation>
-    <annotation type="Editor's Notes">3. A new Elections Ordinance was approved by Tribal Council August 16, 1995, by Resolution No. 1526-95.</annotation>
-    <annotation type="Editor's Notes">4. Amendments to the Election Ordinance approved by Tribal Council, August 17, 1999 by Resolution No. 054-99.  BIA approval November 1, 1999.</annotation>
-    <annotation type="Editor's Notes">5. Sections 49.8(K), (L), (M), (N), (O), 49.9, 49.10, 49.11, 49.12(A), (E) amended to allow electronic vote tallying by Tribal Council on September 12, 2000, Resolution No. 00-056.  BIA approval September 21, 2000.</annotation>
-    <annotation type="Editor's Notes">6. On August 21, 2012, the Tribal Council adopted Resolution No. 049-12, which repealed the existing Chapter 49 and adopted a new version of Chapter 49 that included whole-scale changes clarifying and updating the election process, as well as added new sections on vote recounts, tied votes, run-off elections, the Election Board hearing process and Tribal Court authority to hear appeals.  The BIA, Great Lakes Agency, approved these amendments on September 5, 2012.  As part of this approval, ministerial corrections were made to correct a citation under Section 49.12 (B)(3) and to correct typos in Sections 49.6 (B) and 49.8 (H).</annotation>
-    <annotation type="Editor's Notes">7. On October 14, 2017, the Tribe held an advisory referendum on whether to add a primary election to the annual election cycle.  The majority of tribal members voting in the referendum supported adding the primary election.</annotation>
-    <annotation type="Editor's Notes">8. On March 6, 2018, the Tribal Council adopted Resolution No. 25-18, which amended Chapter 49 to add provisions establishing a primary election process, a contested ballot process, clarifying that the ordinance is used as guidance for conducting recall elections, and addressing how election appeals are handled by the Election Board and the Tribal Court.  More specifically, these changes:</annotation>
-    <annotation type="Editor's Notes">Amended sections:  Introduction, 49.1(A), (D), (E); 49.2; 49.3; 49.5; 49.6(A), (B), (C), (D), (E)(3); 49.7; 49.8(A); 49.9(A), (D); 49.11(A); 49.11.5(B); 49.11.7(A), (C); 49.12(A)(3), (B), (B)(1), (B)(1)(a-b), 49.12(B)(2)(c-d), (B)(3); 49.12.5 (B), (C), (D), (E), (F); 49.16(A), (B), and (C).</annotation>
-    <annotation type="Editor's Notes">Added new sections:  49.1(A)(3-4); 49.6(B)(1-2); 49.6(D); 49.6(E)(1),(2), (3)(i-ii) and (4); 49.6.5; 49.8(R)(3)(a-b); 49.8(U); 49.8.5; 49.11(A)(1-2); 49.12(B)(2), (4), (5); 49.12.5(A), (E)(1-2), (F)(1-5), (G), (H); 49.12.5(G); 49.16(D); and 49.19.</annotation>
-    <annotation type="Editor's Notes">Reordered sections: 49.12 (A) and (B).</annotation>
-    <annotation type="Editor's Notes">Deleted section:  49.12(A)(7).</annotation>
-    <annotation type="Editor's Notes">The BIA, Great Lakes Agency, provided verbal confirmation of approval on July 10, 2018.</annotation>
+    <annotation type="Legislative History">
+      <text/>
+      <para>
+        <num>1.</num>
+        <heading>Ordinance No.</heading>
+        <text>2 Elections was approved May 16, 1939.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Section 2 was amended 1949 by deleting a provision to allow for a polling place in Red Springs.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A new Elections Ordinance was approved by Tribal Council August 16, 1995, by Resolution No. 1526-95.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Amendments to the Election Ordinance approved by Tribal Council, August 17, 1999 by Resolution No. 054-99.  BIA approval November 1, 1999.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Sections 49.8(K), (L), (M), (N), (O), 49.9, 49.10, 49.11, 49.12(A), (E) amended to allow electronic vote tallying by Tribal Council on September 12, 2000, Resolution No. 00-056.  BIA approval September 21, 2000.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>On August 21, 2012, the Tribal Council adopted Resolution No. 049-12, which repealed the existing Chapter 49 and adopted a new version of Chapter 49 that included whole-scale changes clarifying and updating the election process, as well as added new sections on vote recounts, tied votes, run-off elections, the Election Board hearing process and Tribal Court authority to hear appeals.  The BIA, Great Lakes Agency, approved these amendments on September 5, 2012.  As part of this approval, ministerial corrections were made to correct a citation under Section 49.12 (B)(3) and to correct typos in Sections 49.6 (B) and 49.8 (H).</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>On October 14, 2017, the Tribe held an advisory referendum on whether to add a primary election to the annual election cycle.  The majority of tribal members voting in the referendum supported adding the primary election.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>On March 6, 2018, the Tribal Council adopted Resolution No. 25-18, which amended Chapter 49 to add provisions establishing a primary election process, a contested ballot process, clarifying that the ordinance is used as guidance for conducting recall elections, and addressing how election appeals are handled by the Election Board and the Tribal Court.  More specifically, these changes:</text>
+        <text>
+          <ul proof="needed">
+            <li>Amended sections:  Introduction, 49.1(A), (D), (E); 49.2; 49.3; 49.5; 49.6(A), (B), (C), (D), (E)(3); 49.7; 49.8(A); 49.9(A), (D); 49.11(A); 49.11.5(B); 49.11.7(A), (C); 49.12(A)(3), (B), (B)(1), (B)(1)(a-b), 49.12(B)(2)(c-d), (B)(3); 49.12.5 (B), (C), (D), (E), (F); 49.16(A), (B), and (C).</li>
+            <li>Added new sections:  49.1(A)(3-4); 49.6(B)(1-2); 49.6(D); 49.6(E)(1),(2), (3)(i-ii) and (4); 49.6.5; 49.8(R)(3)(a-b); 49.8(U); 49.8.5; 49.11(A)(1-2); 49.12(B)(2), (4), (5); 49.12.5(A), (E)(1-2), (F)(1-5), (G), (H); 49.12.5(G); 49.16(D); and 49.19.</li>
+            <li>Reordered sections: 49.12 (A) and (B).</li>
+            <li>Deleted section:  49.12(A)(7).</li>
+          </ul>
+        </text>
+        <text>The BIA, Great Lakes Agency, provided verbal confirmation of approval on July 10, 2018.</text>
+      </para>
+    </annotation>
   </annotations>
 </container>

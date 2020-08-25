@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
   <prefix>CHAPTER</prefix>
   <num>9</num>
   <heading>GUARDIANSHIP</heading>
@@ -210,12 +210,25 @@
     <text>In the event that any provision of this ordinance is ruled illegal by a court of competent jurisdiction, the remaining provisions of this ordinance shall remain unaffected.</text>
   </section>
   <annotations>
-    <annotation type="Editor's Notes">1. Children's/Youth Code:</annotation>
-    <annotation type="Editor's Notes">Stockbridge-Munsee Children's Code approved by Tribal Council, August 8, 1981, by Resolution No. 0764.</annotation>
-    <annotation type="Editor's Notes">Ordinance Committee revised as Stockbridge-Munsee Youth Code, submitted to Tribal Council for review May 3, 1988.</annotation>
-    <annotation type="Editor's Notes">Tribal Council adopted Youth Code by motion August 16, 1988.</annotation>
-    <annotation type="Editor's Notes">Resolution No. 1104 dated August 29, 1988 officially adopted Youth Code, at a Council meeting on September 20, 1988.</annotation>
-    <annotation type="Editor's Notes">BIA recommended changes that were approved by Tribal Council by Resolution No. 1161, July 18, 1989.</annotation>
-    <annotation type="Editor's Notes">2. Amended by Tribal Council Resolution 01-08 on October 2, 2007.  The amendments renamed Chapter 9, "Guardianship"; created §9.2(C) in its entirety; §9.3(C),(C)(1); §9.9; and 9.10; amended §9.1(A); §§9.1(B)(1),(2),(3); §9.2(A); §§9.2(B)(1),(2),(3); §§9.2(E),(F),(F)(1),(F)(2); §§9.3(A),(B)(1),(B)(2); §§9.6(A),(A)(1),(A)(3),(A)(4); §9.8; deleted §9.2(D); and renumbered §9.2.  BIA approved the amended ordinance, except for Section 9.10, on April 16, 2012.  Section 9.10, regarding the need for BIA approval of future amendments, was deleted.</annotation>
+    <annotation type="Legislative History">
+      <text/>
+      <para>
+        <num>1.</num>
+        <text>Children's/Youth Code:</text>
+        <text>
+          <ul proof="needed">
+            <li>Stockbridge-Munsee Children's Code approved by Tribal Council, August 8, 1981, by Resolution No. 0764.</li>
+            <li>Ordinance Committee revised as Stockbridge-Munsee Youth Code, submitted to Tribal Council for review May 3, 1988.</li>
+            <li>Tribal Council adopted Youth Code by motion August 16, 1988.</li>
+            <li>Resolution No. 1104 dated August 29, 1988 officially adopted Youth Code, at a Council meeting on September 20, 1988.</li>
+            <li>BIA recommended changes that were approved by Tribal Council by Resolution No. 1161, July 18, 1989.</li>
+          </ul>
+        </text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Amended by Tribal Council Resolution 01-08 on October 2, 2007.  The amendments renamed Chapter 9, "Guardianship"; created §9.2(C) in its entirety; §9.3(C),(C)(1); §9.9; and 9.10; amended §9.1(A); §§9.1(B)(1),(2),(3); §9.2(A); §§9.2(B)(1),(2),(3); §§9.2(E),(F),(F)(1),(F)(2); §§9.3(A),(B)(1),(B)(2); §§9.6(A),(A)(1),(A)(3),(A)(4); §9.8; deleted §9.2(D); and renumbered §9.2.  BIA approved the amended ordinance, except for Section 9.10, on April 16, 2012.  Section 9.10, regarding the need for BIA approval of future amendments, was deleted.</text>
+      </para>
+    </annotation>
   </annotations>
 </container>

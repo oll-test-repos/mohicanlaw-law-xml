@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
   <prefix>CHAPTER</prefix>
   <num>50</num>
   <heading>PROCEDURES ORDINANCE</heading>
@@ -549,20 +549,47 @@
     </para>
   </section>
   <annotations>
-    <annotation type="Editor's Notes">1. Procedures Ordinance approved by Tribal Council November 21, 1939.</annotation>
-    <annotation type="Editor's Notes">2. Amended March 9, 1981, Resolution No. 0740 by adding hearing format.</annotation>
-    <annotation type="Editor's Notes">3. Amended February 8, 1985, Resolution No.0917, by revising hearing format.</annotation>
-    <annotation type="Editor's Notes">4. Amended September 7, 1993, Resolution No. 1401-93, changing posting period in Section 1 from 15 to 14 days, and delete phrase in Section 8 referring to Tomah Agency.</annotation>
-    <annotation type="Editor's Notes">5. Amended September 7, 1999, Resolution No. 59-99, designating special (50.10) and emergency (50.11) meetings and amending regular meeting section (50.9).  Approval by BIA November 1, 1999.</annotation>
-    <annotation type="Editor's Notes">6. Sections 50.7 amended to make clear that phone participation is not permitted and 50.11(D), which previously allowed for phone participation for emergency meetings, repealed, and Section 50.11(E) re-designated to Section 50.11(D) on October 1, 2002 by Tribal Council Resolution No. 056-02.  Amendments approved by BIA on October 18, 2002.</annotation>
-    <annotation type="Editor's Notes">7. On June 19, 2007, Tribal Council, by Resolution No. 046-07 amends Section 50.6 and 50.12 and creates section 50.9(D).  BIA approved the amended ordinance, except for Section 50.12, on April 16, 2012.  Section 50.12, regarding the need for BIA approval of future amendments, was deleted.</annotation>
-    <annotation type="Editor's Notes">8. On February 3, 2016, the Tribal Council by Resolution No. 023-16 authorized changes to update the ordinance as well as codify tribal practice and prior Council actions regulating the conduct of tribal meetings and operation of the Council and committees.  These changes are as follows:</annotation>
-    <annotation type="Editor's Notes">•	Creating section titles;</annotation>
-    <annotation type="Editor's Notes">•	Standardizing the formatting and terminology throughout the ordinance;</annotation>
-    <annotation type="Editor's Notes">•	Numbering the introductory provisions of the ordinance to create a new Section 50.1 and to renumber what had been Section 50.1 as Section 50.1.5;</annotation>
-    <annotation type="Editor's Notes">•	Establishing new sections: 50.12, 50.13, 50.14, 50.15;</annotation>
-    <annotation type="Editor's Notes">•	Establishing new subsections: 50.1(B)-(D), 50.2(C)-(G), 50.4(C)-(E), 50.5(A)(3), 50.5(B), 50.6(A), 50.6(C)-(G), 50.7(A), 50.7(D)-(F), 50.16(B); and</annotation>
-    <annotation type="Editor's Notes">•	Amending subsections: 50.2(A)-(B), 50.3, 50.4(A)(3), 50.4(B), 50.6(B), 50.7(B), 50.8, 50.9(A), 50.9(C), 50.10(A), 50.11(A), 50.16(A).</annotation>
-    <annotation type="Editor's Notes">These amendments were approved by the BIA on February 22, 2016.</annotation>
+    <annotation type="Legislative History">
+      <text/>
+      <para>
+        <num>1.</num>
+        <text>Procedures Ordinance approved by Tribal Council November 21, 1939.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Amended March 9, 1981, Resolution No. 0740 by adding hearing format.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Amended February 8, 1985, Resolution No.0917, by revising hearing format.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Amended September 7, 1993, Resolution No. 1401-93, changing posting period in Section 1 from 15 to 14 days, and delete phrase in Section 8 referring to Tomah Agency.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Amended September 7, 1999, Resolution No. 59-99, designating special (50.10) and emergency (50.11) meetings and amending regular meeting section (50.9).  Approval by BIA November 1, 1999.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Sections 50.7 amended to make clear that phone participation is not permitted and 50.11(D), which previously allowed for phone participation for emergency meetings, repealed, and Section 50.11(E) re-designated to Section 50.11(D) on October 1, 2002 by Tribal Council Resolution No. 056-02.  Amendments approved by BIA on October 18, 2002.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>On June 19, 2007, Tribal Council, by Resolution No. 046-07 amends Section 50.6 and 50.12 and creates section 50.9(D).  BIA approved the amended ordinance, except for Section 50.12, on April 16, 2012.  Section 50.12, regarding the need for BIA approval of future amendments, was deleted.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>On February 3, 2016, the Tribal Council by Resolution No. 023-16 authorized changes to update the ordinance as well as codify tribal practice and prior Council actions regulating the conduct of tribal meetings and operation of the Council and committees.  These changes are as follows:</text>
+        <text>•	Creating section titles;</text>
+        <text>•	Standardizing the formatting and terminology throughout the ordinance;</text>
+        <text>•	Numbering the introductory provisions of the ordinance to create a new Section 50.1 and to renumber what had been Section 50.1 as Section 50.1.5;</text>
+        <text>•	Establishing new sections: 50.12, 50.13, 50.14, 50.15;</text>
+        <text>•	Establishing new subsections: 50.1(B)-(D), 50.2(C)-(G), 50.4(C)-(E), 50.5(A)(3), 50.5(B), 50.6(A), 50.6(C)-(G), 50.7(A), 50.7(D)-(F), 50.16(B); and</text>
+        <text>•	Amending subsections: 50.2(A)-(B), 50.3, 50.4(A)(3), 50.4(B), 50.6(B), 50.7(B), 50.8, 50.9(A), 50.9(C), 50.10(A), 50.11(A), 50.16(A).</text>
+        <text>These amendments were approved by the BIA on February 22, 2016.</text>
+      </para>
+    </annotation>
   </annotations>
 </container>

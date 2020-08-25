@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
   <prefix>CHAPTER</prefix>
   <num>25</num>
   <heading>GAMING ORDINANCE</heading>
@@ -2319,46 +2319,148 @@
     <text>In the event that any section or provision of this Ordinance is held invalid, it is the intent of the Tribal Council that the remaining sections or provisions of this Ordinance shall continue in full force and effect.</text>
   </section>
   <annotations>
-    <annotation type="Editor's Notes">1. Bingo Ordinance (No. 8) approved July 17, 1982.</annotation>
-    <annotation type="Editor's Notes">2. Resolution No. 0817, July 26, 1982.</annotation>
-    <annotation type="Editor's Notes">3. Resolution No. 0928, dated May 7, 1985, rescinds Resolution 0817 and enacts ordinance for purpose of authorizing and regulating gaming. Approved by BIA June 5, 1985.</annotation>
-    <annotation type="Editor's Notes">4. Resolution No. 1009 dated December 2, 1986 amends ordinance re. bingo.</annotation>
-    <annotation type="Editor's Notes">5. Resolution No. 1064, dated December 29, 1987, amends ordinance re. bingo.</annotation>
-    <annotation type="Editor's Notes">6. Resolution No. 1081, dated May 17, 1988, amends ordinance re. royalty fees.</annotation>
-    <annotation type="Editor's Notes">7. Council action to change sections 5 and 6, November 1, 1988.</annotation>
-    <annotation type="Editor's Notes">8. Resolution No. 1147, May 16, 1989, revised section 6 and added definitions.</annotation>
-    <annotation type="Editor's Notes">9. Gaming Ordinance entitled "An ordinance relating to the regulation of gaming activity on the Stockbridge-Munsee Reservation" passed by Council 1992.</annotation>
-    <annotation type="Editor's Notes">10. Resolution No. 1338-92, November 3, 1992, enacts amended Bingo ordinance and amended gaming ordinance to provide for the merging of the Bingo Board and Gaming Board into one Board.</annotation>
-    <annotation type="Editor's Notes">11. May 1993, Gaming Roles and Responsibilities approved and added to ordinance.</annotation>
-    <annotation type="Editor's Notes">12. Resolution No. 1370-93. June I, 1993, approved gaming ordinance revised in its entirety.</annotation>
-    <annotation type="Editor's Notes">13. Ordinance combined both Class II and Class III gaming, approved by Tribal Council August 19, 1993 by Resolution. Approved by National Indian Gaming Commission and published in Federal Register December 14, 1993.</annotation>
-    <annotation type="Editor's Notes">14. March 21, 1995, Ordinance revised in its entirety, creating a Gaming Commission instead of a Gaming Board to regulate the gaming enterprise.</annotation>
-    <annotation type="Editor's Notes">15. May 24, 1995, Council adopted Resolution 1498-95 approving revisions to Gaming Ordinance and forwarded to NIGC on June 2, 1995 for review and approval.</annotation>
-    <annotation type="Editor's Notes">16. Council approved amendments to ordinance to reflect creation of Compliance Department and restructuring of Gaming Commission, June 28, 1995 - August 9, 1995. Those changes not affecting federally mandated provisions do not need NIGC approval and neither the Gaming Commission nor the Compliance Department are mandated by federal law.</annotation>
-    <annotation type="Editor's Notes">17. July 14, 1995. Revised ordinance approved by NIGC.</annotation>
-    <annotation type="Editor's Notes">18. June 28, 1995, Amendments finalized on August 22, 1995, Resolution 1525-95.</annotation>
-    <annotation type="Editor's Notes">19. 1997 amendment finalized on February 18, 1997, resolution number 111-97, amending to add new section 20.1.1.</annotation>
-    <annotation type="Editor's Notes">20. Revisions approved on July 1, 1997, resolution number 232-97.</annotation>
-    <annotation type="Editor's Notes">21. Revisions approved by Tribal Council on June 2, 1998, resolution number 227-98</annotation>
-    <annotation type="Editor's Notes">22. Revisions approved by Tribal Council on April 20, 1999, resolution number 026-99.</annotation>
-    <annotation type="Editor's Notes">23. Complete Revision adopted on April 1, 2003 by the Tribal Council, by Resolution Number 015-03.</annotation>
-    <annotation type="Editor's Notes">24. Sections 4.4.2, 4.23, 4.27, 14.6.4, 14.6.5.6, 15.1, 15.3.29, 15.3.2.10, 15.3.6, 15.4.1, 15.6, 15.7, 15.8, 15.12.1.2, 15.12.7, 13.1, 15.14, 15.15, 15.16, 15.18 amended, Section 25.22 newly created, and Section 25.23 renumbered from 25.22.  Adopted by Tribal Council by Resolution Number 043-03, on October 7, 2003.  Approved by NIGC on December 11, 2003.</annotation>
-    <annotation type="Editor's Notes">25. Amended by the Tribal Council on June 2, 2009, by Resolution No. 057-09.  Amendments submitted to NIGC for approval on June 3, 2009 and subsequently withdrawn.  On June 8, 2009, through Resolution No. 060-09, the Tribal Council revoked the amendments approved on June 2, 2009 and approved corrected amendment to Section 4.20.  Amendment of Section 4.20 submitted to NIGC for approval and approved on June 12, 2009.</annotation>
-    <annotation type="Editor's Notes">26. Amendments adopted by the Tribal Council on December 6, 2011, by Resolution No. 012-12.  The amendments to Chapter 25 are as follows:</annotation>
-    <annotation type="Editor's Notes">Changes or additions to Sections:  Preamble; 4.1; 4.2; 4.5; 4.11; 4.18; 8.3.3; 9.12.1; 9.12.2; 9.12.30; 9.12.32.1.4; 9.14; 9.15; 9.15.1; 10.1; 10.4.4; 10.4.6; 10.4.8; 10.4.9; 10.10; 11.2; 11.5; 11.6.1; 11.6.3; 11.6.4; 15.2; 15.4.1; 15.5; 15.10.2; 15.10.3; 15.15; 15.18.3; 15.18.4; 16.8; 17.1; 21.2.2; 21.2.3; 21.2.4; 21.2.5; 21.2.10; 21.2.19; 21.2.21; and 21.2.26;</annotation>
-    <annotation type="Editor's Notes">Deletion of Sections:  14.14.2 and 14.14.6 (with 14.14 then renumbered accordingly); and 16.9;</annotation>
-    <annotation type="Editor's Notes">Addition of new Sections:  4.18.1 .1-.12; 4.18.2; 4.18.3; 4.18.4; 4.22.4; 10.4.4.1; 10.4.4.2; 10.4.10; 10.11; 11.3.5; 15.10.8; 15.10.9; 15.16.2 and 15.16.3 (with 15.16 then renumbered accordingly); and 15.18.6 (with 15.18.7 then renumbered); and</annotation>
-    <annotation type="Editor's Notes">Minor language clarifications in Sections:  4.2.3; 4.2.5; 7.1; 9.2; 9.3; 9.12.8; 9.12.13; 15.3.2.3; 15.3.2.10; 15.4.3; 15.4.4; 15.6.7; 15.11.2; 15.12.1; 15.12.4; 15.18.2; 15.18.5; 16.1.2; and 16.5.</annotation>
-    <annotation type="Editor's Notes">Amendments submitted to NIGC for approval. Tribe informed by NIGC that corrections needed to Sections 25.15.3.4 and 25.15.3.7 so that language matches federal regulations.  Corrected amendments, which included changes to Sections 25.15.3.4 and 25.15.3.7, re-adopted by the Tribal Council on January 30, 2012, by Resolution No. 017-12.  Corrected amendments submitted to NIGC for approval and approved on March 5, 2012.</annotation>
-    <annotation type="Editor's Notes">27. Amendments adopted by the Tribal Council on October 6, 2015, by Resolution No. 02-16.  The amendments included a renumbering of the entire Ordinance to be consistent with format of other ordinances; changes to the definitions of ancillary facility, key employees and primary management officials, additional language for addressing disputes in relation to changes to operating procedures, and additional bases for suspension or denial of a gaming license.</annotation>
-    <annotation type="Editor's Notes">Amendments submitted to NIGC for approval on October 13, 2015.  NIGC informed Tribe that additional corrections needed to update ordinance so that language satisfies federal regulations.  Tribe withdrew ordinance from review by NIGC by letter dated November 18, 2015.</annotation>
-    <annotation type="Editor's Notes">Amendments, incorporating the original 2015 amendments plus additional changes, adopted by the Tribal Council on January 7, 2016 by Resolution No. 018-16.  An additional comment period waived since changes primarily incorporated technical corrections required per NIGC.  The adopted amendments are as follows:</annotation>
-    <annotation type="Editor's Notes">Renumbering of entire ordinance.</annotation>
-    <annotation type="Editor's Notes">Addition of Table of Contents.</annotation>
-    <annotation type="Editor's Notes">Changes or additions to Sections:  25.4(A), (I), (R), (S), (X), (Z) and (EE); 25.8(N); 25.9(H)(2)(b) and (e); 25.9(H)(3)(a) and (c); 25.9(K)(1); 25.9(L); 25.9(L)(1), (16), (20), (29), (30), (31)(d), (32)(a), (32)(a)(iv), (32)(c), 32(c)(i)-(iii) and (38); 25.9(M)(1)(b); 25.9(N); 25.9(O); 25.10(D)(1), (4), (4)(a)-(b); 25.10(E)(1)-(3); 25.10(F) and (F)(1), 25.10(G), (H), (J) and (K); 25.11(F), (F)(2) and (F)(5); 25.14(P); 25.15(B); 25.15(C)(2)(o) and (9); 25.15(D)(1) and (a)-(d); 25.15(E); 25.15(J)(6); 25.15(K) and (1)-(3); 25.15(L)(1)-(8); 25.15(N); 25.15(S); 25.16(C); 25.17(A), (A)(1)-(2), and (A)(7); and 25.21(A).</annotation>
-    <annotation type="Editor's Notes">Deletion of Section:  25.15(R)(8).</annotation>
-    <annotation type="Editor's Notes">Addition of new Sections:  25.4 (T) and (U); 25.7(G); 25.15(D)(2); and 25.15(J)(10).</annotation>
-    <annotation type="Editor's Notes">Minor language clarifications in Sections:  25.1(D); 25.8(B), (G), (K) and (O); 25.9(D); 25.9(L)(3), (6), (11), (14), (19), (24), (25), (32)(1)(iii), and (33); 25.10; 25.12(A); 25.14(A), (D), (E)(2)(b), (F)(2), (G) and (O); 25.15(C)(4); 25.15(D)(3)-(4); 25.15(J); 25.15(P)(6);  25.17(A)(4); 25.17(B); and 25.21(C)(1).</annotation>
-    <annotation type="Editor's Notes">Amendments submitted to NIGC for approval on January 7, 2016.  Approved by NIGC on ____________.</annotation>
+    <annotation type="Legislative History">
+      <text/>
+      <para>
+        <num>1.</num>
+        <heading>Bingo Ordinance (No.</heading>
+        <text>8) approved July 17, 1982.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <heading>Resolution No.</heading>
+        <text>0817, July 26, 1982.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <heading>Resolution No.</heading>
+        <text>0928, dated May 7, 1985, rescinds Resolution 0817 and enacts ordinance for purpose of authorizing and regulating gaming. Approved by BIA June 5, 1985.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <heading>Resolution No.</heading>
+        <text>1009 dated December 2, 1986 amends ordinance re. bingo.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <heading>Resolution No.</heading>
+        <text>1064, dated December 29, 1987, amends ordinance re. bingo.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <heading>Resolution No.</heading>
+        <text>1081, dated May 17, 1988, amends ordinance re. royalty fees.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Council action to change sections 5 and 6, November 1, 1988.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <heading>Resolution No.</heading>
+        <text>1147, May 16, 1989, revised section 6 and added definitions.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Gaming Ordinance entitled "An ordinance relating to the regulation of gaming activity on the Stockbridge-Munsee Reservation" passed by Council 1992.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <heading>Resolution No.</heading>
+        <text>1338-92, November 3, 1992, enacts amended Bingo ordinance and amended gaming ordinance to provide for the merging of the Bingo Board and Gaming Board into one Board.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>May 1993, Gaming Roles and Responsibilities approved and added to ordinance.</text>
+      </para>
+      <para>
+        <num>12.</num>
+        <heading>Resolution No.</heading>
+        <text>1370-93. June I, 1993, approved gaming ordinance revised in its entirety.</text>
+      </para>
+      <para>
+        <num>13.</num>
+        <text>Ordinance combined both Class II and Class III gaming, approved by Tribal Council August 19, 1993 by Resolution. Approved by National Indian Gaming Commission and published in Federal Register December 14, 1993.</text>
+      </para>
+      <para>
+        <num>14.</num>
+        <text>March 21, 1995, Ordinance revised in its entirety, creating a Gaming Commission instead of a Gaming Board to regulate the gaming enterprise.</text>
+      </para>
+      <para>
+        <num>15.</num>
+        <text>May 24, 1995, Council adopted Resolution 1498-95 approving revisions to Gaming Ordinance and forwarded to NIGC on June 2, 1995 for review and approval.</text>
+      </para>
+      <para>
+        <num>16.</num>
+        <text>Council approved amendments to ordinance to reflect creation of Compliance Department and restructuring of Gaming Commission, June 28, 1995 - August 9, 1995. Those changes not affecting federally mandated provisions do not need NIGC approval and neither the Gaming Commission nor the Compliance Department are mandated by federal law.</text>
+      </para>
+      <para>
+        <num>17.</num>
+        <heading>July 14, 1995.</heading>
+        <text>Revised ordinance approved by NIGC.</text>
+      </para>
+      <para>
+        <num>18.</num>
+        <text>June 28, 1995, Amendments finalized on August 22, 1995, Resolution 1525-95.</text>
+      </para>
+      <para>
+        <num>19.</num>
+        <text>1997 amendment finalized on February 18, 1997, resolution number 111-97, amending to add new section 20.1.1.</text>
+      </para>
+      <para>
+        <num>20.</num>
+        <text>Revisions approved on July 1, 1997, resolution number 232-97.</text>
+      </para>
+      <para>
+        <num>21.</num>
+        <text>Revisions approved by Tribal Council on June 2, 1998, resolution number 227-98</text>
+      </para>
+      <para>
+        <num>22.</num>
+        <text>Revisions approved by Tribal Council on April 20, 1999, resolution number 026-99.</text>
+      </para>
+      <para>
+        <num>23.</num>
+        <text>Complete Revision adopted on April 1, 2003 by the Tribal Council, by Resolution Number 015-03.</text>
+      </para>
+      <para>
+        <num>24.</num>
+        <text>Sections 4.4.2, 4.23, 4.27, 14.6.4, 14.6.5.6, 15.1, 15.3.29, 15.3.2.10, 15.3.6, 15.4.1, 15.6, 15.7, 15.8, 15.12.1.2, 15.12.7, 13.1, 15.14, 15.15, 15.16, 15.18 amended, Section 25.22 newly created, and Section 25.23 renumbered from 25.22.  Adopted by Tribal Council by Resolution Number 043-03, on October 7, 2003.  Approved by NIGC on December 11, 2003.</text>
+      </para>
+      <para>
+        <num>25.</num>
+        <text>Amended by the Tribal Council on June 2, 2009, by Resolution No. 057-09.  Amendments submitted to NIGC for approval on June 3, 2009 and subsequently withdrawn.  On June 8, 2009, through Resolution No. 060-09, the Tribal Council revoked the amendments approved on June 2, 2009 and approved corrected amendment to Section 4.20.  Amendment of Section 4.20 submitted to NIGC for approval and approved on June 12, 2009.</text>
+      </para>
+      <para>
+        <num>26.</num>
+        <text>Amendments adopted by the Tribal Council on December 6, 2011, by Resolution No. 012-12.  The amendments to Chapter 25 are as follows:</text>
+        <text>
+          <ul proof="needed">
+            <li>Changes or additions to Sections:  Preamble; 4.1; 4.2; 4.5; 4.11; 4.18; 8.3.3; 9.12.1; 9.12.2; 9.12.30; 9.12.32.1.4; 9.14; 9.15; 9.15.1; 10.1; 10.4.4; 10.4.6; 10.4.8; 10.4.9; 10.10; 11.2; 11.5; 11.6.1; 11.6.3; 11.6.4; 15.2; 15.4.1; 15.5; 15.10.2; 15.10.3; 15.15; 15.18.3; 15.18.4; 16.8; 17.1; 21.2.2; 21.2.3; 21.2.4; 21.2.5; 21.2.10; 21.2.19; 21.2.21; and 21.2.26;</li>
+            <li>Deletion of Sections:  14.14.2 and 14.14.6 (with 14.14 then renumbered accordingly); and 16.9;</li>
+            <li>Addition of new Sections:  4.18.1 .1-.12; 4.18.2; 4.18.3; 4.18.4; 4.22.4; 10.4.4.1; 10.4.4.2; 10.4.10; 10.11; 11.3.5; 15.10.8; 15.10.9; 15.16.2 and 15.16.3 (with 15.16 then renumbered accordingly); and 15.18.6 (with 15.18.7 then renumbered); and</li>
+            <li>Minor language clarifications in Sections:  4.2.3; 4.2.5; 7.1; 9.2; 9.3; 9.12.8; 9.12.13; 15.3.2.3; 15.3.2.10; 15.4.3; 15.4.4; 15.6.7; 15.11.2; 15.12.1; 15.12.4; 15.18.2; 15.18.5; 16.1.2; and 16.5.</li>
+          </ul>
+        </text>
+        <text>Amendments submitted to NIGC for approval. Tribe informed by NIGC that corrections needed to Sections 25.15.3.4 and 25.15.3.7 so that language matches federal regulations.  Corrected amendments, which included changes to Sections 25.15.3.4 and 25.15.3.7, re-adopted by the Tribal Council on January 30, 2012, by Resolution No. 017-12.  Corrected amendments submitted to NIGC for approval and approved on March 5, 2012.</text>
+      </para>
+      <para>
+        <num>27.</num>
+        <text>Amendments adopted by the Tribal Council on October 6, 2015, by Resolution No. 02-16.  The amendments included a renumbering of the entire Ordinance to be consistent with format of other ordinances; changes to the definitions of ancillary facility, key employees and primary management officials, additional language for addressing disputes in relation to changes to operating procedures, and additional bases for suspension or denial of a gaming license.</text>
+        <text>Amendments submitted to NIGC for approval on October 13, 2015.  NIGC informed Tribe that additional corrections needed to update ordinance so that language satisfies federal regulations.  Tribe withdrew ordinance from review by NIGC by letter dated November 18, 2015.</text>
+        <text>Amendments, incorporating the original 2015 amendments plus additional changes, adopted by the Tribal Council on January 7, 2016 by Resolution No. 018-16.  An additional comment period waived since changes primarily incorporated technical corrections required per NIGC.  The adopted amendments are as follows:</text>
+        <text>
+          <ul proof="needed">
+            <li>Renumbering of entire ordinance.</li>
+            <li>Addition of Table of Contents.</li>
+            <li>Changes or additions to Sections:  25.4(A), (I), (R), (S), (X), (Z) and (EE); 25.8(N); 25.9(H)(2)(b) and (e); 25.9(H)(3)(a) and (c); 25.9(K)(1); 25.9(L); 25.9(L)(1), (16), (20), (29), (30), (31)(d), (32)(a), (32)(a)(iv), (32)(c), 32(c)(i)-(iii) and (38); 25.9(M)(1)(b); 25.9(N); 25.9(O); 25.10(D)(1), (4), (4)(a)-(b); 25.10(E)(1)-(3); 25.10(F) and (F)(1), 25.10(G), (H), (J) and (K); 25.11(F), (F)(2) and (F)(5); 25.14(P); 25.15(B); 25.15(C)(2)(o) and (9); 25.15(D)(1) and (a)-(d); 25.15(E); 25.15(J)(6); 25.15(K) and (1)-(3); 25.15(L)(1)-(8); 25.15(N); 25.15(S); 25.16(C); 25.17(A), (A)(1)-(2), and (A)(7); and 25.21(A).</li>
+            <li>Deletion of Section:  25.15(R)(8).</li>
+            <li>Addition of new Sections:  25.4 (T) and (U); 25.7(G); 25.15(D)(2); and 25.15(J)(10).</li>
+            <li>Minor language clarifications in Sections:  25.1(D); 25.8(B), (G), (K) and (O); 25.9(D); 25.9(L)(3), (6), (11), (14), (19), (24), (25), (32)(1)(iii), and (33); 25.10; 25.12(A); 25.14(A), (D), (E)(2)(b), (F)(2), (G) and (O); 25.15(C)(4); 25.15(D)(3)-(4); 25.15(J); 25.15(P)(6);  25.17(A)(4); 25.17(B); and 25.21(C)(1).</li>
+          </ul>
+        </text>
+        <text>Amendments submitted to NIGC for approval on January 7, 2016.  Approved by NIGC on ____________.</text>
+      </para>
+    </annotation>
   </annotations>
 </container>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
   <prefix>CHAPTER</prefix>
   <num>28</num>
   <heading>CHILD SUPPORT</heading>
@@ -954,12 +954,36 @@
     <text>This Ordinance shall be reviewed no less than every four years. Amendments to this Ordinance will be effective upon enactment by the Stockbridge-Munsee Community Tribal Council without further review by the Secretary of the Interior.</text>
   </section>
   <annotations>
-    <annotation type="Editor's Notes">1. Adopted by the Tribal Council in June 1, 2004, Resolution Number 026-04.  Adoption required amendments to Chapter 17 and 27 by same resolution.  Approved by BIA June 15, 2004.</annotation>
-    <annotation type="Editor's Notes">2. Sections 28.1, 28.3(A), 28.6 are amended, sections 28.2(H), 28.5(A), 28.5(C) are deleted; sections 28.3(C) and 28.8 are created; section 28.5 is renumbered on October 5, 2004 by Tribal Council Resolution No. 052-04 to add a filing fee, clarify how the court is to notify the Treasurer, clarify that delivery to the Treasurer occurs 45 days prior to a per capita payment, add in future amendment section, and delete references to wage assignments because 28 U.S.C. §1738B requires full faith and credit of foreign child support orders.  Approved by BIA on November 8, 2004.</annotation>
-    <annotation type="Editor's Notes">3. Sections 28.2(A); 28.3(C), (E); 28.4(C); 28.8 are created; sections 28.3(A)(1), (B); 28.6, 28.6(A), (A)(1), (B), (B)(1), (B)(2) are amended; sections 28.2, 28.9, 28.1 are renumbered; and sections 28.3(B)(2) and 28.4(C) are deleted by Tribal Council on September 20, 2005, Resolution No. 046-05.</annotation>
-    <annotation type="Editor's Notes">4. On November 6<sup>th</sup>, 2012, the Tribal Council repealed existing Chapter 28 and adopted a new Chapter 28 that added new sections, renumbered, re-organized and revised existing sections in order to establish a tribal child support agency in accordance with federal law. This was done by Resolution Number 009-13.</annotation>
-    <annotation type="Editor's Notes">5. In order to meet requirements as identified by the Office of Child Support Enforcement, Sections 28.3 (P), 28.7 (C) are amended; section 28.8 moved to its own section; 28.2 (B) is deleted; and beginning at section 28.3 the chapter is renumbered throughout by Tribal Council on May 29, 2013, Resolution No. 054-13.</annotation>
-    <annotation type="Editor's Notes">6. On November 18th, 2014, Tribal Council repealed the existing Chapter 28 Child Support Order and adopted a new Chapter 28 Child Support to accommodate whole-scale changes, including adding new sections and re-numbering, re-organizing and revising existing sections, and re-naming it as the "Child Support Ordinance". This was done by Resolution No. 08-15.</annotation>
-    <annotation type="Editor's Notes">7. Sections 28.1.2; 28.1.5; 28.4; 28.6 (C) &amp; (D); 28.9 (E) &amp; (G); 28.10 (A)(4) &amp; (B); and 28.7(A) are clarified and amended; and sections 28.32 (D) &amp; (E); 28.4; 28.5 par. 1 &amp; 28.5(C); 28.7 (B), (C) and (D) are added; and a portion of section 28.5(A) has been deleted by Tribal Council on September 19, 2017, Resolution No. 050-17.</annotation>
+    <annotation type="Legislative History">
+      <text/>
+      <para>
+        <num>1.</num>
+        <text>Adopted by the Tribal Council in June 1, 2004, Resolution Number 026-04.  Adoption required amendments to Chapter 17 and 27 by same resolution.  Approved by BIA June 15, 2004.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Sections 28.1, 28.3(A), 28.6 are amended, sections 28.2(H), 28.5(A), 28.5(C) are deleted; sections 28.3(C) and 28.8 are created; section 28.5 is renumbered on October 5, 2004 by Tribal Council Resolution No. 052-04 to add a filing fee, clarify how the court is to notify the Treasurer, clarify that delivery to the Treasurer occurs 45 days prior to a per capita payment, add in future amendment section, and delete references to wage assignments because 28 U.S.C. §1738B requires full faith and credit of foreign child support orders.  Approved by BIA on November 8, 2004.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Sections 28.2(A); 28.3(C), (E); 28.4(C); 28.8 are created; sections 28.3(A)(1), (B); 28.6, 28.6(A), (A)(1), (B), (B)(1), (B)(2) are amended; sections 28.2, 28.9, 28.1 are renumbered; and sections 28.3(B)(2) and 28.4(C) are deleted by Tribal Council on September 20, 2005, Resolution No. 046-05.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>On November 6<sup>th</sup>, 2012, the Tribal Council repealed existing Chapter 28 and adopted a new Chapter 28 that added new sections, renumbered, re-organized and revised existing sections in order to establish a tribal child support agency in accordance with federal law. This was done by Resolution Number 009-13.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>In order to meet requirements as identified by the Office of Child Support Enforcement, Sections 28.3 (P), 28.7 (C) are amended; section 28.8 moved to its own section; 28.2 (B) is deleted; and beginning at section 28.3 the chapter is renumbered throughout by Tribal Council on May 29, 2013, Resolution No. 054-13.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>On November 18th, 2014, Tribal Council repealed the existing Chapter 28 Child Support Order and adopted a new Chapter 28 Child Support to accommodate whole-scale changes, including adding new sections and re-numbering, re-organizing and revising existing sections, and re-naming it as the "Child Support Ordinance". This was done by Resolution No. 08-15.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Sections 28.1.2; 28.1.5; 28.4; 28.6 (C) &amp; (D); 28.9 (E) &amp; (G); 28.10 (A)(4) &amp; (B); and 28.7(A) are clarified and amended; and sections 28.32 (D) &amp; (E); 28.4; 28.5 par. 1 &amp; 28.5(C); 28.7 (B), (C) and (D) are added; and a portion of section 28.5(A) has been deleted by Tribal Council on September 19, 2017, Resolution No. 050-17.</text>
+      </para>
+    </annotation>
   </annotations>
 </container>

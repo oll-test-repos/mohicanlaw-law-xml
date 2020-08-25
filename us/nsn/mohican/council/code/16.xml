@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Law">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
   <prefix>CHAPTER</prefix>
   <num>16</num>
   <heading>PUBLIC PEACE AND GOOD ORDER ORDINANCE</heading>
@@ -1206,16 +1206,55 @@
     <text>If a court of competent jurisdiction finds any portion of this Ordinance illegal, the remaining portions of this Ordinance shall remain unaffected and remain in force.</text>
   </section>
   <annotations>
-    <annotation type="Editor's Notes">1. Ordinance No. 5 an ordinance to minimize health and accident hazards within the reservation proper...adopted by the Tribal Council January 13, 1973 (No BIA approval); included Snowmobile Resolution No. 1 dated January 6, 1973.</annotation>
-    <annotation type="Editor's Notes">2. Resolution No. 0506, dated May 3, 1974, established an ordinance entitled "Rules and Regulations-Stockbridge-Munsee Campground".</annotation>
-    <annotation type="Editor's Notes">3. Public Peace and Good Order Ordinance presented to tribal council for consideration, public hearing held on August 26, 1986.</annotation>
-    <annotation type="Editor's Notes">4. September 21, 1988, to ordinance committee for review.</annotation>
-    <annotation type="Editor's Notes">5. Approved by tribal council, October 4, 1988, for posting with appropriate changes made.</annotation>
-    <annotation type="Editor's Notes">6. Public Peace and Good order Ordinance adopted by Resolution No. 1113, November 1, 1988.  Listing received from BIA shows they have it on file.</annotation>
-    <annotation type="Editor's Notes">7. Resolution No. 1552-95, November 7, 1995, amends Ordinance by replacing "Tribal Council" with "Tribal Court" in Section 16.14 VIOLATION: JURISDICTION.</annotation>
-    <annotation type="Editor's Notes">8. Amended in July 1996 to disallow alcohol in tribal parks.</annotation>
-    <annotation type="Editor's Notes">9. Amended October 7, 1997, by Resolution No. 251-97.</annotation>
-    <annotation type="Editor's Notes">10. Amended by Tribal Council on July 18, 2006 by repealing and recreating Section 16.10, Animal Control; Subsections 16.11(A) 11-17, under Park Rules, are created; Section 16.11(B) for Pow Wow Park Rules is created; Section 16.11(C) is created; Section 16.15, Future Amendments, is created; and Section 16.16, Severability, is created, Resolution Number 050-06.  Approved by BIA on August 15, 2006.</annotation>
-    <annotation type="Editor's Notes">11. On June 3, 2015, Tribal Council by Resolution No. 049-15 repealed existing Chapter 16 and adopted a new version of Chapter 16.  New version of ordinance renumbered, reorganized and clarified existing material.  It also added new sections on jurisdiction, as well as new violations for misappropriation, drug-related criminal activity, public intoxication, obstruction, nuisance, condemnation and abandoned buildings, and codified Resolution 042-11 regarding concealed weapons.  BIA approval not required per Section 16.25 (formerly Section 16.15).</annotation>
+    <annotation type="Legislative History">
+      <text/>
+      <para>
+        <num>1.</num>
+        <heading>Ordinance No.</heading>
+        <text>5 an ordinance to minimize health and accident hazards within the reservation proper...adopted by the Tribal Council January 13, 1973 (No BIA approval); included Snowmobile Resolution No. 1 dated January 6, 1973.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <heading>Resolution No.</heading>
+        <text>0506, dated May 3, 1974, established an ordinance entitled "Rules and Regulations-Stockbridge-Munsee Campground".</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Public Peace and Good Order Ordinance presented to tribal council for consideration, public hearing held on August 26, 1986.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>September 21, 1988, to ordinance committee for review.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Approved by tribal council, October 4, 1988, for posting with appropriate changes made.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Public Peace and Good order Ordinance adopted by Resolution No. 1113, November 1, 1988.  Listing received from BIA shows they have it on file.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <heading>Resolution No.</heading>
+        <text>1552-95, November 7, 1995, amends Ordinance by replacing "Tribal Council" with "Tribal Court" in Section 16.14 VIOLATION: JURISDICTION.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Amended in July 1996 to disallow alcohol in tribal parks.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Amended October 7, 1997, by Resolution No. 251-97.</text>
+      </para>
+      <para>
+        <num>10.</num>
+        <text>Amended by Tribal Council on July 18, 2006 by repealing and recreating Section 16.10, Animal Control; Subsections 16.11(A) 11-17, under Park Rules, are created; Section 16.11(B) for Pow Wow Park Rules is created; Section 16.11(C) is created; Section 16.15, Future Amendments, is created; and Section 16.16, Severability, is created, Resolution Number 050-06.  Approved by BIA on August 15, 2006.</text>
+      </para>
+      <para>
+        <num>11.</num>
+        <text>On June 3, 2015, Tribal Council by Resolution No. 049-15 repealed existing Chapter 16 and adopted a new version of Chapter 16.  New version of ordinance renumbered, reorganized and clarified existing material.  It also added new sections on jurisdiction, as well as new violations for misappropriation, drug-related criminal activity, public intoxication, obstruction, nuisance, condemnation and abandoned buildings, and codified Resolution 042-11 regarding concealed weapons.  BIA approval not required per Section 16.25 (formerly Section 16.15).</text>
+      </para>
+    </annotation>
   </annotations>
 </container>
