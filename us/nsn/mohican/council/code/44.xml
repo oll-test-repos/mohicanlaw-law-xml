@@ -2,157 +2,270 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
   <prefix>CHAPTER</prefix>
   <num>44</num>
-  <heading>TRIBAL REGISTRY OFFICE</heading>
+  <heading>MEMBERSHIP</heading>
   <section>
-    <num>44-A .1</num>
-    <heading>PURPOSE</heading>
-    <text>The purpose of establishing a tribal registry office is to provide an official filing system in order to record and maintain certain documents so as to provide evidence of actions and proceedings that involve tribal people and tribal lands, give notice of such activities, and to preserve a record of these documents.</text>
-  </section>
-  <section>
-    <num>44-A .2</num>
-    <heading>TYPES OF RECORDS</heading>
-    <text>The types of records to be recorded and filed shall include the following:</text>
+    <num>44.1</num>
+    <heading>Purpose, Authority and Definitions</heading>
     <para>
-      <num>A.</num>
-      <text>Grants of Standard Assignment</text>
+      <num>(A)</num>
+      <text>The purpose of this ordinance is to establish a process for the adoption of new Members into the Stockbridge-Munsee Community as authorized under Article III, Section 4, of the Constitution of the Stockbridge-Munsee Community.</text>
     </para>
     <para>
-      <num>B.</num>
-      <text>Leases</text>
+      <num>(B)</num>
+      <text>The original membership of the Stockbridge-Munsee Community shall consist of all persons eligible and enrolled under the definition of membership contained in Article III, Section 1, 2, and 3 of the Constitution of the Stockbridge-Munsee Community.</text>
     </para>
     <para>
-      <num>C.</num>
-      <text>Records documenting land use, including variances, conditional use permits, other permits required under Land Use Code.</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Land contracts</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>Tribal Land Assignment Security Agreements</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>Bills of sale for houses upon tribal lands</text>
-    </para>
-    <para>
-      <num>G.</num>
-      <text>Maps of lands within reservation boundaries</text>
-    </para>
-    <para>
-      <num>H.</num>
-      <text>Certified survey maps</text>
-    </para>
-    <para>
-      <num>I.</num>
-      <text>Cemetery plats</text>
-    </para>
-    <para>
-      <num>J.</num>
-      <text>Marital property agreements</text>
-    </para>
-    <para>
-      <num>K.</num>
-      <text>Court-ordered transactions affecting tribal lands</text>
-    </para>
-    <para>
-      <num>L.</num>
-      <text>Tribal enrollment records</text>
-    </para>
-    <para>
-      <num>M.</num>
-      <text>Name Changes</text>
-    </para>
-    <para>
-      <num>N.</num>
-      <text>Marriages</text>
-    </para>
-    <para>
-      <num>O.</num>
-      <text>Divorces</text>
-    </para>
-    <para>
-      <num>P.</num>
-      <text>Deaths</text>
+      <num>(C)</num>
+      <text>Definitions.</text>
+      <para>
+        <num>(1)</num>
+        <text>"Applicant" refers to a person applying for membership in the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>"Base Roll" refers to the January 1, 1940 Indian Census Roll of Stockbridge-Munsee Indians taken through the Tomah Indian Agency.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>"Blood Quantum" refers to the degree of Stockbridge-Munsee Community Indian blood (degree of Indian blood) required to meet membership criteria.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>"Constitution" refers to the Constitution and By-laws of the Stockbridge-Munsee Community adopted in 1937, as amended.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>"Department" refers to the Land and Enrollment Department or other such department designated by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>"Descendant" refers to a person whom is in a direct line of biological descent from an ancestor, as from grandparent to parent to child in a direct descending line.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>"Enrollment" refers to the process used to adopt new members of the Stockbridge-Munsee Community and, as applicable, place their names on the Membership Roll.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>"Member" refers to any person enrolled in the Stockbridge-Munsee Community who has the privileges and responsibilities of membership.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>"Membership Roll" refers to the list of all living persons who are Members of the Stockbridge-Munsee Community.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>"Sponsor" refers to a person applying for membership on behalf of another individual, such as a parent, guardian, or other legal representative (e.g., an Indian child welfare worker).</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>"Tribal Council" or "Council" means the Tribal Council of the Stockbridge-Munsee Community.</text>
+      </para>
     </para>
   </section>
   <section>
-    <num>44-A .3</num>
-    <heading>RECORDABLE DOCUMENTS</heading>
-    <text>The original, a signed duplicate, or certified copy of the document listed above shall be submitted for recording and filing.</text>
+    <num>44.2</num>
+    <heading>Establishment of Membership Committee</heading>
+    <text>A Membership Committee consisting of seven persons effective March 20, 2001 is hereby established which shall review all applications for adoption and conduct investigations of tribal status, degree of Indian blood and other characteristics of the applicants as it shall deem necessary in determining whether the Applicants should be adopted as Members of the Community, and shall thereupon submit such information to the Council together with recommendations indicating the Committee's approval or disapproval in each case.</text>
   </section>
   <section>
-    <num>44-A .4</num>
-    <heading>ACCESSIBILITY</heading>
-    <text>It is the policy of the Stockbridge-Munsee Community to allow the Tribe and tribal members to have access to tribal land records, tribal enrollment records, and related documents unless such access would violate the Privacy Act (5 U.S.C. 552a).</text>
-  </section>
-  <section>
-    <num>44-A .5</num>
-    <heading>USES</heading>
-    <text>Documents recorded are used to give notice of land uses, verify legal instruments, create land abstracts, locate property lines, draw plats, research historical data, assist courtroom testimony, do genealogical searches, provide proof of ownership, and other uses.</text>
-  </section>
-  <section>
-    <num>44-A .6</num>
-    <heading>PERSON RESPONSIBLE FOR TRIBAL REGISTRY</heading>
-    <text>The person assigned to be responsible for maintenance and safe-keeping of records shall be the Tribal Land and Enrollment Manager.</text>
-  </section>
-  <section>
-    <num>44-A .7</num>
-    <heading>DUTIES OF RESPONSIBLE PERSON</heading>
-    <text>The Land and Enrollment Manager shall:</text>
+    <num>44.3</num>
+    <heading>Appointment to Membership Committee</heading>
     <para>
-      <num>A.</num>
-      <text>accept for filing all records presented to his/her office as listed above.</text>
-      <text>B.  endorse each document</text>
-      <text>C.  keep a record of all documents  presented in a suitably bound book.</text>
-      <text>D.  assure the safe-keeping of all records filed.</text>
-      <text>E.  provide accessibility to records in accordance with D. above, and shall issue copies as requested.</text>
-      <text/>
+      <num>(A)</num>
+      <text>The Membership Committee shall be appointed by the Tribal Council for a period of two years.  The Committee shall have only advisory powers and no member shall be at the same time a member of the Council. The recommendations of the Committee shall be made in writing and signed by at least four members of the Committee.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Four terms of the Membership Committee shall run concurrently with the term of the Tribal President.  The other three terms of the Membership Committee shall run for two years, but, shall expire on the eve of the October election in years that the Tribal President is not up for election.</text>
+      <para>
+        <num>(1)</num>
+        <text>Section 44.3 (B) is intended to implement staggered terms for the Membership Committee.  Upon the adoption of the 2001 amendment and effective March 2001, the three incumbent Committee Members' terms shall expire on the eve of the October 2001 election, and on the eve of every other October election thereafter.  As of March 20, 2001, the four other Committee Members' terms shall expire on the eve of the October 2002 election, and on the eve of every other October election thereafter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The Stockbridge-Munsee Community recognizes that elders can provide valuable input to the Membership Committee.  Therefore, at least two of the Committee Members shall be elders (at least 55 years old), provided that at least two elders seek appointment to the Membership Committee.  If elders do not seek appointment, the Membership Committee shall be appointed in accordance with Section 44.3 (B), and without regard to elder status.</text>
+      <para>
+        <num>(1)</num>
+        <text>The elder terms shall coincide with Section 44.3(B).  One elder appointment shall expire on the eve of the October 2001 election, and on the eve of every other October election thereafter.  The other elder appointment shall expire on the eve of the October 2002 election, and on the eve of every other October election thereafter.</text>
+      </para>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Tribal Council, by motion at a regularly scheduled Council meeting, reserves the right to remove a Membership Committee member for cause.</text>
     </para>
   </section>
   <section>
-    <num>44-A .8</num>
-    <heading>RECEIVING AND RECORDING OF DOCUMENTS</heading>
-    <text>Each document recorded shall be endorsed on its face with the date and time received, volume where document is recorded, and signature of registrar. Documents shall be recorded by the order in which they are received.</text>
-  </section>
-  <section>
-    <num>44-A .9</num>
-    <heading>FILES MAINTENANCE</heading>
-    <text>A safe and fireproof  filing and retrieval system shall be established by the Land and Enrollment Manager for all documents recorded.</text>
-  </section>
-  <section>
-    <num>44-A .10</num>
-    <heading>ELECTRONIC RECORDS</heading>
-    <text>Electronic records shall be electronically secure and back up stored in remote location.</text>
-  </section>
-  <section>
-    <num>44-A .11</num>
-    <heading>EFFECTIVE DATE</heading>
-    <text>This Chapter shall become effective 30 days after approval by the Stockbridge-Munsee Community.</text>
-  </section>
-  <section>
-    <num>44-A .12</num>
-    <heading>COVERAGE, SEVERABILITY, AMENDMENTS</heading>
+    <num>44.4</num>
+    <heading>Base Roll for Blood Quantum</heading>
     <para>
-      <num>A.</num>
-      <text>This Chapter shall be binding on all entities, enterprises, and organizations operating under the Stockbridge-Munsee Community and all other tribal laws requiring recording shall abide by this Chapter.</text>
+      <num>(A)</num>
+      <text>Persons identified as Stockbridge-Munsee on the Base Roll shall be deemed to have a Blood Quantum that is full (4/4) Stockbridge-Munsee Indian blood for the purpose of determining whether their Descendants may be adopted as new Members, regardless of the degree of Indian blood specified on the Base Roll.</text>
+      <para>
+        <num>(1)</num>
+        <text>Persons who are the biological full siblings of Members listed on the Base Roll, even if the sibling is born after January 1, 1940, are also deemed to have a Blood Quantum that is full (4/4) Stockbridge-Munsee Indian blood.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>This Section does not change the status of persons referenced on the Base Roll that are not identified as Stockbridge-Munsee.</text>
+      </para>
     </para>
     <para>
-      <num>B.</num>
-      <text>If any provision of this Chapter is ruled illegal by a court of competent jurisdiction, the remaining provisions shall remain unaffected.</text>
+      <num>(B)</num>
+      <text>All persons identified as Stockbridge-Munsee whose name appears on the roll of 1871 and any subsequent roll through the Base Roll, including the roll of 1910, are deemed to have a Blood Quantum that is full (4/4) Stockbridge-Munsee Indian blood for the purpose of determining whether their Descendants may be adopted as new Members, regardless of the degree of Indian blood specified on such rolls.</text>
     </para>
     <para>
-      <num>C.</num>
-      <text>This Chapter may be amended by resolution of the Tribal Council.</text>
+      <num>(C)</num>
+      <text>The use of the Base Roll to determine Blood Quantum for the adoption of new Members does not impact the membership status of persons previously enrolled as Members  under Article III, Sections 1, 2 or 3 of the Constitution or of persons previously adopted into membership under this Ordinance, but may affect their Blood Quantum as addressed in Section 44.6 (C)(1).</text>
     </para>
   </section>
-  <annotations>
-    <annotation type="Legislative History">
-      <text/>
-      
-      <text>Adopted by Tribal Council on February 19, 2002, Resolution No. 012-02.</text>
-      <text>Approved by BIA on March 5, 2002.</text>
-    </annotation>
-  </annotations>
+  <section>
+    <num>44.45</num>
+    <heading>Loss of Membership</heading>
+    <text>Provided, that any person whose name appears on the 1871 Stockbridge-Munsee roll or any subsequent roll up to and including the roll of 1910 of the Stockbridge-Munsee Indians of Wisconsin, who has relinquished their membership, or their entitlement to membership, or have been disenrolled for any reason shall not be Members of the Stockbridge-Munsee Community.</text>
+  </section>
+  <section>
+    <num>44.5</num>
+    <heading>Eligibility for Adoption as New Member</heading>
+    <text>Descendants of persons who are enrolled in the Stockbridge-Munsee Community shall be eligible for adoption as new Members, provided such Descendants present acceptable evidence of having a Blood Quantum of one-quarter (1/4) or more degree Stockbridge-Munsee Indian blood.</text>
+  </section>
+  <section>
+    <num>44.6</num>
+    <heading>Enrollment Process</heading>
+    <para>
+      <num>(A)</num>
+      <text>Descendants of Members of the Stockbridge-Munsee Community may be enrolled as new members of the Stockbridge-Munsee Community upon approval by the Tribal Council based on the following enrollment process; Provided such Descendants are of one-quarter (1/4) or more Stockbridge-Munsee Indian blood; and, Provided further that such Descendants are not members of any other Indian tribe.</text>
+      <para>
+        <num>(1)</num>
+        <text>An Applicant, or his/her Sponsor, shall submit a completed application for enrollment to the Department that includes a certified copy of the Applicant's birth certificate.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department will review the application materials for completeness and prepare supporting materials including a family tree and a preliminary determination of Blood Quantum.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Once the supporting materials are complete, the Department will forward the application and supporting materials to the Membership Committee to review and make a recommendation on whether the Applicant should be enrolled and, if so, what the Blood Quantum should be.  The details of specific applications are discussed in executive session; however, the recommendations on the applications are documented in open session.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Membership Committee's recommendation will be forwarded to the Tribal Council, who will, by motion in open session, decide whether to approve or deny membership to the Applicant and confirm the Applicant's Blood Quantum.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An Applicant becomes a Member effective as of the date of the Tribal Council's action to approve membership.  The execution of supporting paperwork and the Department's entry of the person's name onto the Membership Roll are administrative actions and do not change the date of membership.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Calculation of Blood Quantum.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department shall update its membership records to reflect the recalculated Blood Quantum of Members.  This recalculation is based on the method outlined in Section 44.4 where persons who were enrolled on or before January 1, 1940, are deemed to have full Stockbridge-Munsee Indian blood as well as the biological full siblings of Members listed on the Base Roll, even if the sibling is born after January 1, 1940.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Blood Quantum of Applicants will be calculated based on the approach outlined in Section 44.4.</text>
+      </para>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The Department is responsible for maintaining membership records on current and past members, including the Membership Roll.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>The Department holds membership records, most particularly protected information such as social security numbers, confidential except to the extent disclosures are necessary for the purpose of governmental operations or are authorized.  The minimum amount of information necessary for the purpose will be disclosed as part of any such disclosures.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>The Membership Roll is not distributed except as authorized by law or by the Tribal Council.</text>
+    </para>
+  </section>
+  <section>
+    <num>44.65</num>
+    <heading>Process to Deny Request for Enrollment</heading>
+    <para>
+      <num>(A)</num>
+      <text>If the Membership Committee recommends the Tribal Council deny enrollment to an applicant, the following procedure shall apply:</text>
+      <para>
+        <num>(1)</num>
+        <text>At least two regular Tribal Council meetings are required in order to deny membership.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>At a regular Tribal Council meeting, the Tribal Council shall announce, by motion, its intent to deny membership to the named Applicant.  For the purpose of this Ordinance, regular Tribal Council meeting has the same meaning as in Chapter 50, Procedures Ordinance.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Tribal Council Secretary shall than notify the Applicant or, if applicable, the Sponsor that the Tribal Council is considering denying the membership application.</text>
+        <para>
+          <num>(a)</num>
+          <text>Such notification shall be in writing and shall be served via certified, restricted, return receipt requested.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The notification shall state the following:</text>
+          <text>"At the ___________(date) regular Tribal Council meeting, Tribal Council	 made a motion of its intent to deny membership to ___________ (applicant's name).  Tribal Council based its decision on _______________________________________________________________________________________________________________________.  <strong>You have thirty calendar days to respond if you wish to challenge Tribal Council's intent to deny membership.  </strong>If you do not respond within thirty calendar days, Tribal Council may deny membership to the applicant at its next Regular Tribal Council meeting<strong>.</strong></text>
+          <text>If you chose to contest Tribal Council's intent to deny membership, the applicant, its parent(s), its guardian, or representative must respond in writing to the Tribal Secretary.  Your response must be received within thirty calendar days of you receiving this notice.  If you are contesting Tribal Council's intent to deny membership, the applicant, its parent(s), its guardian, or representative will have the opportunity to review the copies of the documents that Tribal Council is relying on.</text>
+          <text>If you are contesting Tribal Council's intent to deny membership, the Tribal Council Secretary will then contact the applicant in order to schedule the membership issue on an upcoming regular Tribal Council meeting agenda.  The Tribal Council Secretary will also provide you with the copies of relevant documents that Tribal Council relied on for its intent to deny membership decision."</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If the Applicant has not responded to the Tribal Secretary's Section 44.65 (A)(3) notice, then the Tribal Council may take action to deny membership to the Applicant at a regular Tribal Council meeting.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If the Applicant has responded to the Tribal Secretary's notice, then the Tribal Council may not take action to deny membership unless the Applicant or the Sponsor or a designated representative has had an opportunity to present its case to the Tribal Council in Executive Session at a regular Tribal Council meeting.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Applicant or Sponsor bears the burden of proving that enrollment should not be denied.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notwithstanding Section 44.65 (A)(5), Tribal Council may take action to deny membership if the Applicant or Sponsor or a designated representative does not attend a Tribal Council meeting within ninety calendar days after responding the Tribal Secretary's Section 44.65 (A)(3) notice.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Nothing in Section 44.65 (A) is intended to limit Tribal Council's authority to consider membership matters to only two Tribal Council meetings, provided that Applicants are provided with the opportunity to respond pursuant the requirements in Section 44.65 (A).</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>All seven (7) members of the Tribal Council shall be present in order to take action on the final decision to deny membership as outlined in Sections 44.65 (A) (4) and (5) above.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Tribal Council is the final forum to determine Tribal Member eligibility.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>A denial of enrollment by the Tribal Council is final.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Applicant or Sponsor is not permitted to submit a new application unless a material change in the underlying facts or circumstances can be shown.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The recalculation of Blood Quantum due to Section 44.4 (B) would constitute a material change and permit a new application for enrollment.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>44.7</num>
+    <heading>Voluntary Relinquishment of Membership</heading>
+    <text>Enrolled Tribal Members may voluntarily relinquish their Tribal membership in accordance with established policies and procedures.</text>
+  </section>
+  <section>
+    <num>44.8</num>
+    <heading>Sovereign Immunity</heading>
+    <text>Nothing in this Ordinance shall provide or be interpreted to provide a waiver of the sovereign immunity of the Stockbridge-Munsee Community, or its governmental officers, agents, employees, or committees.</text>
+  </section>
+  <section>
+    <num>44.9</num>
+    <heading>Severability</heading>
+    <text>If any section or any part thereof, of this Ordinance shall be held invalid or illegal by a court of competent jurisdiction, the remainder of the section or part of the Ordinance shall not be affected and shall remain in full force and effect as though no section, or part thereof, has been declared to be invalid or illegal.</text>
+  </section>
 </container>
