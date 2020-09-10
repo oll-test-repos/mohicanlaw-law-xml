@@ -2,7 +2,7 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 069-19">
   <heading/>
   <meta>
-    <effective>0001-01-02</effective>
+    <effective/>
     <history>
       <adopted>2019-09-03</adopted>
     </history>
@@ -34,7 +34,6 @@
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to Chapter 21, which include the following changes:</text>
-    </recital>
     <text>
       <ul proof="needed">
         <li>Moved:</li>
@@ -82,6 +81,7 @@
         <li>Deleted section (numbering from previous): 21.8 (D); 21.8 (I); 21.9 (A)(2); 21.13 (E); and 21.17 (F).</li>
       </ul>
     </text>
+    </recital>
   </recitals>
   <procedural-data>
     <text>CERTIFICATION</text>
