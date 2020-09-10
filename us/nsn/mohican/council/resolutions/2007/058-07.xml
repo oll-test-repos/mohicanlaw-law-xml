@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 07-08">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 058-07">
   <heading/>
   <meta>
-    <effective>2012-05-09</effective>
+    <effective/>
     <history>
-      <adopted>2007-12-04</adopted>
+      <adopted/>
     </history>
     <citations>
-      <citation type="res" url="./adopted/07-08.pdf">Stockbridge-Munsee Tribal Council Res. No. 07-08</citation>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 058-07</citation>
     </citations>
   </meta>
   <recitals>
@@ -21,19 +21,23 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>The Stockbridge-Munsee Community honors and respects its elders; and,</text>
+      <text>The Stockbridge-Munsee Community values its youths and families as  important resources; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>The Stockbridge-Munsee Community has a long history of recognizing the importance of our elders; and,</text>
+      <text>The Tribe previously adopted Chapter 8, Youth in Need of Care; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>The Stockbridge-Munsee Community finds it is in the best interests of the elders and the Tribe to offer more protections from elder abuse.</text>
+      <text>Chapter 8, the Youth in Need of Care Ordinance needs several changes to address situations and issues that have arisen over the past several years; and,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 8 needed better organization and clearer guidelines.</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
-      <text>that the Stockbridge-Munsee Tribal Council hereby adopts Chapter 66, the Elder Protection Code.</text>
+      <text>that the Stockbridge-Munsee  hereby repeals the existing Chapter 8, Youth in Need of Care; and replaces the existing Chapter 8, Youth in Need of Care with the Chapter 8, Youth in Need of Care adopted today.</text>
     </recital>
   </recitals>
   <procedural-data>

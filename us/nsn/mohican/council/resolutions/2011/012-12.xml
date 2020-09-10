@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 012-12">
+  <heading/>
+  <meta>
+    <effective/>
+    <history>
+      <adopted/>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 012-12</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe with inherent sovereign powers, and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend	Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe is authorized to conduct gaming activities on the Stockbridge-Munsee Reservation in accordance with federal gaming law and its Gaming Compact with the State of Wisconsin;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe regulates such gaming activities through Chapter 25, the Gaming Ordinance, which was approved by National Indian Gaming Commission as required under federal law;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Revisions to Chapter 25 were identified that included changes to the definitions of ancillary facility, key employees and primary management officials, additional language for addressing disputes in relation to changes to operating procedures, additional bases for suspension or denial of a gaming license, and changes to clarify the ordinance and were adopted by the Tribal Council on December 6, 2011 by Resolution No. 012-12;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The amended Chapter 25 was submitted to the National Indian Gaming Commission (NIGC) for approval in accordance with federal law and the NIGC has identified that corrections are needed to Sections 25.15.3.4 and 25.15.3.7 to incorporated updated privacy notice and false statement language from the federal regulations; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe wishes to comply with NIGC's recommendation and resubmit the corrected amendments for approval;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby revokes the amendments to Chapter 25 that were adopted on December 6, 2011;</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>since the additional changes are technical corrections to the amendments to Chapter 25 that been adopted on December 6, 2011, any need for an additional posting of the amendments is waived; and</text>
+    </recital>
+    <recital>
+      <conjunction>BE IT FURTHER RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee  hereby adopts the corrected amendments to Chapter 25, which include the following changes:</text>
+    </recital>
+    <text>
+      <ul proof="needed">
+        <li>Changes or additions to Sections:  Preamble; 4.1; 4.2; 4.5; 4.11; 4.18; 8.3.3; 9.12.1; 9.12.2; 9.12.30; 9.12.32.1.4; 9.14; 9.15; 9.15.1; 10.1; 10.4.4; 10.4.6; 10.4.8; 10.4.9; 10.10; 11.2; 11.5; 11.6.1; 11.6.3; 11.6.4; 15.2; 15.3.4; 15.3.7; 15.4.1; 15.5; 15.10.2; 15.10.3; 15.15; 15.18.3; 15.18.4; 16.8; 17.1; 21.2.2; 21.2.3; 21.2.4; 21.2.5; 21.2.10; 21.2.19; 21.2.21; and 21.2.26;</li>
+        <li>Deletion of Sections:  14.14.2 and 14.14.6 (with 14.14 then renumbered accordingly); and 16.9;</li>
+        <li>Addition of new Sections:  4.18.1 .1-.12; 4.18.2; 4.18.3; 4.18.4; 4.22.4; 10.4.4.1; 10.4.4.2; 10.4.10; 10.11; 11.3.5; 15.10.8; 15.10.9; 15.16.2 and 15.16.3 (with 15.16 then renumbered accordingly); and 15.18.6 (with 15.18.7 then renumbered); and</li>
+        <li>Minor language clarifications in Sections:  4.2.3; 4.2.5; 7.1; 9.2; 9.3; 9.12.8; 9.12.13; 15.3.2.3; 15.3.2.10; 15.4.3; 15.4.4; 15.6.7; 15.11.2; 15.12.1; 15.12.4; 15.18.2; 15.18.5; 16.1.2; and 16.5.</li>
+      </ul>
+    </text>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom ____, constituting a quorum, were present at a meeting duly called, noticed, and held on the ____ day of _______, 2012, that the foregoing resolution was duly adopted at such meeting by a vote of ____ for, ____against, and ____abstaining.</text>
+    <text>___________________________				________________________</text>
+    <text>Robert Chicks, President					, Secretary</text>
+  </procedural-data>
+</document>

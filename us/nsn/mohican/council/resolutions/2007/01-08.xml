@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 07-08">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 01-08">
   <heading/>
   <meta>
-    <effective>2012-05-09</effective>
+    <effective/>
     <history>
-      <adopted>2007-12-04</adopted>
+      <adopted/>
     </history>
     <citations>
-      <citation type="res" url="./adopted/07-08.pdf">Stockbridge-Munsee Tribal Council Res. No. 07-08</citation>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 01-08</citation>
     </citations>
   </meta>
   <recitals>
@@ -21,19 +21,15 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>The Stockbridge-Munsee Community honors and respects its elders; and,</text>
+      <text>The existing Guardianship Ordinance, Chapter 9 only involves youths; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>The Stockbridge-Munsee Community has a long history of recognizing the importance of our elders; and,</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>The Stockbridge-Munsee Community finds it is in the best interests of the elders and the Tribe to offer more protections from elder abuse.</text>
+      <text>The Community needs an ordinance that addresses adults who may need a guardian.</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
-      <text>that the Stockbridge-Munsee Tribal Council hereby adopts Chapter 66, the Elder Protection Code.</text>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts the amendments to Chapter 9 Youth Guardianship, by renaming Chapter 9, "Guardianship"; and by creating §9.2(C) in its entirety; §9.3(C),(C)(1); §9.9; 9.10 amending §9.1(A); §§9.1(B)(1),(2),(3); §9.2(A); §§9.2(B)(1),(2),(3); §§9.2(E),(F),(F)(1),(F)(2); §§9.3(A),(B)(1),(B)(2); §§9.6(A),(A)(1),(A)(3),(A)(4); §9.8; and deleting §9.2(D) and renumbering §9.2.</text>
     </recital>
   </recitals>
   <procedural-data>

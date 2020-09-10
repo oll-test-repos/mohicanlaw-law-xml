@@ -2,8 +2,7 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 062-19">
   <heading/>
   <meta>
-    <stub/>
-    <effective/>
+    <effective>0001-01-02</effective>
     <history>
       <adopted>2019-08-20</adopted>
     </history>
@@ -11,4 +10,32 @@
       <citation type="res" url="./adopted/062-19.pdf">Stockbridge-Munsee Tribal Council Res. No. 062-19</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally-recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to its 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend	ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has established an official Flag as an exercise of its fundamental right of sovereignty and self-determination; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe wishes to establish a code of conduct addressing the use, display, and respect for the Stockbridge-Munsee Flag;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee  hereby adopts a new Chapter 70, Stockbridge-Munsee Flag Ordinance, as part of Stockbridge-Munsee tribal law.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom ____, constituting a quorum, were present at a meeting duly called, noticed, and held on the ____ day of ________, 2019, that the foregoing resolution was duly adopted at such meeting by a vote of ____ for, ____against, and ____abstaining.</text>
+    <text>_______________________					________________________</text>
+    <text>Shannon Holsey, President					Jerilyn Johnson, Secretary</text>
+  </procedural-data>
 </document>

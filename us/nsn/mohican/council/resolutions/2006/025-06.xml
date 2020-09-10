@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 07-08">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 025-06">
   <heading/>
   <meta>
-    <effective>2012-05-09</effective>
+    <effective/>
     <history>
-      <adopted>2007-12-04</adopted>
+      <adopted/>
     </history>
     <citations>
-      <citation type="res" url="./adopted/07-08.pdf">Stockbridge-Munsee Tribal Council Res. No. 07-08</citation>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 025-06</citation>
     </citations>
   </meta>
   <recitals>
@@ -21,25 +21,21 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>The Stockbridge-Munsee Community honors and respects its elders; and,</text>
+      <text>Chapter 39, the Utility Ordinance was adopted in 1999 to regulate tribal utilities, including the community water and wastewater systems; and,</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>The Stockbridge-Munsee Community has a long history of recognizing the importance of our elders; and,</text>
-    </recital>
-    <recital>
-      <conjunction>WHEREAS,</conjunction>
-      <text>The Stockbridge-Munsee Community finds it is in the best interests of the elders and the Tribe to offer more protections from elder abuse.</text>
+      <text>The Tribe wishes to expand provisions of the Ordinance that previously addressed only the wastewater system to also address the Tribe's community water system regarding connection to the utilities and the fees for these utilities.</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
-      <text>that the Stockbridge-Munsee Tribal Council hereby adopts Chapter 66, the Elder Protection Code.</text>
+      <text>that the Stockbridge-Munsee  hereby adopts the amendments by creating Sections 39.15(C); 39.15(D); and 39.15(E) and making technical changes to Sections 39.15(A); 39.15(B(3); 39.18(A); 39.21(A)(2); 39.22(A); 39.22(B); and 39.22(C).</text>
     </recital>
   </recitals>
   <procedural-data>
     <text>CERTIFICATION</text>
     <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom ____, constituting a quorum, were present at a meeting duly called, noticed, and held on the ____ day of ______, 20__, that the foregoing resolution was duly adopted at such meeting by a vote of ____ for, ____against, and ____abstaining.</text>
     <text>_______________________					________________________</text>
-    <text>Robert Chicks, President					Jerilyn Johnson, Secretary</text>
+    <text>, President					, Secretary</text>
   </procedural-data>
 </document>

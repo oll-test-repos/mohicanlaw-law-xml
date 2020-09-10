@@ -2,8 +2,8 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 025-18">
   <heading/>
   <meta>
-    <stub/>
-    <effective/>
+
+    <effective>0001-01-02</effective>
     <history>
       <adopted>2018-03-06</adopted>
     </history>
@@ -11,4 +11,44 @@
       <citation type="res" url="./adopted/025-18.pdf">Stockbridge-Munsee Tribal Council Res. No. 025-18</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend	Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 49, the Election Ordinance, establishes the system that the Tribe uses to conduct impartial and equitable elections;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In an advisory referendum held as part of the 2017 election, the majority of voters supported the addition of a primary election to the annual election cycle;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Along with adding a primary election, the Tribal Council wishes to update Chapter 49 to add a contested ballot process, clarify that the ordinance is used as guidance for conducting recall elections and address how election appeals are handled by the Election Board and Tribal Court;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the amendments to Chapter 49, which make the following changes:</text>
+    </recital>
+    <text>
+      <ul proof="needed">
+        <li>Amended sections:  Introduction, 49.1(A), (D), (E); 49.2; 49.3; 49.5; 49.6(A), (B), (C), (D), (E)(3); 49.7; 49.8(A); 49.9(A), (D); 49.11(A); 49.11.5(B); 49.11.7(A), (C); 49.12(A)(3), (B), (B)(1), (B)(1)(a-b), 49.12(B)(2)(c-d), (B)(3); 49.12.5 (B), (C), (D), (E), (F); 49.16(A), (B), and (C).</li>
+        <li>Added new sections:  49.1(A)(3-4); 49.6(B)(1-2); 49.6(D); 49.6(E)(1),(2), (3)(i-ii) and (4); 49.6.5; 49.8(R)(3)(a-b); 49.8(U); 49.8.5; 49.11(A)(1-2); 49.12(B)(2), (4), (5); 49.12.5(A), (E)(1-2), (F)(1-5), (G), (H); 49.12.5(G); 49.16(D); and 49.19.</li>
+        <li>Reordered sections: 49.12 (A) and (B).</li>
+        <li>Deleted section:  49.12(A)(7).</li>
+      </ul>
+    </text>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom ____, constituting a quorum, were present at a meeting duly called, noticed, and held on the ____ day of _______, 20___, that the foregoing resolution was duly adopted at such meeting by a vote of ____ for, ____against, and ____abstaining.</text>
+    <text>_____________________________				________________________</text>
+    <text>Shannon Holsey, President					Jerilyn Johnson, Secretary</text>
+  </procedural-data>
 </document>

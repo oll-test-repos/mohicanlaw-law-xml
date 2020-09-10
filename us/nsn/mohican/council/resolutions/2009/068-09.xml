@@ -2,8 +2,7 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 068-09">
   <heading/>
   <meta>
-    <stub/>
-    <effective/>
+    <effective>0001-01-02</effective>
     <history>
       <adopted>2009-06-29</adopted>
     </history>
@@ -11,4 +10,43 @@
       <citation type="res" url="./adopted/068-09.pdf">Stockbridge-Munsee Tribal Council Res. No. 068-09</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe with inherent sovereign powers, and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend	Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe adopted the New York Uniform Commercial Code ("UCC") as tribal law in relation to commercial security interests in Chapter 59 as a component of an agreement for the developing a casino in New York State;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe now intends to obtain funding from a lender in relation to the completion of work on a hotel for the North Star Mohican Casino facility and the payment of outstanding amounts on previously completed work on the facility and such lender has requested that the Tribe amend Chapter 59 to address certain issues, including the applicability of the NY UCC in relation to activities in Wisconsin; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe wishes to amend Chapter 59 to address these issues.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee  hereby adopts the following amendments to Chapter 59, which include the following changes:</text>
+    </recital>
+    <text>
+      <ul proof="needed">
+        <li>Amending Sections 59.1 and 59.2;</li>
+        <li>Creating new Sections 59.1(A)(1), 59.1(B), 59.1(C), 59.1(D), and 59.1(E); and</li>
+        <li>Renumbering Section 59.1 as 59.1(A), Section 27.4 as 59.4, and Section 27.5 as 59.5.</li>
+      </ul>
+    </text>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom ____, constituting a quorum, were present at a meeting duly called, noticed, and held on the ____ day of _______, 2009, that the foregoing resolution was duly adopted at such meeting by a vote of ____ for, ____against, and ____abstaining.</text>
+    <text>_______________________					________________________</text>
+    <text>Robert Chicks, President					, Secretary</text>
+  </procedural-data>
 </document>

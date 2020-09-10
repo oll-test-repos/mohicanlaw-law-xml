@@ -2,8 +2,7 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 027-18">
   <heading/>
   <meta>
-    <stub/>
-    <effective/>
+    <effective>0001-01-02</effective>
     <history>
       <adopted>2018-03-06</adopted>
     </history>
@@ -11,4 +10,48 @@
       <citation type="res" url="./adopted/027-18.pdf">Stockbridge-Munsee Tribal Council Res. No. 027-18</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend	Ordinances; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 1, Tribal Court Code, was adopted in 1998 and has since been amended a number of times, most recently in March 2016; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The proposed revisions to Chapter 1, Section 1.9, The Court of Appeals, have been posted for public comment for thirty (30) days and no comments were submitted; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to Chapter 1, Section 1.9, The Court of Appeals, which includes the following changes:</text>
+    </recital>
+    <text>
+      <ul proof="needed">
+        <li>Replaces existing appeal language in SMC Code Chapter 1, Section 1.9; and</li>
+      </ul>
+    </text>
+    <recital>
+      <conjunction>Creates a SMC Court of Appeals,</conjunction>
+      <text>with a three-judge appellate panel; and</text>
+    </recital>
+    <text>
+      <ul proof="needed">
+        <li>Provides for appointments by Tribal Council for three-year terms of the three-judge appellate panel; and</li>
+        <li>The position of Chief Justice of the Court of Appeals will rotate each year; and</li>
+        <li>The revisions create a new process for appeals where the Chief Justice of the appellate panel will solely preside over appeals unless an en banc panel of appellate justices is requested (a full three panel of judges) by one of the parties to the appeal.</li>
+      </ul>
+    </text>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom ____, constituting a quorum, were present at a meeting duly called, noticed, and held on the ____ day of __________, 2018, that the foregoing resolution was duly adopted at such meeting by a vote of ____ for, ____against, and ____abstaining.</text>
+    <text>_____________________________				________________________</text>
+    <text>Shannon Holsey, President					Jerilyn Johnson, Secretary</text>
+  </procedural-data>
 </document>

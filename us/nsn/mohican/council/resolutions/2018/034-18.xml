@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 034-18">
+  <heading/>
+  <meta>
+    <effective/>
+    <history>
+      <adopted/>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 034-18</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend	Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>In 2015, the Tribal Council adopted a Strategic Plan that identified food sovereignty as a Tier One goal and included an objective of having a food sovereignty ordinance;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>A food sovereignty initiative committee was formed to work on implementation of the Strategic Plan goals, including incorporation into tribal law;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 56, the Tribe's Food Service Code, was revised to become a Food Ordinance that addressed both food sovereignty and food safety;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the amended Chapter 56 adds food sovereignty language addressing food access; promoting traditional, healthy and local foods; and regulates the sale of cottage foods at events like farmer's markets; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the amended Chapter 56 also updates references and terminology to be consistent with the federal food code as well as makes updates to and clarifies the provisions about food service permitting and handling.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby renames Chapter 56 as the Food Ordinance and adopts amendments to Chapter 56 that make the following changes:</text>
+    </recital>
+    <text>
+      <ul proof="needed">
+        <li>Added new Sections 56.1, 56.2 (A), (C), (H-L), (N), (O); 56.3; 56.4; 56.5; and 56.6.</li>
+        <li>Renumbered Sections 56.1 as 56.2; 56.2 is now 56.7, 56.8 and 56.9; 56.3 is now 56.10 and the remainder are renumbered accordingly.</li>
+        <li>Deleted Sections 56.1 (F) and 56.2 (C).</li>
+        <li>Moved Section 56.2 (B)(2)(d) to now be 56.12 (A).</li>
+        <li>Amended Sections:  56.7 (A) and subparts, (B)(1), (2), (4)(a), and (C); 56.8; 56.9; 56.10 (A), (B) and (C); 56.11 (A); and 56.12 (B).</li>
+      </ul>
+    </text>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom ____, constituting a quorum, were present at a meeting duly called, noticed, and held on the ____ day of _______, 2018, that the foregoing resolution was duly adopted at such meeting by a vote of ____ for, ____against, and ____abstaining.</text>
+    <text>_____________________________				________________________</text>
+    <text>Shannon Holsey, President					Jerilyn Johnson, Secretary</text>
+  </procedural-data>
+</document>

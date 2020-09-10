@@ -2,7 +2,6 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 055-10">
   <heading/>
   <meta>
-    <stub/>
     <effective>2010-08-13</effective>
     <history>
       <adopted>2010-07-19</adopted>
@@ -11,4 +10,43 @@
       <citation type="res" url="./adopted/055-10.pdf">Stockbridge-Munsee Tribal Council Res. No. 055-10</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community, Band of Mohican Indians, is a federally recognized Indian tribe governed by the Stockbridge-Munsee Tribal Council pursuant to authority vested in the Council by a Constitution approved in November 1937; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council has the authority under its Constitution and its inherent rights as a sovereign nation to act on behalf of the Community in area of economic affairs and other issues of self-governance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council is the final forum for determinations of tribal membership; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Tribal Council desires to clarify the manner in which tribal membership appeals will be processed in the final forum;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the amendments to Chapter 44, which include the following changes:</text>
+    </recital>
+    <text>
+      <ul proof="needed">
+        <li>Deleting Section 44.6; and</li>
+        <li>Renumbering 44.7; 44.8; 44.9; 44.10; and</li>
+        <li>Creating new Sections 44.6 (C) (5) (a) and (b); and</li>
+        <li>Renumbering Section 44.6 (C) (5) (c);and</li>
+        <li>Creating new Section 44.6 (D); and</li>
+        <li>Renumbering Sections 44.6 (E).</li>
+      </ul>
+    </text>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom ______, constituting a quorum, were present at a meeting duly called, noticed, and held on the _____ day of ___________, 2010, that the foregoing resolution was duly adopted at such meeting by a vote of ___ for, ___ against, and ___ abstaining</text>
+    <text>_____________________________        	 	_____________________________</text>
+    <text>Kimberly M. Vele, President         			Jerilyn Johnson, Secretary</text>
+    <text>Stockbridge-Munsee Tribal Council			Stockbridge-Munsee Tribal Council</text>
+  </procedural-data>
 </document>
