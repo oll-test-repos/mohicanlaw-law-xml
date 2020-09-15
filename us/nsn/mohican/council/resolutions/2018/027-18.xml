@@ -39,14 +39,14 @@
     <recital>
       <conjunction>Creates a SMC Court of Appeals,</conjunction>
       <text>with a three-judge appellate panel; and</text>
+      <text>
+        <ul proof="needed">
+          <li>Provides for appointments by Tribal Council for three-year terms of the three-judge appellate panel; and</li>
+          <li>The position of Chief Justice of the Court of Appeals will rotate each year; and</li>
+          <li>The revisions create a new process for appeals where the Chief Justice of the appellate panel will solely preside over appeals unless an en banc panel of appellate justices is requested (a full three panel of judges) by one of the parties to the appeal.</li>
+        </ul>
+      </text>
     </recital>
-    <text>
-      <ul proof="needed">
-        <li>Provides for appointments by Tribal Council for three-year terms of the three-judge appellate panel; and</li>
-        <li>The position of Chief Justice of the Court of Appeals will rotate each year; and</li>
-        <li>The revisions create a new process for appeals where the Chief Justice of the appellate panel will solely preside over appeals unless an en banc panel of appellate justices is requested (a full three panel of judges) by one of the parties to the appeal.</li>
-      </ul>
-    </text>
   </recitals>
   <procedural-data>
     <text>CERTIFICATION</text>
