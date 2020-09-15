@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
   <prefix>CHAPTER</prefix>
   <num>52</num>
   <heading>WORKER'S COMPENSATION</heading>
@@ -793,11 +793,11 @@
       <text>Compensation rates are based on a worker's "average weekly wage," which is the wage rate in effect at the time of the injury.  The average weekly wage is used to calculate the worker's wage loss and applicable disability benefits.</text>
       <para>
         <num>(1)</num>
-        <text>The compensation rates for disability benefits are subject to the maximum and minimum limits as described in <strong>Wis. Stat. § 102.11 (1)</strong> and its periodic updates.</text>
+        <text>The compensation rates for disability benefits are subject to the maximum and minimum limits as described in <strong><cite doc="Wis. Stat." path="§102.11">Wis. Stat. § 102.11</cite> (1)</strong> and its periodic updates.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The average weekly wage is calculated based on a worker's daily earnings at the time of the injury.  The daily earnings are multiplied by the number of days and fractional days normally worked per week.  For a complete description of how to calculate the average weekly wage and calculating the wage in special situations, see <strong>Wis. Stat. § 102.11 (1)(a) to (g)</strong>.</text>
+        <text>The average weekly wage is calculated based on a worker's daily earnings at the time of the injury.  The daily earnings are multiplied by the number of days and fractional days normally worked per week.  For a complete description of how to calculate the average weekly wage and calculating the wage in special situations, see <strong><cite doc="Wis. Stat." path="§102.11">Wis. Stat. § 102.11</cite> (1)(a) to (g)</strong>.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -818,7 +818,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The worker may be eligible for supplemental benefits of up to $233, as described in <strong>Wis. Stat. § 102.44 (1)</strong>, if on continuous temporary total disability for 24 months.</text>
+          <text>The worker may be eligible for supplemental benefits of up to $233, as described in <strong><cite doc="Wis. Stat." path="§102.44">Wis. Stat. § 102.44</cite> (1)</strong>, if on continuous temporary total disability for 24 months.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -884,7 +884,7 @@
         <text>If there is total physical impairment, the permanent total disability benefit rate is the same as that for temporary total disability or two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
         <para>
           <num>(a)</num>
-          <text>The worker may be eligible for a supplemental benefit to the permanent total disability benefit of up to $233 per week.  Eligibility for and amount of such a supplemental benefit is described in <strong>Wis. Stat. § 102.44 (1)</strong>.</text>
+          <text>The worker may be eligible for a supplemental benefit to the permanent total disability benefit of up to $233 per week.  Eligibility for and amount of such a supplemental benefit is described in <strong><cite doc="Wis. Stat." path="§102.44">Wis. Stat. § 102.44</cite> (1)</strong>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -897,7 +897,7 @@
         <text>If the permanent effects result in less than total impairment, permanent partial disability benefits are paid at the rate of two-thirds of the average weekly wage for the period provided in the permanent partial disability schedule.  These amounts are subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
         <para>
           <num>(a)</num>
-          <text>The permanent partial disability schedule sets out the number of weeks that a worker receives further benefits at the end of the healing period.  The time periods in the schedule vary depending on the location and degree of the permanent effects.  The schedule can be found in <strong>Wis. Stat. § 102.52</strong>.  The application of the permanent partial disability schedule is discussed in <strong>Wis. Stat. §§ 102.53 to 102.56</strong>.</text>
+          <text>The permanent partial disability schedule sets out the number of weeks that a worker receives further benefits at the end of the healing period.  The time periods in the schedule vary depending on the location and degree of the permanent effects.  The schedule can be found in <strong><cite doc="Wis. Stat." path="§102.52">Wis. Stat. § 102.52</cite></strong>.  The application of the permanent partial disability schedule is discussed in <strong>Wis. Stat. §§ 102.53 to 102.56</strong>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -953,11 +953,11 @@
     <heading>Limitations on Compensation</heading>
     <para>
       <num>(A)</num>
-      <text>In cases where it is determined that periodic benefits granted by the federal Social Security Act are paid to the worker because of disability, the benefits payable under this Ordinance shall be reduced as discussed in <strong>Wis. Stat. § 102.44 (5)</strong>.</text>
+      <text>In cases where it is determined that periodic benefits granted by the federal Social Security Act are paid to the worker because of disability, the benefits payable under this Ordinance shall be reduced as discussed in <strong><cite doc="Wis. Stat." path="§102.44">Wis. Stat. § 102.44</cite> (5)</strong>.</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>The worker may not claim compensation for a disability if he or she was rehired in a position where the actual wage loss in comparison with earnings at the time of the injury equals or exceeds 15% as in <strong>Wis. Stat. § 102.44 (6)</strong>.  The worker is required to make a diligent effort to find employment.</text>
+      <text>The worker may not claim compensation for a disability if he or she was rehired in a position where the actual wage loss in comparison with earnings at the time of the injury equals or exceeds 15% as in <strong><cite doc="Wis. Stat." path="§102.44">Wis. Stat. § 102.44</cite> (6)</strong>.  The worker is required to make a diligent effort to find employment.</text>
     </para>
     <para>
       <num>(C)</num>

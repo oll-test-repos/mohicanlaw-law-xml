@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
   <prefix>CHAPTER</prefix>
   <num>34</num>
   <heading>WATER POLLUTION CONTROL</heading>
@@ -1008,7 +1008,6 @@
   <annotations>
     <annotation type="Legislative History">
       <text/>
-      
       <text>Ordinance Committee approved to go to Tribal Council for review at the April 20, 1988 Committee meeting with appropriate changes.</text>
       <text>Approved by Tribal Council for posting at the November 1, 1988 Tribal Council Meeting.</text>
       <text>Officially adopted by Resolution #1122 on January 3, 1989 at the Tribal Council Meeting.</text>

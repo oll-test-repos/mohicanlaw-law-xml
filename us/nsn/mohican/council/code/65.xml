@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
   <prefix>CHAPTER</prefix>
   <num>65</num>
   <heading>ELDER/YOUTH LICENSE ORDINANCE</heading>
@@ -34,7 +34,7 @@
     <heading>Definitions</heading>
     <para>
       <num>(A)</num>
-      <text>"Abuse" means abuse as defined in Wis. Stat. § 48.02(1), Wis. Stat. §46.90(1), and Wis. Admin. Code § Ch. HFS 13.03(1).</text>
+      <text>"Abuse" means abuse as defined in <cite doc="Wis. Stat." path="§48.02|(1)">Wis. Stat. § 48.02(1)</cite>, <cite doc="Wis. Stat." path="§46.90|(1)">Wis. Stat. §46.90(1)</cite>, and Wis. Admin. Code § Ch. HFS 13.03(1).</text>
     </para>
     <para>
       <num>(B)</num>
@@ -1342,7 +1342,6 @@
   <annotations>
     <annotation type="Legislative History">
       <text/>
-      
       <text>Adopted by Tribal Council on September 7, 1999, Resolution Number 057-99.</text>
       <text>Approved by BIA November 1, 1999.</text>
       <text>Technical changes made in footnote 1, §65.2(A), and 65.5(1).  §65.3(C) added and Appendix A moves the crime reckless driving – cause great bodily harm, felony 346.63(4) from a Category I – Permanent Bar to a Category II – Risk Review Crime on December 6, 1999, Resolution Number 082-99.</text>

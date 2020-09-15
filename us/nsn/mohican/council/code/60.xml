@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Legal Code">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
   <prefix>CHAPTER</prefix>
   <num>60</num>
   <heading>CHANGE OF NAME</heading>
@@ -31,7 +31,6 @@
   <annotations>
     <annotation type="Legislative History">
       <text/>
-      
       <text>Chapter 60, Change of Name approved by the Stockbridge-Munsee Tribal Council by Resolution</text>
       <text>No. 107-97 dated January 21, 1997.</text>
       <text>Amended by Tribal Council on January 12, 1999, Resolution No.02-99 as follows:  §60.4 "Notice in the <u>Mohican News</u> and <u>Shawano Leader</u> shall not be less than 14 days and not greater than 90 days prior to the scheduled court hearing date, unless the Tribal Court finds good cause to waive this requirement."</text>
