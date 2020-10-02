@@ -25,17 +25,17 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>The proposed revisions to Chapter 1, Section 1.9, The Court of Appeals, have been posted for public comment for thirty (30) days and no comments were submitted; and</text>
+      <text>The proposed revisions to Chapter 1, <cite doc="Stockbridge-Munsee Tribal Code" path="1.9" proof="needed">Section 1.9</cite>, The Court of Appeals, have been posted for public comment for thirty (30) days and no comments were submitted; and</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
-      <text>the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to Chapter 1, Section 1.9, The Court of Appeals, which includes the following changes:</text>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to Chapter 1, <cite doc="Stockbridge-Munsee Tribal Code" path="1.9" proof="needed">Section 1.9</cite>, The Court of Appeals, which includes the following changes:</text>
+      <text>
+        <ul proof="needed">
+          <li>Replaces existing appeal language in SMC Code Chapter 1, <cite doc="Stockbridge-Munsee Tribal Code" path="1.9" proof="needed">Section 1.9</cite>; and</li>
+        </ul>
+      </text>
     </recital>
-    <text>
-      <ul proof="needed">
-        <li>Replaces existing appeal language in SMC Code Chapter 1, Section 1.9; and</li>
-      </ul>
-    </text>
     <recital>
       <conjunction>Creates a SMC Court of Appeals,</conjunction>
       <text>with a three-judge appellate panel; and</text>
