@@ -2,7 +2,7 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Stockbridge-Munsee Constitution and By-laws">
   <heading>Constitution and By Laws of the Stockbridge Munsee Community</heading>
   <meta>
-    <effective>2020-10-02</effective>
+    <effective>0001-01-02</effective>
     <citations>
       <citation type="const" url="./adopted/const.pdf"></citation>
     </citations>
