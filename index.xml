@@ -9,8 +9,8 @@
     <canonical-urls>
       <xml-bulk>https://github.com/mohicanlaw/law-xml</xml-bulk>
       <html-bulk>https://github.com/mohicanlaw/law-html</html-bulk>
-      <static-assets>https://github.com/oll-demo-repos/mohicanlaw-law-static-assets</static-assets>
-      <html/>
+      <html>https://mohican.nsn.us.demos.open.law/</html>
+      <static-assets>https://github.com/mohicanlaw/law-static-assets</static-assets>
     </canonical-urls>
   </meta>
   <xi:include href="./us/nsn/mohican/council/constitution/index.xml"/>

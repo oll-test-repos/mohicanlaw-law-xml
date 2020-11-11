@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>61</num>
   <heading>MARRIAGE</heading>
   <section>
@@ -28,7 +28,7 @@
     <heading>Applicability</heading>
     <para>
       <num>(A)</num>
-      <text>This chapter authorizes the Stockbridge-Munsee Tribal Court to issue marriage licenses and perform marriages in which one or both parties to the marriage is a member of the Stockbridge-Munsee Tribe or is a resident of the Stockbridge-Munsee Community.</text>
+      <text><cite path="61.5" proof="needed">This chapter</cite> authorizes the Stockbridge-Munsee Tribal Court to issue marriage licenses and perform marriages in which one or both parties to the marriage is a member of the Stockbridge-Munsee Tribe or is a resident of the Stockbridge-Munsee Community.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -36,7 +36,7 @@
     </para>
     <para>
       <num>(C)</num>
-      <text>The procedures set forth herein shall be concurrent with the procedures established by the laws of the state of Wisconsin as to any marriage performed on the reservation in which one party is not a member of the Stockbridge-Munsee Tribe or is not a resident of the Stockbridge-Munsee Community. The completion of an application for a marriage license under this chapter constitutes the nonmember's consent to the tribe's jurisdiction to grant such a license.</text>
+      <text>The procedures set forth herein shall be concurrent with the procedures established by the laws of the state of Wisconsin as to any marriage performed on the reservation in which one party is not a member of the Stockbridge-Munsee Tribe or is not a resident of the Stockbridge-Munsee Community. The completion of an application for a marriage license under <cite path="61.5" proof="needed">this chapter</cite> constitutes the nonmember's consent to the tribe's jurisdiction to grant such a license.</text>
     </para>
     <para>
       <num>(D)</num>
@@ -194,7 +194,7 @@
     </para>
     <para>
       <num>(D)</num>
-      <text>When the marriage was invalid on one of the grounds set forth in Section 61.9.</text>
+      <text>When the marriage was invalid on one of the grounds set forth in <cite path="61.9" proof="needed">Section 61.9</cite>.</text>
     </para>
   </section>
   <section>
@@ -204,13 +204,12 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <para>
-        <num>1.</num>
+        <num>1</num>
         <text>Chapter 61, Marriage, approved by the Stockbridge-Munsee Tribal Council, Resolution No. 108-97, January 21, 1997.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>2</num>
         <text>Chapter 61, Marriage was amended by the Stockbridge-Munsee Tribal Council by Resolution No. 024-16, February 2, 2016. Approved by BIA on February 22, 2016.</text>
       </para>
     </annotation>

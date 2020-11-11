@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>47</num>
   <heading>ROAD SAFETY ORDINANCE</heading>
   <section>
@@ -70,11 +70,11 @@
     <heading>General Road Safety.</heading>
     <para>
       <num>(A)</num>
-      <text>Except as stated in Section 47.3, if in the course of their regular work Department employees find that they are unable to complete work due to or other objects in the right of way, the Department will first make a reasonable effort to contact the owner of the motor vehicle or object.</text>
+      <text>Except as stated in <cite path="47.3" proof="needed">Section 47.3</cite>, if in the course of their regular work Department employees find that they are unable to complete work due to or other objects in the right of way, the Department will first make a reasonable effort to contact the owner of the motor vehicle or object.</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>Except as stated in Section 47.3 (A), if the Department is unable to contact the owner of the motor vehicle or debris, the Department director or his appointee may have the motor vehicle towed or debris removed at the owner's expense.</text>
+      <text>Except as stated in <cite path="47.3|(A)" proof="needed">Section 47.3 (A)</cite>, if the Department is unable to contact the owner of the motor vehicle or debris, the Department director or his appointee may have the motor vehicle towed or debris removed at the owner's expense.</text>
     </para>
   </section>
   <section>
@@ -92,7 +92,7 @@
   <section>
     <num>47.6</num>
     <heading>Towing.</heading>
-    <text>If the Department orders an automobile towed under Section 47.3, and the owner of the automobile refuses to pay the cost of towing, the Department may use the Tribal Court to collect the towing fee from the owner of the automobile.</text>
+    <text>If the Department orders an automobile towed under <cite path="47.3" proof="needed">Section 47.3</cite>, and the owner of the automobile refuses to pay the cost of towing, the Department may use the Tribal Court to collect the towing fee from the owner of the automobile.</text>
   </section>
   <section>
     <num>47.7</num>
@@ -120,7 +120,6 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <text>Roads Safety Ordinance adopted by Resolution #090-96, on November 5, 1996.</text>
     </annotation>
   </annotations>

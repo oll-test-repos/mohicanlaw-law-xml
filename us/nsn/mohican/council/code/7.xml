@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>7</num>
-  <heading>YOUTH CODE</heading>
+  <heading>YOUTH CODE GENERAL PROVISIONS</heading>
   <section>
     <num>7.1</num>
     <heading>Council Findings</heading>
@@ -362,7 +362,7 @@
     <para>
       <num>(P)</num>
       <heading>Parent:</heading>
-      <text>Includes a biological or adoptive parent but does not include persons whose parental rights have been terminated, nor does it include an unwed father whose paternity has not been acknowledged or established pursuant to PART VI, PATERNITY, of this Chapter.</text>
+      <text>Includes a biological or adoptive parent but does not include persons whose parental rights have been terminated, nor does it include an unwed father whose paternity has not been acknowledged or established pursuant to PART VI, PATERNITY, of <cite path="7.5" proof="needed">this Chapter</cite>.</text>
     </para>
     <para>
       <num>(Q)</num>
@@ -440,7 +440,7 @@
     <para>
       <num>(D)</num>
       <heading>Disqualification:</heading>
-      <text>In the event that all Tribal Judge are unable to hear and determine a matter due to absence, illness, or conflict of interest, the Tribal Council shall have authority to appoint a substitute judge in accordance with the Stockbridge-Munsee Community Court Code, Chapter 1, Section 1.02 (B) and Section 1.03 (H).</text>
+      <text>In the event that all Tribal Judge are unable to hear and determine a matter due to absence, illness, or conflict of interest, the Tribal Council shall have authority to appoint a substitute judge in accordance with the Stockbridge-Munsee Community Court Code, Chapter 1, <cite path="1.02|(B)" proof="needed">Section 1.02 (B)</cite> and <cite path="1.03|(H)" proof="needed">Section 1.03 (H)</cite>.</text>
     </para>
     <para>
       <num>(E)</num>
@@ -657,7 +657,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Designated Tribal Agent For Service Of Notice:  The designated tribal agent for service of notice of proceedings pursuant to 25 C.F.R. 23.12 shall be the Court Clerk.</text>
+      <text>Designated Tribal Agent For Service Of Notice:  The designated tribal agent for service of notice of proceedings pursuant to 25 C.F.R. <cite path="23.12" proof="needed">23.12 </cite>shall be the Court Clerk.</text>
     </para>
   </section>
   <section>
@@ -693,12 +693,12 @@
     <para>
       <num>(B)</num>
       <heading>Punishment:</heading>
-      <text>The Court may punish any person for contempt pursuant to Stockbridge-Munsee Tribal Law, Chapter 1, Section 1.15.</text>
+      <text>The Court may punish any person for contempt pursuant to Stockbridge-Munsee Tribal Law, Chapter 1, <cite path="1.15" proof="needed">Section 1.15</cite>.</text>
     </para>
     <para>
       <num>(C)</num>
       <heading>Bench Warrant:</heading>
-      <text>A Youth Court judge may issue a warrant for a person's arrest for contempt upon failure to appear at any ordered conference or hearing either in person or by legal representative, such warrant shall be issued in accordance with Stockbridge-Munsee Tribal Law, Chapter 1, Section 1.16.</text>
+      <text>A Youth Court judge may issue a warrant for a person's arrest for contempt upon failure to appear at any ordered conference or hearing either in person or by legal representative, such warrant shall be issued in accordance with Stockbridge-Munsee Tribal Law, Chapter 1, <cite path="1.16" proof="needed">Section 1.16</cite>.</text>
     </para>
   </section>
   <section>
@@ -751,7 +751,7 @@
     <para>
       <num>(C)</num>
       <heading>Conduct of Proceeding:</heading>
-      <text>All appeals shall be conducted in accordance with Stockbridge-Munsee Tribal Law, Chapter 1, Section 1.30, except as modified in this Chapter.</text>
+      <text>All appeals shall be conducted in accordance with Stockbridge-Munsee Tribal Law, Chapter 1, <cite path="1.30" proof="needed">Section 1.30</cite>, except as modified in <cite path="7.16" proof="needed">this Chapter</cite>.</text>
     </para>
   </section>
   <section>

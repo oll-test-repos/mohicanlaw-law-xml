@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>45</num>
   <heading>EDUCATION</heading>
   <section>
@@ -93,22 +93,21 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <para>
-        <num>1.</num>
+        <num>1</num>
         <text>Education ordinance adopted by Tribal Council per resolution no. 0689 dated February 19, 1980. Approved by BIA November 12, 1980.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>2</num>
         <text>Ordinance amended by resolution no. 1179 dated February 13, 1990 which created changes in Sections 1 and 10, changes incorporated.</text>
       </para>
       <para>
-        <num>3.</num>
-        <text>Amended by Tribal Council on October 1, 1996, Resolution No. 078-96 inserting "grandparents" in Sections 45.1, 45.2, and 45.3.</text>
+        <num>3</num>
+        <text>Amended by Tribal Council on October 1, 1996, Resolution No. 078-96 inserting "grandparents" in Sections <cite path="45.1" proof="needed">45.1</cite>, <cite path="45.2" proof="needed">45.2</cite>, and <cite path="45.3" proof="needed">45.3</cite>.</text>
       </para>
       <para>
-        <num>4.</num>
-        <text>On October 2, 2012, the Tribal Council adopted Resolution No. 0004-13 amending Sections 45.1, 45.2, 45.8 and 45.9 of the ordinance.</text>
+        <num>4</num>
+        <text>On October 2, 2012, the Tribal Council adopted Resolution No. 0004-13 amending Sections <cite path="45.1" proof="needed">45.1</cite>, <cite path="45.2" proof="needed">45.2</cite>, <cite path="45.8" proof="needed">45.8 </cite>and <cite path="45.9" proof="needed">45.9 </cite>of the ordinance.</text>
       </para>
     </annotation>
   </annotations>

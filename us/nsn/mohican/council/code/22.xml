@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>22</num>
   <heading>FOREST RESOURCES ORDINANCE</heading>
   <container>
@@ -102,7 +102,7 @@
       </para>
       <para>
         <num>(G)</num>
-        <text>"DBH" means Diameter at Breast Height which is accepted as four and one half (4.5) feet above the ground.</text>
+        <text>"DBH" means Diameter at Breast Height which is accepted as four and one half (<cite path="4.5" proof="needed">4.5</cite>) feet above the ground.</text>
       </para>
       <para>
         <num>(H)</num>
@@ -234,17 +234,17 @@
         <u>ARTICLE I – NAME, ESTABLISHMENT AND PURPOSE</u>
       </text>
       <para>
-        <num>A.</num>
+        <num>A</num>
         <heading>Name.</heading>
         <text>The name of the committee shall be the Stockbridge-Munsee Forestry Committee.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>B</num>
         <heading>Establishment.</heading>
         <text>The Tribal Council, under its inherent authority as a tribal government responsible for tribal assets, establishes this Committee.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>C</num>
         <heading>Purpose.</heading>
         <text>The Committee is vested with authority to make recommendations to the Stockbridge-Munsee Tribal Council regarding forestry management on lands held in trust for the Tribe and lands owned in fee simple by the Tribe in accordance with Chapter 22, the Forest Resources Ordinance, as amended.</text>
         <text>
@@ -252,37 +252,37 @@
         </text>
       </para>
       <para>
-        <num>A.</num>
+        <num>A</num>
         <heading>Regular Meetings.</heading>
         <text>The regular monthly meeting of the Committee shall be held on the 1<sup>st</sup> Wednesday of each month. Meetings shall be held at the Tribe's Environmental Offices or at a location designated by the Tribal Council.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>B</num>
         <heading>Special Meetings.</heading>
         <text>Special meetings of the Committee may be held at any time to implement the provisions of the Tribe's approved Forest Management Plan.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>C</num>
         <heading>Stipends.</heading>
         <text>Committee members shall be paid a stipend in the amount of allocated in the approved budget.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>D</num>
         <heading>Open and Closed Sessions.</heading>
         <text>All such meetings shall be open to Tribal members, except that a closed session may be called for purposes of discussing matters of a confidential nature.  The meeting must be returned to open session after holding a closed session.  All actions must be taken in open session.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>E</num>
         <heading>Quorum.</heading>
         <text>At least four (4) members of the Committee shall constitute a quorum to conduct business and exercise the powers of the Committee.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>F</num>
         <heading>Notice of Meetings.</heading>
         <text>A written notice stating the place, day, and hour of regular meetings of the Forestry Committee shall be delivered not less than five (5) working days before the date of the meeting to the members of the Committee and shall be posted to the public. Notice of any special meetings shall be given to Committee members, as well as posted to the public, at least 48 hours in advance. This notice will be done by the Forestry Staff. He/she will post notice at the Library, Health Center, Tribal Office, Headquarters, Housing, Elderly Center, Little Star and Casino.</text>
       </para>
       <para>
-        <num>G.</num>
+        <num>G</num>
         <heading>Minutes.</heading>
         <text>Minutes must be taken at Committee meetings and shall be in a format designed to generate an informative record of meetings.  Minutes must be submitted to the Tribal Council for acceptance and shall be required before stipends are issued for meeting attendance.</text>
         <text>
@@ -290,7 +290,7 @@
         </text>
       </para>
       <para>
-        <num>A.</num>
+        <num>A</num>
         <text>
           <strong>General Powers.</strong>
         </text>
@@ -308,7 +308,7 @@
         <text>The Committee may exercise those powers authorized under this ordinance and as directed by the Tribal Council.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>B</num>
         <heading>Composition and Qualifications of the Forestry Committee.</heading>
         <text>The Committee shall be composed of seven (7) adult (21 years or older) enrolled members of the Tribe.</text>
         <para>
@@ -321,7 +321,7 @@
         </para>
       </para>
       <para>
-        <num>C.</num>
+        <num>C</num>
         <heading>Duties and Responsibilities of the Committee.</heading>
         <text>The Committee shall:</text>
         <para>
@@ -366,17 +366,17 @@
         </para>
       </para>
       <para>
-        <num>D.</num>
+        <num>D</num>
         <heading>Political Office.</heading>
         <text>In no event shall a member of the Committee serve as a member of the Tribal Council during his/her term as a Committee member.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>E</num>
         <heading>Removal.</heading>
         <text>The Committee may make a recommendation to the Tribal Council for the removal of any Committee member for neglect of duty as a Committee member, including but not limited to, failure to appear at three (3) consecutive regular meetings without a valid reason or performing a duty that constitutes a conflict of interest. All such charges must be documented.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>F</num>
         <heading>Conflict of Interest.</heading>
         <text>In carrying out the duties of the Committee, no member shall make or participate in making decisions which involve personal or family financial interest.</text>
         <text>
@@ -384,32 +384,32 @@
         </text>
       </para>
       <para>
-        <num>A.</num>
+        <num>A</num>
         <heading>Number.</heading>
         <text>The officers of the Committee shall be a Chairperson, Vice-chairperson, and Secretary. Each shall be elected by the Committee itself.</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>B</num>
         <heading>Elections.</heading>
         <text>Length and term of office shall be staggered appointments for continuity.  Elections for officers will occur during the regular November meeting.</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>C</num>
         <heading>Chairperson.</heading>
         <text>The Chairperson shall preside at all meetings of the Committee. At each meeting the Chair shall submit such recommendations and information as may be considered proper concerning the business affairs and operational policies of the Committee. The Chairperson shall not vote except in cases of a tie.</text>
       </para>
       <para>
-        <num>D.</num>
+        <num>D</num>
         <heading>Vice-Chairperson.</heading>
         <text>The Vice-Chairperson shall perform the duties of the Chairperson in the absence or incapacity of the Chairperson.</text>
       </para>
       <para>
-        <num>E.</num>
+        <num>E</num>
         <heading>Secretary.</heading>
         <text>The Secretary shall keep the records of the Committee and shall act as the recorder of all meetings.  The Secretary shall keep minutes of every Committee meeting in a journal kept for such purpose and shall perform all duties incident to the office of Secretary, including sending meeting minutes to Tribal Council.</text>
       </para>
       <para>
-        <num>F.</num>
+        <num>F</num>
         <heading>Removal of Officers.</heading>
         <text>Any officer elected by the Committee may be removed from office by Tribal Council.</text>
         <text>
@@ -664,7 +664,7 @@
       <para>
         <num>(B)</num>
         <heading>FREE-USE GINSENG PERMIT:</heading>
-        <text>Adult enrolled members may obtain a permit to harvest ginseng for personal use subject to the requirements of Section 22.9 (B).</text>
+        <text>Adult enrolled members may obtain a permit to harvest ginseng for personal use subject to the requirements of <cite path="22.9|(B)" proof="needed">Section 22.9 (B)</cite>.</text>
       </para>
       <para>
         <num>(C)</num>
@@ -716,7 +716,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>Firewood can only be cut from dead or down trees. Oak trees that are dead or down are subject on the seasonal bar on harvest under Section 22.11 (B).</text>
+          <text>Firewood can only be cut from dead or down trees. Oak trees that are dead or down are subject on the seasonal bar on harvest under <cite path="22.11|(B)" proof="needed">Section 22.11 (B)</cite>.</text>
         </para>
         <para>
           <num>(9)</num>
@@ -738,7 +738,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Oak trees may only be cut or manipulated during the times when there is no seasonal bar on harvest under Section 22.11 (B), except as provided under Section 22.14 (C)(5).</text>
+          <text>Oak trees may only be cut or manipulated during the times when there is no seasonal bar on harvest under <cite path="22.11|(B)" proof="needed">Section 22.11 (B)</cite>, except as provided under <cite path="22.14|(C)|(5)" proof="needed">Section 22.14 (C)(5)</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -960,7 +960,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>On a case-by-case basis, some oak trees may be cut under this permit during the timeframe when normally barred under Section 22.11 (B).  If a live oak tree is cut during the normal oak wilt bar timeframe, then the resulting oak stump must be burned, buried or chemically-treated within 48-hours of the tree being cut.</text>
+          <text>On a case-by-case basis, some oak trees may be cut under this permit during the timeframe when normally barred under <cite path="22.11|(B)" proof="needed">Section 22.11 (B)</cite>.  If a live oak tree is cut during the normal oak wilt bar timeframe, then the resulting oak stump must be burned, buried or chemically-treated within 48-hours of the tree being cut.</text>
         </para>
       </para>
       <para>
@@ -985,7 +985,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The enrolled member is responsible to <u>pay a nonrefundable stumpage</u> charge of $200.00 to the Tribe before the permit will be issued by the Tribal Forester.  This charge is subject to change according to fair market value of hardwood pulp and will be determined before the first of each year.</text>
+          <text>The enrolled member is responsible to <u>pay a nonrefundable stumpage</u> charge of $<cite path="200.00" proof="needed">200.00 </cite>to the Tribe before the permit will be issued by the Tribal Forester.  This charge is subject to change according to fair market value of hardwood pulp and will be determined before the first of each year.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -1241,7 +1241,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>If the Tribal Council has approved a tribal forest enterprise sale of standing timber, then the Tribe reserves the right to have the BIA negotiate the tribal timber sale directly with the Tribe at appraised rates as per 25 C.F.R. 163.13(c).</text>
+          <text>If the Tribal Council has approved a tribal forest enterprise sale of standing timber, then the Tribe reserves the right to have the BIA negotiate the tribal timber sale directly with the Tribe at appraised rates as per 25 C.F.R. <cite path="163.13|(c)" proof="needed">163.13(c)</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1458,22 +1458,22 @@
         <text>Penalties.</text>
         <para>
           <num>(1)</num>
-          <text>Any person found guilty of this ordinance shall be assessed of a fine ranging from $200.00 to $5,000.  In assessing the fine, the Court shall consider the severity of the offense, the acceptance of responsibility by the charged person, the number of previous convictions, and deterrence to others.</text>
+          <text>Any person found guilty of this ordinance shall be assessed of a fine ranging from $<cite path="200.00" proof="needed">200.00 </cite>to $5,000.  In assessing the fine, the Court shall consider the severity of the offense, the acceptance of responsibility by the charged person, the number of previous convictions, and deterrence to others.</text>
         </para>
         <para>
           <num>(2)</num>
           <text>Normal civil remedial money penalties are as follows:</text>
           <para>
             <num>(a)</num>
-            <text>Class A Infractions, not less than $500 or more than $5,000.00.</text>
+            <text>Class A Infractions, not less than $500 or more than $5,<cite path="000.00" proof="needed">000.00</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>Class B Infractions, not less than $300 or more than $5,000.00.</text>
+            <text>Class B Infractions, not less than $300 or more than $5,<cite path="000.00" proof="needed">000.00</cite>.</text>
           </para>
           <para>
             <num>(c)</num>
-            <text>Class C Infractions, not less than $200 or more than $5,000.00.</text>
+            <text>Class C Infractions, not less than $200 or more than $5,<cite path="000.00" proof="needed">000.00</cite>.</text>
           </para>
         </para>
         <para>
@@ -1481,20 +1481,20 @@
           <text>When any person is found guilty of a violation, and such person has been convicted of a previous violation of this ordinance within a period of one year, there shall be a mandatory revocation of all privileges regulated under this ordinance for a minimum of two years, and the infraction penalties may be enhanced as follows and other remedies as the Tribal Court deems appropriate:</text>
           <para>
             <num>(a)</num>
-            <text>For a Class A Infraction, $5,000.00.</text>
+            <text>For a Class A Infraction, $5,<cite path="000.00" proof="needed">000.00</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>For a Class B Infraction, not less than $1,000.00 nor more than $5,000.00.</text>
+            <text>For a Class B Infraction, not less than $1,<cite path="000.00" proof="needed">000.00 </cite>nor more than $5,<cite path="000.00" proof="needed">000.00</cite>.</text>
           </para>
           <para>
             <num>(c)</num>
-            <text>For a Class C Infraction, not less than $500.00 nor more than $5,000.00.</text>
+            <text>For a Class C Infraction, not less than $<cite path="500.00" proof="needed">500.00 </cite>nor more than $5,<cite path="000.00" proof="needed">000.00</cite>.</text>
           </para>
         </para>
         <para>
           <num>(4)</num>
-          <text>For a third violation of this ordinance within a period of one (1) year the penalty shall be $5,000.00 and a mandatory lifetime revocation of all privileges regulated under this ordinance and other remedies as the court deems appropriate.</text>
+          <text>For a third violation of this ordinance within a period of one (1) year the penalty shall be $5,<cite path="000.00" proof="needed">000.00 </cite>and a mandatory lifetime revocation of all privileges regulated under this ordinance and other remedies as the court deems appropriate.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -1567,93 +1567,92 @@
   </container>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <para>
-        <num>1.</num>
+        <num>1</num>
         <text>Conservation Code was adopted by Tribal Council at a meeting held November 14, 1978 (Resolution #0637).</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>2</num>
         <text>Sent to BIA - Great Lakes Agency approved on 11/17/78 by the Superintendent.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>3</num>
         <heading>Letter from Elmer T.</heading>
         <text>Nitzschke, Field Solicitor to Edwin Demery, Area Director of Minneapolis Area Office on comments dated January 24, 1979.</text>
       </para>
       <para>
-        <num>4.</num>
+        <num>4</num>
         <text>Memo from Minneapolis Area Office Director to Superintendent of Great Lakes Agency enclosed was the Solicitor's review of the S/M Conservation Code dated Feb. 9, 1979.</text>
       </para>
       <para>
-        <num>5.</num>
+        <num>5</num>
         <text>Letter to Tribal Chairman from Acting Superintendent of Great Lakes Agency which stated the approval of the Code and Field Solicitor's comments to the Area Director dated February 15, 1979.</text>
       </para>
       <para>
-        <num>6.</num>
-        <text>Resolution #0641 making changes to the Conservation Code (Section 22.01) dated January 29, 1979.</text>
+        <num>6</num>
+        <text>Resolution #0641 making changes to the Conservation Code (<cite path="22.01" proof="needed">Section 22.01</cite>) dated January 29, 1979.</text>
       </para>
       <para>
-        <num>7.</num>
+        <num>7</num>
         <text>Resolution #0730 is adopting Forestry Committee's Policies and Procedures to govern the forestry resources dated November 8, 1980.</text>
       </para>
       <para>
-        <num>8.</num>
-        <text>Resolution #0746 making changes to Section 22.01 and 23.02 of the Conservation Code dated May 2, 1981.</text>
+        <num>8</num>
+        <text>Resolution #0746 making changes to <cite path="22.01" proof="needed">Section 22.01 </cite>and <cite path="23.02" proof="needed">23.02 </cite>of the Conservation Code dated May 2, 1981.</text>
       </para>
       <para>
-        <num>9.</num>
-        <text>Resolution #0766-1 making changes to Section 13.02 and 13.03 of the Conservation Code dated August 8, 1981.  Resolution #0766 making changes to Section 32.04 and 32.04(a)(b) of the Conservation Code dated August 8, 1981.</text>
+        <num>9</num>
+        <text>Resolution #0766-1 making changes to <cite path="13.02" proof="needed">Section 13.02 </cite>and <cite path="13.03" proof="needed">13.03 </cite>of the Conservation Code dated August 8, 1981.  Resolution #0766 making changes to <cite path="32.04" proof="needed">Section 32.04 </cite>and <cite path="32.04|(a)|(b)" proof="needed">32.04(a)(b)</cite> of the Conservation Code dated August 8, 1981.</text>
       </para>
       <para>
-        <num>10.</num>
+        <num>10</num>
         <text>Resolution #1026 adding a new section titled "Denial of Permit(s)" and adding new provisions to appropriate sections dated June 2, 1987.  It was approved on June 16, 1987 by Council.</text>
       </para>
       <para>
-        <num>11.</num>
+        <num>11</num>
         <text>Ordinance Committee approved to go to Tribal Council for review at the November 28, 1988 Committee meeting with appropriate changes.</text>
       </para>
       <para>
-        <num>12.</num>
+        <num>12</num>
         <text>Tribal Council action to post at January 3, 1989.</text>
       </para>
       <para>
-        <num>13.</num>
+        <num>13</num>
         <text>Tribal Council approved on February 7, 1989 - Resolution #1127.</text>
       </para>
       <para>
-        <num>14.</num>
+        <num>14</num>
         <text>Recommended changes by the BIA passed by Tribal Council Resolution #1161 on July 18, 1989.</text>
       </para>
       <para>
-        <num>15.</num>
-        <text>Section 20.16 (W) and 20.23 (C) added by Council resolution 102-97, January 8, 1997.</text>
+        <num>15</num>
+        <text><cite path="20.16|(W)" proof="needed">Section 20.16 (W)</cite> and <cite path="20.23|(C)" proof="needed">20.23 (C)</cite> added by Council resolution 102-97, January 8, 1997.</text>
       </para>
       <para>
-        <num>16.</num>
-        <text>Ordinance amended by Tribal Council on February 7, 2006, Resolution No.  021-06.  All sections updated, including adding committee by-laws and adding preference section, 22.17 into ordinance.  (Section 22.17 originally approved as a policy by Council Motion, 4-3-01).</text>
+        <num>16</num>
+        <text>Ordinance amended by Tribal Council on February 7, 2006, Resolution No.  021-06.  All sections updated, including adding committee by-laws and adding preference section, <cite path="22.17" proof="needed">22.17 </cite>into ordinance.  (<cite path="22.17" proof="needed">Section 22.17 </cite>originally approved as a policy by Council Motion, 4-3-01).</text>
       </para>
       <para>
-        <num>17.</num>
-        <text>Amended by Tribal Council on February 7, 2006 and June 6, 2007 by incorporating the existing forestry committee by laws, existing policies including the Tribal preference policy, and many updates throughout the existing Chapter 22, including amending 22.6, Resolution No's 021-06 and 045-06.</text>
+        <num>17</num>
+        <text>Amended by Tribal Council on February 7, 2006 and June 6, 2007 by incorporating the existing forestry committee by laws, existing policies including the Tribal preference policy, and many updates throughout the existing Chapter 22, including amending <cite path="22.6" proof="needed">22.6</cite>, Resolution No's 021-06 and 045-06.</text>
       </para>
       <para>
-        <num>18.</num>
+        <num>18</num>
         <text>On May 6, 2008, Tribal Council repealed existing Chapter 22 and adopted a new Chapter 22 that renumbered and had changes clarifying numerous sections and incorporated enforcement and other relevant sections of Chapter 20.  This was done by Resolution No. 031-08.  BIA reviewed Chapter 22 revisions and had comments, but did not approve the 2008 revisions.</text>
       </para>
       <para>
-        <num>19.</num>
-        <text>The proposed 2008 revisions were amended by the Tribal Council on September 18, 2009 through Resolution No. 083-09.   The revisions include amending Sections 22.4 (Article I.B), 22.4 (Article II.A), 22.10, 22.12(A), 22.12(B), 22.12(C)(1), and 22.13 (C)(2); creating new Sections 22.12(A)(9), 22.12(A)(10), and 22.12(C)(8); deleting Section 22.12(B)(3); and renumbering Sections 22.12(B)(4-6).</text>
-        <text>Approved by the BIA on April 16, 2012, except for Section 22.24, and with the correction of a typo in the citation to 25 CFR in Section 22.13. Section 22.24, regarding the need for BIA approval of future amendments, was deleted.</text>
+        <num>19</num>
+        <text>The proposed 2008 revisions were amended by the Tribal Council on September 18, 2009 through Resolution No. 083-09.   The revisions include amending Sections <cite path="22.4|(Article I.B)" proof="needed">22.4 (Article I.B)</cite>, <cite path="22.4|(Article II.A)" proof="needed">22.4 (Article II.A)</cite>, <cite path="22.10" proof="needed">22.10</cite>, <cite path="22.12|(A)" proof="needed">22.12(A)</cite>, <cite path="22.12|(B)" proof="needed">22.12(B)</cite>, <cite path="22.12|(C)|(1)" proof="needed">22.12(C)(1)</cite>, and <cite path="22.13|(C)|(2)" proof="needed">22.13 (C)(2)</cite>; creating new Sections <cite path="22.12|(A)|(9)" proof="needed">22.12(A)(9)</cite>, <cite path="22.12|(A)|(10)" proof="needed">22.12(A)(10)</cite>, and <cite path="22.12|(C)|(8)" proof="needed">22.12(C)(8)</cite>; deleting <cite path="22.12|(B)|(3)" proof="needed">Section 22.12(B)(3)</cite>; and renumbering Sections <cite path="22.12|(B)|(4-6)" proof="needed">22.12(B)(4-6)</cite>.</text>
+        <text>Approved by the BIA on April 16, 2012, except for <cite path="22.24" proof="needed">Section 22.24</cite>, and with the correction of a typo in the citation to 25 CFR in <cite path="22.13" proof="needed">Section 22.13</cite>. <cite path="22.24" proof="needed">Section 22.24</cite>, regarding the need for BIA approval of future amendments, was deleted.</text>
       </para>
       <para>
-        <num>20.</num>
-        <text>On August 17, 2010, a new Section 22.11 (A)(3) was added and typographical corrections to Section 22.22 were made by the Tribal Council by Resolution No. 054-10.</text>
+        <num>20</num>
+        <text>On August 17, 2010, a new <cite path="22.11|(A)|(3)" proof="needed">Section 22.11 (A)(3)</cite> was added and typographical corrections to <cite path="22.22" proof="needed">Section 22.22 </cite>were made by the Tribal Council by Resolution No. 054-10.</text>
       </para>
       <para>
-        <num>21.</num>
+        <num>21</num>
         <text>On July 7, 2015, Tribal Council repealed existing Chapter 22 and adopted a new version of Chapter 22 that renumbered, reorganized and made changes clarifying numerous sections.  Substantive changes include the 2010 revisions, as amended, as well as additional language to clarify jurisdictional authority, definitions, harvest of ginseng, forest roads, permits for sale of firewood and on how sales of forest products are handled.  This was done by Resolution No. 053-15.</text>
-        <text>Approved by the Bureau of Indian Affairs on July 22, 2015 – EXCEPT, Section 22.15 (F), Temporary Use Permit, which is approved with the following condition.  Access through allotments or lands that are not owned 100% by the Tribe requires appropriate approvals from the Bureau of Indian Affairs.</text>
+        <text>Approved by the Bureau of Indian Affairs on July 22, 2015 – EXCEPT, <cite path="22.15|(F)" proof="needed">Section 22.15 (F)</cite>, Temporary Use Permit, which is approved with the following condition.  Access through allotments or lands that are not owned 100% by the Tribe requires appropriate approvals from the Bureau of Indian Affairs.</text>
       </para>
     </annotation>
   </annotations>

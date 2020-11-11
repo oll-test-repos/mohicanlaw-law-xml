@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>55A</num>
   <heading>PREVAILING WAGE ORDINANCE</heading>
   <section>
@@ -172,7 +172,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>For any other violations, the Court may order any of the remedies from 55-A.5(D)(1)(b)(c)(d) or impose fines and interest not to exceed $500.00 per day.</text>
+        <text>For any other violations, the Court may order any of the remedies from 55-A.5(D)(1)(b)(c)(d) or impose fines and interest not to exceed $<cite path="500.00" proof="needed">500.00 </cite>per day.</text>
       </para>
     </para>
     <para>
@@ -197,7 +197,6 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <text>Adopted by Tribal Council on October 1, 2002, Resolution No. 054-02.  Approved by BIA on October 18, 2002.</text>
     </annotation>
   </annotations>

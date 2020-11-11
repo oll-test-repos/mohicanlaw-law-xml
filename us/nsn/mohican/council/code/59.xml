@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>59</num>
   <heading>COMMERCIAL-SECURITY INTERESTS</heading>
   <section>
@@ -77,15 +77,14 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <para>
-        <num>1.</num>
+        <num>1</num>
         <text>Adopted by Tribal Council March 16, 2005, Resolution No. 013-05. Approved by</text>
         <text>Bureau of Indian Affairs on April 1, 2005.</text>
       </para>
       <para>
-        <num>2.</num>
-        <text>On June 29, 2009, Tribal Council adopted Resolution No. 068-09 to amend Sections 59.1 and 59.2; create new Sections 59.1(A)(1), 59.1(B), 59.1(C), 59.1(D), and 59.1(E); and renumber Section 59.1 as 59.1(A), Section 27.4 as 59.4, and Section 27.5 as 59.5.</text>
+        <num>2</num>
+        <text>On June 29, 2009, Tribal Council adopted Resolution No. 068-09 to amend Sections <cite path="59.1" proof="needed">59.1 </cite>and <cite path="59.2" proof="needed">59.2</cite>; create new Sections <cite path="59.1|(A)|(1)" proof="needed">59.1(A)(1)</cite>, <cite path="59.1|(B)" proof="needed">59.1(B)</cite>, <cite path="59.1|(C)" proof="needed">59.1(C)</cite>, <cite path="59.1|(D)" proof="needed">59.1(D)</cite>, and <cite path="59.1|(E)" proof="needed">59.1(E)</cite>; and renumber <cite path="59.1" proof="needed">Section 59.1 </cite>as <cite path="59.1|(A)" proof="needed">59.1(A)</cite>, <cite path="27.4" proof="needed">Section 27.4 </cite>as <cite path="59.4" proof="needed">59.4</cite>, and <cite path="27.5" proof="needed">Section 27.5 </cite>as <cite path="59.5" proof="needed">59.5</cite>.</text>
       </para>
     </annotation>
   </annotations>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>13</num>
   <heading>TRUANCY</heading>
   <section>
@@ -21,7 +21,7 @@
   <section>
     <num>13.4</num>
     <heading>Interpretation</heading>
-    <text>This Ordinance shall be liberally construed to effectuate the purpose stated in Section 13.1.</text>
+    <text>This Ordinance shall be liberally construed to effectuate the purpose stated in <cite path="13.1" proof="needed">Section 13.1</cite>.</text>
   </section>
   <section>
     <num>13.5</num>
@@ -81,7 +81,7 @@
     </para>
     <para>
       <num>(J)</num>
-      <text>"Truancy" means any absence by any child of part or all of one or more days from school during which the school attendance officer, or his/her agent, has not been notified of the excused absence by the person having the absent pupil under his or her control during non-school hours.  "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the state and tribe's attendance laws. (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec.118.15</cite> and Stockbridge-Munsee Tribal Law Chapter 13.7.)</text>
+      <text>"Truancy" means any absence by any child of part or all of one or more days from school during which the school attendance officer, or his/her agent, has not been notified of the excused absence by the person having the absent pupil under his or her control during non-school hours.  "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the state and tribe's attendance laws. (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec.118.15</cite> and Stockbridge-Munsee Tribal Law <cite path="13.7" proof="needed">Chapter 13.7</cite>.)</text>
     </para>
     <para>
       <num>(K)</num>
@@ -180,19 +180,19 @@
     <heading>Penalties</heading>
     <para>
       <num>(A)</num>
-      <text>Any school age child convicted of truancy under this Code shall be subject to a minimum penalty of community services hours equal to the number of hours truant and a maximum civil monetary penalty of $25.00 per incident of truancy.</text>
+      <text>Any school age child convicted of truancy under this Code shall be subject to a minimum penalty of community services hours equal to the number of hours truant and a maximum civil monetary penalty of $<cite path="25.00" proof="needed">25.00 </cite>per incident of truancy.</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>Any child who is convicted of aiding another school age child's truancy shall be subject to a minimum penalty of community service hours equal to the number of hours the school age child was truant and a maximum civil monetary penalty of $50.00 per incident of truancy.</text>
+      <text>Any child who is convicted of aiding another school age child's truancy shall be subject to a minimum penalty of community service hours equal to the number of hours the school age child was truant and a maximum civil monetary penalty of $<cite path="50.00" proof="needed">50.00 </cite>per incident of truancy.</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>Any adult who is convicted of aiding a school age child's truancy shall be subject to a penalty not less than $50.00, but not to exceed $500.00 per incident of truancy.  The presiding judge is authorized to order community service hours equal to the number of hours truant in his/her discretion.</text>
+      <text>Any adult who is convicted of aiding a school age child's truancy shall be subject to a penalty not less than $<cite path="50.00" proof="needed">50.00</cite>, but not to exceed $<cite path="500.00" proof="needed">500.00 </cite>per incident of truancy.  The presiding judge is authorized to order community service hours equal to the number of hours truant in his/her discretion.</text>
     </para>
     <para>
       <num>(D)</num>
-      <text>In addition to the imposition of civil forfeitures and community service hours for violations of this Chapter 13, the Tribal Court may impose other remedies including but not limited to: mental health counseling, alcohol assessment and counseling, limitations on the use of public facilities within the jurisdiction of the Tribe and loss of privileges that go with tribal membership.</text>
+      <text>In addition to the imposition of civil forfeitures and community service hours for violations of <cite path="13.13" proof="needed">this Chapter</cite> 13, the Tribal Court may impose other remedies including but not limited to: mental health counseling, alcohol assessment and counseling, limitations on the use of public facilities within the jurisdiction of the Tribe and loss of privileges that go with tribal membership.</text>
     </para>
     <para>
       <num>(E)</num>
@@ -223,24 +223,23 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <para>
-        <num>1.</num>
+        <num>1</num>
         <text>Stockbridge-Munsee Truancy Code approved by the Tribal Council in Resolution No. 226-97 on June 17, 1997.</text>
       </para>
       <para>
-        <num>2.</num>
-        <text>Section 13.6(G) (School Attendance Officer) deleted, Section 13.11 amended by deleting references to School Attendance Officer, Section 13.5 revised to provide a clearer definition on March 5, 2002 by Resolution No. 013-02.  Approved by BIA on March 28, 2002.</text>
+        <num>2</num>
+        <text><cite path="13.6|(G)" proof="needed">Section 13.6(G)</cite> (School Attendance Officer) deleted, <cite path="13.11" proof="needed">Section 13.11 </cite>amended by deleting references to School Attendance Officer, <cite path="13.5" proof="needed">Section 13.5 </cite>revised to provide a clearer definition on March 5, 2002 by Resolution No. 013-02.  Approved by BIA on March 28, 2002.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>3</num>
         <text>On August 6, 2019, by Resolution No. 059-19, the Tribal Council adopted amendments that clarify the Tribe's jurisdiction to bring truancy actions, update headings, and make other administrative changes.  The specific amendments are as follows:</text>
         <text>
           <ul proof="needed">
-            <li>The following new sections were added:  13.5 was modified and renumbered as 13.5(A) with new subsections (1) and (2) added; 13.6 (N) and (O); and 13.13 (E).</li>
-            <li>The following sections were amended:  13.1; 13.4; 13.6 (C), (D), (E), (G), and (J); 13.8; 13.9(B); 13.10 (C); 13.11; and 13.13 (A-D).</li>
-            <li>The following materials were deleted:  13.3; and 13.6 (M).</li>
-            <li>The following materials were renumbered or had numbering added: 13.6 (N) as (M); 13.10; 13.11; and 13.14 was renumbered as 13.14 (A) and 13.15 was renumbered to be 13.14 (B).</li>
+            <li>The following new sections were added:  <cite path="13.5" proof="needed">13.5 </cite>was modified and renumbered as <cite path="13.5|(A)" proof="needed">13.5(A)</cite> with new subsections (1) and (2) added; <cite path="13.6|(N)" proof="needed">13.6 (N)</cite> and (O); and <cite path="13.13|(E)" proof="needed">13.13 (E)</cite>.</li>
+            <li>The following sections were amended:  <cite path="13.1" proof="needed">13.1</cite>; <cite path="13.4" proof="needed">13.4</cite>; <cite path="13.6|(C)" proof="needed">13.6 (C)</cite>, (D), (E), (G), and (J); <cite path="13.8" proof="needed">13.8</cite>; <cite path="13.9|(B)" proof="needed">13.9(B)</cite>; <cite path="13.10|(C)" proof="needed">13.10 (C)</cite>; <cite path="13.11" proof="needed">13.11</cite>; and <cite path="13.13|(A-D)" proof="needed">13.13 (A-D)</cite>.</li>
+            <li>The following materials were deleted:  <cite path="13.3" proof="needed">13.3</cite>; and <cite path="13.6|(M)" proof="needed">13.6 (M)</cite>.</li>
+            <li>The following materials were renumbered or had numbering added: <cite path="13.6|(N)" proof="needed">13.6 (N)</cite> as (M); <cite path="13.10" proof="needed">13.10</cite>; <cite path="13.11" proof="needed">13.11</cite>; and <cite path="13.14" proof="needed">13.14 </cite>was renumbered as <cite path="13.14|(A)" proof="needed">13.14 (A)</cite> and <cite path="13.15" proof="needed">13.15 </cite>was renumbered to be <cite path="13.14|(B)" proof="needed">13.14 (B)</cite>.</li>
           </ul>
         </text>
         <text>The 2019 amendments were approved by the BIA on _________________.</text>

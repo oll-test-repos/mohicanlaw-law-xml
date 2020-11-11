@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>58</num>
   <heading>MOHICAN DEVELOPMENT INCORPORATED</heading>
   <heading>[REPEALED]</heading>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <text>Resolution No. 1117, dated Dec. 7, 1988, approved by Tribal Council,</text>
       <text>adopting Mohican Development Charter.</text>
       <text>Submitted to BIA Dec. 9, 1988</text>

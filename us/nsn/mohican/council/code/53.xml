@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>53</num>
   <heading>EMPLOYEE RIGHTS ORDINANCE</heading>
   <text>Preamble</text>
@@ -226,7 +226,7 @@
   <section>
     <num>53.35</num>
     <heading>Other Rights</heading>
-    <text>The rights under this section are listed as employee rights, but are not subject to grievances under Section 53.4.</text>
+    <text>The rights under this section are listed as employee rights, but are not subject to grievances under <cite path="53.4" proof="needed">Section 53.4</cite>.</text>
     <para>
       <num>(A)</num>
       <text>Employees shall be subject to the Tribal Fair Labor and Standards Ordinance.</text>
@@ -252,7 +252,7 @@
       <text>As a part of the Stockbridge-Munsee Community's commitment to protect the rights of its employees and promote a stable working environment, the following appeal process is made available to each employee:</text>
       <para>
         <num>(1)</num>
-        <text>Only violations of those employee rights enumerated in Section 53.3 of this Ordinance are appealable to the Tribal Court.  All other issues must be handled through the applicable internal dispute resolution process, which may be a grievance process or an employee mediation panel, as provided for in the Employment Manual.  The internal dispute resolution process shall be the final recourse for all issues not expressly enumerated in Section 53.3.</text>
+        <text>Only violations of those employee rights enumerated in <cite path="53.3" proof="needed">Section 53.3 </cite>of this Ordinance are appealable to the Tribal Court.  All other issues must be handled through the applicable internal dispute resolution process, which may be a grievance process or an employee mediation panel, as provided for in the Employment Manual.  The internal dispute resolution process shall be the final recourse for all issues not expressly enumerated in <cite path="53.3" proof="needed">Section 53.3</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -285,7 +285,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>A statement identifying which of the enumerated rights under Section 53.3 has been violated.</text>
+        <text>A statement identifying which of the enumerated rights under <cite path="53.3" proof="needed">Section 53.3 </cite>has been violated.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -310,7 +310,7 @@
     </para>
     <para>
       <num>(E)</num>
-      <text>At the trial, the petitioner shall carry the burden of showing by a preponderance of the evidence that a violation of the rights enumerated in Section 53.3 occurred.</text>
+      <text>At the trial, the petitioner shall carry the burden of showing by a preponderance of the evidence that a violation of the rights enumerated in <cite path="53.3" proof="needed">Section 53.3 </cite>occurred.</text>
     </para>
     <para>
       <num>(F)</num>
@@ -330,7 +330,7 @@
     </para>
     <para>
       <num>(G)</num>
-      <text>Only for claims filed within the Statute of Limitations, the Stockbridge-Munsee Community provides a limited waiver of sovereign immunity for the purposes of permitting claims arising under Section 53.3 and allowing only those remedies identified in subsection (F) above.</text>
+      <text>Only for claims filed within the Statute of Limitations, the Stockbridge-Munsee Community provides a limited waiver of sovereign immunity for the purposes of permitting claims arising under <cite path="53.3" proof="needed">Section 53.3 </cite>and allowing only those remedies identified in subsection (F) above.</text>
     </para>
     <para>
       <num>(H)</num>
@@ -383,18 +383,18 @@
     </para>
     <para>
       <num>(D)</num>
-      <text>The Tribe, through the Tribal Prosecutor, has the authority to enforce the provisions of Section 53.6 through Tribal Court, and the Tribal Court has jurisdiction relating to enforcement of Section 53.6.  In addition to other remedies available, the Court may:</text>
+      <text>The Tribe, through the Tribal Prosecutor, has the authority to enforce the provisions of <cite path="53.6" proof="needed">Section 53.6 </cite>through Tribal Court, and the Tribal Court has jurisdiction relating to enforcement of <cite path="53.6" proof="needed">Section 53.6</cite>.  In addition to other remedies available, the Court may:</text>
       <para>
         <num>(1)</num>
-        <text>Order injunctive and emergency injunctive relief to the Tribe or individuals for violations or threatened violations of Section 53.6; and,</text>
+        <text>Order injunctive and emergency injunctive relief to the Tribe or individuals for violations or threatened violations of <cite path="53.6" proof="needed">Section 53.6</cite>; and,</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Award to the Tribe actual damages, including costs and reasonable attorney fees resulting from a violation or threatened violation of Section 53.6; and,</text>
+        <text>Award to the Tribe actual damages, including costs and reasonable attorney fees resulting from a violation or threatened violation of <cite path="53.6" proof="needed">Section 53.6</cite>; and,</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Fine any person who, directly or indirectly, violates any provision of this Ordinance shall be subject to a fine not exceeding $1,000.00, or exclusion from Stockbridge-Munsee Tribal lands, or both.</text>
+        <text>Fine any person who, directly or indirectly, violates any provision of this Ordinance shall be subject to a fine not exceeding $1,<cite path="000.00" proof="needed">000.00</cite>, or exclusion from Stockbridge-Munsee Tribal lands, or both.</text>
       </para>
     </para>
   </section>
@@ -405,30 +405,29 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <para>
-        <num>1.</num>
+        <num>1</num>
         <text>Employee Rights Ordinance approved by Tribal Council June 28, 1995, by Resolution No. 1505-95.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>2</num>
         <text>Employee Rights Ordinance amended by Tribal Council, January 6, 1998, by Resolution # 01-98.</text>
       </para>
       <para>
-        <num>3.</num>
-        <text>Section 53.2K amended to clarify that the Tribe is not required to expend Tribal resources to make reasonable accommodations on January 2, 2002, Resolution Number 01-02.  Approved by BIA on January 24, 2002.</text>
+        <num>3</num>
+        <text><cite path="53.2" proof="needed">Section 53.2</cite>K amended to clarify that the Tribe is not required to expend Tribal resources to make reasonable accommodations on January 2, 2002, Resolution Number 01-02.  Approved by BIA on January 24, 2002.</text>
       </para>
       <para>
-        <num>4.</num>
-        <text>Section 53.45 amended to clarify the grievance/appeal deadlines on April 5, 2005 by Tribal Council Resolution 014-05. Approved by BIA on April 1, 2005.</text>
+        <num>4</num>
+        <text><cite path="53.45" proof="needed">Section 53.45 </cite>amended to clarify the grievance/appeal deadlines on April 5, 2005 by Tribal Council Resolution 014-05. Approved by BIA on April 1, 2005.</text>
       </para>
       <para>
-        <num>5.</num>
-        <text>On July 17, 2007, Tribal Council, by Resolution Number 049-07, created sections 53.2(B); 53.2(H); 53.3(O); 53.6; 53.7, and 53.8 and amended section 53.3(D).  No reply from BIA in relation to approval.</text>
+        <num>5</num>
+        <text>On July 17, 2007, Tribal Council, by Resolution Number 049-07, created sections <cite path="53.2|(B)" proof="needed">53.2(B)</cite>; <cite path="53.2|(H)" proof="needed">53.2(H)</cite>; <cite path="53.3|(O)" proof="needed">53.3(O)</cite>; <cite path="53.6" proof="needed">53.6</cite>; <cite path="53.7" proof="needed">53.7</cite>, and <cite path="53.8" proof="needed">53.8 </cite>and amended <cite path="53.3|(D)" proof="needed">section 53.3(D)</cite>.  No reply from BIA in relation to approval.</text>
       </para>
       <para>
-        <num>6.</num>
-        <text>Amendments adopted by Tribal Council on August 17, 2010, by Resolution No. 055-10, amended Sections 53.1, 53.2(E), 53.2(F), 53.2(J), 53.3(E), 53.3(F), 53.3(I), 53.3(J)(1), 53.3(L), 53.3(M), 53.4, 53.45, and 53.5(G); created new Section 53.2(K); deleted Section 53.5 (H), and renumbering Sections 53.2(L)-(P) and 53.5(I).  The version forwarded to the BIA for approval included both the 2007 amendments and those adopted in 2010.  Approved by the BIA on April 16, 2012, except for Section 53.8.  Section 53.8, regarding the need for BIA approval of future amendments, was deleted.</text>
+        <num>6</num>
+        <text>Amendments adopted by Tribal Council on August 17, 2010, by Resolution No. 055-10, amended Sections <cite path="53.1" proof="needed">53.1</cite>, <cite path="53.2|(E)" proof="needed">53.2(E)</cite>, <cite path="53.2|(F)" proof="needed">53.2(F)</cite>, <cite path="53.2|(J)" proof="needed">53.2(J)</cite>, <cite path="53.3|(E)" proof="needed">53.3(E)</cite>, <cite path="53.3|(F)" proof="needed">53.3(F)</cite>, <cite path="53.3|(I)" proof="needed">53.3(I)</cite>, <cite path="53.3|(J)|(1)" proof="needed">53.3(J)(1)</cite>, <cite path="53.3|(L)" proof="needed">53.3(L)</cite>, <cite path="53.3|(M)" proof="needed">53.3(M)</cite>, <cite path="53.4" proof="needed">53.4</cite>, <cite path="53.45" proof="needed">53.45</cite>, and <cite path="53.5|(G)" proof="needed">53.5(G)</cite>; created new <cite path="53.2|(K)" proof="needed">Section 53.2(K)</cite>; deleted <cite path="53.5|(H)" proof="needed">Section 53.5 (H)</cite>, and renumbering Sections <cite path="53.2|(L)" proof="needed">53.2(L)</cite>-(P) and <cite path="53.5|(I)" proof="needed">53.5(I)</cite>.  The version forwarded to the BIA for approval included both the 2007 amendments and those adopted in 2010.  Approved by the BIA on April 16, 2012, except for <cite path="53.8" proof="needed">Section 53.8</cite>.  <cite path="53.8" proof="needed">Section 53.8</cite>, regarding the need for BIA approval of future amendments, was deleted.</text>
       </para>
     </annotation>
   </annotations>

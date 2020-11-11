@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>10</num>
   <heading>TERMINATION OF PARENTAL RIGHTS</heading>
+  <heading>YOUTH CODE</heading>
   <section>
     <num>10.1</num>
     <heading>Starting an Action for Termination of Parental Rights.</heading>
@@ -35,7 +36,7 @@
     <para>
       <num>(C)</num>
       <heading>Notice of Hearing:</heading>
-      <text>Notice of hearing shall be served on all parties in the manner specified under Section 7.12 of Chapter 7.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
+      <text>Notice of hearing shall be served on all parties in the manner specified under <cite path="7.12" proof="needed">Section 7.12 </cite>of Chapter 7.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
       <para>
         <num>(1)</num>
         <text>The youth;</text>
@@ -72,7 +73,7 @@
     </para>
     <para>
       <num>(H)</num>
-      <text>Termination Hearing - Conduct:  The hearing shall be private and closed.  The following procedural rules apply, Section 8.8 (F)-(O) of Chapter 8.</text>
+      <text>Termination Hearing - Conduct:  The hearing shall be private and closed.  The following procedural rules apply, <cite path="8.8|(F)" proof="needed">Section 8.8 (F)</cite>-(O) of Chapter 8.</text>
       <para>
         <num>(1)</num>
         <text>The Court shall hear testimony to determine whether termination of parental rights is in the best interest of the youth.  The Court shall consider all pre-termination reports submitted for review.</text>
@@ -107,11 +108,11 @@
       <text>In addition, the Court must find by proof beyond a reasonable doubt that:</text>
       <para>
         <num>(1)</num>
-        <text>the parent has consented to the termination of his or her parental rights under the terms of Section 10.3, or</text>
+        <text>the parent has consented to the termination of his or her parental rights under the terms of <cite path="10.3" proof="needed">Section 10.3</cite>, or</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>That the parent is responsible for abuse of the youth as defined in Section 10.4.</text>
+        <text>That the parent is responsible for abuse of the youth as defined in <cite path="10.4" proof="needed">Section 10.4</cite>.</text>
       </para>
     </para>
   </section>

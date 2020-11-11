@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>17</num>
   <heading>FINANCIAL RESPONSIBILITY CODE</heading>
   <section>
@@ -8,7 +8,7 @@
     <heading>Jurisdiction</heading>
     <para>
       <num>(A)</num>
-      <text>Except for Section 17.1(C), the Stockbridge-Munsee Tribal Court shall have jurisdiction to hear any civil action where at least one of the parties to the action is Indian and which:</text>
+      <text>Except for <cite path="17.1|(C)" proof="needed">Section 17.1(C)</cite>, the Stockbridge-Munsee Tribal Court shall have jurisdiction to hear any civil action where at least one of the parties to the action is Indian and which:</text>
       <para>
         <num>(1)</num>
         <text>Involve a debt or contractual obligation arising or occurring within the territorial jurisdiction of the court; or</text>
@@ -28,7 +28,7 @@
     </para>
     <para>
       <num>(C)</num>
-      <text>In accordance with Chapter 27.9, the Stockbridge-Munsee Court shall not have jurisdiction to hear any matters relating to or affecting per capita payments, as defined in Chapter 27.7(A), except as provided in Chapter 27.7(F) and 27.7(G).</text>
+      <text>In accordance with <cite path="27.9" proof="needed">Chapter 27.9</cite>, the Stockbridge-Munsee Court shall not have jurisdiction to hear any matters relating to or affecting per capita payments, as defined in <cite path="27.7" proof="needed">Chapter 27.7</cite>(A), except as provided in <cite path="27.7" proof="needed">Chapter 27.7</cite>(F) and <cite path="27.7|(G)" proof="needed">27.7(G)</cite>.</text>
     </para>
   </section>
   <section>
@@ -132,7 +132,7 @@
     </para>
     <para>
       <num>(C)</num>
-      <text>Any party to an action filed pursuant to this Chapter may use the appropriate complaint and answer forms provided by the Tribal Court.</text>
+      <text>Any party to an action filed pursuant to <cite path="17.3" proof="needed">this Chapter</cite> may use the appropriate complaint and answer forms provided by the Tribal Court.</text>
     </para>
   </section>
   <section>
@@ -197,7 +197,7 @@
     </para>
     <para>
       <num>(D)</num>
-      <text>Failure by any person without adequate explanation to comply with a subpoena duly served upon him may be deemed in contempt of Court and punished as provided for in Section 17.21 of this Code.</text>
+      <text>Failure by any person without adequate explanation to comply with a subpoena duly served upon him may be deemed in contempt of Court and punished as provided for in <cite path="17.21" proof="needed">Section 17.21 </cite>of this Code.</text>
     </para>
   </section>
   <section>
@@ -249,7 +249,7 @@
     <num>17.12</num>
     <heading>Continuance</heading>
     <para>
-      <num>A.</num>
+      <num>A</num>
       <text>The Court may grant a Continuance in any action brought pursuant to this Code when it deems the interests of justice will be served thereby.</text>
     </para>
   </section>
@@ -429,7 +429,7 @@
       <text>The Stockbridge-Munsee Tribal Court shall not recognize and enforce any foreign judgment unless the proponent of the foreign judgment;</text>
       <para>
         <num>(1)</num>
-        <text>Complies with the procedure set forth in Section 17.22 of this Code:</text>
+        <text>Complies with the procedure set forth in <cite path="17.22" proof="needed">Section 17.22 </cite>of this Code:</text>
       </para>
       <para>
         <num>(2)</num>
@@ -454,7 +454,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>The Stockbridge-Munsee Tribal Court shall not recognize or enforce a foreign judgment when to do so would require the Tribe to waive its immunity from suit, except when the Tribe is served as a garnishee for the wages or property of an employee, in which case the requirements set out in Section 17.17 of this Code shall be adhered to.</text>
+      <text>The Stockbridge-Munsee Tribal Court shall not recognize or enforce a foreign judgment when to do so would require the Tribe to waive its immunity from suit, except when the Tribe is served as a garnishee for the wages or property of an employee, in which case the requirements set out in <cite path="17.17" proof="needed">Section 17.17 </cite>of this Code shall be adhered to.</text>
     </para>
     <para>
       <num>(C)</num>
@@ -517,34 +517,33 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <para>
-        <num>1.</num>
+        <num>1</num>
         <text>Ordinance Committee approved Financial Responsibility Ordinance on April 5, 1989 and submitted to Tribal Council.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>2</num>
         <text>Tribal Council approved for posting on April 18, 1989.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>3</num>
         <text>Tribal Council approved Financial Responsibility Ordinance on May 16, 1988, by Resolution No. 1146.</text>
       </para>
       <para>
-        <num>4.</num>
+        <num>4</num>
         <text>Letter from Bureau of Indian Affairs approving Financial Responsibility Ordinance dated June 5, 1989.</text>
       </para>
       <para>
-        <num>5.</num>
-        <text>Section 17.1 amended by Tribal Council by adding Section 17.1(C) on June 25, 2002, Resolution No. 02-034.  Approved by BIA July 3, 2002.</text>
+        <num>5</num>
+        <text><cite path="17.1" proof="needed">Section 17.1 </cite>amended by Tribal Council by adding <cite path="17.1|(C)" proof="needed">Section 17.1(C)</cite> on June 25, 2002, Resolution No. 02-034.  Approved by BIA July 3, 2002.</text>
       </para>
       <para>
-        <num>6.</num>
-        <text>Section 17.1(C) amended by Tribal Council by adding "and 27.7(G)" at the end of the sentence on June 1, 2004, Resolution No. 026-04 to permit enforcement of child support orders.  Approved by BIA June 15, 2004.</text>
+        <num>6</num>
+        <text><cite path="17.1|(C)" proof="needed">Section 17.1(C)</cite> amended by Tribal Council by adding "and <cite path="27.7|(G)" proof="needed">27.7(G)</cite>" at the end of the sentence on June 1, 2004, Resolution No. 026-04 to permit enforcement of child support orders.  Approved by BIA June 15, 2004.</text>
       </para>
       <para>
-        <num>7.</num>
-        <text>On March 3, 2015, the Tribal Council adopted Resolution No. 024-15 deleting Section 17.4 (B) in its entirety and replacing with a new section on service of process which permits service on an individual through a member of the household over the age of 14 years, at a principal place of business, and through legal publication if after 3 attempts to serve an individual on 3 different days, a person is unable to serve them. Section 17.4 (C) amended by adding "When service is obtained by publication, an authenticated copy of the published newspapers must be returned to the Court Clerk and filed in the court records." Section 17.6 (D) <em>Court Costs </em>"The cost of serving the Summons and complaint on the defendant shall be determined on a per mile basis." is struck in its entirety. Section 17.8 The Tribe as a Real Party in Interest is amended by adding "through the Tribe's Legal Department." Throughout the document correcting grammatical errors and clarifying intent. Approved by the BIA on June 12, 2015.</text>
+        <num>7</num>
+        <text>On March 3, 2015, the Tribal Council adopted Resolution No. 024-15 deleting <cite path="17.4|(B)" proof="needed">Section 17.4 (B)</cite> in its entirety and replacing with a new section on service of process which permits service on an individual through a member of the household over the age of 14 years, at a principal place of business, and through legal publication if after 3 attempts to serve an individual on 3 different days, a person is unable to serve them. <cite path="17.4|(C)" proof="needed">Section 17.4 (C)</cite> amended by adding "When service is obtained by publication, an authenticated copy of the published newspapers must be returned to the Court Clerk and filed in the court records." <cite path="17.6|(D)" proof="needed">Section 17.6 (D)</cite> <em>Court Costs </em>"The cost of serving the Summons and complaint on the defendant shall be determined on a per mile basis." is struck in its entirety. <cite path="17.8" proof="needed">Section 17.8 </cite>The Tribe as a Real Party in Interest is amended by adding "through the Tribe's Legal Department." Throughout the document correcting grammatical errors and clarifying intent. Approved by the BIA on June 12, 2015.</text>
       </para>
     </annotation>
   </annotations>

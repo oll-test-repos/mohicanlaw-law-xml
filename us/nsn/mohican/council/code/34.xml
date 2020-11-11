@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>34</num>
   <heading>WATER POLLUTION CONTROL</heading>
   <section>
@@ -89,7 +89,7 @@
       <text>The Commission shall promulgate control regulations for the following purposes:</text>
       <para>
         <num>(1)</num>
-        <text>To describe prohibitions/standards, concentrations, and effluent limitations on the extent of specifically identified pollutants, such as any of those mentioned in Section 34.6 that any person may discharge into any specified class of reservation waters;</text>
+        <text>To describe prohibitions/standards, concentrations, and effluent limitations on the extent of specifically identified pollutants, such as any of those mentioned in <cite path="34.6" proof="needed">Section 34.6 </cite>that any person may discharge into any specified class of reservation waters;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -149,7 +149,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Advise, consult, cooperate, and enter into agreements, if authorized by Tribal Council, with other agencies of the Tribe, the federal government, states, and other Tribes, and with groups and industries affected by the provisions of this article and policies of the Commission, but any such agreement involving authorizing or requiring compliance in this reservation with any water quality standard or control regulation shall not be effective unless or until the Commission has presented the public with an opportunity for a hearing with respect to such standard or regulation and has adopted the same in compliance with Section 34.19 and</text>
+        <text>Advise, consult, cooperate, and enter into agreements, if authorized by Tribal Council, with other agencies of the Tribe, the federal government, states, and other Tribes, and with groups and industries affected by the provisions of this article and policies of the Commission, but any such agreement involving authorizing or requiring compliance in this reservation with any water quality standard or control regulation shall not be effective unless or until the Commission has presented the public with an opportunity for a hearing with respect to such standard or regulation and has adopted the same in compliance with <cite path="34.19" proof="needed">Section 34.19 </cite>and</text>
       </para>
       <para>
         <num>(3)</num>
@@ -177,15 +177,15 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Administer the waste discharge permit system as provided in Sections 34.24 to 34.26;</text>
+        <text>Administer the waste discharge permit system as provided in Sections <cite path="34.24" proof="needed">34.24 </cite>to <cite path="34.26" proof="needed">34.26</cite>;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Monitor waste discharges and waters of the reservation as provided in Section 34.12; and</text>
+        <text>Monitor waste discharges and waters of the reservation as provided in <cite path="34.12" proof="needed">Section 34.12</cite>; and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Submit an annual report to the Commission as provided in Section 34.14.</text>
+        <text>Submit an annual report to the Commission as provided in <cite path="34.14" proof="needed">Section 34.14</cite>.</text>
       </para>
     </para>
   </section>
@@ -194,7 +194,7 @@
     <heading>Monitoring</heading>
     <para>
       <num>(A)</num>
-      <text>The Division shall take such samples as may be necessary to enable it to determine the quality of every reasonably accessible segment of reservation waters.  In sampling such waters the Division shall give consideration to characteristics such as those listed in Section 34.2 (B), but if pollution is suspected the sampling shall not be limited or restricted by reason of the fact that no water quality standard has been promulgated for the suspected type of pollution.</text>
+      <text>The Division shall take such samples as may be necessary to enable it to determine the quality of every reasonably accessible segment of reservation waters.  In sampling such waters the Division shall give consideration to characteristics such as those listed in <cite path="34.2|(B)" proof="needed">Section 34.2 (B)</cite>, but if pollution is suspected the sampling shall not be limited or restricted by reason of the fact that no water quality standard has been promulgated for the suspected type of pollution.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -254,7 +254,7 @@
     <heading>Annual Report to the Commission</heading>
     <para>
       <num>(A)</num>
-      <text>On or before March of each year, the Division shall report to the Commission on the effectiveness of the provisions of this Article and shall include in such report such recommendations as it may have with respect to any regulatory or legislative changes that may be needed or desired.  Such report shall contain the then current information that has been obtained pursuant to Section 34.4.</text>
+      <text>On or before March of each year, the Division shall report to the Commission on the effectiveness of the provisions of this Article and shall include in such report such recommendations as it may have with respect to any regulatory or legislative changes that may be needed or desired.  Such report shall contain the then current information that has been obtained pursuant to <cite path="34.4" proof="needed">Section 34.4</cite>.</text>
     </para>
   </section>
   <section>
@@ -274,7 +274,7 @@
     <heading>Emergencies</heading>
     <para>
       <num>(A)</num>
-      <text>Whenever the Division determines, after investigation, that any person is discharging or causing to be discharged or is about to discharge into any reservation waters, directly or indirectly, any pollutant which in the opinion of the Division constitutes a clear, present, and immediate danger to the health or livelihood to members of the public, the Division shall issue its written order to said person that he must immediately cease or prevent the discharge of such pollutant into such waters and thereupon such person shall immediately discontinue such discharge.  Concurrently with the issuance of such order the Division may seek a restraining order or injunction pursuant to Section 34.35.</text>
+      <text>Whenever the Division determines, after investigation, that any person is discharging or causing to be discharged or is about to discharge into any reservation waters, directly or indirectly, any pollutant which in the opinion of the Division constitutes a clear, present, and immediate danger to the health or livelihood to members of the public, the Division shall issue its written order to said person that he must immediately cease or prevent the discharge of such pollutant into such waters and thereupon such person shall immediately discontinue such discharge.  Concurrently with the issuance of such order the Division may seek a restraining order or injunction pursuant to <cite path="34.35" proof="needed">Section 34.35</cite>.</text>
     </para>
   </section>
   <section>
@@ -334,7 +334,7 @@
     </para>
     <para>
       <num>(F)</num>
-      <text>The Commission or Division may designate a Hearing Officer who shall have the power to issue notices of hearing, to issue subpoenas requiring the attendance of witnesses and the production of evidence, to administer oaths, and to take such testimony as may be necessary and such Hearing Officer shall certify and file recommended findings and conclusion and a proposed order with the Commission or Division as appropriate, for adoption or modification by such Commission or Division. The Commission or Division may designate a Hearing Officer if the purpose of the hearing is to develop control regulations, or is held pursuant to Section 34.20.</text>
+      <text>The Commission or Division may designate a Hearing Officer who shall have the power to issue notices of hearing, to issue subpoenas requiring the attendance of witnesses and the production of evidence, to administer oaths, and to take such testimony as may be necessary and such Hearing Officer shall certify and file recommended findings and conclusion and a proposed order with the Commission or Division as appropriate, for adoption or modification by such Commission or Division. The Commission or Division may designate a Hearing Officer if the purpose of the hearing is to develop control regulations, or is held pursuant to <cite path="34.20" proof="needed">Section 34.20</cite>.</text>
       <text>The Hearing Officer may be an employee of the Division.</text>
     </para>
   </section>
@@ -357,11 +357,11 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Any proceeding for judicial review of any final order or determination of the Division or the Commission shall be filed in the Tribal Court within thirty (30) days after said order or determination has been served upon the party affected. Such period shall be stayed while an application for a hearing, rehearing, or reconsideration is pending pursuant to Section 34.20</text>
+      <text>Any proceeding for judicial review of any final order or determination of the Division or the Commission shall be filed in the Tribal Court within thirty (30) days after said order or determination has been served upon the party affected. Such period shall be stayed while an application for a hearing, rehearing, or reconsideration is pending pursuant to <cite path="34.20" proof="needed">Section 34.20</cite></text>
     </para>
     <para>
       <num>(C)</num>
-      <text>(1) Except with respect to emergency orders issued pursuant to Section 34.16, any person to whom a cease and desist order, clean-up order, or other order has been issued by the Division or Commission, or against whom an adverse determination has been made, may petition the Tribal Court for a stay of the effectiveness of such order or determination. Such petition shall be filed in the Tribal Court in which is located the pollution sources.</text>
+      <text>(1) Except with respect to emergency orders issued pursuant to <cite path="34.16" proof="needed">Section 34.16</cite>, any person to whom a cease and desist order, clean-up order, or other order has been issued by the Division or Commission, or against whom an adverse determination has been made, may petition the Tribal Court for a stay of the effectiveness of such order or determination. Such petition shall be filed in the Tribal Court in which is located the pollution sources.</text>
       <para>
         <num>(2)</num>
         <text>Such petitions may be filed prior to any such order or determination becoming final or during any period in which is located the Pollution sources affected.</text>
@@ -422,7 +422,7 @@
     </para>
     <para>
       <num>(C)</num>
-      <text>The Tribe shall promulgate such regulations as may be necessary for the orderly and effective administration of permits for the discharge of pollutants.  Such regulations shall be consistent with the provisions of this Article and shall be in furtherance of the policy contained in Section 34.7 and may pertain to and implement, among other matters, permit and permit applications contents, procedures, requirements and restrictions with respect to the following:</text>
+      <text>The Tribe shall promulgate such regulations as may be necessary for the orderly and effective administration of permits for the discharge of pollutants.  Such regulations shall be consistent with the provisions of this Article and shall be in furtherance of the policy contained in <cite path="34.7" proof="needed">Section 34.7 </cite>and may pertain to and implement, among other matters, permit and permit applications contents, procedures, requirements and restrictions with respect to the following:</text>
       <para>
         <num>(1)</num>
         <text>Identification and address of the owner and operator of the activity, facility, or process from which the discharge is to be permitted;</text>
@@ -522,7 +522,7 @@
     </para>
     <para>
       <num>(H)</num>
-      <text>For the purposes of defraying costs incurred by the Tribe in their monitoring of waste discharged into reservation waters pursuant to a permit issued under this Section, the permittee shall pay to the Tribe a fee of one hundred dollars ($100.00) prior to the commencement of each year covered by the permit beyond the first year.  Until such fee is paid, when due, the permittee shall not be in good standing under this Article.</text>
+      <text>For the purposes of defraying costs incurred by the Tribe in their monitoring of waste discharged into reservation waters pursuant to a permit issued under this Section, the permittee shall pay to the Tribe a fee of one hundred dollars ($<cite path="100.00" proof="needed">100.00</cite>) prior to the commencement of each year covered by the permit beyond the first year.  Until such fee is paid, when due, the permittee shall not be in good standing under this Article.</text>
     </para>
   </section>
   <section>
@@ -597,15 +597,15 @@
       <num>(E)</num>
       <text>FEES</text>
       <para>
-        <num>A.</num>
+        <num>A</num>
         <text>Minor municipal and industrial discharges - $50</text>
       </para>
       <para>
-        <num>B.</num>
+        <num>B</num>
         <text>Irrigation return flow - $10</text>
       </para>
       <para>
-        <num>C.</num>
+        <num>C</num>
         <text>Small feedlots - $10</text>
       </para>
     </para>
@@ -691,7 +691,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Any person engaged in any operation or activity which results in a spill or discharge of oil or other substance which may cause pollution of the waters of the reservation contrary to the provisions of this article shall, as soon as he has knowledge thereof, notify the Division of Natural Resources. Any person who fails to notify the Tribe as soon as practicable is deemed in violation of this Article and, upon an administrative finding thereof, shall be levied an administrative civil penalty of not more than five hundred dollars ($500.00), or by imprisonment upon conviction for a misdemeanor for a violation of this Article for not more than six (6) months, or by both such administrative penalty and criminal penalty.</text>
+      <text>Any person engaged in any operation or activity which results in a spill or discharge of oil or other substance which may cause pollution of the waters of the reservation contrary to the provisions of this article shall, as soon as he has knowledge thereof, notify the Division of Natural Resources. Any person who fails to notify the Tribe as soon as practicable is deemed in violation of this Article and, upon an administrative finding thereof, shall be levied an administrative civil penalty of not more than five hundred dollars ($<cite path="500.00" proof="needed">500.00</cite>), or by imprisonment upon conviction for a misdemeanor for a violation of this Article for not more than six (6) months, or by both such administrative penalty and criminal penalty.</text>
     </para>
   </section>
   <section>
@@ -703,7 +703,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Each cease and desist and clean-up order issued pursuant to Sections 34.33 and 34.34 shall be accompanied by or have incorporated in it the notice provided for in subsection (A) of this Section unless such notice shall thereto have been given.</text>
+      <text>Each cease and desist and clean-up order issued pursuant to Sections <cite path="34.33" proof="needed">34.33 </cite>and <cite path="34.34" proof="needed">34.34 </cite>shall be accompanied by or have incorporated in it the notice provided for in subsection (A) of this Section unless such notice shall thereto have been given.</text>
     </para>
   </section>
   <section>
@@ -711,11 +711,11 @@
     <heading>Hearing Procedures for Alleged Violations</heading>
     <para>
       <num>(A)</num>
-      <text>In any notice given under Section 34.30 the Tribe may require the alleged violator to appear before it for a public hearing and to answer each alleged violation.  Such hearing shall be held no sooner than fifteen (15) days after service of the notice, except the Tribe may set an earlier date for hearing if it is requested by the alleged violator if an emergency exists.</text>
+      <text>In any notice given under <cite path="34.30" proof="needed">Section 34.30 </cite>the Tribe may require the alleged violator to appear before it for a public hearing and to answer each alleged violation.  Such hearing shall be held no sooner than fifteen (15) days after service of the notice, except the Tribe may set an earlier date for hearing if it is requested by the alleged violator if an emergency exists.</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>If the Tribe does not require an alleged violator to appear for a public hearing, the alleged violator may request the Tribe to conduct such a hearing.  Such request shall be in writing and shall be filed with the secretary of the Tribe no later than thirty (30) days after service of the notice under Section 34.30.  If such a request is filed, a hearing shall be held within a reasonable time.</text>
+      <text>If the Tribe does not require an alleged violator to appear for a public hearing, the alleged violator may request the Tribe to conduct such a hearing.  Such request shall be in writing and shall be filed with the secretary of the Tribe no later than thirty (30) days after service of the notice under <cite path="34.30" proof="needed">Section 34.30</cite>.  If such a request is filed, a hearing shall be held within a reasonable time.</text>
     </para>
     <para>
       <num>(C)</num>
@@ -901,7 +901,7 @@
     </para>
     <para>
       <num>(C)</num>
-      <text>A person who performs work in a lake without a permit for that work shall, if required by the Tribal Council, restore the lake to its condition before it was disturbed, and is subject to the provisions for violations, remedies, and penalties under this Article as contained in Section 34.36 et seq.</text>
+      <text>A person who performs work in a lake without a permit for that work shall, if required by the Tribal Council, restore the lake to its condition before it was disturbed, and is subject to the provisions for violations, remedies, and penalties under this Article as contained in <cite path="34.36" proof="needed">Section 34.36 </cite>et seq.</text>
     </para>
   </section>
   <section>
@@ -1007,14 +1007,13 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <text>Ordinance Committee approved to go to Tribal Council for review at the April 20, 1988 Committee meeting with appropriate changes.</text>
       <text>Approved by Tribal Council for posting at the November 1, 1988 Tribal Council Meeting.</text>
       <text>Officially adopted by Resolution #1122 on January 3, 1989 at the Tribal Council Meeting.</text>
       <text>Recommended changes by the BIA passed by the Tribal Council Resolution #1161 on July 18, 1989.</text>
       <text>A BIA list of approved ordinances on file there as of 1993 shows they have the Water Quality Ordinance on file.</text>
       <text>Water Pollution Control amended by Resolution No. 1552-95, Nov. 7, 1995, by deleting a section entitled "Criminal Pollution" and adding that section with some changes to the preceding section entitled "Civil Penalties". The numbering system also changed at this time so section number cited in Resolution differs from current.</text>
-      <text>Amended by Council deleting sections 34.4, 34.5, 34.6 and 34.16 on August 5, 1998, by Resolution No. 050-98.</text>
+      <text>Amended by Council deleting sections <cite path="34.4" proof="needed">34.4</cite>, <cite path="34.5" proof="needed">34.5</cite>, <cite path="34.6" proof="needed">34.6 </cite>and <cite path="34.16" proof="needed">34.16 </cite>on August 5, 1998, by Resolution No. 050-98.</text>
     </annotation>
   </annotations>
 </container>

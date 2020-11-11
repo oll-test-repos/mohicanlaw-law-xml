@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>51</num>
   <heading>CODE OF CONDUCT</heading>
   <text>This Code of Conduct is established by the Stockbridge-Munsee Tribal Council and shall govern the performance of all officers, employees or agents of the Stockbridge-Munsee Tribe engaged in the award and administration of all procurement or contracts.  For the purposes of this Code, the term "officer" shall include members of the Tribal Council.</text>
@@ -9,19 +9,19 @@
     <heading>CONFLICT OF INTEREST</heading>
     <text>No officer, employee or agent of the Stockbridge-Munsee Tribe shall participate in the selection, or in the award or administration of a procurement or contract if a conflict of interest, real or apparent, would be involved.  Such a conflict would arise when:</text>
     <para>
-      <num>A.</num>
+      <num>A</num>
       <text>The officer, employee or agent; and/or</text>
     </para>
     <para>
-      <num>B.</num>
+      <num>B</num>
       <text>Any member of his or her immediate family; and/or</text>
     </para>
     <para>
-      <num>C.</num>
+      <num>C</num>
       <text>His or her partner; and/or</text>
     </para>
     <para>
-      <num>D.</num>
+      <num>D</num>
       <text>An organization which employs, or is about to employ any of the above, has a financial or other interest in the firm selected for award.</text>
     </para>
   </section>
@@ -33,35 +33,34 @@
   <section>
     <num>51.3</num>
     <heading>ACCEPTANCE OF GIFTS</heading>
-    <text>An officer, employee or agent may accept a gift from a firm or contractor if such is unsolicited and of nominal value (not to exceed $10.00).  Acceptance of such gifts will be limited to items used as advertising by firms or contractors.  Acceptance of any other gift shall constitute a violation of this Code.  The Stockbridge-Munsee Tribal Council may receive such other gifts as offered by a firm or contractor, which if accepted will be retained by the Tribe in remembrance of a program or project.  In addition to the limitation on gifts, also in violation of this Code would be the acceptance of excessive or unusual entertainment, loans or other favors (valued in excess of fifty dollars [$50.00]).</text>
+    <text>An officer, employee or agent may accept a gift from a firm or contractor if such is unsolicited and of nominal value (not to exceed $<cite path="10.00" proof="needed">10.00</cite>).  Acceptance of such gifts will be limited to items used as advertising by firms or contractors.  Acceptance of any other gift shall constitute a violation of this Code.  The Stockbridge-Munsee Tribal Council may receive such other gifts as offered by a firm or contractor, which if accepted will be retained by the Tribe in remembrance of a program or project.  In addition to the limitation on gifts, also in violation of this Code would be the acceptance of excessive or unusual entertainment, loans or other favors (valued in excess of fifty dollars [$<cite path="50.00" proof="needed">50.00</cite>]).</text>
   </section>
   <section>
     <num>51.4</num>
     <heading>VIOLATIONS</heading>
     <text>Violation of this Code of Conduct shall be prosecuted as follows:</text>
     <para>
-      <num>A.</num>
+      <num>A</num>
       <text>Any violation of this Code of Conduct by an officer of the Stockbridge-Munsee Community shall be handled by the Stockbridge-Munsee Tribal Council.  The Tribal Council will review the violation and take such action against the officer(s)</text>
       <text>involved as is allowable under the Constitution and By-Laws of the Stockbridge-Munsee Community, including possible removal from the Tribal Council according to the terms of the Constitution, in the event that the "officer" is a member of the Tribal Council.</text>
     </para>
     <para>
-      <num>B.</num>
+      <num>B</num>
       <text>Any violation of this Code of Conduct by an employee of the Stockbridge-Munsee Community will be handled in accordance with the Information Handbook for Employees of Mohican Nation ("the Green Book"), Sections 4, 6 and 7.   Discipline, reprimand, suspension, or termination may result with respect to the seriousness of the violation.</text>
     </para>
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <para>
-        <num>1.</num>
+        <num>1</num>
         <text>Approved 11/19/85.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>2</num>
         <text>Proposed Amendments submitted to Tribal Council 11/24/98.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>3</num>
         <text>Amendments approved by Tribal Council on November 17, 1998 by Resolution No. 074-98.</text>
       </para>
     </annotation>

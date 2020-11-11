@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>40</num>
   <heading>LAND ORDINANCE</heading>
   <section>
@@ -435,7 +435,7 @@
     <heading>Development Requirement for Land Assignments</heading>
     <para>
       <num>(A)</num>
-      <text>If a land assignment is for land located in a subdivision or land that it newly opened for assignment, then the land assignment will revert back to the Tribe unless the grantee has substantially completed a dwelling on the land assignment within two (2) years after the Grant is executed unless the grantee has received an extension as provided for in Section 40.10 (B)(3)(a).</text>
+      <text>If a land assignment is for land located in a subdivision or land that it newly opened for assignment, then the land assignment will revert back to the Tribe unless the grantee has substantially completed a dwelling on the land assignment within two (2) years after the Grant is executed unless the grantee has received an extension as provided for in <cite path="40.10|(B)|(3)|(a)" proof="needed">Section 40.10 (B)(3)(a)</cite>.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -533,7 +533,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Upon the death of the grantee, the grantee's surviving spouse shall have a right to continue to reside on the land assignment in accordance with Section 40.13.  The surviving spouse shall be responsible to use and maintain the land assignment in accordance with tribal law for as long as the spouse holds it as his/her residence.</text>
+      <text>Upon the death of the grantee, the grantee's surviving spouse shall have a right to continue to reside on the land assignment in accordance with <cite path="40.13" proof="needed">Section 40.13</cite>.  The surviving spouse shall be responsible to use and maintain the land assignment in accordance with tribal law for as long as the spouse holds it as his/her residence.</text>
     </para>
     <para>
       <num>(C)</num>
@@ -575,7 +575,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>If the parent(s)/guardian(s) use of the land assignment does not comply with applicable laws, then the parent(s)/guardians shall forfeit all use rights in the land assignment and the minor child shall forfeit all beneficiary rights in the land assignment.  The land assignment shall revert to the Tribe and parties shall be required to vacate the property consistent with Section 40.12 (D).</text>
+            <text>If the parent(s)/guardian(s) use of the land assignment does not comply with applicable laws, then the parent(s)/guardians shall forfeit all use rights in the land assignment and the minor child shall forfeit all beneficiary rights in the land assignment.  The land assignment shall revert to the Tribe and parties shall be required to vacate the property consistent with <cite path="40.12|(D)" proof="needed">Section 40.12 (D)</cite>.</text>
           </para>
         </para>
         <para>
@@ -833,7 +833,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Any person who violates any provision of this ordinance or any rule or regulation authorized thereunder, shall be guilty of a Tribal Civil offense punishable by a fine of not more than five hundred dollars ($500.00).</text>
+      <text>Any person who violates any provision of this ordinance or any rule or regulation authorized thereunder, shall be guilty of a Tribal Civil offense punishable by a fine of not more than five hundred dollars ($<cite path="500.00" proof="needed">500.00</cite>).</text>
     </para>
     <para>
       <num>(C)</num>
@@ -842,52 +842,51 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <para>
-        <num>1.</num>
+        <num>1</num>
         <heading>Ordinance No.</heading>
         <text>11-A Lands, as adopted by the Stockbridge-Munsee Tribal Council Nov. 21, 1939 and returned by BIA for lack of signature space. (10/15/40 BIA Letter to Chairman).</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>2</num>
         <heading>Ordinance No.</heading>
         <text>1 Lands as adopted by the Stockbridge Munsee Tribal Council on Sept. 27, 1940 and approved by the Department of the Interior, June 30, 1941.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>3</num>
         <text>Amended by Stockbridge-Munsee Resolution No. 0663 (June 15, 1979).</text>
       </para>
       <para>
-        <num>4.</num>
+        <num>4</num>
         <text>See also Tribal Agricultural Land Standard Assignment (Form approved by the Secretary of the Interior June 30, 1941) and Grant of Standard Assignment (Form approved June 30, 1941 as amended by Stockbridge Munsee Resolution No. 0988, July 15, 1986); and Tribal Council meeting minutes of January 2, 1975, June 15, 1979, and April 1, 1986.</text>
       </para>
       <para>
-        <num>5.</num>
+        <num>5</num>
         <text>A new land ordinance approved for adoption by Tribal Council on March 3, 1987, by Resolution No.  0988.</text>
       </para>
       <para>
-        <num>6.</num>
+        <num>6</num>
         <heading>Legislative attorney's note:</heading>
-        <text>Sections 40.3(B) (deleting the word exclusive), 40.5(B)(4) (reflecting the time frame for improvements be three years), 40.6(A) (deleting Secretary of Interior Approval), and 40.6(F) (deleting the word exploit) amended by Tribal Council on June 12, 1987, Resolution No. 1037.  However, the amendment had not been incorporated into the Ordinance.  Upon this discovery, the amendment was incorporated into the Ordinance on July 27, 2000 by the Legal Department.</text>
+        <text>Sections <cite path="40.3|(B)" proof="needed">40.3(B)</cite> (deleting the word exclusive), <cite path="40.5|(B)|(4)" proof="needed">40.5(B)(4)</cite> (reflecting the time frame for improvements be three years), <cite path="40.6|(A)" proof="needed">40.6(A)</cite> (deleting Secretary of Interior Approval), and <cite path="40.6|(F)" proof="needed">40.6(F)</cite> (deleting the word exploit) amended by Tribal Council on June 12, 1987, Resolution No. 1037.  However, the amendment had not been incorporated into the Ordinance.  Upon this discovery, the amendment was incorporated into the Ordinance on July 27, 2000 by the Legal Department.</text>
       </para>
       <para>
-        <num>7.</num>
-        <text>Section 8 (B) which is now Section 40.8 (B) amended by Resolution 1552-95 on Nov. 7, 1995 by replacing Tribal Council with Tribal Court.</text>
+        <num>7</num>
+        <text>Section 8 (B) which is now <cite path="40.8|(B)" proof="needed">Section 40.8 (B)</cite> amended by Resolution 1552-95 on Nov. 7, 1995 by replacing Tribal Council with Tribal Court.</text>
       </para>
       <para>
-        <num>8.</num>
-        <text>Several amendments and other modifications adopted by Tribal Council on August 20, 2002, by Resolution No. 045-02.  Section 40.1, Short Title is deleted, resulting in the other sections being renumbered.  Other sections deleted were Section 40.5 [now 40.4] (B)(3), (B)(4), (B)(7), (B)(8), and Section 40.6 [now 40.5] (D), (G), (J).  Sections amended were 40.2 [now 40.1], 40.3 [now 40.2] (A), (B), 40.4 [now 40.3] (A), (B), (C), (D), (E), 40.5 [now 40.4] (A)(1), (A)(3), (A)(4), (B)(1), (B)(2), (B)(5) [now (B)(3)], (B)(6) [now (B)(4)], (B)(9) [now (B)(5)], 40.6 (now 40.5) (A)(1), (A)(2), (B), (E) [now (D)], (H) [now (F)], (I) [now (G)].  Approved by BIA on September 18, 2002.</text>
+        <num>8</num>
+        <text>Several amendments and other modifications adopted by Tribal Council on August 20, 2002, by Resolution No. 045-02.  <cite path="40.1" proof="needed">Section 40.1</cite>, Short Title is deleted, resulting in the other sections being renumbered.  Other sections deleted were <cite path="40.5" proof="needed">Section 40.5 </cite>[now <cite path="40.4" proof="needed">40.4</cite>] (B)(3), (B)(4), (B)(7), (B)(8), and <cite path="40.6" proof="needed">Section 40.6 </cite>[now <cite path="40.5" proof="needed">40.5</cite>] (D), (G), (J).  Sections amended were <cite path="40.2" proof="needed">40.2 </cite>[now <cite path="40.1" proof="needed">40.1</cite>], <cite path="40.3" proof="needed">40.3 </cite>[now <cite path="40.2" proof="needed">40.2</cite>] (A), (B), <cite path="40.4" proof="needed">40.4 </cite>[now <cite path="40.3" proof="needed">40.3</cite>] (A), (B), (C), (D), (E), <cite path="40.5" proof="needed">40.5 </cite>[now <cite path="40.4" proof="needed">40.4</cite>] (A)(1), (A)(3), (A)(4), (B)(1), (B)(2), (B)(5) [now (B)(3)], (B)(6) [now (B)(4)], (B)(9) [now (B)(5)], <cite path="40.6|(now 40.5)" proof="needed">40.6 (now 40.5)</cite> (A)(1), (A)(2), (B), (E) [now (D)], (H) [now (F)], (I) [now (G)].  Approved by BIA on September 18, 2002.</text>
       </para>
       <para>
-        <num>9.</num>
-        <text>On May 3, 2005, Tribal Council by Resolution No. 028-05 amended Chapter 40 by creating Sections 40.2(A),(B),(E); Section 40.4(A)(3); Section 40.5(H); and by amending Section 40.5(A), 40.5(A)(1), 40.5(A)(3); 40.5(E); 40.5(G).  Approved by BIA on February 24, 2006.</text>
+        <num>9</num>
+        <text>On May 3, 2005, Tribal Council by Resolution No. 028-05 amended Chapter 40 by creating Sections <cite path="40.2|(A)" proof="needed">40.2(A)</cite>,(B),(E); <cite path="40.4|(A)|(3)" proof="needed">Section 40.4(A)(3)</cite>; <cite path="40.5|(H)" proof="needed">Section 40.5(H)</cite>; and by amending <cite path="40.5|(A)" proof="needed">Section 40.5(A)</cite>, <cite path="40.5|(A)|(1)" proof="needed">40.5(A)(1)</cite>, <cite path="40.5|(A)|(3)" proof="needed">40.5(A)(3)</cite>; <cite path="40.5|(E)" proof="needed">40.5(E)</cite>; <cite path="40.5|(G)" proof="needed">40.5(G)</cite>.  Approved by BIA on February 24, 2006.</text>
       </para>
       <para>
-        <num>10.</num>
-        <text>On November 22, 2005, Tribal Council by Resolution No. 07-06 amended Chapter 40 by creating sections 40.2(B); 40.2(F); 40.2(G); 40.3(B)(1)(a),(b),(c); 40.4(B)(3); 40.5(A)(2)(a),(b),(c),(d); 40.7(A) and technical changes to sections 40.5(B),(D)(E)(H); and 40.6(B).  Approved by BIA on April 10, 2006.</text>
+        <num>10</num>
+        <text>On November 22, 2005, Tribal Council by Resolution No. 07-06 amended Chapter 40 by creating sections <cite path="40.2|(B)" proof="needed">40.2(B)</cite>; <cite path="40.2|(F)" proof="needed">40.2(F)</cite>; <cite path="40.2|(G)" proof="needed">40.2(G)</cite>; <cite path="40.3|(B)|(1)|(a)" proof="needed">40.3(B)(1)(a)</cite>,(b),(c); <cite path="40.4|(B)|(3)" proof="needed">40.4(B)(3)</cite>; <cite path="40.5|(A)|(2)|(a)" proof="needed">40.5(A)(2)(a)</cite>,(b),(c),(d); <cite path="40.7|(A)" proof="needed">40.7(A)</cite> and technical changes to sections <cite path="40.5|(B)" proof="needed">40.5(B)</cite>,(D)(E)(H); and <cite path="40.6|(B)" proof="needed">40.6(B)</cite>.  Approved by BIA on April 10, 2006.</text>
       </para>
       <para>
-        <num>11.</num>
+        <num>11</num>
         <text>On July 15, 2014, the Tribal Council repealed the existing Chapter 40 and adopted a new Chapter 40.  This was done by Resolution No. 036-14 and was necessary since the entire ordinance was re-organized and many changes were adopted to clarify tribal practices in relation to the granting of, rights to and obligations in relation to tribal land assignments.  These changes were approved by the BIA on July 28, 2014.</text>
       </para>
     </annotation>

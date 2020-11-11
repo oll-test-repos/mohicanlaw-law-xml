@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>11</num>
   <heading>ADOPTION</heading>
+  <heading>YOUTH CODE</heading>
   <section>
     <num>11.1</num>
     <heading>Adoption - General Provisions.-</heading>
@@ -61,7 +62,7 @@
     <para>
       <num>(B)</num>
       <heading>Notice of Hearing:</heading>
-      <text>Notice of hearing shall be served on all parties in the manner specified under Section 7.12 of Chapter 7.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
+      <text>Notice of hearing shall be served on all parties in the manner specified under <cite path="7.12" proof="needed">Section 7.12 </cite>of Chapter 7.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
       <para>
         <num>(1)</num>
         <text>The petitioner(s);</text>
@@ -138,7 +139,7 @@
     <para>
       <num>(G)</num>
       <heading>Adoption Hearing - Conduct:</heading>
-      <text>The hearing shall be private and closed.  The following procedural rules apply, Section 8.8 (F)-(O) of Chapter 8.</text>
+      <text>The hearing shall be private and closed.  The following procedural rules apply, <cite path="8.8|(F)" proof="needed">Section 8.8 (F)</cite>-(O) of Chapter 8.</text>
     </para>
   </section>
   <section>

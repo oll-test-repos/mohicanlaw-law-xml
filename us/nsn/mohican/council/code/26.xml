@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>26</num>
   <heading>PUBLIC HEALTH AND SAFETY ORDINANCE</heading>
   <section>
@@ -108,7 +108,7 @@
         <text>Chapter SPS 366 – Existing Buildings, Wis. Admin. Code.</text>
         <para>
           <num>(a)</num>
-          <text>Section SPS 361.05 of State law provides for the incorporation of the IEBC-2009, subject to the modifications under Chapters SPS 361 and SPS 366.</text>
+          <text>Section SPS <cite path="361.05" proof="needed">361.05 </cite>of State law provides for the incorporation of the IEBC-2009, subject to the modifications under Chapters SPS 361 and SPS 366.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -130,7 +130,7 @@
       <para>
         <num>(1)</num>
         <text>
-          <em>Safety Code for Elevators and Escalators, ASME A17.1/CSA B44-2013.</em>
+          <em>Safety Code for Elevators and Escalators, ASME A<cite path="17.1" proof="needed">17.1</cite>/CSA B44-2013.</em>
         </text>
       </para>
     </para>
@@ -169,17 +169,16 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <para>
-        <num>1.</num>
+        <num>1</num>
         <text>Approved by Tribal Council May 22, 1992; Resolution No. 1316.  This ordinance was necessary to meet federal regulations for Class III gaming and to comply with Section XIV of the Gaming Compact between the Stockbridge-Munsee Community and the State of Wisconsin.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>2</num>
         <text>Recommended for approval by BIA in letter dated July 16, 1992 from Ashland office to Minneapolis Area Office.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>3</num>
         <text>On August 5, 2015, the Tribal Council by Resolution No. 057-15 repealed existing Chapter 26 and adopted a new version of Chapter 26.  New version reformats the ordinance to be consistent with the format of other tribal ordinances, clarifies the applicability of the ordinance, updates references to Wisconsin laws and adds a requirement in relation to elevators.  BIA approval granted on August 13, 2015.</text>
       </para>
     </annotation>

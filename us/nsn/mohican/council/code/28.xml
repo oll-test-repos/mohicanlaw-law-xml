@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>28</num>
   <heading>CHILD SUPPORT</heading>
   <section>
@@ -47,7 +47,7 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>The enrolled member asserted parentage in a declaration of paternal interest filed with the Wisconsin Department of Health and Family Services under s. 48.025, or in a statement acknowledging paternity filed with the State Registrar under s.69.15(3)(b) 1 or 3.</text>
+        <text>The enrolled member asserted parentage in a declaration of paternal interest filed with the Wisconsin Department of Health and Family Services under s. <cite path="48.025" proof="needed">48.025</cite>, or in a statement acknowledging paternity filed with the State Registrar under s.<cite path="69.15|(3)|(b)" proof="needed">69.15(3)(b)</cite> 1 or 3.</text>
       </para>
       <para>
         <num>(D)</num>
@@ -93,7 +93,7 @@
     <heading>Definitions</heading>
     <para>
       <num>(A)</num>
-      <text>Administrative enforcement actions" means actions authorized by federal regulations      which are taken to enforce a child support order without obtaining an order from the Court Additionally, administrative enforcement actions means all enforcement actions authorized through the KIDS system and those specifically set forth in Section 28.10 of this Ordinance.</text>
+      <text>Administrative enforcement actions" means actions authorized by federal regulations      which are taken to enforce a child support order without obtaining an order from the Court Additionally, administrative enforcement actions means all enforcement actions authorized through the KIDS system and those specifically set forth in <cite path="28.10" proof="needed">Section 28.10 </cite>of this Ordinance.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -194,7 +194,7 @@
     </para>
     <para>
       <num>4)</num>
-      <text>Child Support for other children but shall be calculated by the Court into the record in accordance with 28.7 (F).</text>
+      <text>Child Support for other children but shall be calculated by the Court into the record in accordance with <cite path="28.7|(F)" proof="needed">28.7 (F)</cite>.</text>
     </para>
     <para>
       <num>(N)</num>
@@ -264,7 +264,7 @@
   <section>
     <num>28.5</num>
     <heading>Actions for Establishment and Modification of Child Support</heading>
-    <text>In a proceeding affecting the family, including but not limited to, the dissolution of marriage, custody, paternity or child support establishment and modification pursuant to this Chapter, the Tribal Court may order one or both parents of the minor child(ren) to pay an amount of child support to the custodial party pursuant to the guidelines in this Chapter.  The Court shall provide notice to the parties that they can sign up for services with the Child Support Agency.  For purposes of all actions affecting the family where there are minor children involved, the Agency shall be considered an interested party and shall receive notice from the Court of any proceedings in the case and have the right have the right to file a separate child support petition pursuant to the Agency's required procedures.  The Agency shall prepare and file the child support petition or stipulation for the Court's consideration in a distinct child support action.  Any deviations from the standards shall be noted in writing in the child support order. The Tribal Court shall consider the following relevant factors when determining child support:</text>
+    <text>In a proceeding affecting the family, including but not limited to, the dissolution of marriage, custody, paternity or child support establishment and modification pursuant to <cite path="28.5" proof="needed">this Chapter</cite>, the Tribal Court may order one or both parents of the minor child(ren) to pay an amount of child support to the custodial party pursuant to the guidelines in <cite path="28.5" proof="needed">this Chapter</cite>.  The Court shall provide notice to the parties that they can sign up for services with the Child Support Agency.  For purposes of all actions affecting the family where there are minor children involved, the Agency shall be considered an interested party and shall receive notice from the Court of any proceedings in the case and have the right have the right to file a separate child support petition pursuant to the Agency's required procedures.  The Agency shall prepare and file the child support petition or stipulation for the Court's consideration in a distinct child support action.  Any deviations from the standards shall be noted in writing in the child support order. The Tribal Court shall consider the following relevant factors when determining child support:</text>
     <para>
       <num>(1)</num>
       <text>The financial, emotional, educational and medical needs of the child(ren);</text>
@@ -409,7 +409,7 @@
     </para>
     <para>
       <num>(G)</num>
-      <text>Child support obligations must be based on the percentages contained in Section 28.7(H) and shall be represented as a whole dollar amount or sum certain in the Court Order.</text>
+      <text>Child support obligations must be based on the percentages contained in <cite path="28.7|(H)" proof="needed">Section 28.7(H)</cite> and shall be represented as a whole dollar amount or sum certain in the Court Order.</text>
     </para>
     <para>
       <num>(H)</num>
@@ -460,7 +460,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Calculate each parent's monthly income available for child support.  If one or both parents have a prior child support obligation or duty to support, determine the parent's adjusted gross income available for this child support order pursuant to Section 28.7(H).</text>
+        <text>Calculate each parent's monthly income available for child support.  If one or both parents have a prior child support obligation or duty to support, determine the parent's adjusted gross income available for this child support order pursuant to <cite path="28.7|(H)" proof="needed">Section 28.7(H)</cite>.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -476,26 +476,26 @@
       <text>Split-placement calculations must be used when the parents have two or more children and each parent has placement of one or more, but not all, of the minor children.</text>
       <para>
         <num>(1)</num>
-        <text>Calculate each parent's monthly income available for child support.  If one or both parents have a prior child support obligation, determine the parent's adjusted gross income available for this child support order pursuant to Section 28.7(E).</text>
+        <text>Calculate each parent's monthly income available for child support.  If one or both parents have a prior child support obligation, determine the parent's adjusted gross income available for this child support order pursuant to <cite path="28.7|(E)" proof="needed">Section 28.7(E)</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
         <text>Multiply the amount of adjusted gross income for each parent by the pro-rata percentage standard for the number of children in split-placement who are placed with the other parent.  The pro-rata percentage standard for the number of children in split-placement who are placed with the other parent is calculated by determining the appropriate percentage standard for the total number of children, dividing the total number of children and adding together the percentages for the children in split-placement who are placed with the other parent as follows:</text>
         <para>
           <num>(a)</num>
-          <text>2 children=12.5% for each child (25% divided by 2)</text>
+          <text>2 children=<cite path="12.5" proof="needed">12.5</cite>% for each child (25% divided by 2)</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>3 children=9.67% for each child (29% divided by 3)</text>
+          <text>3 children=<cite path="9.67" proof="needed">9.67</cite>% for each child (29% divided by 3)</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>4 children=7.75% for each child (31% divided by 4)</text>
+          <text>4 children=<cite path="7.75" proof="needed">7.75</cite>% for each child (31% divided by 4)</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>5 children=6.8% for each child (34% divided by 5)</text>
+          <text>5 children=<cite path="6.8" proof="needed">6.8</cite>% for each child (34% divided by 5)</text>
         </para>
       </para>
     </para>
@@ -509,7 +509,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Child support will be determined by multiplying the percentages in the table referenced in 28.7(E) by the gross monthly income of the payor.</text>
+      <text>Child support will be determined by multiplying the percentages in the table referenced in <cite path="28.7|(E)" proof="needed">28.7(E)</cite> by the gross monthly income of the payor.</text>
     </para>
   </section>
   <section>
@@ -517,7 +517,7 @@
     <heading>High-Income Payors</heading>
     <para>
       <num>(A)</num>
-      <text>The Tribal Court may apply reduced percentages under Section 28.7 if the payor is considered to earn high income.  The Tribal Court may apply the following percentages to the proportion of a payor's monthly income available for child support that is greater than or equal to $7,000 and less than or equal to $12,500:</text>
+      <text>The Tribal Court may apply reduced percentages under <cite path="28.7" proof="needed">Section 28.7 </cite>if the payor is considered to earn high income.  The Tribal Court may apply the following percentages to the proportion of a payor's monthly income available for child support that is greater than or equal to $7,000 and less than or equal to $12,500:</text>
       <para>
         <num>(1)</num>
         <text>14% for one child</text>
@@ -656,7 +656,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Either parent or the child has a significant change in his or her finances that would lead to a change in child support of more than ten percent (10%) or forty dollars ($40.00) month;</text>
+        <text>Either parent or the child has a significant change in his or her finances that would lead to a change in child support of more than ten percent (10%) or forty dollars ($<cite path="40.00" proof="needed">40.00</cite>) month;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -682,7 +682,7 @@
     </para>
     <para>
       <num>(F)</num>
-      <text>If the regular mail is returned as undeliverable, the moving party shall attempt personal service pursuant to Section 28.6(E) or if that fails, service by publication pursuant to Section 28.6(G).</text>
+      <text>If the regular mail is returned as undeliverable, the moving party shall attempt personal service pursuant to <cite path="28.6|(E)" proof="needed">Section 28.6(E)</cite> or if that fails, service by publication pursuant to <cite path="28.6|(G)" proof="needed">Section 28.6(G)</cite>.</text>
     </para>
   </section>
   <section>
@@ -718,7 +718,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>If the Tribal Court may find there is good cause to not issue an automatic income withholding order and if the parties agree in writing to not have automatic withholding, the Tribal Child Support Agency shall not issue a Notice of Income Withholding pursuant to 28.10(B)(1) above.  However, if the payor becomes delinquent in an amount equal to one month of child support, the Tribal Child Support Agency must issue a Notice of Income Withholding and submit to the employer or other source of income.</text>
+        <text>If the Tribal Court may find there is good cause to not issue an automatic income withholding order and if the parties agree in writing to not have automatic withholding, the Tribal Child Support Agency shall not issue a Notice of Income Withholding pursuant to <cite path="28.10|(B)|(1)" proof="needed">28.10(B)(1)</cite> above.  However, if the payor becomes delinquent in an amount equal to one month of child support, the Tribal Child Support Agency must issue a Notice of Income Withholding and submit to the employer or other source of income.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -835,7 +835,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The payor may be fined in an amount not to exceed one thousand dollars ($1,000.00) per act of contempt</text>
+        <text>The payor may be fined in an amount not to exceed one thousand dollars ($1,<cite path="000.00" proof="needed">000.00</cite>) per act of contempt</text>
       </para>
       <para>
         <num>(3)</num>
@@ -944,7 +944,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>An employer may not discharge, refuse to employ or take disciplinary action against a payor based on the issuance of the income withholding notice.  Should an employer take such action they will be subject to a contempt finding. A finding of contempt may result in a forfeiture of up to $1,000.00 per act and each day may constitute a separate act.</text>
+        <text>An employer may not discharge, refuse to employ or take disciplinary action against a payor based on the issuance of the income withholding notice.  Should an employer take such action they will be subject to a contempt finding. A finding of contempt may result in a forfeiture of up to $1,<cite path="000.00" proof="needed">000.00 </cite>per act and each day may constitute a separate act.</text>
       </para>
     </para>
   </section>
@@ -955,34 +955,33 @@
   </section>
   <annotations>
     <annotation type="Legislative History">
-      <text/>
       <para>
-        <num>1.</num>
+        <num>1</num>
         <text>Adopted by the Tribal Council in June 1, 2004, Resolution Number 026-04.  Adoption required amendments to Chapter 17 and 27 by same resolution.  Approved by BIA June 15, 2004.</text>
       </para>
       <para>
-        <num>2.</num>
-        <text>Sections 28.1, 28.3(A), 28.6 are amended, sections 28.2(H), 28.5(A), 28.5(C) are deleted; sections 28.3(C) and 28.8 are created; section 28.5 is renumbered on October 5, 2004 by Tribal Council Resolution No. 052-04 to add a filing fee, clarify how the court is to notify the Treasurer, clarify that delivery to the Treasurer occurs 45 days prior to a per capita payment, add in future amendment section, and delete references to wage assignments because 28 U.S.C. §1738B requires full faith and credit of foreign child support orders.  Approved by BIA on November 8, 2004.</text>
+        <num>2</num>
+        <text>Sections <cite path="28.1" proof="needed">28.1</cite>, <cite path="28.3|(A)" proof="needed">28.3(A)</cite>, <cite path="28.6" proof="needed">28.6 </cite>are amended, sections <cite path="28.2|(H)" proof="needed">28.2(H)</cite>, <cite path="28.5|(A)" proof="needed">28.5(A)</cite>, <cite path="28.5|(C)" proof="needed">28.5(C)</cite> are deleted; sections <cite path="28.3|(C)" proof="needed">28.3(C)</cite> and <cite path="28.8" proof="needed">28.8 </cite>are created; <cite path="28.5" proof="needed">section 28.5 </cite>is renumbered on October 5, 2004 by Tribal Council Resolution No. 052-04 to add a filing fee, clarify how the court is to notify the Treasurer, clarify that delivery to the Treasurer occurs 45 days prior to a per capita payment, add in future amendment section, and delete references to wage assignments because 28 U.S.C. §1738B requires full faith and credit of foreign child support orders.  Approved by BIA on November 8, 2004.</text>
       </para>
       <para>
-        <num>3.</num>
-        <text>Sections 28.2(A); 28.3(C), (E); 28.4(C); 28.8 are created; sections 28.3(A)(1), (B); 28.6, 28.6(A), (A)(1), (B), (B)(1), (B)(2) are amended; sections 28.2, 28.9, 28.1 are renumbered; and sections 28.3(B)(2) and 28.4(C) are deleted by Tribal Council on September 20, 2005, Resolution No. 046-05.</text>
+        <num>3</num>
+        <text>Sections <cite path="28.2|(A)" proof="needed">28.2(A)</cite>; <cite path="28.3|(C)" proof="needed">28.3(C)</cite>, (E); <cite path="28.4|(C)" proof="needed">28.4(C)</cite>; <cite path="28.8" proof="needed">28.8 </cite>are created; sections <cite path="28.3|(A)|(1)" proof="needed">28.3(A)(1)</cite>, (B); <cite path="28.6" proof="needed">28.6</cite>, <cite path="28.6|(A)" proof="needed">28.6(A)</cite>, (A)(1), (B), (B)(1), (B)(2) are amended; sections <cite path="28.2" proof="needed">28.2</cite>, <cite path="28.9" proof="needed">28.9</cite>, <cite path="28.1" proof="needed">28.1 </cite>are renumbered; and sections <cite path="28.3|(B)|(2)" proof="needed">28.3(B)(2)</cite> and <cite path="28.4|(C)" proof="needed">28.4(C)</cite> are deleted by Tribal Council on September 20, 2005, Resolution No. 046-05.</text>
       </para>
       <para>
-        <num>4.</num>
+        <num>4</num>
         <text>On November 6<sup>th</sup>, 2012, the Tribal Council repealed existing Chapter 28 and adopted a new Chapter 28 that added new sections, renumbered, re-organized and revised existing sections in order to establish a tribal child support agency in accordance with federal law. This was done by Resolution Number 009-13.</text>
       </para>
       <para>
-        <num>5.</num>
-        <text>In order to meet requirements as identified by the Office of Child Support Enforcement, Sections 28.3 (P), 28.7 (C) are amended; section 28.8 moved to its own section; 28.2 (B) is deleted; and beginning at section 28.3 the chapter is renumbered throughout by Tribal Council on May 29, 2013, Resolution No. 054-13.</text>
+        <num>5</num>
+        <text>In order to meet requirements as identified by the Office of Child Support Enforcement, Sections <cite path="28.3|(P)" proof="needed">28.3 (P)</cite>, <cite path="28.7|(C)" proof="needed">28.7 (C)</cite> are amended; <cite path="28.8" proof="needed">section 28.8 </cite>moved to its own section; <cite path="28.2|(B)" proof="needed">28.2 (B)</cite> is deleted; and beginning at <cite path="28.3" proof="needed">section 28.3 </cite>the chapter is renumbered throughout by Tribal Council on May 29, 2013, Resolution No. 054-13.</text>
       </para>
       <para>
-        <num>6.</num>
+        <num>6</num>
         <text>On November 18th, 2014, Tribal Council repealed the existing Chapter 28 Child Support Order and adopted a new Chapter 28 Child Support to accommodate whole-scale changes, including adding new sections and re-numbering, re-organizing and revising existing sections, and re-naming it as the "Child Support Ordinance". This was done by Resolution No. 08-15.</text>
       </para>
       <para>
-        <num>7.</num>
-        <text>Sections 28.1.2; 28.1.5; 28.4; 28.6 (C) &amp; (D); 28.9 (E) &amp; (G); 28.10 (A)(4) &amp; (B); and 28.7(A) are clarified and amended; and sections 28.32 (D) &amp; (E); 28.4; 28.5 par. 1 &amp; 28.5(C); 28.7 (B), (C) and (D) are added; and a portion of section 28.5(A) has been deleted by Tribal Council on September 19, 2017, Resolution No. 050-17.</text>
+        <num>7</num>
+        <text>Sections <cite path="28.1" proof="needed">28.1</cite>.2; <cite path="28.1" proof="needed">28.1</cite>.5; <cite path="28.4" proof="needed">28.4</cite>; <cite path="28.6|(C)" proof="needed">28.6 (C)</cite> &amp; (D); <cite path="28.9|(E)" proof="needed">28.9 (E)</cite> &amp; (G); <cite path="28.10|(A)|(4)" proof="needed">28.10 (A)(4)</cite> &amp; (B); and <cite path="28.7|(A)" proof="needed">28.7(A)</cite> are clarified and amended; and sections <cite path="28.32|(D)" proof="needed">28.32 (D)</cite> &amp; (E); <cite path="28.4" proof="needed">28.4</cite>; <cite path="28.5" proof="needed">28.5 </cite>par. 1 &amp; <cite path="28.5|(C)" proof="needed">28.5(C)</cite>; <cite path="28.7|(B)" proof="needed">28.7 (B)</cite>, (C) and (D) are added; and a portion of <cite path="28.5|(A)" proof="needed">section 28.5(A)</cite> has been deleted by Tribal Council on September 19, 2017, Resolution No. 050-17.</text>
       </para>
     </annotation>
   </annotations>

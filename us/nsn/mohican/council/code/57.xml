@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
-  <prefix>CHAPTER</prefix>
+  <prefix>Chapter</prefix>
   <num>57</num>
   <heading>TAX ORDINANCE</heading>
   <section>
-    <num>57.1.</num>
+    <num>57.1</num>
     <heading>General</heading>
     <para>
       <num>(A)</num>
@@ -54,7 +54,7 @@
     </para>
   </section>
   <section>
-    <num>57.2.</num>
+    <num>57.2</num>
     <heading>Definitions</heading>
     <para>
       <num>(A)</num>
@@ -62,11 +62,11 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>"Occupancy Tax" means the tax imposed in §57.20 through §57.23 of the Tax Ordinance.</text>
+      <text>"Occupancy Tax" means the tax imposed in §<cite path="57.20" proof="needed">57.20 </cite>through §<cite path="57.23" proof="needed">57.23 </cite>of the Tax Ordinance.</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>"Occupancy Tax Code" means the Tribe's Occupancy Tax Code contained in §57.20 through §57.23 of the Tax Ordinance.</text>
+      <text>"Occupancy Tax Code" means the Tribe's Occupancy Tax Code contained in §<cite path="57.20" proof="needed">57.20 </cite>through §<cite path="57.23" proof="needed">57.23 </cite>of the Tax Ordinance.</text>
     </para>
     <para>
       <num>(D)</num>
@@ -138,7 +138,7 @@
     </para>
     <para>
       <num>(M)</num>
-      <text>"Sales Tax Code" means the Tribe's Sales Tax Code contained in §57.15 through §57.18 of the Tax Ordinance.</text>
+      <text>"Sales Tax Code" means the Tribe's Sales Tax Code contained in §<cite path="57.15" proof="needed">57.15 </cite>through §<cite path="57.18" proof="needed">57.18 </cite>of the Tax Ordinance.</text>
     </para>
     <para>
       <num>(N)</num>
@@ -257,12 +257,12 @@
   <section>
     <num>57.9</num>
     <heading>Enforcement</heading>
-    <text>Jurisdiction over enforcement of the provisions of the Tax Ordinance is conferred upon the Tribe's Tribal Court. The Court shall apply § 5.23 Administrative Appeals to an appeal to the Court under this Tax Ordinance.</text>
+    <text>Jurisdiction over enforcement of the provisions of the Tax Ordinance is conferred upon the Tribe's Tribal Court. The Court shall apply <cite path="5.23" proof="needed">§ 5.23 </cite>Administrative Appeals to an appeal to the Court under this Tax Ordinance.</text>
   </section>
   <section>
     <num>57.10</num>
     <heading>Record Keeping</heading>
-    <text>Every Taxpayer shall keep full and true records of any Tax, any interest, penalty or cost imposed or assessed under this or any subsequent Tax Ordinance of the Tribe. Record keeping shall be in compliance with any applicable Tax Commission Rules, regulations or procedures and such records shall be available upon request to the Tax Commission. Records required to be kept under §57.11 shall be preserved for seven years beyond the time a Tax is paid or if no payment is due, seven years beyond the end of the period to which the records relate.</text>
+    <text>Every Taxpayer shall keep full and true records of any Tax, any interest, penalty or cost imposed or assessed under this or any subsequent Tax Ordinance of the Tribe. Record keeping shall be in compliance with any applicable Tax Commission Rules, regulations or procedures and such records shall be available upon request to the Tax Commission. Records required to be kept under §<cite path="57.11" proof="needed">57.11 </cite>shall be preserved for seven years beyond the time a Tax is paid or if no payment is due, seven years beyond the end of the period to which the records relate.</text>
   </section>
   <section>
     <num>57.11</num>
@@ -373,7 +373,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>If a Seller fails to provide information within its possession or control that is relevant to a determination of taxes due and which it is required to provide under this Code, the Commission shall make an estimate of the Tax due and shall assess the Seller for that tax, including interest, penalties, and costs. Such assessment is binding on the Seller unless it is shown that the assessment, on the basis of the best information available to the Commission, was clearly erroneous or unless the Commission for other good cause shown relieves the Seller from the operation of §57.22.</text>
+        <text>If a Seller fails to provide information within its possession or control that is relevant to a determination of taxes due and which it is required to provide under this Code, the Commission shall make an estimate of the Tax due and shall assess the Seller for that tax, including interest, penalties, and costs. Such assessment is binding on the Seller unless it is shown that the assessment, on the basis of the best information available to the Commission, was clearly erroneous or unless the Commission for other good cause shown relieves the Seller from the operation of §<cite path="57.22" proof="needed">57.22</cite>.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -403,12 +403,12 @@
     <para>
       <num>(G)</num>
       <text>Administrative Appeal</text>
-      <text>Appeals from assessments and denials of refund must be made first to the Tax Commission according to procedures under the Tax Regulations. Appeals from final actions of the Tax Commission, including but not limited to assessments, denial of refund, and a suspension order, shall be made only to the Tribal Court of the Tribe pursuant to § 5.23 Administrative Appeals.</text>
+      <text>Appeals from assessments and denials of refund must be made first to the Tax Commission according to procedures under the Tax Regulations. Appeals from final actions of the Tax Commission, including but not limited to assessments, denial of refund, and a suspension order, shall be made only to the Tribal Court of the Tribe pursuant to <cite path="5.23" proof="needed">§ 5.23 </cite>Administrative Appeals.</text>
     </para>
     <para>
       <num>(H)</num>
       <text>Appeal To The Court</text>
-      <text>Upon a final action of the Tax Commission, the Taxpayer may then appeal to the Tribal Court. The request for appeal must be filed with the Tribal Court within thirty (30) days after issuance of the Tax Commission's order. No suit to restrain the assessment or collection of the Taxes imposed by this Tax Ordinance shall be maintained in any court other than the Tribal Court, by any person, whether or not such Person is the one against whom such Taxes were assessed. The Court shall apply § 5.23 Administrative Appeals.</text>
+      <text>Upon a final action of the Tax Commission, the Taxpayer may then appeal to the Tribal Court. The request for appeal must be filed with the Tribal Court within thirty (30) days after issuance of the Tax Commission's order. No suit to restrain the assessment or collection of the Taxes imposed by this Tax Ordinance shall be maintained in any court other than the Tribal Court, by any person, whether or not such Person is the one against whom such Taxes were assessed. The Court shall apply <cite path="5.23" proof="needed">§ 5.23 </cite>Administrative Appeals.</text>
     </para>
     <para>
       <num>(I)</num>
@@ -536,7 +536,7 @@
   <section>
     <num>57.20</num>
     <heading>Occupancy Tax Code:  Purpose</heading>
-    <text>The purpose of §57.20 through §57.23 is to provide a revenue-generating income source to strengthen tribal self-government, and assure security for the future health, welfare, and general well-being of its members.</text>
+    <text>The purpose of §<cite path="57.20" proof="needed">57.20 </cite>through §<cite path="57.23" proof="needed">57.23 </cite>is to provide a revenue-generating income source to strengthen tribal self-government, and assure security for the future health, welfare, and general well-being of its members.</text>
   </section>
   <section>
     <num>57.21</num>
@@ -599,15 +599,15 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1.</num>
+        <num>1</num>
         <text>Chapter 57, Construction Tax Ordinance was adopted by the Tribal Council by Resolution #1208, dated May 30, 1990.  The BIA had no record of receiving the Construction Tax Ordinance as of their 1993 listing.</text>
       </para>
       <para>
-        <num>2.</num>
+        <num>2</num>
         <text>On July 6, 2010, the Stockbridge-Munsee Tribal Council adopted a new ordinance titled the "Room Tax Ordinance" by Resolution 047-10. The ordinance was approved by the BIA on August 13, 2010.  Prior to publication, the Room Tax Ordinance was numbered as Chapter 57-A of Stockbridge-Munsee Tribal Law and internal references were updated accordingly.</text>
       </para>
       <para>
-        <num>3.</num>
+        <num>3</num>
         <text>On March 6, 2018, in Resolution 026-18, the Tribal Council rescinded the existing Chapter 57 (Construction Tax Ordinance) and Chapter 57-A (Room Tax Ordinance) to adopt a new Tax Ordinance as Chapter 57.</text>
         <text>The new Chapter 57 establishes a more comprehensive tribal tax regime that incorporated both a sales tax and a hotel occupancy tax, as well as the related administrative process.  The new Chapter 57, Tax Ordinance, was approved by the BIA on __________________.</text>
       </para>
