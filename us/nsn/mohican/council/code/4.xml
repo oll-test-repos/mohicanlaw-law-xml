@@ -5,7 +5,7 @@
   <heading>PEACEMAKER ORDINANCE</heading>
   <container>
     <prefix>Part</prefix>
-    <num>1.</num>
+    <num>1</num>
     <heading>GENERAL PROVISIONS</heading>
     <section>
       <num>4.10</num>
@@ -71,7 +71,7 @@
   </container>
   <container>
     <prefix>Part</prefix>
-    <num>2.</num>
+    <num>2</num>
     <heading>PEACEMAKERS</heading>
     <section>
       <num>4.20</num>
@@ -155,7 +155,7 @@
   </container>
   <container>
     <prefix>Part</prefix>
-    <num>3.</num>
+    <num>3</num>
     <heading>PROCEDURE</heading>
     <section>
       <num>4.30</num>
@@ -223,7 +223,7 @@
   </container>
   <container>
     <prefix>Part</prefix>
-    <num>4.</num>
+    <num>4</num>
     <heading>ACTIONS BY THE TRIBAL COURT.</heading>
     <section>
       <num>4.40</num>
@@ -314,7 +314,7 @@
   </container>
   <container>
     <prefix>Part</prefix>
-    <num>5.</num>
+    <num>5</num>
     <heading>CONDUCT OF PEACEMAKERS</heading>
     <section>
       <num>4.50</num>
@@ -334,7 +334,7 @@
   </container>
   <container>
     <prefix>Part</prefix>
-    <num>6.</num>
+    <num>6</num>
     <heading>TRANSFER OF CASES FROM TRIBAL COURT TO PEACEMAKER SYSTEM.</heading>
     <section>
       <num>4.60</num>
