@@ -52,7 +52,7 @@
     <section>
       <num>6.1.2</num>
       <heading>Definitions</heading>
-      <text>As used in <cite path="6">this title</cite>, unless the context otherwise requires:</text>
+      <text>As used in this title, unless the context otherwise requires:</text>
       <para>
         <num>(A)</num>
         <text><strong>"Abatement"</strong> means a reduction or decrease.</text>
@@ -591,7 +591,7 @@
     <section>
       <num>6.3.3</num>
       <heading>Share of Heirs Other Than Surviving Spouse</heading>
-      <text>The part of the intestate estate not passing to the surviving spouse under <cite path="§6.3" proof="needed">§ 6.3</cite>.2 of this Probate Code, or the entire intestate estate if there is no surviving spouse, passes as follows:</text>
+      <text>The part of the intestate estate not passing to the surviving spouse under <cite path="§6.3.2" proof="needed">§ 6.3.2</cite> of this Probate Code, or the entire intestate estate if there is no surviving spouse, passes as follows:</text>
       <para>
         <num>(A)</num>
         <text>to the issue of the decedent; if they are all of the same degree of kinship to the decedent they take equally, but if of unequal degree, then those of more remote degree take by representation;</text>
@@ -612,7 +612,7 @@
     <section>
       <num>6.3.4</num>
       <heading>No Taker</heading>
-      <text>If there is no taker under the provisions of <cite path="6.3" proof="needed">this chapter</cite>, the intestate estate passes to</text>
+      <text>If there is no taker under the provisions of <cite path="6" proof="needed">this chapter</cite>, the intestate estate passes to</text>
       <text>the Tribe.</text>
     </section>
     <section>
