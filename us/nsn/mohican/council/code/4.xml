@@ -5,7 +5,7 @@
   <heading>PEACEMAKER ORDINANCE</heading>
   <container>
     <prefix>Part</prefix>
-    <num>1</num>
+    <num>1.</num>
     <heading>GENERAL PROVISIONS</heading>
     <section>
       <num>4.10</num>
@@ -71,7 +71,7 @@
   </container>
   <container>
     <prefix>Part</prefix>
-    <num>2</num>
+    <num>2.</num>
     <heading>PEACEMAKERS</heading>
     <section>
       <num>4.20</num>
@@ -155,7 +155,7 @@
   </container>
   <container>
     <prefix>Part</prefix>
-    <num>3</num>
+    <num>3.</num>
     <heading>PROCEDURE</heading>
     <section>
       <num>4.30</num>
@@ -223,7 +223,7 @@
   </container>
   <container>
     <prefix>Part</prefix>
-    <num>4</num>
+    <num>4.</num>
     <heading>ACTIONS BY THE TRIBAL COURT.</heading>
     <section>
       <num>4.40</num>
@@ -314,7 +314,7 @@
   </container>
   <container>
     <prefix>Part</prefix>
-    <num>5</num>
+    <num>5.</num>
     <heading>CONDUCT OF PEACEMAKERS</heading>
     <section>
       <num>4.50</num>
@@ -334,7 +334,7 @@
   </container>
   <container>
     <prefix>Part</prefix>
-    <num>6</num>
+    <num>6.</num>
     <heading>TRANSFER OF CASES FROM TRIBAL COURT TO PEACEMAKER SYSTEM.</heading>
     <section>
       <num>4.60</num>
@@ -368,12 +368,12 @@
     <section>
       <num>4.62</num>
       <heading>Civil Matters.</heading>
-      <text>Civil actions falling within the provision of <cite path="4.1" proof="needed">Section 4.1</cite>.3 may be referred to Peacemaker System with the written stipulation of all the parties to the action.</text>
+      <text>Civil actions falling within the provision of <cite path="§4.1" proof="needed">Section 4.1</cite>.3 may be referred to Peacemaker System with the written stipulation of all the parties to the action.</text>
     </section>
     <section>
       <num>4.63</num>
       <heading>Criminal Matters.</heading>
-      <text>Any criminal matter within the provisions of <cite path="4.1" proof="needed">Section 4.1</cite>.3 may be transferred to the Peacemaker System, upon consent of the parties, where:</text>
+      <text>Any criminal matter within the provisions of <cite path="§4.1" proof="needed">Section 4.1</cite>.3 may be transferred to the Peacemaker System, upon consent of the parties, where:</text>
       <para>
         <num>(A)</num>
         <text>The case does not involve injury to person or property; or</text>
@@ -395,7 +395,7 @@
     <section>
       <num>4.65</num>
       <heading>Mandatory Referral to Peacemaker System</heading>
-      <text>Notwithstanding the consent provisions of Sections <cite path="4.6" proof="needed">4.6</cite>.1 and <cite path="4.6" proof="needed">4.6</cite>.2, if the Trial Judge assigned to any civil case decides that the parties would benefit from a session with a Peacemaker, the judge may order that the parties spend at least one (1) hour in a Peacemaking session to see if the parties can resolve their case.</text>
+      <text>Notwithstanding the consent provisions of Sections <cite path="§4.6" proof="needed">4.6</cite>.1 and <cite path="§4.6" proof="needed">4.6</cite>.2, if the Trial Judge assigned to any civil case decides that the parties would benefit from a session with a Peacemaker, the judge may order that the parties spend at least one (1) hour in a Peacemaking session to see if the parties can resolve their case.</text>
     </section>
   </container>
 </container>

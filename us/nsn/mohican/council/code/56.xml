@@ -312,15 +312,15 @@
           <num>(e)</num>
           <text>A list of ingredients in descending order of prominence.</text>
           <para>
-            <num>i</num>
+            <num>i.</num>
             <text>The common or usual name for the ingredient should be used.</text>
           </para>
           <para>
-            <num>ii</num>
+            <num>ii.</num>
             <text>Major food allergens should be identified, as applicable.</text>
           </para>
           <para>
-            <num>iii</num>
+            <num>iii.</num>
             <text>For example, instead of listing "flour" as an ingredient, "wheat flour" should be listed or list "pecans" instead of "nuts."</text>
           </para>
         </para>
@@ -363,7 +363,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Shelf-stable, canned foods with an equilibrium pH value of <cite path="4.6" proof="needed">4.6 </cite>or lower, such as:</text>
+        <text>Shelf-stable, canned foods with an equilibrium pH value of <cite path="§4.6" proof="needed">4.6 </cite>or lower, such as:</text>
         <para>
           <num>(a)</num>
           <text>Jams and jellies made from acid foods like fruits;</text>
@@ -531,7 +531,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The operator of a temporary food service establishment has provided proof the individuals that will be working in the temporary facility have current FOOD HANDLER CARDS (see <cite path="56.9" proof="needed">Section 56.9</cite>).</text>
+        <text>The operator of a temporary food service establishment has provided proof the individuals that will be working in the temporary facility have current FOOD HANDLER CARDS (see <cite path="§56.9">Section 56.9</cite>).</text>
       </para>
     </para>
   </section>
@@ -634,27 +634,27 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
+        <num>1.</num>
         <text>Originally approved August 3, 1993 by Resolution of Tribal Council, to be effective Jan. 1, 1994.  Revised and amended August 17, 2005.  All drafts were developed and recommended by Indian Health Service.</text>
       </para>
       <para>
-        <num>2</num>
-        <text>On March 21, 2006, Tribal Council, by Resolution No.027-06 created sections <cite path="56.1|(C)" proof="needed">56.1(C)</cite>,(D),(E); <cite path="56.2|(B)|(2)" proof="needed">56.2(B)(2)</cite>; <cite path="56.5" proof="needed">56.5</cite>; Appendix A, and amended sections <cite path="56.3" proof="needed">56.3 </cite>and <cite path="56.4" proof="needed">56.4</cite>.  Approved by BIA on April 10, 2006.</text>
+        <num>2.</num>
+        <text>On March 21, 2006, Tribal Council, by Resolution No.027-06 created sections <cite path="§56.1|(C)">56.1(C)</cite>,(D),(E); <cite path="§56.2|(B)|(2)" proof="needed">56.2(B)(2)</cite>; <cite path="§56.5">56.5</cite>; Appendix A, and amended sections <cite path="§56.3">56.3 </cite>and <cite path="§56.4">56.4</cite>.  Approved by BIA on April 10, 2006.</text>
       </para>
       <para>
-        <num>3</num>
+        <num>3.</num>
         <text>In 2015, the Tribal Council adopted a Strategic Plan that identified food sovereignty as a Tier One goal and included an objective of having a food sovereignty ordinance.  The Tribe's Food Service Code was revised to become a Food Ordinance that addressed both food sovereignty and food safety issues.</text>
       </para>
       <para>
-        <num>4</num>
+        <num>4.</num>
         <text>On April 17, 2018, the Tribal Council adopted amendments to Chapter 56 of Stockbridge-Munsee Tribal Law by Resolution No. 034-18.  The amendments added food sovereignty provisions including food access and sale of cottage foods; updated references and terminology to be consistent with the FDA Food Code; and updated and clarified the provisions about food service permitting.  The ordinance was renamed as the Food Ordinance and the following changes were made:</text>
         <text>
           <ul proof="needed">
-            <li>Added new Sections <cite path="56.1" proof="needed">56.1</cite>, <cite path="56.2|(A)" proof="needed">56.2 (A)</cite>, (C), (H-L), (N), (O); <cite path="56.3" proof="needed">56.3</cite>; <cite path="56.4" proof="needed">56.4</cite>; <cite path="56.5" proof="needed">56.5</cite>; and <cite path="56.6" proof="needed">56.6</cite>.</li>
-            <li>Renumbered Sections <cite path="56.1" proof="needed">56.1 </cite>as <cite path="56.2" proof="needed">56.2</cite>; <cite path="56.2" proof="needed">56.2 </cite>is now <cite path="56.7" proof="needed">56.7</cite>, <cite path="56.8" proof="needed">56.8 </cite>and <cite path="56.9" proof="needed">56.9</cite>; <cite path="56.3" proof="needed">56.3 </cite>is now <cite path="56.10" proof="needed">56.10 </cite>and the remainder are renumbered accordingly.</li>
-            <li>Deleted Sections <cite path="56.1|(F)" proof="needed">56.1 (F)</cite> and <cite path="56.2|(C)" proof="needed">56.2 (C)</cite>.</li>
-            <li>Moved <cite path="56.2|(B)|(2)|(d)" proof="needed">Section 56.2 (B)(2)(d)</cite> to now be <cite path="56.12|(A)" proof="needed">56.12 (A)</cite>.</li>
-            <li>Amended Sections:  <cite path="56.7|(A)" proof="needed">56.7 (A)</cite> and subparts, (B)(1), (2), (4)(a), and (C); <cite path="56.8" proof="needed">56.8</cite>; <cite path="56.9" proof="needed">56.9</cite>; <cite path="56.10|(A)" proof="needed">56.10 (A)</cite>, (B) and (C); <cite path="56.11|(A)" proof="needed">56.11 (A)</cite>; and <cite path="56.12|(B)" proof="needed">56.12 (B)</cite>.</li>
+            <li>Added new Sections <cite path="§56.1">56.1</cite>, <cite path="§56.2|(A)">56.2 (A)</cite>, (C), (H-L), (N), (O); <cite path="§56.3">56.3</cite>; <cite path="§56.4">56.4</cite>; <cite path="§56.5">56.5</cite>; and <cite path="§56.6">56.6</cite>.</li>
+            <li>Renumbered Sections <cite path="§56.1">56.1 </cite>as <cite path="§56.2">56.2</cite>; <cite path="§56.2">56.2 </cite>is now <cite path="§56.7">56.7</cite>, <cite path="§56.8">56.8 </cite>and <cite path="§56.9">56.9</cite>; <cite path="§56.3">56.3 </cite>is now <cite path="§56.10">56.10 </cite>and the remainder are renumbered accordingly.</li>
+            <li>Deleted Sections <cite path="§56.1|(F)" proof="needed">56.1 (F)</cite> and <cite path="§56.2|(C)">56.2 (C)</cite>.</li>
+            <li>Moved <cite path="§56.2|(B)|(2)|(d)" proof="needed">Section 56.2 (B)(2)(d)</cite> to now be <cite path="§56.12|(A)">56.12 (A)</cite>.</li>
+            <li>Amended Sections:  <cite path="§56.7|(A)">56.7 (A)</cite> and subparts, (B)(1), (2), (4)(a), and (C); <cite path="§56.8">56.8</cite>; <cite path="§56.9">56.9</cite>; <cite path="§56.10|(A)">56.10 (A)</cite>, (B) and (C); <cite path="§56.11|(A)">56.11 (A)</cite>; and <cite path="§56.12|(B)">56.12 (B)</cite>.</li>
           </ul>
         </text>
         <text>The revised Food Ordinance was approved by the BIA on ____________________.</text>

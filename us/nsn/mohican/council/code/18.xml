@@ -34,7 +34,7 @@
     </para>
     <para>
       <num>(E)</num>
-      <text>"Face-to-face solicitation" means solicitation (as defined in <cite path="18.3|(M)" proof="needed">Section 18.3(M)</cite>) that a seller makes in a person-to-person encounter with a consumer.</text>
+      <text>"Face-to-face solicitation" means solicitation (as defined in <cite path="§18.3|(M)">Section 18.3(M)</cite>) that a seller makes in a person-to-person encounter with a consumer.</text>
     </para>
     <para>
       <num>(F)</num>
@@ -216,8 +216,8 @@
     <text>No seller in a face-to-face transaction may obtain or submit for payment any check, draft or other negotiable instrument drawn on a consumer's account without the consumer's express authorization.  Express written authorization may include the consumer's signature on the check, draft or other negotiable instrument.</text>
   </section>
   <section>
-    <num>18.8</num>
-    <heading>Misrepresentations Prohibited</heading>
+    <num>18.</num>
+    <heading>8 Misrepresentations Prohibited</heading>
     <para>
       <num>(A)</num>
       <text>No seller may do any of the following, directly or by implication, in a face-to-face transaction:</text>
@@ -270,7 +270,7 @@
         <text>Represent that the seller is participating in a contest or conducting a survey unless the representation is true and all of the following and all of the following apply:</text>
         <para>
           <num>(a)</num>
-          <text>The seller first makes all of the opening disclosures under <cite path="18.5" proof="needed">section 18.5</cite>.</text>
+          <text>The seller first makes all of the opening disclosures under <cite path="§18.5">section 18.5</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -328,7 +328,7 @@
     <heading>Remedies and Jurisdiction</heading>
     <para>
       <num>(A)</num>
-      <text>Sellers who perform direct marketing and/or solicitation within <cite path="18.4" proof="needed">section 18.4 </cite>consent to the jurisdiction of the Stockbridge-Munsee Community and the Stockbridge-Munsee Tribal Court.</text>
+      <text>Sellers who perform direct marketing and/or solicitation within <cite path="§18.4">section 18.4 </cite>consent to the jurisdiction of the Stockbridge-Munsee Community and the Stockbridge-Munsee Tribal Court.</text>
       <para>
         <num>(1)</num>
         <text>Tribal Police, or any other police officer, have the authority to enforce any provision of this Ordinance, including but not limited to removing a seller from a consumer's premises and issuing citations.</text>
@@ -347,7 +347,7 @@
       <text>The Tribe may bring a cause of action against any seller violating this Ordinance in Tribal Court.</text>
       <para>
         <num>(1)</num>
-        <text>Violations of this Ordinance shall be subject to a forfeiture of up to $1,<cite path="000.00" proof="needed">000.00 </cite>for each separate violation.</text>
+        <text>Violations of this Ordinance shall be subject to a forfeiture of up to $1,<cite path="§000.00" proof="needed">000.00 </cite>for each separate violation.</text>
       </para>
     </para>
   </section>

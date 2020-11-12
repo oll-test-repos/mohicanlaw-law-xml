@@ -400,19 +400,19 @@
     <section>
       <num>6.2.2</num>
       <heading>Execution</heading>
-      <text>Except as otherwise provided for oral wills (<cite path="6.2" proof="needed">§ 6.2</cite>.4) or holographic wills (<cite path="6.2" proof="needed">§ 6.2</cite>.3), every will shall be put in writing and signed by the testator, or in the testator's presence and at the testator's direction signed by another person, and shall be signed by at least two persons each of whom either witnessed the signing by the testator of the will or the testator's acknowledgment of the signature and direction to do so.</text>
+      <text>Except as otherwise provided for oral wills (<cite path="§6.2">§ 6.2</cite>.4) or holographic wills (<cite path="§6.2">§ 6.2</cite>.3), every will shall be put in writing and signed by the testator, or in the testator's presence and at the testator's direction signed by another person, and shall be signed by at least two persons each of whom either witnessed the signing by the testator of the will or the testator's acknowledgment of the signature and direction to do so.</text>
     </section>
     <section>
       <num>6.2.3</num>
       <heading>Holographic Will</heading>
-      <text>A will which does not comply with <cite path="6.2" proof="needed">§ 6.2</cite>.2 of this Probate Code is valid as a holographic will, whether or not witnessed, if the signature and the material provisions are in the handwriting of the testator.</text>
+      <text>A will which does not comply with <cite path="§6.2">§ 6.2</cite>.2 of this Probate Code is valid as a holographic will, whether or not witnessed, if the signature and the material provisions are in the handwriting of the testator.</text>
     </section>
     <section>
       <num>6.2.4</num>
       <heading>Oral Will</heading>
       <para>
         <num>(A)</num>
-        <text>A will which does not comply with <cite path="6.2" proof="needed">§ 6.2</cite>.2 of this Probate code is valid as an oral will under custom if all children, whether residing in testator's home or not, and testator's spouse, if alive, are present at the announcement of the oral will and agree that the testator orally made known the testator's last will before them.</text>
+        <text>A will which does not comply with <cite path="§6.2">§ 6.2</cite>.2 of this Probate code is valid as an oral will under custom if all children, whether residing in testator's home or not, and testator's spouse, if alive, are present at the announcement of the oral will and agree that the testator orally made known the testator's last will before them.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -591,7 +591,7 @@
     <section>
       <num>6.3.3</num>
       <heading>Share of Heirs Other Than Surviving Spouse</heading>
-      <text>The part of the intestate estate not passing to the surviving spouse under <cite path="6.3" proof="needed">§ 6.3</cite>.2 of this Probate Code, or the entire intestate estate if there is no surviving spouse, passes as follows:</text>
+      <text>The part of the intestate estate not passing to the surviving spouse under <cite path="§6.3" proof="needed">§ 6.3</cite>.2 of this Probate Code, or the entire intestate estate if there is no surviving spouse, passes as follows:</text>
       <para>
         <num>(A)</num>
         <text>to the issue of the decedent; if they are all of the same degree of kinship to the decedent they take equally, but if of unequal degree, then those of more remote degree take by representation;</text>
@@ -649,7 +649,7 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>In cases not covered by Sub<cite path="6.3" proof="needed">section 6.3</cite>.9 (a), a person born out of wedlock is a child of the mother and is a child of the father, if the relationship of parent and child has been established in accordance with the Stockbridge-Munsee Youth Code.</text>
+        <text>In cases not covered by Sub<cite path="§6.3" proof="needed">section 6.3</cite>.9 (a), a person born out of wedlock is a child of the mother and is a child of the father, if the relationship of parent and child has been established in accordance with the Stockbridge-Munsee Youth Code.</text>
       </para>
     </section>
   </container>
@@ -677,11 +677,11 @@
       <heading>Duty of Court to Advise</heading>
       <para>
         <num>(A)</num>
-        <text>If a surviving spouse has a right to election under <cite path="6.4" proof="needed">§ 6.4</cite>.1 of this Probate Code, then at any time after the filing of an inventory and not more than three months after admission to probate, the Court shall advise the surviving spouse of his/her right to election and shall explain fully the right and that in the event of the failure to exercise the right of election the will shall govern and control the distribution of the estate.</text>
+        <text>If a surviving spouse has a right to election under <cite path="§6.4" proof="needed">§ 6.4</cite>.1 of this Probate Code, then at any time after the filing of an inventory and not more than three months after admission to probate, the Court shall advise the surviving spouse of his/her right to election and shall explain fully the right and that in the event of the failure to exercise the right of election the will shall govern and control the distribution of the estate.</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>If the surviving spouse dies or becomes incompetent before being advised of the right of election under <cite path="6.4" proof="needed">§ 6.4</cite>.1 of this Probate Code and has not filed a waiver or renunciation of the right of election, the Court shall advise the personal representative or guardian of the estate of the deceased or incompetent surviving spouse of the right of election as provided in <cite path="6.4" proof="needed">§ 6.4</cite>.4 (a).</text>
+        <text>If the surviving spouse dies or becomes incompetent before being advised of the right of election under <cite path="§6.4" proof="needed">§ 6.4</cite>.1 of this Probate Code and has not filed a waiver or renunciation of the right of election, the Court shall advise the personal representative or guardian of the estate of the deceased or incompetent surviving spouse of the right of election as provided in <cite path="§6.4" proof="needed">§ 6.4</cite>.4 (a).</text>
       </para>
     </section>
     <section>
@@ -733,11 +733,11 @@
       <heading>Omitted Spouse</heading>
       <para>
         <num>(A)</num>
-        <text>Notwithstanding the provisions of <cite path="6.4" proof="needed">§ 6.4</cite>.1 of this Probate Code, if a testator fails to provide by will for their surviving spouse who married the testator after the execution of the will, the omitted spouse shall receive the same share of the estate they would have received if the decedent left no will unless it appears from the will that the omission was intentional or the testator provided for the spouse by transfer outside the will and the intent that the transfer be in lieu of a testamentary provision is shown by statements of the testator or from the amount of the transfer or other evidence.</text>
+        <text>Notwithstanding the provisions of <cite path="§6.4" proof="needed">§ 6.4</cite>.1 of this Probate Code, if a testator fails to provide by will for their surviving spouse who married the testator after the execution of the will, the omitted spouse shall receive the same share of the estate they would have received if the decedent left no will unless it appears from the will that the omission was intentional or the testator provided for the spouse by transfer outside the will and the intent that the transfer be in lieu of a testamentary provision is shown by statements of the testator or from the amount of the transfer or other evidence.</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>In satisfying a share provided in this section, the devises made by the will abate as provided in <cite path="6.7" proof="needed">§ 6.7</cite>.10 of this Probate Code, which concerns "abatement".</text>
+        <text>In satisfying a share provided in this section, the devises made by the will abate as provided in <cite path="§6.7" proof="needed">§ 6.7</cite>.10 of this Probate Code, which concerns "abatement".</text>
       </para>
     </section>
     <section>
@@ -765,7 +765,7 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>In satisfying a share provided by this section, the devises made by the will abate as provided in <cite path="6.7" proof="needed">Section 6.7</cite>.10 of this Probate Code, which concerns "abatement".</text>
+        <text>In satisfying a share provided by this section, the devises made by the will abate as provided in <cite path="§6.7" proof="needed">Section 6.7</cite>.10 of this Probate Code, which concerns "abatement".</text>
       </para>
     </section>
     <section>
@@ -865,7 +865,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Any ineligible devisee shall also have the right to renounce their devise in favor of a person or persons who are eligible to inherit in accordance with <cite path="6.1" proof="needed">Section 6.1</cite>.14 (Renunciation of Succession) of this Probate Code.</text>
+        <text>Any ineligible devisee shall also have the right to renounce their devise in favor of a person or persons who are eligible to inherit in accordance with <cite path="§6.1" proof="needed">Section 6.1</cite>.14 (Renunciation of Succession) of this Probate Code.</text>
       </para>
       <para>
         <num>(C)</num>
@@ -1177,7 +1177,7 @@
       <heading>Distribution: Order in which Assets Appropriated; Abatement</heading>
       <para>
         <num>(A)</num>
-        <text>Except as provided in sub<cite path="6.7" proof="needed">section 6.7</cite>.10 (b), and except as provided in connection with the share of the surviving spouse who elects to take an elective share, shares of distributees abate, without any preference or priority as between real and personal property, in the following order:</text>
+        <text>Except as provided in sub<cite path="§6.7" proof="needed">section 6.7</cite>.10 (b), and except as provided in connection with the share of the surviving spouse who elects to take an elective share, shares of distributees abate, without any preference or priority as between real and personal property, in the following order:</text>
         <para>
           <num>(1)</num>
           <text>Property not disposed of by the will;</text>
@@ -1198,7 +1198,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>If the will expresses an order of abatement, or if the testamentary plan or the express or implied purpose of the devise would be defeated by the order of abatement stated in sub<cite path="6.7" proof="needed">section 6.7</cite>.10 (a), the shares of the distributees abate as may be found necessary to give effect to the intention of the testator.</text>
+        <text>If the will expresses an order of abatement, or if the testamentary plan or the express or implied purpose of the devise would be defeated by the order of abatement stated in sub<cite path="§6.7" proof="needed">section 6.7</cite>.10 (a), the shares of the distributees abate as may be found necessary to give effect to the intention of the testator.</text>
       </para>
       <para>
         <num>(C)</num>
@@ -1315,7 +1315,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>In the case of alleged incompetent persons, the grounds for incompetency under <cite path="8.1" proof="needed">§ 8.1</cite>; and</text>
+          <text>In the case of alleged incompetent persons, the grounds for incompetency under <cite path="§8.1">§ 8.1</cite>; and</text>
         </para>
         <para>
           <num>(8)</num>
@@ -1407,7 +1407,7 @@
     <annotation type="Commentary">
       <text>PART 1.         GENERAL PROBATE PROVISIONS</text>
       <text>This Part begins by setting out the purpose and philosophy of this Probate Code.</text>
-      <text><cite path="6.1" proof="needed">Section 6.1</cite>.1 provides that the code should be liberally interpreted to meet the following objections:</text>
+      <text><cite path="§6.1" proof="needed">Section 6.1</cite>.1 provides that the code should be liberally interpreted to meet the following objections:</text>
       <para>
         <num>(A)</num>
         <text>To ensure that the property of decedents passes to the rightful heirs or beneficiaries.</text>
@@ -1437,16 +1437,16 @@
         <text>To promote and further the Tribe's inherent right to self-governance.</text>
       </para>
       <aftertext>It is very useful to begin a probate code by getting forth the purpose and philosophy to guide the court in interpreting and applying the code. The Tribal Council should carefully review these objectives to determine whether these objectives are appropriate and consistent with the needs of the community.</aftertext>
-      <aftertext><cite path="6.1" proof="needed">Section 6.1</cite>.2 sets forth a long series of specific definitions due to the fact that probate law in general and Indian probate law specifically has a unique language which often needs explanation.</aftertext>
-      <aftertext><cite path="6.1" proof="needed">Section 6.1</cite>.3 provides for a broad statement of jurisdiction. It provides for the exercise of the greatest possible tribal jurisdiction over the probate of the estate of decedents who were domiciled or owned real or personal property on the Indian Reservation. Jurisdiction is not limited to Indian decedents or to tribal members. Instead, it allows the court to assert probate jurisdiction over anyone who was domiciled or owned real or personal property on the reservation. It does not mean that the court must assert jurisdiction in all of the potential cases - but it does give the court flexibility to assert jurisdiction when it is appropriate.</aftertext>
-      <aftertext>Sections <cite path="6.1" proof="needed">6.1</cite>.4 and <cite path="6.1" proof="needed">6.1</cite>.5 allow for the use of tribal custom and tradition.  <cite path="6.1" proof="needed">Section 6.1</cite>.4 is important because it allows anyone to renounce any property or interest and sets forth the procedure for renunciation of succession.</aftertext>
+      <aftertext><cite path="§6.1" proof="needed">Section 6.1</cite>.2 sets forth a long series of specific definitions due to the fact that probate law in general and Indian probate law specifically has a unique language which often needs explanation.</aftertext>
+      <aftertext><cite path="§6.1" proof="needed">Section 6.1</cite>.3 provides for a broad statement of jurisdiction. It provides for the exercise of the greatest possible tribal jurisdiction over the probate of the estate of decedents who were domiciled or owned real or personal property on the Indian Reservation. Jurisdiction is not limited to Indian decedents or to tribal members. Instead, it allows the court to assert probate jurisdiction over anyone who was domiciled or owned real or personal property on the reservation. It does not mean that the court must assert jurisdiction in all of the potential cases - but it does give the court flexibility to assert jurisdiction when it is appropriate.</aftertext>
+      <aftertext>Sections <cite path="§6.1" proof="needed">6.1</cite>.4 and <cite path="§6.1" proof="needed">6.1</cite>.5 allow for the use of tribal custom and tradition.  <cite path="§6.1" proof="needed">Section 6.1</cite>.4 is important because it allows anyone to renounce any property or interest and sets forth the procedure for renunciation of succession.</aftertext>
       <aftertext>The remaining sections are standard general probate provisions as follows:</aftertext>
-      <aftertext><cite path="6.1" proof="needed">Section 6.1</cite>.6 - Allows relief when fraud is involved</aftertext>
-      <aftertext><cite path="6.1" proof="needed">Section 6.1</cite>.7 - Provides procedure for determining evidence of death</aftertext>
-      <aftertext><cite path="6.1" proof="needed">Section 6.1</cite>.8 - Allows for use of civil procedure and appellate review when appropriate</aftertext>
-      <aftertext><cite path="6.1" proof="needed">Section 6.1</cite>.9 - Sets forth judicial powers and duties</aftertext>
-      <aftertext><cite path="6.1" proof="needed">Section 6.1</cite>.10 - Sets out rules for records and copies</aftertext>
-      <aftertext><cite path="6.1" proof="needed">Section 6.1</cite>.11 - Allows for trials to the court</aftertext>
+      <aftertext><cite path="§6.1" proof="needed">Section 6.1</cite>.6 - Allows relief when fraud is involved</aftertext>
+      <aftertext><cite path="§6.1" proof="needed">Section 6.1</cite>.7 - Provides procedure for determining evidence of death</aftertext>
+      <aftertext><cite path="§6.1" proof="needed">Section 6.1</cite>.8 - Allows for use of civil procedure and appellate review when appropriate</aftertext>
+      <aftertext><cite path="§6.1" proof="needed">Section 6.1</cite>.9 - Sets forth judicial powers and duties</aftertext>
+      <aftertext><cite path="§6.1" proof="needed">Section 6.1</cite>.10 - Sets out rules for records and copies</aftertext>
+      <aftertext><cite path="§6.1" proof="needed">Section 6.1</cite>.11 - Allows for trials to the court</aftertext>
     </annotation>
   </annotations>
 </container>

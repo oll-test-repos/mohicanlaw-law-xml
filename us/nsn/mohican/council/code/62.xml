@@ -106,11 +106,11 @@
     <text>The Tribal Court shall grant a judgment of divorce if:</text>
     <para>
       <num>(A)</num>
-      <text>The requirements of <cite path="62.4" proof="needed">this chapter</cite> as to marriage counseling have been complied with and the court finds that the marriage is irretrievably broken under <cite path="62.5" proof="needed">Section 62.5</cite>.</text>
+      <text>The requirements of <cite path="62.4" proof="needed">this chapter</cite> as to marriage counseling have been complied with and the court finds that the marriage is irretrievably broken under <cite path="§62.5">Section 62.5</cite>.</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>To the extent it has jurisdiction to do so, the court has considered, approved, or made provision under <cite path="62.8" proof="needed">Section 62.8 </cite>for legal custody and physical placement of any minor children of the marriage, the support of any child of the marriage entitled to support, the maintenance of either spouse, the support of the family and the disposition of property.</text>
+      <text>To the extent it has jurisdiction to do so, the court has considered, approved, or made provision under <cite path="§62.8">Section 62.8 </cite>for legal custody and physical placement of any minor children of the marriage, the support of any child of the marriage entitled to support, the maintenance of either spouse, the support of the family and the disposition of property.</text>
     </para>
   </section>
   <section>
@@ -161,7 +161,7 @@
     <text>In addition to voiding or dissolving the marriage, the Court shall have the power to impose judgment as follows:</text>
     <para>
       <num>(A)</num>
-      <text>For the future legal custody and physical placement and care of the minor children of the marriage as may be in the best interest of the children and in accordance with <cite path="62.8" proof="needed">Section 62.8</cite>.</text>
+      <text>For the future legal custody and physical placement and care of the minor children of the marriage as may be in the best interest of the children and in accordance with <cite path="§62.8">Section 62.8</cite>.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -468,11 +468,11 @@
             <heading>Except as provided under par.</heading>
             <text>(a) and sub. (2), upon petition, motion or order to show cause by a party, a court may modify an order of legal custody or an order of physical placement where the modification would substantially alter the time a parent may spend with his or her child if the court finds all of the following:</text>
             <para>
-              <num>a</num>
+              <num>a.</num>
               <text>The modification is in the best interest of the child;</text>
             </para>
             <para>
-              <num>b</num>
+              <num>b.</num>
               <text>There has been a substantial change of circumstances since the entry of the last order affecting legal custody or the last order substantially affecting physical placement.</text>
             </para>
           </para>
@@ -481,15 +481,15 @@
             <heading>With respect to sub.</heading>
             <text>(A)(1)(b)(i), there is a rebuttable presumption that:</text>
             <para>
-              <num>a</num>
+              <num>a.</num>
               <text>Continuing the current allocation of decision making under a legal custody order is in the best interest of the child;</text>
             </para>
             <para>
-              <num>b</num>
+              <num>b.</num>
               <text>Continuing the child's physical placement with the parent with whom the child resides for the greater period of time is in the best interest of the child.</text>
             </para>
             <para>
-              <num>c</num>
+              <num>c.</num>
               <text>A change in the economic circumstances or marital status of either party is not sufficient to meet the standards for modification under sub. (1).</text>
             </para>
           </para>
@@ -547,7 +547,7 @@
     </para>
     <para>
       <num>(C)</num>
-      <text>When a judgment of divorce is granted it shall be effective immediately except as provided in Chapter 61, <cite path="61.9|(D)" proof="needed">section 61.9(D)</cite>.  The judge granting the divorce shall inform the parties appearing in court that the judgment is effective immediately, except as provided in Chapter 61, <cite path="61.9|(D)" proof="needed">section 61.9(D)</cite>.</text>
+      <text>When a judgment of divorce is granted it shall be effective immediately except as provided in Chapter 61, <cite path="§61.9|(D)">section 61.9(D)</cite>.  The judge granting the divorce shall inform the parties appearing in court that the judgment is effective immediately, except as provided in Chapter 61, <cite path="§61.9|(D)">section 61.9(D)</cite>.</text>
     </para>
   </section>
   <section>
@@ -575,11 +575,11 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
+        <num>1.</num>
         <text>Dissolution of Marriage Ordinance adopted by Resolution #109-97, on February 18, 1997.  BIA Approval February 27, 1997.</text>
       </para>
       <para>
-        <num>2</num>
+        <num>2.</num>
         <text>Dissolution of Marriage Ordinance was amended by the Stockbridge-Munsee Tribal Council by Resolution No. 025-16, on February 2, 2016. BIA Approval February 22, 2016.</text>
       </para>
     </annotation>
