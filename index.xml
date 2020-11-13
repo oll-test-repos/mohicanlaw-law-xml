@@ -9,8 +9,8 @@
     <canonical-urls>
       <xml-bulk>https://github.com/mohicanlaw/law-xml</xml-bulk>
       <html-bulk>https://github.com/mohicanlaw/law-html</html-bulk>
-      <html>https://mohican.nsn.us.demos.open.law/</html>
-      <static-assets>https://github.com/mohicanlaw/law-static-assets</static-assets>
+      <html>https://mohican.nsn.us.demos.dev.openlawlibrary.us/</html>
+      <static-assets>https://github.com/oll-test-repos/mohicanlaw-law-static-assets</static-assets>
     </canonical-urls>
     <history-start>2009-06-29</history-start>
   </meta>
