@@ -2,374 +2,13 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Stockbridge-Munsee Tribal Code">
   <prefix>Title</prefix>
   <num>UTL</num>
-  <heading>Utilities</heading>
+  <heading>Utilities And Public Improvements</heading>
   <container>
     <prefix>Chapter</prefix>
     <num>UTL.01</num>
-    <heading>Solid Waste Management Ordinance</heading>
-    <section>
-      <num>UTL.01.01</num>
-      <heading>Scope And Purpose</heading>
-      <para>
-        <num>(a)</num>
-        <text>The purpose of this Ordinance is to help ensure that efficient, nuisance free and environmentally acceptable solid waste management procedures are practiced on the Stockbridge-Munsee Reservation.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>This Ordinance applies to the activities of tribal members and non-members on the Reservation.  It is not intended to preempt Wisconsin Department of Natural Resources solid waste management regulations otherwise applicable to non-members on this Reservation.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.01 was formerly codified as §33.1</annotation>
-    </section>
-    <section>
-      <heading>Solid Waste Management</heading>
-      <num>UTL.01.02</num>
-      <para>
-        <num>(a)</num>
-        <text>Solid wastes within the Reservation boundaries shall be handled, stored, collected, transported, transferred, processed and disposed of in accordance with the provisions of this Ordinance and where appropriate under the provisions of the Natural Resource Code.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The owner or occupant of any premise, business establishment, or industry shall be responsible for the sanitary storage of all solid waste accumulated at the premise, business establishment or industry.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Solid waste shall be stored in:</text>
-        <para>
-          <num>(1)</num>
-          <text>Durable, rust-resistant, non-absorbent, water tight, rodent-proof and easily cleanable containers with a close-fitting, insect-tight cover with adequate handles or bails to facilitate handling, or</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Other types of containers acceptable to the local governing agency and conforming to the intent of this Section.</text>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Every person, occupant, owner or permit holder shall have the duty of maintaining the premises or equipment under his/her supervision, containers or disposal areas in compliance with the requirements of this Ordinance.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.02 was formerly codified as §33.2</annotation>
-    </section>
-    <section>
-      <heading>Refuse Collection</heading>
-      <num>UTL.01.03</num>
-      <para>
-        <num>(a)</num>
-        <text>Waste matter shall be placed for collection and collected at a frequency which precludes the possibility of unsightly, unclean or unhealthy premises or the occurrence of a nuisance, and in no event shall be less than once a week. In the event a collection service is not used, the occupant of the premise shall be responsible for disposing of the wastes in a timely manner.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The collector shall transfer the contents of all containers into an approved vehicle or vehicle provided for such purpose. He/she shall clean up all garbage, rubbish, or waste matter spilled during collection and shall completely empty containers and replace lids.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>The collector shall not damage cans or property while making collections and shall return containers to their proper locations or designated place.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>A container in poor repair and not meeting the requirements shall be tagged securely by the collector with a notice to repair or replace the container.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Refuse not acceptable for collection, junk car bodies, discarded appliances and demolition waste shall be the responsibility of the owners for removal and disposal.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>Vehicles or containers used for the collection and transportation of any solid waste shall be loaded and moved in such a manner that the contents will not fall, leak or spill therefrom, and shall be covered when necessary to prevent blowing of material.</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>Solid waste generated within the boundaries of the reservation shall be deposited at a tribal solid waste collection site, in accordance with the rules in effect for preparation, bagging, separation and recycling.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.03 was formerly codified as §33.3</annotation>
-    </section>
-    <section>
-      <heading>Refuse Disposal And Anti-Littering-</heading>
-      <num>UTL.01.04</num>
-      <para>
-        <num>(a)</num>
-        <text>No person shall throw or deposit any garbage, rubbish, or waste matter or cause the same to be thrown or deposited upon any street, alley, gutter, park, tribal properties or adjacent lands; or throw or deposit the same in or upon any premises or vacant lot or in any water or waterway.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>No person shall dispose of solid waste on any private or public residential property where disposal will cause a public nuisance or health hazard, by causing foul odors to escape or by infestation of insects or rodents. All solid wastes shall be disposed of at appropriately designated landfills.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>No person shall dispose of solid waste from any stopped or moving vehicle onto any state, county, town, or tribal highways, roads, or rights-of-way.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.04 was formerly codified as §33.4</annotation>
-    </section>
-    <section>
-      <heading>Jurisdiction And Procedure</heading>
-      <num>UTL.01.05</num>
-      <para>
-        <num>(a)</num>
-        <text>Jurisdiction is hereby conferred upon the Stockbridge-Munsee Tribal Court over actions brought for violations of this Ordinance.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Proceedings for violations of this Ordinance shall be governed by the appropriate sections of the Tribal Court Code; provided, that proceedings may be instituted in Tribal Court by the issuance of a citation.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Until such time as a tribal court is established, any enforcement actions pursuant to this code may be initiated as a civil action by the tribe or by any person specially harmed in body or property or land use enjoyment by such violation in any court of competent jurisdiction.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.05 was formerly codified as §33.5</annotation>
-    </section>
-    <section>
-      <heading>Enforcement</heading>
-      <num>UTL.01.06</num>
-      <para>
-        <num>(a)</num>
-        <text>The provisions of this Ordinance shall be enforced by all tribal law enforcement officers and those county and state officials who are empowered by the Stockbridge-Munsee Community to enforce the provisions of this Ordinance.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.06 was formerly codified as §33.6</annotation>
-    </section>
-    <section>
-      <heading>Penalties</heading>
-      <num>UTL.01.07</num>
-      <para>
-        <num>(a)</num>
-        <text>Violation of the provisions of this Ordinance shall be punishable by a civil remedial money penalty not to exceed $500.00.  Each day of a violation may be treated as a separate violation under this provision.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>In addition to a civil remedial money penalty, any personal property including vehicles and other equipment which has been used in connection with the violation of this Ordinance may be seized and forfeited pursuant to the appropriate sections of the Tribal Court Code.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>In addition to the foregoing penalties, the Court may suspend or revoke any license issued pursuant to this Ordinance.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Upon conviction the Court shall order payment of court costs of $15.00.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Nothing herein shall prevent the Tribe from bringing suit against any violator of this Ordinance for money damages for harm to tribal resources caused by the violation.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>Any interested party may bring suit in tribal court to enjoin a violation of this Ordinance.</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>To prevent or remediate violations of this Ordinance, the court may order remedial action, restoration, community service, injunctive relief, damages, forfeitures, penalties, costs, reasonable attorney fees, and/or other relief.  Any forfeiture or penalty shall inure to the Tribe.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.07 was formerly codified as §33.7</annotation>
-    </section>
-    <section>
-      <heading>Amendments, Severability And Non-Liability-</heading>
-      <num>UTL.01.08</num>
-      <para>
-        <num>(a)</num>
-        <heading>Amendments.</heading>
-        <text>Amendment to this Ordinance will be effective upon enactment by the Stockbridge-Munsee Community Tribal Council without further review by the Secretary of the Interior.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Severability and Non-liability.  If any section, provision, or portion of this Ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Ordinance will not be affected thereby. The Tribe declares there is no liability on the part of the Tribe, its agencies, or employees for damages that may occur as a result of reliance upon or conformance with this Ordinance. The Tribe, by adoption of this Ordinance, does not waive sovereign immunity in any respect.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.08 was formerly codified as §33.8</annotation>
-    </section>
-    <section>
-      <heading>Hazardous And Toxic Waste</heading>
-      <num>UTL.01.09</num>
-      <para>
-        <num>(a)</num>
-        <text>No person shall dispose of any hazardous or toxic waste as defined by federal or state law at any time subsequent to the adoption of this section within the boundaries of the Reservation, except in accordance with rules promulgated by the Solid Waste Committee. The Solid Waste Committee shall post a list or description of hazardous and toxic substances at the disposal collection site in such a way as to give notice of substances that are not accepted at the disposal site and that require special treatment for disposal. For purposes of this section, posting a reference to any federal or state law shall have the effect of adopting the provisions of listings thereof.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Any person or entity found to have violated this section shall forfeit not less than $100.00 nor more than $500.00 per day for such violation from the date of disposal.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.09 was formerly codified as §33.9</annotation>
-    </section>
-    <section>
-      <heading>Construction, Demolition, Yard Wastes And Burning</heading>
-      <num>UTL.01.10</num>
-      <para>
-        <num>(a)</num>
-        <text>No person shall burn any substance as a means of disposal with the exception of dry, uncoated paper and cardboard, unpainted wood, combustible construction, demolition, and yard wastes, including leaves, tree and brush trimming, grass clippings, and other vegetable matter.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Burning of construction, demolition and yard wastes shall be permitted only pursuant to tribally issued burning permits issued for persons, places and periods of time to be determined by the Solid Waste Committee, in consultation with conservation officers.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Burning shall only be permitted in an approved container placed in such a manner as to minimize risk of fire to nearby property.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.10 was formerly codified as §33.10</annotation>
-    </section>
-    <section>
-      <heading>Rule Making Authority</heading>
-      <num>UTL.01.11</num>
-      <para>
-        <num>(a)</num>
-        <text>The Tribal Solid Waste Committee shall have the authority to promulgate rules for the operation of the solid waste disposal site, including rules governing the preparation, separation, bagging, and recycling of substances brought for disposal. Such rules shall be made available to reservation residents in printed form at the disposal site and the tribal office.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The Solid Waste Committee shall prepare lists or descriptions of substances that may not be deposited at the disposal site, which shall be posted in a secure and weather proof place that is visible at the disposal site gate.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>The Solid Waste Committee may adopt a schedule of procedures and fees for disposal of non-household wastes, such as unusual quantities of solid waste, unbagged wastes, construction or demolition wastes or items requiring special disposal or handling at the disposal site.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Rules, fees, and disposal directions shall be effective from the date of adoption, or posting if required by this section, unless the Tribal Council shall temporarily or permanently suspend their effect.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Operations of the Disposal Facility and the Solid Waste Committee shall be defrayed by revenues from recycling revenues and disposal fees.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.11 was formerly codified as §33.11</annotation>
-    </section>
-    <section>
-      <heading>Recycling</heading>
-      <num>UTL.01.12</num>
-      <para>
-        <num>(a)</num>
-        <text>Materials identified as recyclable shall be separated from non-recyclable solid waste and recycled in accordance with the Stockbridge-Munsee Community Recycling Plan or other applicable materials.</text>
-        <para>
-          <num>(1)</num>
-          <text>Recyclable materials are items that can be re-used, re-refined, reformed, smelted or serve as a raw material for manufacturing processes;  these materials have a secondary market and collection facilities in place for such re-use.</text>
-          <para>
-            <num>(A)</num>
-            <text>Recyclable materials include, but are not limited to, paper and containers made from glass, steel and plastics.</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>Other materials, such as the following, are also recyclable, but need to be handled in a special manner:  used engine oil, fluorescent light bulbs, old automobiles and wet cell batteries.</text>
-          </para>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Non-recyclable solid wastes are those waste materials that are a part of the solid waste stream and do not currently have an available recycling process or are excluded from the recycling process for other reasons.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>No person may dispose of recyclable materials by abandonment, dumping, burning or using other destructive means on those materials.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>To the greatest extent practicable, recyclable materials shall be kept clean and free of contaminants such as dirt, oil, grease, food or non-recyclable materials.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Yard waste and plant materials shall be disposed of through composting or burning in accordance with applicable laws.  It shall not be included with solid waste that is disposed of in a landfill or other similar means.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Responsibility for Recycling.</text>
-        <para>
-          <num>(1)</num>
-          <text>Occupants of residential units shall be held responsible for recycling materials from their own household waste in accordance with this Ordinance.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Owners of multi-family dwellings and non-residential properties shall have the final responsibility for recycling at their premises.  However, owners shall not be held responsible for the actions of individuals on their premises, if they act to promote recycling at their premises in accordance with the following:</text>
-          <para>
-            <num>(A)</num>
-            <text>Provide adequate, separate containers for recyclable materials and non-recyclable solid waste.</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>Provide written notice to tenants, users and occupants of the premises about recycling requirements under this Ordinance, the Plan and any other recycling program at the premises.</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>Provide for the proper collection and disposal of both recyclable and non-recyclable materials.</text>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>Provide written notification to tenants, users and occupants of the premises about how to prepare materials and where to store the materials for collection.</text>
-          </para>
-        </para>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.12 was formerly codified as §33.12</annotation>
-    </section>
-    <section>
-      <heading>Stockbridge-Munsee Community Recycling Plan</heading>
-      <num>UTL.01.13</num>
-      <para>
-        <num>(a)</num>
-        <text>The Tribe shall adopt the Stockbridge-Munsee Community Recycling Plan ("Plan") to address how recycling will be handled on Reservation.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The following procedures shall apply to the adoption of this Plan.</text>
-        <para>
-          <num>(1)</num>
-          <text>The Plan shall be developed by the tribal Environmental Department, with the input from interested tribal departments or committees.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Once a draft Plan is prepared, the public shall be given an opportunity to comment on the provisions of the Plan.  Public comments on the Plan will be considered and a final draft of the Plan submitted to the Tribal Council.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The Plan shall become final when it is adopted by the Tribal Council through a resolution at a regular Tribal Council meeting.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>The Plan shall be reviewed by the tribal Environmental Department at least every three years and amended as necessary.</text>
-        <para>
-          <num>(1)</num>
-          <text>The public shall be given an opportunity to comment on proposed amendments.  Public comments will be considered when a final draft of the revised Plan, which incorporates the amendments, is prepared.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The revised Plan shall become final when it is adopted by the Tribal Council through a resolution at a regular Tribal Council meeting.</text>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>The Tribe shall also adopt such policies as are necessary to implement the Plan for the Tribe's government and economic enterprises.  Such policies shall be developed by the tribal Environmental Department and shall regulate all employees.</text>
-      </para>
-      <annotation type="Prior Codifications">§UTL.01.13 was formerly codified as §33.13</annotation>
-    </section>
-    <annotations>
-      <annotation type="Legislative History">
-        <para>
-          <num>1</num>
-          <text>The urgency to have the Solid Waste Management Code in place, it was not brought before the Ordinance Committee.</text>
-        </para>
-        <para>
-          <num>2</num>
-          <text>Approved for posting at Council meeting of September 6, 1988.</text>
-        </para>
-        <para>
-          <num>3</num>
-          <heading>Adopted by Resolution No.</heading>
-          <text>1102, September 20, 1988.</text>
-        </para>
-        <para>
-          <num>4</num>
-          <heading>Amended Feb.</heading>
-          <text>4, 1992, adding Jurisdiction and Procedure until tribal court is established.</text>
-        </para>
-        <para>
-          <num>5</num>
-          <text>Amended September 1, 1992, adding sections to regulate hazardous and toxic wastes, construction wastes, etc. and rule-making authority.</text>
-        </para>
-        <para>
-          <num>6</num>
-          <text>Amended by Tribal Council on October 24, 2000, Resolution No. 067-2000  adding <cite path="§UTL.01.13">Section UTL.01.13</cite>.</text>
-        </para>
-      </annotation>
-    </annotations>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>UTL.02</num>
     <heading>Tribal Utility Ordinance</heading>
     <section>
-      <num>UTL.02.01</num>
+      <num>UTL.01.01</num>
       <heading>Purpose</heading>
       <para>
         <num>(a)</num>
@@ -391,11 +30,11 @@
         <num>(c)</num>
         <text>It is the policy of the Tribe to operate, maintain and manage the utilities in a financially responsible and cost-effective manner.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.01 was formerly codified as §39.1</annotation>
+      <annotation type="Prior Codifications">§UTL.01.01 was formerly codified as §39.1</annotation>
     </section>
     <section>
       <heading>Definitions</heading>
-      <num>UTL.02.02</num>
+      <num>UTL.01.02</num>
       <para>
         <num>(a)</num>
         <text>"Consumer" refers to a person connected to the Tribe's utility system or using the utility system with permission.</text>
@@ -444,11 +83,11 @@
         <num>(j)</num>
         <text>"Wastewater Treatment Works" refers to an arrangement of pipes, facilities, devices and structures for treating wastewater, septage, sludge and other permitted wastes.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.02 was formerly codified as §39.2</annotation>
+      <annotation type="Prior Codifications">§UTL.01.02 was formerly codified as §39.2</annotation>
     </section>
     <section>
       <heading>Current Tribal Utilities</heading>
-      <num>UTL.02.03</num>
+      <num>UTL.01.03</num>
       <text>Services that are provided by tribal utilities for a fee include:</text>
       <para>
         <num>(a)</num>
@@ -470,11 +109,11 @@
           <text>The tribal Utility Department does not provide pumping and disposal services for septage from private sewage systems, except by special agreement.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.03 was formerly codified as §39.3</annotation>
+      <annotation type="Prior Codifications">§UTL.01.03 was formerly codified as §39.3</annotation>
     </section>
     <section>
       <heading>Application For Utility Service</heading>
-      <num>UTL.02.04</num>
+      <num>UTL.01.04</num>
       <para>
         <num>(a)</num>
         <text>Every person who wants to connect to the tribal utility system shall file a written application with the Utility Department.</text>
@@ -507,11 +146,11 @@
         <num>(c)</num>
         <text>If it appears that the service will not be adequate for the uses listed on the application, the Utility Department may reject the application.  The Utility Department may also reject the application, if the person has an outstanding unpaid balance owed to the Tribe for previous or other tribal utility services or owed to the Tribe for housing services.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.04 was formerly codified as §39.4</annotation>
+      <annotation type="Prior Codifications">§UTL.01.04 was formerly codified as §39.4</annotation>
     </section>
     <section>
       <heading>Obtaining Service Without Authorization</heading>
-      <num>UTL.02.05</num>
+      <num>UTL.01.05</num>
       <para>
         <num>(a)</num>
         <text>No person may obtain services from a tribal utility without authorization from the Tribe.</text>
@@ -520,11 +159,11 @@
         <num>(b)</num>
         <text>Any person, who obtains such unauthorized services by connecting to utility facilities without authorization or by tampering with or bypassing any meter, shall be liable to the Tribe for three times the value of the actual service obtained, in addition to the cost of correction.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.05 was formerly codified as §39.5</annotation>
+      <annotation type="Prior Codifications">§UTL.01.05 was formerly codified as §39.5</annotation>
     </section>
     <section>
       <heading>Consumer Obligations To Receive Utility Service</heading>
-      <num>UTL.02.06</num>
+      <num>UTL.01.06</num>
       <para>
         <num>(a)</num>
         <text>As a condition for receiving utility services, the consumer agrees to comply with all provisions of this Ordinance and any other applicable laws or requirements, including being current in the payment of all fees or other charges assessed by the Tribe.</text>
@@ -581,11 +220,11 @@
         <num>(f)</num>
         <text>The consumer shall only use the community sanitary sewer collection and disposal system for the disposal of normal household liquid waste, including waste from toilet facilities, bathing facilities and kitchen facilities.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.06 was formerly codified as §39.6</annotation>
+      <annotation type="Prior Codifications">§UTL.01.06 was formerly codified as §39.6</annotation>
     </section>
     <section>
       <heading>Inspections And Right Of Entry</heading>
-      <num>UTL.02.07</num>
+      <num>UTL.01.07</num>
       <para>
         <num>(a)</num>
         <text>The Utility Department, or its authorized representative, is hereby authorized to make limited, reasonable inspections, at reasonable times, of any grounds, building or residence served by the Tribe to the extent necessary to ensure that consumer utility fixtures, lines and equipment are not being operated in a manner that would likely disrupt or interfere with utility services.</text>
@@ -602,11 +241,11 @@
           <text>Where the permission to enter and inspect is unreasonably withheld, the Tribe may assess court costs and related expenses and add them to the affected consumer's bill.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.07 was formerly codified as §39.7</annotation>
+      <annotation type="Prior Codifications">§UTL.01.07 was formerly codified as §39.7</annotation>
     </section>
     <section>
       <heading>Disruption Of Utility Service</heading>
-      <num>UTL.02.08</num>
+      <num>UTL.01.08</num>
       <para>
         <num>(a)</num>
         <text>The Utility Department may shut off utility service or disrupt traffic on the public right-of-way to perform repairs.  If possible, advance notice will be given to affected units of service, particularly to persons dependent on the services of the utility.</text>
@@ -631,11 +270,11 @@
           <text>any other conditions which may adversely affect the community residents or visitors.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.08 was formerly codified as §39.8</annotation>
+      <annotation type="Prior Codifications">§UTL.01.08 was formerly codified as §39.8</annotation>
     </section>
     <section>
       <heading>Maintenance Of Utility Service And Facilities</heading>
-      <num>UTL.02.09</num>
+      <num>UTL.01.09</num>
       <para>
         <num>(a)</num>
         <text>The Tribe shall maintain utility service and the utility's facilities and other infrastructure.  The Tribe is responsible for maintenance on service lines up to the consumer's curb stop or other such start of the individual service connection.</text>
@@ -648,11 +287,11 @@
         <num>(b)</num>
         <text>The consumer is responsible for maintenance of the service line on the premises from the curb stop to the building, as well as the household plumbing or other types of utility infrastructure.  The plumbing or other such infrastructure must be maintained free of defective conditions by the consumer.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.09 was formerly codified as §39.9</annotation>
+      <annotation type="Prior Codifications">§UTL.01.09 was formerly codified as §39.9</annotation>
     </section>
     <section>
       <heading>Discontinuance Of Utility Service</heading>
-      <num>UTL.02.10</num>
+      <num>UTL.01.10</num>
       <para>
         <num>(a)</num>
         <text>A consumer who is planning to vacate any grounds, building or residence served by the Tribe shall notify the Utility Department in writing prior to the date the consumer plans to either vacate the premises or discontinue service.  A consumer who fails to provide notice shall continue to be responsible for all charges accrued up to when service is terminated.</text>
@@ -661,11 +300,11 @@
         <num>(b)</num>
         <text>The consumer shall be liable for any damages to utility property that are not the fault of the utility system, the tribal Utility Department or its representatives and are discovered when the utility service is terminated.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.10 was formerly codified as §39.10</annotation>
+      <annotation type="Prior Codifications">§UTL.01.10 was formerly codified as §39.10</annotation>
     </section>
     <section>
       <heading>Limitations On Responsibility</heading>
-      <num>UTL.02.11</num>
+      <num>UTL.01.11</num>
       <para>
         <num>(a)</num>
         <text>The Tribe will not be responsible for the maintenance or repair of any private or domestic water, sewer or other private utility system.  Any services provided by the Tribe shall be done by specific agreement, approved by the Tribe and which establishes a fair rate of compensation.</text>
@@ -686,11 +325,11 @@
         <num>(c)</num>
         <text>The Tribe assumes the risk for treatment by accepting wastewater and septage into its wastewater utility system, but reserves the right to immediately discontinue acceptance of wastewater or septage for operational or environmental compliance reasons.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.11 was formerly codified as §39.11</annotation>
+      <annotation type="Prior Codifications">§UTL.01.11 was formerly codified as §39.11</annotation>
     </section>
     <section>
       <heading>Utility Administration</heading>
-      <num>UTL.02.12</num>
+      <num>UTL.01.12</num>
       <para>
         <num>(a)</num>
         <text>Stockbridge-Munsee Utility Department.</text>
@@ -723,11 +362,11 @@
           <text>The tribal Housing Board shall function as the tribal Utility Board, unless a separate Utility Board is established.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.12 was formerly codified as §39.12</annotation>
+      <annotation type="Prior Codifications">§UTL.01.12 was formerly codified as §39.12</annotation>
     </section>
     <section>
       <heading>Meters</heading>
-      <num>UTL.02.13</num>
+      <num>UTL.01.13</num>
       <para>
         <num>(a)</num>
         <text>Meters for measurement of utility services provided by the Tribe shall be installed at a unit of service, in accordance with tribal requirements and in such locations as determined by the Utility Department.</text>
@@ -748,11 +387,11 @@
         <num>(c)</num>
         <text>All persons who have premises that are connected to the community water system are required to install a water meter in order to be considered a unit of service and receive water service.  Individual household water meters are owned by the Tribe and it is the responsibility of the Utility Department to maintain such meters.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.13 was formerly codified as §39.13</annotation>
+      <annotation type="Prior Codifications">§UTL.01.13 was formerly codified as §39.13</annotation>
     </section>
     <section>
       <heading>Other Uses Of Water Services</heading>
-      <num>UTL.02.14</num>
+      <num>UTL.01.14</num>
       <para>
         <num>(a)</num>
         <text>Water for Fire Protection.</text>
@@ -813,11 +452,11 @@
           <text>Bulk water sales include water supplied for purposes other than extinguishing fires such as irrigation or the filling of swimming pools.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.14 was formerly codified as §39.14</annotation>
+      <annotation type="Prior Codifications">§UTL.01.14 was formerly codified as §39.14</annotation>
     </section>
     <section>
       <heading>Connection To The Water And Wastewater Utilities</heading>
-      <num>UTL.02.15</num>
+      <num>UTL.01.15</num>
       <para>
         <num>(a)</num>
         <text>The use of public water and wastewater treatment systems, instead of individual systems, helps to ensure the protection of human health and the environment. Therefore, the Tribe is interested in having buildings, which are located on tribal land adjacent to the Tribe's water and sanitary sewer system, connected to those systems as consumers.</text>
@@ -862,11 +501,11 @@
         <num>(e)</num>
         <text>If a consumer does not connect to the tribal water and sewer systems as required under this Ordinance, the Tribe shall have the consumer's building connected to the system.  The consumer shall be responsible for the costs associated with connecting to the tribal system, as well as a penalty for violating the Ordinance.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.15 was formerly codified as §39.15</annotation>
+      <annotation type="Prior Codifications">§UTL.01.15 was formerly codified as §39.15</annotation>
     </section>
     <section>
       <heading>Environmental Monitoring</heading>
-      <num>UTL.02.16</num>
+      <num>UTL.01.16</num>
       <para>
         <num>(a)</num>
         <text>All applicable federal environmental permits, which are necessary for the operation of any tribal utility, shall be applied for and obtained by the Tribe.  The Tribe shall also comply with any applicable permit conditions and standards.</text>
@@ -899,11 +538,11 @@
           </para>
         </para>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.16 was formerly codified as §39.16</annotation>
+      <annotation type="Prior Codifications">§UTL.01.16 was formerly codified as §39.16</annotation>
     </section>
     <section>
       <heading>Waste Inspection And Analysis</heading>
-      <num>UTL.02.17</num>
+      <num>UTL.01.17</num>
       <para>
         <num>(a)</num>
         <text>Wastewater and septage discharged into the sanitary sewers shall be subject to periodic inspection and a determination as to the character and concentration of said wastewater.  The determinations shall be done as often as deemed necessary by the Tribe and may be required at any point within the Tribe's utility system or the connection system of the consumer.</text>
@@ -940,14 +579,14 @@
           <text>require payment to cover additional cost of handling and treating the wastewater.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.17 was formerly codified as §39.17</annotation>
+      <annotation type="Prior Codifications">§UTL.01.17 was formerly codified as §39.17</annotation>
     </section>
     <section>
       <heading>Disposal Of Septic And Holding Tank Septage</heading>
-      <num>UTL.02.18</num>
+      <num>UTL.01.18</num>
       <para>
         <num>(a)</num>
-        <text>No person shall transfer septic tank sludge or holding tank sewage into any disposal area or sewer manhole located within the Reservation boundaries unless permission to engage in such disposal activities has been first obtained from the Tribe under <cite path="§UTL.02.19">Section UTL.02.19</cite>.</text>
+        <text>No person shall transfer septic tank sludge or holding tank sewage into any disposal area or sewer manhole located within the Reservation boundaries unless permission to engage in such disposal activities has been first obtained from the Tribe under <cite path="§UTL.01.19">Section UTL.01.19</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -963,13 +602,13 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The person disposing of the waste shall furnish a bond to Tribe in amount of $1,000.00 to guarantee performance, unless this requirement is waived by the Tribal Council.  The performance bond shall be delivered to Tribal Council prior to the issuance of the permit under <cite path="§UTL.02.18">Section UTL.02.18</cite>.</text>
+        <text>The person disposing of the waste shall furnish a bond to Tribe in amount of $1,000.00 to guarantee performance, unless this requirement is waived by the Tribal Council.  The performance bond shall be delivered to Tribal Council prior to the issuance of the permit under <cite path="§UTL.01.18">Section UTL.01.18</cite>.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.18 was formerly codified as §39.18</annotation>
+      <annotation type="Prior Codifications">§UTL.01.18 was formerly codified as §39.18</annotation>
     </section>
     <section>
       <heading>Application For Septage Disposal</heading>
-      <num>UTL.02.19</num>
+      <num>UTL.01.19</num>
       <para>
         <num>(a)</num>
         <text>Persons wishing to discharge septage to the Tribe's wastewater treatment works shall file a written application for permission and submit a nonrefundable filing fee with the Tribe.  The application must fully state the type, frequency, quantity, quality and location of generated septage to be disposed at the Tribe's wastewater treatment works.</text>
@@ -1006,11 +645,11 @@
           <text>The person shall be liable for all costs incurred by the Tribe in connection with the permit revocation.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.19 was formerly codified as §39.19</annotation>
+      <annotation type="Prior Codifications">§UTL.01.19 was formerly codified as §39.19</annotation>
     </section>
     <section>
       <heading>Septage Acceptance Location</heading>
-      <num>UTL.02.20</num>
+      <num>UTL.01.20</num>
       <para>
         <num>(a)</num>
         <text>Septage shall only be discharged to the sanitary sewer system by tribally-permitted disposers and at locations, times and conditions specified by the Tribe.</text>
@@ -1027,11 +666,11 @@
         <num>(b)</num>
         <text>Written documentation of the discharge must be submitted to the Utility Department one working day prior to the discharge to the Tribe's sewers or wastewater treatment works.  Documentation of the discharge will include the following information:  the name, address and telephone number of the hauler; the type of septage; the quantity of septage; the estimated quality of septage; the location, date, time and feed rate of discharge to the sanitary sewer system; the source of septage; the name and address of septage generator; and other information as needed.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.20 was formerly codified as §39.20</annotation>
+      <annotation type="Prior Codifications">§UTL.01.20 was formerly codified as §39.20</annotation>
     </section>
     <section>
       <heading>Fee Schedules</heading>
-      <num>UTL.02.21</num>
+      <num>UTL.01.21</num>
       <para>
         <num>(a)</num>
         <text>The schedule of user fees for utility services shall be set annually by the Tribal Council.</text>
@@ -1072,11 +711,11 @@
           <text>A failure to receive a bill shall not excuse nonpayment.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.21 was formerly codified as §39.21</annotation>
+      <annotation type="Prior Codifications">§UTL.01.21 was formerly codified as §39.21</annotation>
     </section>
     <section>
       <heading>Water And Sewer Fees</heading>
-      <num>UTL.02.22</num>
+      <num>UTL.01.22</num>
       <para>
         <num>(a)</num>
         <text>In setting the rates of the fees for the community water and sanitary sewer utilities, it shall be the policy of the Tribe to obtain revenues to pay the cost of:</text>
@@ -1133,11 +772,11 @@
         <num>(c)</num>
         <text>Water and sewer fees are charged to the unit of service based on the class of consumer and take into consideration the average volume of water used and the volume and quality of wastewater generated by that size of consumer.  When setting fees, the Tribe may choose to subsidize and support the tribal utilities.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.22 was formerly codified as §39.22</annotation>
+      <annotation type="Prior Codifications">§UTL.01.22 was formerly codified as §39.22</annotation>
     </section>
     <section>
       <heading>Sanctions</heading>
-      <num>UTL.02.23</num>
+      <num>UTL.01.23</num>
       <para>
         <num>(a)</num>
         <text>The Tribe may take the following actions if the consumer does not comply with any provisions of this Ordinance or other applicable law or policies:</text>
@@ -1212,13 +851,13 @@
         <num>(e)</num>
         <text>Court proceedings shall be conducted in accordance with the normal court and debt collection procedures under tribal law.</text>
       </para>
-      <annotation type="Prior Codifications">§UTL.02.23 was formerly codified as §39.23</annotation>
+      <annotation type="Prior Codifications">§UTL.01.23 was formerly codified as §39.23</annotation>
     </section>
     <section>
       <heading>Severability</heading>
-      <num>UTL.02.24</num>
+      <num>UTL.01.24</num>
       <text>If any section, subsection or other part of this Ordinance is held to be invalid, such decision shall not affect the validity of the remaining portions of the Ordinance.</text>
-      <annotation type="Prior Codifications">§UTL.02.24 was formerly codified as §39.24</annotation>
+      <annotation type="Prior Codifications">§UTL.01.24 was formerly codified as §39.24</annotation>
     </section>
   </container>
 </container>

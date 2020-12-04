@@ -14,6 +14,7 @@
     </canonical-urls>
     <history-start>2009-06-29</history-start>
   </meta>
+  <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
   <xi:include href="./us/nsn/mohican/council/constitution/index.xml"/>
   <xi:include href="./us/nsn/mohican/council/code/index.xml"/>
   <collection name="us/nsn/mohican/council/resolutions">
