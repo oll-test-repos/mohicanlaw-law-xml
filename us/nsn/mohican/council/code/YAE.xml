@@ -1015,7 +1015,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>If records are not released to a requesting party, the reason shall be given to the party, who may ask the court to review the denial of the request, in which case the court may view the records <em>in camera</em> in order to decide whether to order the records be open to inspection.</text>
+        <text>If records are not released to a requesting party, the reason shall be given to the party, who may ask the court to review the denial of the request, in which case the court may view the records <u>in camera</u> in order to decide whether to order the records be open to inspection.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -5206,27 +5206,31 @@
         <text>All current applicants, employees, volunteers, volunteer organizations that are within the scope of this Ordinance must apply for an Elder/Youth license within 60 calendar days after this Ordinance takes effect.</text>
         <text>
           <table>
+            <caption>Elder/Youth License Crimes List</caption>
+            <thead>
+              <tr>
+                <th>Wisconsin Statutes</th>
+                <th>Crimes</th>
+                <th>Category I – Permanent Bar</th>
+                <th>Category II – Risk Review</th>
+              </tr>
+            </thead>
             <tbody>
               <tr>
                 <td>
                   <cite path="§346.63">346.63</cite>
                 </td>
                 <td proof="needed">
-                  <p>OWI (F)</p>
-                  <p class="text-indent-2">
-                    <strong>If with passenger &lt; 16 yoa</strong>
-                  </p>
-                  <p class="text-indent-2">
-                    <strong>(F)       If 3</strong>
-                    <sup>
-                      <strong>rd</strong>
-                    </sup>
-                    <strong> or greater offense</strong>
-                  </p>
+                  <p><u>OWI (F)</u></p>
+                  <p class="text-indent-2">(F) If with passenger &lt; 16 yoa</p>
+                  <p class="text-indent-2">(F) If 3<sup>rd</sup>or greater offense</p>
                 </td>
                 <td proof="needed"/>
                 <td proof="needed">
+                  <br/>
+                  <br/>
                   <p>XX</p>
+                  <br/>
                   <p>XX</p>
                 </td>
               </tr>
@@ -5239,10 +5243,10 @@
                 <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§346.67">346.67</cite>
-                </th>
-                <th>Hit and Run – Causing Great Bodily Harm or Death</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§346.67" proof="needed">346.67</cite>
+                </td>
+                <td>Hit and Run – Causing Great Bodily Harm or Death</td>
                 <td proof="needed"/>
                 <td>XX</td>
               </tr>
@@ -5255,18 +5259,18 @@
                 <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.01">940.01</cite>
-                </th>
-                <th>1<sup>st</sup> Degree Intentional Homicide</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.01" proof="needed">940.01</cite>
+                </td>
+                <td>1<sup>st</sup> Degree Intentional Homicide</td>
                 <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.02">940.02</cite>
-                </th>
-                <th>1<sup>st</sup> Degree Reckless Homicide</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.02" proof="needed">940.02</cite>
+                </td>
+                <td>1<sup>st</sup> Degree Reckless Homicide</td>
                 <td>XX</td>
                 <td proof="needed"/>
               </tr>
@@ -5279,65 +5283,65 @@
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.05">940.05</cite>
-                </th>
-                <th>2<sup>nd</sup> Degree Intentional Homicide</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.05" proof="needed">940.05</cite>
+                </td>
+                <td>2<sup>nd</sup> Degree Intentional Homicide</td>
                 <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.06">940.06</cite>
-                </th>
-                <th>2<sup>nd</sup> Degree Reckless Homicide</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.06" proof="needed">940.06</cite>
+                </td>
+                <td>2<sup>nd</sup> Degree Reckless Homicide</td>
                 <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.07">940.07</cite>
-                </th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.07" proof="needed">940.07</cite>
+                </td>
                 <td>Homicide by Negligent Control of a Dangerous Animal</td>
                 <td proof="needed"/>
                 <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.08">940.08</cite>
-                </th>
-                <th>Homicide by Negligent Handling of Dangerous Weapon, Explosives or Fire</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.08" proof="needed">940.08</cite>
+                </td>
+                <td>Homicide by Negligent Handling of Dangerous Weapon, Explosives or Fire</td>
                 <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.09">940.09</cite>
-                </th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.09" proof="needed">940.09</cite>
+                </td>
                 <td>Homicide by Intoxicated Use of a Vehicle or Firearm</td>
                 <td proof="needed"/>
                 <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.12">940.12</cite>
-                </th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.12" proof="needed">940.12</cite>
+                </td>
                 <td>Assisting Suicide</td>
                 <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.19|(1)">940.19(1)</cite>
-                </th>
-                <th>Battery (Misdemeanor)</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.19|(1)" proof="needed">940.19(1)</cite>
+                </td>
+                <td>Battery (Misdemeanor)</td>
                 <td proof="needed"/>
                 <td>XX</td>
               </tr>
               <tr>
-                <th><cite path="§940.19|(2)">940.19(2)</cite>-(6)</th>
-                <th>Battery (Felony)</th>
-                <th>XX</th>
+                <td><cite doc="Wis. Stat." path="§940.19|(2)" proof="needed">940.19(2)</cite>-(6)</td>
+                <td>Battery (Felony)</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
@@ -5349,804 +5353,816 @@
                 <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.20">940.20</cite>
-                </th>
-                <th>Battery – Special Circumstances</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.20" proof="needed">940.20</cite>
+                </td>
+                <td>Battery – Special Circumstances</td>
                 <td proof="needed"/>
                 <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.20|(3)">940.20(3)</cite>
-                </th>
-                <th>Battery or Threat to Witnesses</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.20|(3)" proof="needed">940.20(3)</cite>
+                </td>
+                <td>Battery or Threat to Witnesses</td>
                 <td proof="needed"/>
                 <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.203">940.203</cite>
-                </th>
-                <th>Battery or Threat to Judge</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.203" proof="needed">940.203</cite>
+                </td>
+                <td>Battery or Threat to Judge</td>
                 <td proof="needed"/>
                 <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.205">940.205</cite>
-                </th>
-                <th>Battery or Threat to a Department of Revenue Employee</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.205" proof="needed">940.205</cite>
+                </td>
+                <td>Battery or Threat to a Department of Revenue Employee</td>
                 <td proof="needed"/>
                 <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.207">940.207</cite>
-                </th>
-                <th>Battery or Threat to a Dept. of Commerce or DIHL Employee</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.207" proof="needed">940.207</cite>
+                </td>
+                <td>Battery or Threat to a Dept. of Commerce or DIHL Employee</td>
                 <td proof="needed"/>
                 <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.21">940.21</cite>
-                </th>
-                <th>Mayhem</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.21" proof="needed">940.21</cite>
+                </td>
+                <td>Mayhem</td>
                 <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.22|(2)">940.22(2)</cite>
-                </th>
-                <th>Sexual Exploitation by Therapist, Sexual Contact</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.22|(2)" proof="needed">940.22(2)</cite>
+                </td>
+                <td>Sexual Exploitation by Therapist, Sexual Contact</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.22|(3)">940.22(3)</cite>
-                </th>
-                <th>Sexual Exploitation by Therapist – Duty to Report</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.22|(3)" proof="needed">940.22(3)</cite>
+                </td>
+                <td>Sexual Exploitation by Therapist – Duty to Report</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.225|(1)">940.225(1)</cite>
-                </th>
-                <th>1<sup>st</sup> Degree Sexual Assault</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.225|(1)" proof="needed">940.225(1)</cite>
+                </td>
+                <td>1<sup>st</sup> Degree Sexual Assault</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.225|(2)">940.225(2)</cite>
-                </th>
-                <th>2<sup>nd</sup> Degree Sexual Assault</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.225|(2)" proof="needed">940.225(2)</cite>
+                </td>
+                <td>2<sup>nd</sup> Degree Sexual Assault</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.225|(3)">940.225(3)</cite>
-                </th>
-                <th>3<sup>rd</sup> Degree Sexual Assault</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.225|(3)" proof="needed">940.225(3)</cite>
+                </td>
+                <td>3<sup>rd</sup> Degree Sexual Assault</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.225|(3m)">940.225(3m)</cite>
-                </th>
-                <th>4<sup>th</sup> Degree Sexual Assault</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.225|(3m)" proof="needed">940.225(3m)</cite>
+                </td>
+                <td>4<sup>th</sup> Degree Sexual Assault</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.23">940.23</cite>
-                </th>
-                <th>Reckless Injury</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.23" proof="needed">940.23</cite>
+                </td>
+                <td>Reckless Injury</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.25">940.25</cite>
-                </th>
-                <th>Injury by Intoxicated Use of a Vehicle</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.25" proof="needed">940.25</cite>
+                </td>
+                <td>Injury by Intoxicated Use of a Vehicle</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th><cite path="§940.285|(F)">940.285(F)</cite> (M)</th>
-                <th>Abuse of Vulnerable Adults (Felony and Misdemeanor)</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§940.29">940.29</cite>
-                </th>
-                <th>Abuse of Residents of a Penal Facility</th>
-                <th>XX</th>
+                <td><cite doc="Wis. Stat." path="§940.285|(F)" proof="needed">940.285(F)</cite> (M)</td>
+                <td>Abuse of Vulnerable Adults (Felony and Misdemeanor)</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.291">940.291</cite>
-                </th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.29" proof="needed">940.29</cite>
+                </td>
+                <td>Abuse of Residents of a Penal Facility</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.291" proof="needed">940.291</cite>
+                </td>
                 <td>Law Enforcement – Failure to Render Aid</td>
-                <th>XX</th>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th><cite path="§940.295|(F)">940.295 (F)</cite> (M)</th>
-                <th>Abuse/Neglect of Patients and Residents</th>
-                <th>XX</th>
+                <td><cite doc="Wis. Stat." path="§940.295|(F)" proof="needed">940.295 (F)</cite> (M)</td>
+                <td>Abuse/Neglect of Patients and Residents</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.30">940.30</cite>
-                </th>
-                <th>False Imprisonment</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.30" proof="needed">940.30</cite>
+                </td>
+                <td>False Imprisonment</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.305">940.305</cite>
-                </th>
-                <th>Taking Hostages</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§940.31">940.31</cite>
-                </th>
-                <th>Kidnapping</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.305" proof="needed">940.305</cite>
+                </td>
+                <td>Taking Hostages</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.32">940.32</cite>
-                </th>
-                <th>Stalking (Felony)</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.31" proof="needed">940.31</cite>
+                </td>
+                <td>Kidnapping</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§940.32">940.32</cite>
-                </th>
-                <th>Stalking (Misdemeanor)</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§940.43">940.43</cite>
-                </th>
-                <th>Intimidation of Witnesses</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§940.45">940.45</cite>
-                </th>
-                <th>Intimidation of Victims (F or M)</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§941.20|(1)">941.20(1)</cite>
-                </th>
-                <th>Endangering Safety – Dangerous Weapon (M)</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th><cite path="§941.20|(2)">941.20(2)</cite> or (3)</th>
-                <th>Endangering Safety – Dangerous Weapon (F)</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.32" proof="needed">940.32</cite>
+                </td>
+                <td>Stalking (Felony)</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§941.21">941.21</cite>
-                </th>
-                <th>Disarming a Peace Officer</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.32" proof="needed">940.32</cite>
+                </td>
+                <td>Stalking (Misdemeanor)</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§941.30">941.30</cite>
-                </th>
-                <th>Recklessly Endangering Safety</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.43" proof="needed">940.43</cite>
+                </td>
+                <td>Intimidation of Witnesses</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§941.32">941.32</cite>
-                </th>
-                <th>Administering Dangerous or Stupefying Drug</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§940.45" proof="needed">940.45</cite>
+                </td>
+                <td>Intimidation of Victims (F or M)</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§941.20|(1)" proof="needed">941.20(1)</cite>
+                </td>
+                <td>Endangering Safety – Dangerous Weapon (M)</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td><cite doc="Wis. Stat." path="§941.20|(2)" proof="needed">941.20(2)</cite> or (3)</td>
+                <td>Endangering Safety – Dangerous Weapon (F)</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§941.38">941.38</cite>
-                </th>
-                <th>Criminal Gang Member Solicitation &amp; Contact</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§941.21" proof="needed">941.21</cite>
+                </td>
+                <td>Disarming a Peace Officer</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§941.30" proof="needed">941.30</cite>
+                </td>
+                <td>Recklessly Endangering Safety</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§941.32" proof="needed">941.32</cite>
+                </td>
+                <td>Administering Dangerous or Stupefying Drug</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§942.08">942.08</cite>
-                </th>
+                <td>
+                  <cite doc="Wis. Stat." path="§941.38" proof="needed">941.38</cite>
+                </td>
+                <td>Criminal Gang Member Solicitation &amp; Contact</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§942.08" proof="needed">942.08</cite>
+                </td>
                 <td>Invasion of Privacy</td>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§943.10|(1)">943.10(1)</cite>
-                </th>
-                <th>Burglary</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§943.10|(2)">943.10(2)</cite>
-                </th>
-                <th>Burglary While Armed</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§943.20">943.20</cite>
-                </th>
-                <th>Theft</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§943.201">943.201</cite>
-                </th>
-                <th>Misappropriation of Personal Identifying Information or Documents</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§943.23|(1g, 1m,or 1r)">943.23(1g, 1m,or 1r)</cite>
-                </th>
-                <th>Operate Motor Vehicle without Owners Consent</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§943.32|(1)">943.32(1)</cite>
-                </th>
-                <th>Robbery (F)</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§943.32|(2)">943.32(2)</cite>
-                </th>
-                <th>Robbery with a Dangerous Weapon</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§943.50">943.50</cite>
-                </th>
-                <th>Retail Theft</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§944.20">944.20</cite>
-                </th>
-                <th>Lewd and Lascivious Behavior</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§944.205">944.205</cite>
-                </th>
-                <th>Photographs, Motion Pictures, Videotapes, or Other Visual Representations Showing Nudity</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§946.43">946.43</cite>
-                </th>
-                <th>Assaults by Prisoners</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§946.74|(1)">946.74(1)</cite>
-                </th>
-                <th>Aiding Escape from Mental Institution (Misdemeanor)</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§946.74|(2)">946.74(2)</cite>
-                </th>
-                <th>Aiding Escape from Mental Institution (Felony)</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§947.013">947.013</cite>
-                </th>
-                <td proof="needed">
-                  <p>Harassment</p>
-                  <p>
-                    <strong>Forfeiture</strong>
-                  </p>
-                  <p>
-                    <strong>Misdemeanor</strong>
-                  </p>
-                  <p>Felony</p>
-                </td>
-                <td proof="needed">
-                  <p>XX</p>
-                  <p>XX</p>
-                </td>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.02|(1)">948.02(1)</cite>
-                </th>
-                <th>1<sup>st</sup> Degree Sexual Assault of a Child</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.02|(2)">948.02(2)</cite>
-                </th>
-                <th>2<sup>nd</sup> Degree Sexual Assault of a Child</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.02|(3)">948.02(3)</cite>
-                </th>
-                <th>Sexual Assault of a Child – Failure to Act</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.02|(3m)">948.02(3m)</cite>
-                </th>
-                <th proof="needed">
-                  <p>Sexual Assault of a Child – Sexual Assault by Certain</p>
-                  <p>Persons</p>
-                </th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.025">948.025</cite>
-                </th>
-                <th>Repeated Acts of Sexual Assault of Same Child</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.03|(2)">948.03(2)</cite>
-                </th>
-                <th>Physical Abuse of a Child - Intentional</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.03|(3)">948.03(3)</cite>
-                </th>
-                <th>Physical Abuse of a Child – Reckless</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.03|(4)">948.03(4)</cite>
-                </th>
-                <th>Physical Abuse of a Child – Failure to Act</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.04">948.04</cite>
-                </th>
-                <th>Causing Mental Harm to a Child</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.05">948.05</cite>
-                </th>
-                <th>Sexual Exploitation of a Child</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.055">948.055</cite>
-                </th>
-                <th>Causing a Child to View or Listen to Sexual Activity</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.06">948.06</cite>
-                </th>
-                <th>Incest with a Child</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.07">948.07</cite>
-                </th>
-                <th>Child Enticement</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.08">948.08</cite>
-                </th>
-                <th>Soliciting a Child fro Prostitution</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.09">948.09</cite>
-                </th>
-                <th>Sexual Assault with a Child Age 16 or Older</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.095">948.095</cite>
-                </th>
-                <th>Sexual Assault of Student by School Staff</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.10">948.10</cite>
-                </th>
-                <th>Exposing Genitals or Pubic Area</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.11|(2a)">948.11(2a)</cite>
-                </th>
-                <th>Exposing a Child to Harmful Material (Felony)</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.11|(2b)">948.11(2b)</cite>
-                </th>
-                <th>Exposing a Child to Harmful Material (Misdemeanor)</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.12">948.12</cite>
-                </th>
-                <th>Possession of Child Pornography</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.13">948.13</cite>
-                </th>
-                <th>Child Sex Offender Working with Children</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.20">948.20</cite>
-                </th>
-                <th>Abandonment of a Child</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.21">948.21</cite>
-                </th>
-                <th>Neglecting a Child (Misdemeanor)</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.21">948.21</cite>
-                </th>
-                <th>Neglecting a Child – Result in Death (F)</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.22">948.22</cite>
-                </th>
-                <th>Failure to Support (F)</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.23">948.23</cite>
-                </th>
-                <th>Concealing Death of Child</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.24">948.24</cite>
-                </th>
-                <th>Unauthorized Placement for Adoption</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.30">948.30</cite>
-                </th>
-                <th>Abduction of Another's Child; Constructive Custody</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.31">948.31</cite>
-                </th>
-                <th>Interference with Custody by Parent or Others</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.35">948.35</cite>
-                </th>
-                <th>Solicitation of a Child to Commit a Felony</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.36">948.36</cite>
-                </th>
-                <th>Solicitation of a Chile to Commit a Class A Felony</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.40">948.40</cite>
-                </th>
-                <th>Contribute to the Delinquency of a Minor (M)</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.40">948.40</cite>
-                </th>
-                <th>Contribute to the Delinquency of a Minor (F)</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§948.51">948.51</cite>
-                </th>
-                <td proof="needed">
-                  <p>Hazing</p>
-                  <p>Felony</p>
-                  <p>
-                    <strong>Misdemeanor</strong>
-                  </p>
-                </td>
                 <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§943.10|(1)" proof="needed">943.10(1)</cite>
+                </td>
+                <td>Burglary</td>
+                <td proof="needed"/>
                 <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§948.60">948.60</cite>
-                </th>
-                <th proof="needed">
+                <td>
+                  <cite doc="Wis. Stat." path="§943.10|(2)" proof="needed">943.10(2)</cite>
+                </td>
+                <td>Burglary While Armed</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§943.20" proof="needed">943.20</cite>
+                </td>
+                <td>Theft</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§943.201" proof="needed">943.201</cite>
+                </td>
+                <td>Misappropriation of Personal Identifying Information or Documents</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§943.23|(1g, 1m,or 1r)" proof="needed">943.23(1g, 1m,or 1r)</cite>
+                </td>
+                <td>Operate Motor Vehicle without Owners Consent</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§943.32|(1)" proof="needed">943.32(1)</cite>
+                </td>
+                <td>Robbery (F)</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§943.32|(2)" proof="needed">943.32(2)</cite>
+                </td>
+                <td>Robbery with a Dangerous Weapon</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§943.50" proof="needed">943.50</cite>
+                </td>
+                <td>Retail Theft</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§944.20" proof="needed">944.20</cite>
+                </td>
+                <td>Lewd and Lascivious Behavior</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§944.205" proof="needed">944.205</cite>
+                </td>
+                <td>Photographs, Motion Pictures, Videotapes, or Other Visual Representations Showing Nudity</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§946.43" proof="needed">946.43</cite>
+                </td>
+                <td>Assaults by Prisoners</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§946.74|(1)" proof="needed">946.74(1)</cite>
+                </td>
+                <td>Aiding Escape from Mental Institution (Misdemeanor)</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§946.74|(2)" proof="needed">946.74(2)</cite>
+                </td>
+                <td>Aiding Escape from Mental Institution (Felony)</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§947.013" proof="needed">947.013</cite>
+                </td>
+                <td proof="needed">
+                  <p><u>Harassment</u></p>
+                  <p>Forfeiture</p>
+                  <p>Misdemeanor</p>
+                  <p>Felony</p>
+                </td>
+                <td proof="needed">
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <p>XX</p>
+                  <p>XX</p>
+                </td>
+                <td>
+                  <br/>
+                  <br/>
+                  <p>XX</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.02|(1)" proof="needed">948.02(1)</cite>
+                </td>
+                <td>1<sup>st</sup> Degree Sexual Assault of a Child</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.02|(2)" proof="needed">948.02(2)</cite>
+                </td>
+                <td>2<sup>nd</sup> Degree Sexual Assault of a Child</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.02|(3)" proof="needed">948.02(3)</cite>
+                </td>
+                <td>Sexual Assault of a Child – Failure to Act</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.02|(3m)" proof="needed">948.02(3m)</cite>
+                </td>
+                <td proof="needed">
+                  <p>Sexual Assault of a Child – Sexual Assault by Certain Persons</p>
+                </td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.025" proof="needed">948.025</cite>
+                </td>
+                <td>Repeated Acts of Sexual Assault of Same Child</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.03|(2)" proof="needed">948.03(2)</cite>
+                </td>
+                <td>Physical Abuse of a Child - Intentional</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.03|(3)" proof="needed">948.03(3)</cite>
+                </td>
+                <td>Physical Abuse of a Child – Reckless</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.03|(4)" proof="needed">948.03(4)</cite>
+                </td>
+                <td>Physical Abuse of a Child – Failure to Act</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.04" proof="needed">948.04</cite>
+                </td>
+                <td>Causing Mental Harm to a Child</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.05" proof="needed">948.05</cite>
+                </td>
+                <td>Sexual Exploitation of a Child</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.055" proof="needed">948.055</cite>
+                </td>
+                <td>Causing a Child to View or Listen to Sexual Activity</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.06" proof="needed">948.06</cite>
+                </td>
+                <td>Incest with a Child</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.07" proof="needed">948.07</cite>
+                </td>
+                <td>Child Enticement</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.08" proof="needed">948.08</cite>
+                </td>
+                <td>Soliciting a Child fro Prostitution</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.09" proof="needed">948.09</cite>
+                </td>
+                <td>Sexual Assault with a Child Age 16 or Older</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.095" proof="needed">948.095</cite>
+                </td>
+                <td>Sexual Assault of Student by School Staff</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.10" proof="needed">948.10</cite>
+                </td>
+                <td>Exposing Genitals or Pubic Area</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.11|(2a)" proof="needed">948.11(2a)</cite>
+                </td>
+                <td>Exposing a Child to Harmful Material (Felony)</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.11|(2b)" proof="needed">948.11(2b)</cite>
+                </td>
+                <td>Exposing a Child to Harmful Material (Misdemeanor)</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.12" proof="needed">948.12</cite>
+                </td>
+                <td>Possession of Child Pornography</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.13" proof="needed">948.13</cite>
+                </td>
+                <td>Child Sex Offender Working with Children</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.20" proof="needed">948.20</cite>
+                </td>
+                <td>Abandonment of a Child</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.21" proof="needed">948.21</cite>
+                </td>
+                <td>Neglecting a Child (Misdemeanor)</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.21" proof="needed">948.21</cite>
+                </td>
+                <td>Neglecting a Child – Result in Death (F)</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.22" proof="needed">948.22</cite>
+                </td>
+                <td>Failure to Support (F)</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.23" proof="needed">948.23</cite>
+                </td>
+                <td>Concealing Death of Child</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.24" proof="needed">948.24</cite>
+                </td>
+                <td>Unauthorized Placement for Adoption</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.30" proof="needed">948.30</cite>
+                </td>
+                <td>Abduction of Another's Child; Constructive Custody</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.31" proof="needed">948.31</cite>
+                </td>
+                <td>Interference with Custody by Parent or Others</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.35" proof="needed">948.35</cite>
+                </td>
+                <td>Solicitation of a Child to Commit a Felony</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.36" proof="needed">948.36</cite>
+                </td>
+                <td>Solicitation of a Chile to Commit a Class A Felony</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.40" proof="needed">948.40</cite>
+                </td>
+                <td>Contribute to the Delinquency of a Minor (M)</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.40" proof="needed">948.40</cite>
+                </td>
+                <td>Contribute to the Delinquency of a Minor (F)</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.51" proof="needed">948.51</cite>
+                </td>
+                <td proof="needed">
+                  <p><u>Hazing</u></p>
+                  <p>Felony</p>
+                  <p>Misdemeanor</p>
+                </td>
+                <td>
+                  <br/>
+                  <br/>
+                  <p>XX</p>
+                </td>
+                <td>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <p>XX</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.60" proof="needed">948.60</cite>
+                </td>
+                <td proof="needed">
                   <p>Possession of a Dangerous Weapon by Person Under 18</p>
                   <p>(Felony)</p>
-                </th>
+                </td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§948.605|(3)">948.605(3)</cite>
-                </th>
-                <th>Gun-Free School Zones; Discharge of Firearm (F)</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.605|(3)" proof="needed">948.605(3)</cite>
+                </td>
+                <td>Gun-Free School Zones; Discharge of Firearm (F)</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§948.61">948.61</cite>
-                </th>
-                <th>Dangerous Weapons Other Than Firearms on School Premises</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.61" proof="needed">948.61</cite>
+                </td>
+                <td>Dangerous Weapons Other Than Firearms on School Premises</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§948.62">948.62</cite>
-                </th>
-                <th>Receiving Stolen Property from a Child (Felony)</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§948.62" proof="needed">948.62</cite>
+                </td>
+                <td>Receiving Stolen Property from a Child (Felony)</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>********</th>
+                <td>********</td>
                 <td>
                   <u>ALL OTHER 948 CRIMES THAT ARE FELONIES</u>
                 </td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§961.41|(1)">961.41(1)</cite>
-                </th>
-                <th>Manufacture, Distribution, or Delivery</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§961.41|(1)" proof="needed">961.41(1)</cite>
+                </td>
+                <td>Manufacture, Distribution, or Delivery</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§961.41|(1m)">961.41(1m)</cite>
-                </th>
-                <th>Possession with Intent to Manufacture, Distribute, or Deliver</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§961.41|(1m)" proof="needed">961.41(1m)</cite>
+                </td>
+                <td>Possession with Intent to Manufacture, Distribute, or Deliver</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§961.41|(3g)">961.41(3g)</cite>
-                </th>
-                <th>Possession (F)</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§961.41|(3g)" proof="needed">961.41(3g)</cite>
+                </td>
+                <td>Possession (F)</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§961.43|(1)|(a)">961.43(1)(a)</cite>
-                </th>
-                <th>Acquire or Obtain Possession of a Controlled Substance by Misrepresentation, Fraud, Forgery, Deception, or Subterfuge (Felony)</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§961.43|(1)|(a)" proof="needed">961.43(1)(a)</cite>
+                </td>
+                <td>Acquire or Obtain Possession of a Controlled Substance by Misrepresentation, Fraud, Forgery, Deception, or Subterfuge (Felony)</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§961.43|(1)|(b)">961.43(1)(b)</cite>
-                </th>
-                <th>To Possess/Make a Counterfeit Substance or to Duplicate the Appearance, Packaging, Form or Label of a Controlled Substance (Felony)</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§961.43|(1)|(b)" proof="needed">961.43(1)(b)</cite>
+                </td>
+                <td>To Possess/Make a Counterfeit Substance or to Duplicate the Appearance, Packaging, Form or Label of a Controlled Substance (Felony)</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§961.455">961.455</cite>
-                </th>
-                <th>Using a Child for Illegal Drug Distribution or Manufacturing Purposes</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§961.455" proof="needed">961.455</cite>
+                </td>
+                <td>Using a Child for Illegal Drug Distribution or Manufacturing Purposes</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§961.46">961.46</cite>
-                </th>
-                <th proof="needed">
-                  <p>
-                    <u>Distribution to Persons Under 18</u>
-                  </p>
-                  <p>(Felony)</p>
-                  <p>(Misdemeanor)</p>
-                </th>
+                <td>
+                  <cite doc="Wis. Stat." path="§961.46" proof="needed">961.46</cite>
+                </td>
                 <td proof="needed">
+                  <p><u>Distribution to Persons Under 18</u></p>
+                  <p>               (Felony)</p>
+                  <p>               (Misdemeanor)</p>
+                </td>
+                <td proof="needed">
+                  <br/>
+                  <br/>
+                  <br/>
                   <p>XX</p>
                   <p>XX</p>
                 </td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>
-                  <cite path="§961.465">961.465</cite>
-                </th>
-                <th>Distribution to Prisoners</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§961.465" proof="needed">961.465</cite>
+                </td>
+                <td>Distribution to Prisoners</td>
                 <td proof="needed"/>
-                <th>XX</th>
+                <td>XX</td>
               </tr>
               <tr>
-                <th>
-                  <cite path="§961.49">961.49</cite>
-                </th>
-                <th>Distribution of or Possession with Intent to Deliver at or Near Certain Places</th>
-                <th>XX</th>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§961.492">961.492</cite>
-                </th>
-                <th>Distribution of or Possession with Intent to Deliver on Public Transit (Felony)</th>
-                <td proof="needed"/>
-                <th>XX</th>
-              </tr>
-              <tr>
-                <th>
-                  <cite path="§961.575">961.575</cite>
-                </th>
-                <th>Delivery of Drug Paraphernalia to a Minor (Misd)</th>
-                <th>XX</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§961.49" proof="needed">961.49</cite>
+                </td>
+                <td>Distribution of or Possession with Intent to Deliver at or Near Certain Places</td>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
               <tr>
-                <th>********</th>
+                <td>
+                  <cite doc="Wis. Stat." path="§961.492" proof="needed">961.492</cite>
+                </td>
+                <td>Distribution of or Possession with Intent to Deliver on Public Transit (Felony)</td>
+                <td proof="needed"/>
+                <td>XX</td>
+              </tr>
+              <tr>
+                <td>
+                  <cite doc="Wis. Stat." path="§961.575" proof="needed">961.575</cite>
+                </td>
+                <td>Delivery of Drug Paraphernalia to a Minor (Misd)</td>
+                <td>XX</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td>********</td>
                 <td>ALL OTHER 961 CRIMES THAT ARE FELONIES</td>
-                <th>XX</th>
+                <td>XX</td>
                 <td proof="needed"/>
               </tr>
             </tbody>
@@ -6155,10 +6171,7 @@
                 <td proof="needed" colspan="4">
                   <p>**All crime convictions include attempt, conspiracy, solicitation, or party to crimes</p>
                   <p>
-                    <strong>**If conviction is from another jurisdiction and involves all elements of an above-listed crime, that</strong>
-                  </p>
-                  <p>
-                    <strong>conviction or plea is treated as the above-listed crime</strong>
+                    <strong>**If conviction is from another jurisdiction and involves all elements of an above-listed crime, that conviction or plea is treated as the above-listed crime</strong>
                   </p>
                 </td>
               </tr>
@@ -6179,6 +6192,7 @@
         <text>Wisconsin Department of Health and Family Services approves Tribal Elder/Youth License and Tribe as a Tribal Designated Rehabilitative Review Agency, May 8, 2000.</text>
         <text>On November 19, 2002, Tribal Council, by Resolution No. 071-02, amended sections <cite path="§YAE.10.06|(b)">Section YAE.10.06(b)</cite> [90 days to 120 days], <cite path="§YAE.10.06|(b)|(2)">Section YAE.10.06(b)(2)</cite> [90 days to 120 days], <cite path="§YAE.10.08|(e)">Section YAE.10.08(e)</cite> [2 years to 4 years], <cite path="§YAE.10.09|(a)|(1)">Section YAE.10.09(a)(1)</cite> [90 days to 120 days], and <cite path="§YAE.10.09|(b)">Section YAE.10.09(b)</cite> clarifying Compliance and Human Resources responsibilities.  Approved by BIA December 31, 2002.  Wisconsin Department of Health and Family Services notified on January 14, 2003.</text>
         <text>On December 16, 2003, Tribal Council, by Resolution No.  056-03, amended <cite path="§YAE.10.09">Section YAE.10.09</cite> by creating Sections <cite path="§YAE.10.09|(b)|(1)">Section YAE.10.09(b)(1)</cite>, <cite path="§YAE.10.09|(b)|(1)|(A)">Section YAE.10.09(b)(1)(A)</cite>, <cite path="§YAE.10.09|(b)|(1)|(B)">Section YAE.10.09(b)(1)(B)</cite> and <cite path="§YAE.10.09|(b)|(2)">Section YAE.10.09(b)(2)</cite>.  Approved by BIA on January 22, 2004.</text>
+        <text>On October 26, 2010, the Tribal Council adopted Resolution No. 01-11 requiring that Elder/Youth licensing requirements apply to persons consistent with requirements under the Wisconsin caregiver law adopted in 2009.  This resolution required that caregiver background checks for certified childcare providers, household members, employees, assistants and helpers shall be evaluated and addressed in accordance with the provisions of Chapters 48.685 and 50.065, Wis. Stats., and as enumerated in Chapter DHS 12 APPENDIX A, OFFENSES AFFECTING CAREGIVER ELIGIBILITY, SEPTEMBER 2000, in lieu of the Chapter 65 licensing requirements.  This resolution was made effective until Chapter 65 was amended or the resolution was revoked.</text>
       </annotation>
     </annotations>
   </container>
@@ -6221,7 +6235,7 @@
       <num>YAE.11.03</num>
       <para>
         <num>(a)</num>
-        <text>This Code supplements and expands on those protections afforded to all Tribal members in the Community's <em>Domestic Abuse Ordinance </em>(<cite path="DMR|DMR.03">Chapter DMR.03</cite>) and <em>Family Violence Ordinance </em>(<cite path="DMR|DMR.04">Chapter DMR.04</cite>). The provisions of this Code shall control in event of conflicting or inconsistent policy or procedures of the Community's <em>Domestic Abuse Ordinance </em>and/or <em>Family Violence Ordinance</em>.</text>
+        <text>This Code supplements and expands on those protections afforded to all Tribal members in the Community's <u>Domestic Abuse Ordinance </u>(Chapter 63) and <u>Family Violence Ordinance </u>(Chapter 64). The provisions of this Code shall control in event of conflicting or inconsistent policy or procedures of the Community's <u>Domestic Abuse Ordinance </u>and/or <u>Family Violence Ordinance</u>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -6234,7 +6248,7 @@
       <num>YAE.11.04</num>
       <para>
         <num>(a)</num>
-        <text>The dignity and self-reliance of the Community's Elders shall be acknowledged and respected by family members, the Tribal community, and employees of the Community. The rights of each Elder shall be protected. See <cite path="§YAE.11.18">Section YAE.11.18</cite>, <em>Rights of Elders, Their Families, Caretakers and Guardians </em>for specific rights and protections.</text>
+        <text>The dignity and self-reliance of the Community's Elders shall be acknowledged and respected by family members, the Tribal community, and employees of the Community. The rights of each Elder shall be protected. See <cite path="§YAE.11.18">Section YAE.11.18</cite>, <u>Rights of Elders, Their Families, Caretakers and Guardians </u>for specific rights and protections.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -6875,7 +6889,7 @@
     <section>
       <heading>Determining Incapacity.</heading>
       <num>YAE.11.20</num>
-      <text>The Court shall determine, when necessary, whether an Elder is incapacitated and the degree of incapacity. A finding of incapacity shall be based on clear and convincing evidence of incapacitation and on a medical doctor's evaluation and report as to degree of incapacitation. A guardian may be appointed pursuant to <cite path="YAE|YAE.03">Chapter YAE.03</cite>, <em>Guardianship.</em></text>
+      <text>The Court shall determine, when necessary, whether an Elder is incapacitated and the degree of incapacity. A finding of incapacity shall be based on clear and convincing evidence of incapacitation and on a medical doctor's evaluation and report as to degree of incapacitation. A guardian may be appointed pursuant to Chapter 9, <u>Guardianship.</u></text>
       <annotation type="Prior Codifications">§YAE.11.20 was formerly codified as §66.20</annotation>
     </section>
     <section>
