@@ -2069,7 +2069,8 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Notice of Hearing:  Notice of hearing shall be served on all parties in the manner specified under <cite path="§YAE.01.12">Section YAE.01.12</cite> of <cite path="YAE|YAE.01">Chapter YAE.01</cite>.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
+        <heading>Notice of Hearing:</heading>
+        <text>Notice of hearing shall be served on all parties in the manner specified under <cite path="§YAE.01.12">Section YAE.01.12</cite> of <cite path="YAE|YAE.01">Chapter YAE.01</cite>.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
         <para>
           <num>(1)</num>
           <text>The youth;</text>
@@ -2089,23 +2090,28 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Pre-termination Report - Preparation:  The Indian Child Welfare Worker, in consultation with the Social Services Staff and/or Child Protective Board, shall prepare a pre-termination report.  In preparing the report the Indian Child Welfare Worker shall consult with the Youth╒s parents, guardian, or custodian and all social services, health, law enforcement and education personnel who have had prior professional contacts with the youth and his or her parent(s), guardian or custodian to determine whether termination of parental rights would be in the best interest of the youth.  The Indian Child Welfare Worker may also review any pertinent court record.  In addition, the Indian Child Welfare Worker must obtain from the Stockbridge-Munsee Tribal Council any recommendation it may have as to disposition and any other relevant issues.  The pre-termination report shall be in writing and contain the professional opinion of all personnel consulted.</text>
+        <heading>Pre-termination Report - Preparation:</heading>
+        <text>The Indian Child Welfare Worker, in consultation with the Social Services Staff and/or Child Protective Board, shall prepare a pre-termination report.  In preparing the report the Indian Child Welfare Worker shall consult with the Youth╒s parents, guardian, or custodian and all social services, health, law enforcement and education personnel who have had prior professional contacts with the youth and his or her parent(s), guardian or custodian to determine whether termination of parental rights would be in the best interest of the youth.  The Indian Child Welfare Worker may also review any pertinent court record.  In addition, the Indian Child Welfare Worker must obtain from the Stockbridge-Munsee Tribal Council any recommendation it may have as to disposition and any other relevant issues.  The pre-termination report shall be in writing and contain the professional opinion of all personnel consulted.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Pre-termination Report - Service:  The Indian Child Welfare Worker shall mail the pre-termination report to the Court and all parties to the proceeding, at least ten (10) days before the hearing.</text>
+        <heading>Pre-termination Report - Service:</heading>
+        <text>The Indian Child Welfare Worker shall mail the pre-termination report to the Court and all parties to the proceeding, at least ten (10) days before the hearing.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Additional Reports:  Any party may file a pre-termination report which shall include his or her recommendations for consideration by the Court.</text>
+        <heading>Additional Reports:</heading>
+        <text>Any party may file a pre-termination report which shall include his or her recommendations for consideration by the Court.</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>Termination Hearing - Purpose:  The Court shall conduct the termination hearing to determine whether termination of parental rights is in the best interest of the youth.</text>
+        <heading>Termination Hearing - Purpose:</heading>
+        <text>The Court shall conduct the termination hearing to determine whether termination of parental rights is in the best interest of the youth.</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>Termination Hearing - Conduct:  The hearing shall be private and closed.  The following procedural rules apply, <cite path="§8.8|(F)">Section 8.8 (F)</cite>-(O) of <cite path="YAE|YAE.02">Chapter YAE.02</cite>.</text>
+        <heading>Termination Hearing - Conduct:</heading>
+        <text>The hearing shall be private and closed.  The following procedural rules apply, <cite path="§8.8|(F)">Section 8.8 (F)</cite>-(O) of <cite path="YAE|YAE.02">Chapter YAE.02</cite>.</text>
         <para>
           <num>(1)</num>
           <text>The Court shall hear testimony to determine whether termination of parental rights is in the best interest of the youth.  The Court shall consider all pre-termination reports submitted for review.</text>
@@ -2197,6 +2203,18 @@
       <text>If a youth is eligible for enrollment in the Stockbridge-Munsee Tribe, the Indian Child Welfare Worker shall submit an application for enrollment of the youth to the Stockbridge-Munsee Community tribal enrollment clerk prior to any final order terminating parental rights.</text>
       <annotation type="Prior Codifications">§YAE.04.06 was formerly codified as §10.6</annotation>
     </section>
+    <annotations>
+      <annotation type="Legislative History">
+        <para>
+          <num>1</num>
+          <text>Stockbridge-Munsee Children’s Code approved by Tribal Council, August 8, 1981, by Resolution No. 0764.</text>
+        </para>
+        <para>
+          <num>2</num>
+          <text>Ordinance Committee revised as Stockbridge-Munsee Youth Code. Tribal Council adopted Youth Code by motion August 16, 1988. Resolution No. 1104 dated August 29, 1988 officially adopted Youth Code, at a Council meeting on September 20, 1988.  BIA recommended changes that were approved by Tribal Council by Resolution No. 1161, July 18, 1989.</text>
+        </para>
+      </annotation>
+    </annotations>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -2207,11 +2225,13 @@
       <heading>Adoption - General Provisions.</heading>
       <para>
         <num>(a)</num>
-        <text>Petition - Who May File:  Any person eighteen (18) years or older wishing to adopt a youth may file a petition with the Youth Court requesting that he or she be appointed as an adoptive parent. If the petitioner is married:  his or her spouse must also be at least eighteen (18) years old and must sign the petition unless the spouse's whereabouts is unknown or unless this requirement is waived by the Court.  "Spouse" for purposes here includes parties to a marriage recognized under tribal custom or parties to a relationship wherein the couple has resided together for seven (7) years or more and intend to reside together as a family.</text>
+        <heading>Petition - Who May File:</heading>
+        <text>Any person eighteen (18) years or older wishing to adopt a youth may file a petition with the Youth Court requesting that he or she be appointed as an adoptive parent. If the petitioner is married:  his or her spouse must also be at least eighteen (18) years old and must sign the petition unless the spouse's whereabouts is unknown or unless this requirement is waived by the Court.  "Spouse" for purposes here includes parties to a marriage recognized under tribal custom or parties to a relationship wherein the couple has resided together for seven (7) years or more and intend to reside together as a family.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Petition - Contents:  The adoption petition shall include:</text>
+        <heading>Petition - Contents:</heading>
+        <text>The adoption petition shall include:</text>
         <para>
           <num>(1)</num>
           <text>The name, date of birth, residence and tribal status of the Youth;</text>
@@ -2254,11 +2274,13 @@
       <num>YAE.05.03</num>
       <para>
         <num>(a)</num>
-        <text>Setting the Hearing:  When the Court receives the petition for adoption, it shall set a date for the adoption hearing, which shall not be more than sixty (60) days after the Court receives the petition, unless extended for good cause shown.</text>
+        <heading>Setting the Hearing</heading>
+        <text>When the Court receives the petition for adoption, it shall set a date for the adoption hearing, which shall not be more than sixty (60) days after the Court receives the petition, unless extended for good cause shown.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Notice of Hearing:  Notice of hearing shall be served on all parties in the manner specified under <cite path="§YAE.01.12">Section YAE.01.12</cite> of <cite path="YAE|YAE.01">Chapter YAE.01</cite>.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
+        <heading>Notice of Hearing</heading>
+        <text>Notice of hearing shall be served on all parties in the manner specified under <cite path="§YAE.01.12">Section YAE.01.12</cite> of <cite path="YAE|YAE.01">Chapter YAE.01</cite>.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
         <para>
           <num>(1)</num>
           <text>The petitioner(s);</text>
@@ -2286,7 +2308,8 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Pre-Adoption Report:  The Indian Child Welfare Worker, in consultation with the Social Services Staff, shall prepare a pre-adoption report.  In preparing the report, the Indian Child Welfare Worker shall conduct a complete home study including all information reasonably available concerning:</text>
+        <heading>Pre-Adoption Report:</heading>
+        <text>The Indian Child Welfare Worker, in consultation with the Social Services Staff, shall prepare a pre-adoption report.  In preparing the report, the Indian Child Welfare Worker shall conduct a complete home study including all information reasonably available concerning:</text>
         <para>
           <num>(1)</num>
           <text>The physical and mental condition of the youth, the petitioner(s) and the petitioner(s)' family;</text>
@@ -2319,19 +2342,23 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Pre-Adoption Report - Service:  The Indian Child Welfare Worker shall mail the pre-adoption report to the Court and all parties to the proceedings at least ten (10) days before the hearing.</text>
+        <heading>Pre-Adoption Report - Service</heading>
+        <text>The Indian Child Welfare Worker shall mail the pre-adoption report to the Court and all parties to the proceedings at least ten (10) days before the hearing.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Additional Reports:  Any party may file a report which shall include his or her recommendations for consideration by the Court.</text>
+        <heading>Additional Reports</heading>
+        <text>Any party may file a report which shall include his or her recommendations for consideration by the Court.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Adoption Hearing - Purpose:  The Court shall conduct the adoption hearing to determine whether adoption is in the best interest of the youth.</text>
+        <heading>Adoption Hearing - Purpose</heading>
+        <text>The Court shall conduct the adoption hearing to determine whether adoption is in the best interest of the youth.</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>Adoption Hearing - Conduct:  The hearing shall be private and closed.  The following procedural rules apply, <cite path="§8.8|(F)">Section 8.8 (F)</cite>-(O) of <cite path="YAE|YAE.02">Chapter YAE.02</cite>.</text>
+        <heading>Adoption Hearing - Conduct</heading>
+        <text>The hearing shall be private and closed.  The following procedural rules apply, <cite path="§8.8|(F)">Section 8.8 (F)</cite>-(O) of <cite path="YAE|YAE.02">Chapter YAE.02</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§YAE.05.03 was formerly codified as §11.3</annotation>
     </section>
@@ -2378,6 +2405,18 @@
       <text>All records, reports, proceedings, and orders in adoption cases are confidential and shall not be available for release or inspection.  Information contained in such records may be released upon petition to the Youth Court by the adopted person after reaching legal majority.  However, information may be released as necessary to amend the child's birth certificate.</text>
       <annotation type="Prior Codifications">§YAE.05.07 was formerly codified as §11.7</annotation>
     </section>
+    <annotations>
+      <annotation type="Legislative History">
+        <para>
+          <num>1</num>
+          <text>Stockbridge-Munsee Children’s Code approved by Tribal Council, August 8, 1981, by Resolution No. 0764.</text>
+        </para>
+        <para>
+          <num>2</num>
+          <text>Ordinance Committee revised as Stockbridge-Munsee Youth Code. Tribal Council adopted Youth Code by motion August 16, 1988. Resolution No. 1104 dated August 29, 1988 officially adopted Youth Code, at a Council meeting on September 20, 1988.  BIA recommended changes that were approved by Tribal Council by Resolution No. 1161, July 18, 1989.</text>
+        </para>
+      </annotation>
+    </annotations>
   </container>
   <container>
     <prefix>Chapter</prefix>
