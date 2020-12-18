@@ -84,14 +84,14 @@
     </section>
     <annotations>
       <annotation type="Legislative History">
-        <text>Ordinance Committee submitted Court Code to Tribal Council on September 5, 1988.</text>
-        <text>Council action to post Court Code at September 20, 1988.</text>
-        <text>Council approved Court Code October 4, 1988 by Resolution No. 1109.</text>
-        <text>A list of S-M Ordinances on file at Great Lake Agency, BIA, includes Court Code</text>
-        <text>Resolution No. 1489-95 dated April 25, 1995, affirms Court Code of 1988.</text>
-        <text>Resolution No. 1490-95 dated April 25, 1995 amends Court Code in <cite path="§1.03|(B)">section 1.03(B)</cite> by adding "For purposes of initial establishment of the Tribal Court, the first judges to the tribal court may be appointed by the Tribal Council to serve two-year terms.  When the two-year terms are expired, or as soon thereafter as the general tribal election is held, the tribal judges will thereafter be elected positions."</text>
-        <text>Resolution No. 1551-95 dated November 7, 1995, adopts the Mohican Judiciary Act containing revised Court Code, revised General Citation Ordinance, and the Stockbridge-Munsee Bill of Rights.  Mohican Judiciary Act forwarded to BIA for their review and approval on December 15, 1995.  Comments from BIA on July 5, 1996.  Approval letter from BIA on July 18, 1996.</text>
-        <text>Resolution No. 246-97, passed September 2, 1997, amended <cite path="§TCT.01.06">Section TCT.01.06</cite>, altering the method for selecting judges.  Judges are nominated by the Tribal Council and confirmed or denied by the Tribal Electorate.</text>
+        <para>
+          <num>1</num>
+          <text>Council approved Court Code October 4, 1988 by Resolution No. 1109. A list of S-M Ordinances on file at Great Lake Agency, BIA, includes Court Code. Resolution No. 1489-95 dated April 25, 1995, affirms Court Code of 1988.</text>
+        </para>
+        <para>
+          <num>2</num>
+          <text>Resolution No. 1551-95 dated November 7, 1995, adopts the Mohican Judiciary Act containing revised Court Code, revised General Citation Ordinance, and the Stockbridge-Munsee Bill of Rights. Mohican Judiciary Act forwarded to BIA for their review and approval on December 15, 1995. Comments from BIA on July 5, 1996. Approval letter from BIA on July 18, 1996.</text>
+        </para>
       </annotation>
     </annotations>
   </container>
