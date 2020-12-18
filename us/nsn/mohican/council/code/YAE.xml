@@ -1801,11 +1801,13 @@
       <heading>Starting An Action To Appoint Guardian</heading>
       <para>
         <num>(a)</num>
-        <text>Petition - Who May File:  Any person at least eighteen (18) years old may file a petition with the Tribal Court requesting that he or she be appointed as a guardian over a proposed ward.  If the petitioner is married:  his or her spouse must also be at least eighteen (18) years old and must sign the petition unless the spouse's whereabouts is unknown or unless this requirement is waived by the Court.</text>
+        <heading>Petition - Who May File:</heading>
+        <text>Any person at least eighteen (18) years old may file a petition with the Tribal Court requesting that he or she be appointed as a guardian over a proposed ward.  If the petitioner is married:  his or her spouse must also be at least eighteen (18) years old and must sign the petition unless the spouse's whereabouts is unknown or unless this requirement is waived by the Court.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Petition - Contents:  A petition for appointment of guardian shall include:</text>
+        <heading>Petition - Contents:</heading>
+        <text>A petition for appointment of guardian shall include:</text>
         <para>
           <num>(1)</num>
           <text>The name, birth date, residence, and tribal status of the proposed ward;</text>
@@ -1826,11 +1828,13 @@
       <num>YAE.03.02</num>
       <para>
         <num>(a)</num>
-        <text>Setting the Hearing:  When the Court receives the petition it shall set a hearing date, which shall not be more than thirty-five (35) calendar days after the Court receives the petition.</text>
+        <heading>Setting the Hearing:</heading>
+        <text>When the Court receives the petition it shall set a hearing date, which shall not be more than thirty-five (35) calendar days after the Court receives the petition.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Notice of Hearing:   Notice of hearing shall be served on all parties in the manner specified under <cite path="§YAE.01.12">Section YAE.01.12</cite> of <cite path="YAE|YAE.01">Chapter YAE.01</cite>.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
+        <heading>Notice of Hearing:</heading>
+        <text>Notice of hearing shall be served on all parties in the manner specified under <cite path="§YAE.01.12">Section YAE.01.12</cite> of <cite path="YAE|YAE.01">Chapter YAE.01</cite>.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
         <para>
           <num>(1)</num>
           <text>The proposed ward;</text>
@@ -1854,7 +1858,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Guardianship Report - Preparation:</text>
+        <heading>Guardianship Report - Preparation:</heading>
         <para>
           <num>(1)</num>
           <text>Proposed ward over 18 years of age:</text>
@@ -1882,15 +1886,18 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Additional Reports:  Any party may file a report which shall include his or her recommendations for consideration by the Court.</text>
+        <heading>Additional Reports:</heading>
+        <text>Any party may file a report which shall include his or her recommendations for consideration by the Court.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Guardianship Hearing - Purpose:  The Court shall conduct the hearing to determine whether appointment of a guardian is in the best interest of the proposed youth.</text>
+        <heading>Guardianship Hearing - Purpose:</heading>
+        <text>The Court shall conduct the hearing to determine whether appointment of a guardian is in the best interest of the proposed youth.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Guardianship Hearing - Conduct:  In the cases of the proposed ward being under the age of 18 years old, the hearing shall be private and closed.  The following procedural rules apply, <cite path="§YAE.02.08">Section YAE.02.08</cite>, (F)-(O) of <cite path="YAE|YAE.02">Chapter YAE.02</cite>.</text>
+        <heading>Guardianship Hearing - Conduct:</heading>
+        <text>In the cases of the proposed ward being under the age of 18 years old, the hearing shall be private and closed.  The following procedural rules apply, <cite path="§YAE.02.08">Section YAE.02.08</cite>, (F)-(O) of <cite path="YAE|YAE.02">Chapter YAE.02</cite>.</text>
         <para>
           <num>(1)</num>
           <text>Testimony and evidence shall be presented to determine whether guardianship is in the best interest of the proposed youth.  The Court shall consider all guardianship reports submitted for review.</text>
