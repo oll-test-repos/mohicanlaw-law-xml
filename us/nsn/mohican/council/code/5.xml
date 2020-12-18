@@ -11,7 +11,7 @@
       <text>Recognizing that tribal self-sufficiency cannot be fully realized without first exerting control over such matters as may be vital to tribal interests, the Stockbridge-Munsee Tribal Council finds:</text>
       <para>
         <num>(1)</num>
-        <text>That Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution 	and By-Laws (approved November 18, 1937), as amended, provides in part that the 	Tribal Council has the power: "To promulgate and enforce ordinances, subject to the 	approval of the Secretary of the Interior, governing the conduct of members of the 	Community....and establishing proper agencies for law enforcement of the Community," 	and this provision authorizes the Tribal Council to create a system to govern civil 	procedure in the tribal court system; and</text>
+        <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|l(f)">Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution</cite> 	and By-Laws (approved November 18, 1937), as amended, provides in part that the 	Tribal Council has the power: "To promulgate and enforce ordinances, subject to the 	approval of the Secretary of the Interior, governing the conduct of members of the 	Community....and establishing proper agencies for law enforcement of the Community," 	and this provision authorizes the Tribal Council to create a system to govern civil 	procedure in the tribal court system; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -32,7 +32,8 @@
     <heading>Purpose</heading>
     <para>
       <num>(A)</num>
-      <text>This ordinance shall be interpreted and understood to accomplish the following tribal objectives:</text>
+      <text>This ordinance shall be interpreted and understood to accomplish the following tribal</text>
+      <text>objectives:</text>
       <para>
         <num>(1)</num>
         <text>To exert jurisdiction over all matters essential to the Tribe's goal of self-determination and self-governance; and</text>
@@ -43,7 +44,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>To establish a set of procedural rules to govern civil litigation in the Tribal Court System, except to the extent the Court of Appeals has its own procedural rules applying to appeals before it as established under Chapter 5-A; and</text>
+        <text>To establish a set of procedural rules to govern civil litigation in the Tribal Court System, except to the extent the Court of Appeals has its own procedural rules applying to appeals before it as established under <cite path="5">Chapter 5</cite>-A; and</text>
       </para>
       <para>
         <num>(4)</num>
@@ -75,17 +76,17 @@
   <section>
     <num>5.4</num>
     <heading>Commencement of Action and Service of Process</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Commencement of Action.</heading>
-      <text>A civil action is commenced by filing a Summons and Complaint and serving a copy of such on the defendant or defendants as provided herein.  The Tribe may commence an action to enforce a violation of tribal law by filing a Citation pursuant to Chapter 3.  The Trial Court may not require the Tribe to submit any document other than a Summons and Citation or Complaint to commence an action to enforce a tribal law.  The Trial Court shall have jurisdiction from such time as both the Summons and Complaint are filed and properly served upon the defendant.</text>
+      <text>A civil action is commenced by filing a Summons and Complaint and serving a copy of such on the defendant or defendants as provided herein.  The Tribe may commence an action to enforce a violation of tribal law by filing a Citation pursuant to <cite path="3">Chapter 3</cite>.  The Trial Court may not require the Tribe to submit any document other than a Summons and Citation or Complaint to commence an action to enforce a tribal law.  The Trial Court shall have jurisdiction from such time as both the Summons and Complaint are filed and properly served upon the defendant.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Authentication of Summons and Complaint.</heading>
       <text>Upon filing, the Clerk of Court shall authenticate copies of the Summons and Complaint by affixing them with the Tribal Court System stamp.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Service of Process.</heading>
       <text>Service of process shall consist of delivering to the party served an authenticated copy of the Summons and Complaint.  The Summons shall advise the defendant that he or she is required to answer the complaint within twenty (20) days or a default judgment may be entered against him or her.</text>
@@ -122,17 +123,17 @@
   <section>
     <num>5.5</num>
     <heading>Time</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Computation.</heading>
       <text>In computing any period of time set forth herein, the day that the period is to commence from shall not be counted and the last day of the period shall be counted; provided however, that any time period under eleven (11) days will not include intermediate Saturdays, Sundays, or legal holidays in the period and any period which would otherwise end on a Saturday, Sunday, or legal holiday will be deemed to end on the next day which is not a Saturday, Sunday, or legal holiday.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Enlargement.</heading>
       <text>The Trial Court, for good cause shown, may enlarge the prescribed period of time within which any required act may be done.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Service by Mail.</heading>
       <text>When service is accomplished by mail, three (3) days shall be added to the prescribed period of time, but such addition shall not cause Saturdays, Sundays, or legal holidays to be counted in the time period if they would not otherwise have been counted.</text>
@@ -141,27 +142,25 @@
   <section>
     <num>5.6</num>
     <heading>Pleadings, Motions and Orders</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Pleadings.</heading>
-      <text>There shall be a complaint and answer; a reply to a counterclaim denominated as such; an answer to a cross claim, if the answer contains a cross claim; a third party complaint, if a person who was not an original party is summoned under <cite path="§5.4">Section 5.4</cite> and a third party answer if a third party complaint is served.</text>
+      <text>There shall be a complaint and answer; a reply to a counterclaim denominated as such; an answer to a cross claim, if the answer contains a cross claim; a third party complaint, if a person who was not an original party is summoned under <cite path="§5.4">Section 5.4 </cite>and a third party answer if a third party complaint is served.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
-      <text>
-        <u>Motions and Orders.</u>
-      </text>
-      <para>
+      <heading>Motions and Orders.</heading>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Motions.</heading>
         <text>An application to the Tribal Court System for an order shall be by motion and shall be in writing, unless made orally during a hearing or trial, and shall set forth the relief or order sought and the grounds therefore stated with particularity.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(2)</num>
         <heading>Orders.</heading>
         <text>An Order includes every direction of the Tribal Court System whether included in a judgment or not, and may be made with or without notice to adverse parties and may be vacated or modified with or without notice.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
         <heading>Hearings on Motions and Orders.</heading>
         <text>A Judge or Chief Judge may schedule a  hearing to consider a motion.  If a hearing is held to consider a motion, the Judge or Chief Judge hearing the motion shall issue a written order within thirty (30) days of the hearing.</text>
@@ -171,7 +170,7 @@
   <section>
     <num>5.7</num>
     <heading>General Rules of Pleading</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Claims for Relief.</heading>
       <text>A pleading which sets forth a claim for affirmative relief shall contain:</text>
@@ -188,17 +187,17 @@
         <text>A demand for judgment for the relief to which the pleader considers himself or herself entitled.  Such demand for judgment may be in the alternative or for several types of relief.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Defenses and Denials.</heading>
       <text>A party shall state in plain, concise terms the grounds, upon which he or she bases his or her defense to claims pleaded against him or her, and shall deny or admit claims and statements upon which the adverse party relies.  If he or she is without information or knowledge regarding a statement or claim, he or she shall so state and such shall be deemed to be a denial.  A general denial shall not be made unless the party could in good faith deny each and every claim covered thereby.  A claim to which a responsive pleading is required, except for amount of damages, shall be deemed admitted unless denied; if no responsive pleading is allowed, the claims of the adverse party shall be deemed denied.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>General Content of Claims and Defenses.</heading>
       <text>Claims and defenses shall be simple, concise and directly stated, but may be in alternative form, on one or several counts or defenses.  Claims and defenses may be based on legal or equitable grounds or both.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(D)</num>
       <heading>Affirmative Defenses.</heading>
       <text>Matters constituting an affirmative defense shall be affirmatively set forth.</text>
@@ -207,17 +206,17 @@
   <section>
     <num>5.8</num>
     <heading>Defenses and Objections</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>When Presented.</heading>
       <text>A defendant or other party against whom a claim has been made for affirmative relief shall have thirty (30) days from the date of service to answer the claim.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Motions.</heading>
       <text>Motions to dismiss or motions for a more definite statement may be made prior to answering a claim and an answer to such claim shall not be due until ten (10) days after the disposition of the motion by the Trial Court.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>How Presented.</heading>
       <text>Every defense, in law and fact, to a claim for relief in any pleading shall be asserted in the answer thereto, except that the following defenses may be made by motion:</text>
@@ -262,22 +261,22 @@
   <section>
     <num>5.10</num>
     <heading>Parties and Intervention</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Real Party in Interest.</heading>
       <text>Every action shall be prosecuted in the name of the real party in interest, except a personal representative may sue in his or her own name without joining the party for whose benefit the action is maintained.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Guardian ad Litem.</heading>
       <text>When a juvenile or incompetent person has not had a general guardian appointed as a party, the Trial Court shall appoint a guardian ad litem to represent such person in the suit or action.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Joinder of Parties.</heading>
       <text>To the greatest extent possible, all persons or parties interested in a particular action may be joined in the action.  Failure to join a party that is indispensable to the action shall result in dismissal.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(D)</num>
       <heading>Intervention.</heading>
       <text>A person may intervene and be treated in all respects as a party to an action in cases in which property he or she has an interest in may be affected or a question of law or fact common to a claim of his or hers may be litigated.</text>
@@ -310,12 +309,12 @@
   <section>
     <num>5.13</num>
     <heading>Dismissal of Actions</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Voluntary Dismissal.</heading>
       <text>At any point in the proceeding, a party may dismiss his or her claim voluntarily.  The Trial Court may order a party moving to dismiss his or her own claim to pay the costs of the adverse party if the proceeding has progressed beyond the pleading stage, and may order the payment of costs when the Trial Court deems appropriate.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Involuntary Dismissal.</heading>
       <text>A party against whom a claim has been made may move the Trial Court to dismiss the claim of an adverse party upon any of the following grounds:</text>
@@ -356,17 +355,17 @@
   <section>
     <num>5.15</num>
     <heading>Subpoenas</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Issuance.</heading>
       <text>Subpoenas for attendance of witnesses or production of documents or things shall be issued by the party requesting the attendance of the witness, production of documents or things and shall be served pursuant to <cite path="§5.4|(C)">Section 5.4(C)</cite> of this ordinance.  Nothing in this ordinance shall be deemed to prohibit a witness from voluntarily attending a hearing or trial to give testimony.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Failure to Appear.</heading>
       <text>A person who has been properly served with a subpoena and fails to appear or produce may be deemed in contempt of court.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Subpoena Unnecessary.</heading>
       <text>A person present in the Trial Court may be required to testify in the same manner as if he or she were in attendance upon a subpoena.</text>
@@ -375,47 +374,47 @@
   <section>
     <num>5.16</num>
     <heading>Judgment</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Default Judgment.</heading>
       <text>The Trial Court may grant default judgment on a claim when a party fails to answer a complaint or petition when due. The party moving for default judgment bears the burden of proof that the adverse party was properly served with the claim.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Judgment Costs.</heading>
       <text>The Trial Court shall allow necessary costs and disbursements to the prevailing party or parties as a matter of course.  If the prevailing party in an action seeks the award of costs, the prevailing party shall serve a verified bill of costs and disbursements with the Court and serve a copy to the other party or parties within five (5) days of the entry of judgment by the Court.  If the bill of costs is not objected to within ten (10) days, the bill of costs shall be deemed to be a part of and included in the judgment rendered.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Entry of Judgment.</heading>
       <text>All judgments shall be signed by the Chief Judge or Judge and shall be filed with the Clerk of Court.  A judgment is complete and shall be deemed entered when it is signed and filed with the Clerk of Court.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(D)</num>
       <heading>Summary Judgment.</heading>
       <text>Any time twenty (20) days after commencement of an action, any party may move the Trial Court for summary judgment as to any or all of the issues presented in the case and such shall be granted by the Trial Court if it appears that there is no genuine issue of material fact and that the moving party is entitled to judgment as a matter of law.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(E)</num>
       <heading>Satisfaction of Judgment.</heading>
       <text>The Chief Judge or a Judge may order the entry of satisfaction of judgment upon proof of payment by the judgment creditor.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(F)</num>
       <heading>Revocation.</heading>
       <text>Where any violation involves the misuse of a license or permit issued pursuant to tribal law, the Court shall have power to order revocation or suspension of such license or permit. Where a license or permit issued pursuant to tribal law is revoked, the violator shall be barred from receiving any other license or permit under tribal law for at least one (1) year, except where Stockbridge Munsee Tribal Law shall provide otherwise.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(G)</num>
       <heading>Maximum Forfeitures.</heading>
-      <text>Where not otherwise provided, the maximum forfeiture for any violation of a tribal ordinance shall be one thousand dollars ($1,000.00).  All forfeitures collected pursuant to any Tribal law shall be deposited in the Tribe's general account.</text>
+      <text>Where not otherwise provided, the maximum forfeiture for any violation of a tribal ordinance shall be one thousand dollars ($1,<cite path="§000.00">000.00</cite>).  All forfeitures collected pursuant to any Tribal law shall be deposited in the Tribe's general account.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(H)</num>
       <heading>Enforcement of Judgment.</heading>
       <text>All civil remedies are available to enforce the judgment of the Court, including the power of civil contempt. A judgment shall be a lien upon any available property of the defendant which is located within the Stockbridge Munsee Reservation or within the jurisdiction of the Court.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(I)</num>
       <heading>Post Judgment Interest.</heading>
       <text>If the Tribal Court System enters a judgment for money, the prevailing party shall be entitled to collect interest at the rate of (10%) per year on the amount that is due from the time of the entry of judgment until the judgment is paid in full.</text>
@@ -464,7 +463,7 @@
   <section>
     <num>5.18</num>
     <heading>Temporary Restraining Orders and Injunctions</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Temporary Restraining Orders.</heading>
       <text>A written complaint must be filed with the Trial Court before a temporary restraining order may be issued. A temporary restraining order may be granted only where:</text>
@@ -517,7 +516,7 @@
       <num>(C)</num>
       <text>On two days' notice to a party who obtained a temporary restraining order without notice, or on such shorter notice as the court may prescribe, the adverse party may appear and move that the order be dissolved or modified.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(D)</num>
       <heading>Injunctions.</heading>
       <text>The Trial Court may issue permanent injunctions ordering the defendant to perform or restrain from certain acts only after a hearing with notice to all parties affected, and upon a written complaint, filed with the court at least five calendar days prior to the hearing that states with specificity the act or acts sought to be restrained and the reasons that support the relief sought. The Trial Court shall only grant an injunction after considering the following factors:</text>
@@ -583,10 +582,10 @@
         </para>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(H)</num>
       <heading>Relationship to Other Laws.</heading>
-      <text>Nothing in this section is intended to effect or replace the enforcement mechanisms that may be available under Chapter 16, Public Peace and Good Order Ordinance, or any other Tribal law.</text>
+      <text>Nothing in this section is intended to effect or replace the enforcement mechanisms that may be available under <cite path="16">Chapter 16</cite>, Public Peace and Good Order Ordinance, or any other Tribal law.</text>
     </para>
   </section>
   <section>
@@ -700,17 +699,17 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
+        <num>1.</num>
         <text>Adopted by Resolution #1560-95 on December 27, 1995 by Tribal Council</text>
       </para>
       <para>
-        <num>2</num>
-        <text>On March 17, 2015, the Tribal Council posted a new Civil Procedure Ordinance for comment.  This document repealed and replaced Chapter 5, Administrative Appeals, with a new ordinance addressing civil procedures for practice before the Stockbridge-Munsee Tribal Court System.  It included provisions addressing civil procedures that had previously been addressed in Chapter 1, new rules of procedure, as well as procedures relating to administrative appeals.</text>
-        <text>The Tribal Council reviewed comments received on the posting.  Proposed revisions were posted for additional comment on January 19, 2016.  On March 15, 2016, the Tribal Council, by Resolution No. 038-16, repealed the existing Chapter 5 and replaced it with the new Civil Procedure Ordinance.  The ordinance was approved by the BIA on August 3, 2017.</text>
+        <num>2.</num>
+        <text>On March 17, 2015, the Tribal Council posted a new Civil Procedure Ordinance for comment.  This document repealed and replaced <cite path="5">Chapter 5</cite>, Administrative Appeals, with a new ordinance addressing civil procedures for practice before the Stockbridge-Munsee Tribal Court System.  It included provisions addressing civil procedures that had previously been addressed in <cite path="1">Chapter 1</cite>, new rules of procedure, as well as procedures relating to administrative appeals.</text>
+        <text>The Tribal Council reviewed comments received on the posting.  Proposed revisions were posted for additional comment on January 19, 2016.  On March 15, 2016, the Tribal Council, by Resolution No. 038-16, repealed the existing <cite path="5">Chapter 5</cite> and replaced it with the new Civil Procedure Ordinance.  The ordinance was approved by the BIA on August 3, 2017.</text>
       </para>
       <para>
-        <num>3</num>
-        <text>On November 5, 2019, the Tribal Council adopted amendments to address a new Appellate Procedure ordinance (Chapter 5-A) by Resolution 011-20.  More specifically, <cite path="§5.2|(A)|(3)">Section 5.2 (A)(3)</cite> was amended to add a cross-reference to Chapter 5-A and <cite path="§5.22">Section 5.22</cite>, which previously addressed appellate procedure, was deleted.  The amendments were approved by the BIA on _____________.</text>
+        <num>3.</num>
+        <text>On November 5, 2019, the Tribal Council adopted amendments to address a new Appellate Procedure ordinance (<cite path="5">Chapter 5</cite>-A) by Resolution 011-20.  More specifically, <cite path="§5.2|(A)|(3)">Section 5.2 (A)(3)</cite> was amended to add a cross-reference to <cite path="5">Chapter 5</cite>-A and <cite path="§5.22">Section 5.22</cite>, which previously addressed appellate procedure, was deleted.  The amendments were approved by the BIA on _____________.</text>
       </para>
     </annotation>
   </annotations>

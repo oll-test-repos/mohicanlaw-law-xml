@@ -11,7 +11,7 @@
   <section>
     <num>13.2</num>
     <heading>Authority</heading>
-    <text>This Code is enacted pursuant to Article VII, Section 1 (f) of the Constitution of the Stockbridge-Munsee Community.</text>
+    <text>This Code is enacted pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|1(f)">Article VII, Section 1 (f) of the Constitution</cite> of the Stockbridge-Munsee Community.</text>
   </section>
   <section>
     <num>13.3</num>
@@ -81,7 +81,7 @@
     </para>
     <para>
       <num>(J)</num>
-      <text>"Truancy" means any absence by any child of part or all of one or more days from school during which the school attendance officer, or his/her agent, has not been notified of the excused absence by the person having the absent pupil under his or her control during non-school hours.  "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the state and tribe's attendance laws. (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec.118.15</cite> and Stockbridge-Munsee Tribal Law <cite path="13.7" proof="needed">Chapter 13.7</cite>.)</text>
+      <text>"Truancy" means any absence by any child of part or all of one or more days from school during which the school attendance officer, or his/her agent, has not been notified of the excused absence by the person having the absent pupil under his or her control during non-school hours.  "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the state and tribe's attendance laws. (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec.118.15</cite> and <cite path="13">Stockbridge-Munsee Tribal Law Chapter 13</cite>.7.)</text>
     </para>
     <para>
       <num>(K)</num>
@@ -180,19 +180,19 @@
     <heading>Penalties</heading>
     <para>
       <num>(A)</num>
-      <text>Any school age child convicted of truancy under this Code shall be subject to a minimum penalty of community services hours equal to the number of hours truant and a maximum civil monetary penalty of $25.00 per incident of truancy.</text>
+      <text>Any school age child convicted of truancy under this Code shall be subject to a minimum penalty of community services hours equal to the number of hours truant and a maximum civil monetary penalty of $<cite path="§25.00">25.00 </cite>per incident of truancy.</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>Any child who is convicted of aiding another school age child's truancy shall be subject to a minimum penalty of community service hours equal to the number of hours the school age child was truant and a maximum civil monetary penalty of $50.00 per incident of truancy.</text>
+      <text>Any child who is convicted of aiding another school age child's truancy shall be subject to a minimum penalty of community service hours equal to the number of hours the school age child was truant and a maximum civil monetary penalty of $<cite path="§50.00">50.00 </cite>per incident of truancy.</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>Any adult who is convicted of aiding a school age child's truancy shall be subject to a penalty not less than $50.00, but not to exceed $500.00 per incident of truancy.  The presiding judge is authorized to order community service hours equal to the number of hours truant in his/her discretion.</text>
+      <text>Any adult who is convicted of aiding a school age child's truancy shall be subject to a penalty not less than $<cite path="§50.00">50.00</cite>, but not to exceed $<cite path="§500.00">500.00 </cite>per incident of truancy.  The presiding judge is authorized to order community service hours equal to the number of hours truant in his/her discretion.</text>
     </para>
     <para>
       <num>(D)</num>
-      <text>In addition to the imposition of civil forfeitures and community service hours for violations of <cite path="13.13" proof="needed">this Chapter</cite> 13, the Tribal Court may impose other remedies including but not limited to: mental health counseling, alcohol assessment and counseling, limitations on the use of public facilities within the jurisdiction of the Tribe and loss of privileges that go with tribal membership.</text>
+      <text>In addition to the imposition of civil forfeitures and community service hours for violations of this <cite path="13">Chapter 13</cite>, the Tribal Court may impose other remedies including but not limited to: mental health counseling, alcohol assessment and counseling, limitations on the use of public facilities within the jurisdiction of the Tribe and loss of privileges that go with tribal membership.</text>
     </para>
     <para>
       <num>(E)</num>
@@ -204,11 +204,11 @@
     <heading>Referral for Review as Youth in Need of Care</heading>
     <para>
       <num>(A)</num>
-      <text>If the Tribal Court determines a child is habitually truant, the court may order the appropriate tribal agency to initiate an in-depth investigation into the child's background to determine if a Youth-in-Need-of-Care petition should be filed under Chapter 8 of Stockbridge-Munsee Tribal Law.</text>
+      <text>If the Tribal Court determines a child is habitually truant, the court may order the appropriate tribal agency to initiate an in-depth investigation into the child's background to determine if a Youth-in-Need-of-Care petition should be filed under <cite path="8">Chapter 8</cite> of Stockbridge-Munsee Tribal Law.</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>Nothing herein shall prohibit the referral of a tribal child to the appropriate tribal agency for the filing of a Petition for Fact Finding under Chapter 8 of Stockbridge-Munsee Tribal Law.  A Petition for Fact Finding may be filed regarding any tribal child who has been truant for five (5) days or more in any ninety (90) day period.</text>
+      <text>Nothing herein shall prohibit the referral of a tribal child to the appropriate tribal agency for the filing of a Petition for Fact Finding under <cite path="8">Chapter 8</cite> of Stockbridge-Munsee Tribal Law.  A Petition for Fact Finding may be filed regarding any tribal child who has been truant for five (5) days or more in any ninety (90) day period.</text>
     </para>
   </section>
   <section>
@@ -224,22 +224,22 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
+        <num>1.</num>
         <text>Stockbridge-Munsee Truancy Code approved by the Tribal Council in Resolution No. 226-97 on June 17, 1997.</text>
       </para>
       <para>
-        <num>2</num>
-        <text><cite path="§13.6|(G)">Section 13.6(G)</cite> (School Attendance Officer) deleted, <cite path="§13.11">Section 13.11</cite> amended by deleting references to School Attendance Officer, <cite path="§13.5">Section 13.5</cite> revised to provide a clearer definition on March 5, 2002 by Resolution No. 013-02.  Approved by BIA on March 28, 2002.</text>
+        <num>2.</num>
+        <text><cite path="§13.6|(G)">Section 13.6(G)</cite> (School Attendance Officer) deleted, <cite path="§13.11">Section 13.11 </cite>amended by deleting references to School Attendance Officer, <cite path="§13.5">Section 13.5 </cite>revised to provide a clearer definition on March 5, 2002 by Resolution No. 013-02.  Approved by BIA on March 28, 2002.</text>
       </para>
       <para>
-        <num>3</num>
+        <num>3.</num>
         <text>On August 6, 2019, by Resolution No. 059-19, the Tribal Council adopted amendments that clarify the Tribe's jurisdiction to bring truancy actions, update headings, and make other administrative changes.  The specific amendments are as follows:</text>
         <text>
           <ul proof="needed">
-            <li>The following new sections were added:  <cite path="§13.5">13.5</cite> was modified and renumbered as <cite path="§13.5|(A)">13.5(A)</cite> with new subsections (1) and (2) added; <cite path="§13.6|(N)">13.6 (N)</cite> and (O); and <cite path="§13.13|(E)">13.13 (E)</cite>.</li>
-            <li>The following sections were amended:  <cite path="§13.1">13.1</cite>; <cite path="§13.4">13.4</cite>; <cite path="§13.6|(C)">13.6 (C)</cite>, (D), (E), (G), and (J); <cite path="§13.8">13.8</cite>; <cite path="§13.9|(B)">13.9(B)</cite>; <cite path="§13.10|(C)">13.10 (C)</cite>; <cite path="§13.11">13.11</cite>; and <cite path="§13.13|(A-D)" proof="needed">13.13 (A-D)</cite>.</li>
+            <li>The following new sections were added:  <cite path="§13.5">13.5 </cite>was modified and renumbered as <cite path="§13.5|(A)">13.5(A)</cite> with new subsections (1) and (2) added; <cite path="§13.6|(N)">13.6 (N)</cite> and (O); and <cite path="§13.13|(E)">13.13 (E)</cite>.</li>
+            <li>The following sections were amended:  <cite path="§13.1">13.1</cite>; <cite path="§13.4">13.4</cite>; <cite path="§13.6|(C)">13.6 (C)</cite>, (D), (E), (G), and (J); <cite path="§13.8">13.8</cite>; <cite path="§13.9|(B)">13.9(B)</cite>; <cite path="§13.10|(C)">13.10 (C)</cite>; <cite path="§13.11">13.11</cite>; and <cite path="§13.13|(A-D)">13.13 (A-D)</cite>.</li>
             <li>The following materials were deleted:  <cite path="§13.3">13.3</cite>; and <cite path="§13.6|(M)">13.6 (M)</cite>.</li>
-            <li>The following materials were renumbered or had numbering added: <cite path="§13.6|(N)">13.6 (N)</cite> as (M); <cite path="§13.10">13.10</cite>; <cite path="§13.11">13.11</cite>; and <cite path="§13.14">13.14</cite> was renumbered as <cite path="§13.14|(A)">13.14 (A)</cite> and <cite path="§13.15">13.15</cite> was renumbered to be <cite path="§13.14|(B)">13.14 (B)</cite>.</li>
+            <li>The following materials were renumbered or had numbering added: <cite path="§13.6|(N)">13.6 (N)</cite> as (M); <cite path="§13.10">13.10</cite>; <cite path="§13.11">13.11</cite>; and <cite path="§13.14">13.14 </cite>was renumbered as <cite path="§13.14|(A)">13.14 (A)</cite> and <cite path="§13.15">13.15 </cite>was renumbered to be <cite path="§13.14|(B)">13.14 (B)</cite>.</li>
           </ul>
         </text>
         <text>The 2019 amendments were approved by the BIA on _________________.</text>

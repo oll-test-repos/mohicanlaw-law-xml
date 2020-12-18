@@ -22,12 +22,12 @@
         <text>The Stockbridge-Munsee Tribal Council finds that this ordinance is necessary to protect the social, economic and political welfare of the Stockbridge-Munsee Community and its members.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Purpose.</heading>
       <text>The Stockbridge-Munsee Tribal Council enacts this ordinance to provide for the health and safety of persons in any facility that is used by the Stockbridge-Munsee Community for Class III gaming activities pursuant to a gaming compact.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Authority.</heading>
       <text>The Tribal Council of the Stockbridge-Munsee Community has the authority to adopt ordinances providing for the health and safety of the general public and tribal members on reservation and trust lands within the jurisdiction of the Tribe by virtue of the provisions of Article VII, section 1(a) and (f) of the Stockbridge-Munsee Constitution.</text>
@@ -108,7 +108,7 @@
         <text>Chapter SPS 366 – Existing Buildings, Wis. Admin. Code.</text>
         <para>
           <num>(a)</num>
-          <text>Section SPS <cite doc="Wis. Stat." path="§361.05" proof="needed">361.05</cite> of State law provides for the incorporation of the IEBC-2009, subject to the modifications under Chapters SPS 361 and SPS 366.</text>
+          <text>Section SPS <cite path="§361.05">361.05 </cite>of State law provides for the incorporation of the IEBC-2009, subject to the modifications under Chapters SPS 361 and SPS 366.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -127,11 +127,9 @@
     <para>
       <num>(C)</num>
       <text>The following ASME standards are hereby incorporated, by reference, into this ordinance as tribal standards:</text>
-      <para>
+      <para proof="needed">
         <num>(1)</num>
-        <text>
-          <em>Safety Code for Elevators and Escalators, ASME A<cite path="§17.1">17.1</cite>/CSA B44-2013.</em>
-        </text>
+        <heading>Safety Code for Elevators and Escalators, ASME A17.1/CSA B44-2013.</heading>
       </para>
     </para>
     <para>
@@ -140,7 +138,7 @@
     </para>
     <para>
       <num>(E)</num>
-      <text>The application of the State public health and safety standards to casino facilities through this ordinance shall be interpreted as being at least as restrictive as the State public health and safety standards for public buildings, electrical wiring, fire prevention, plumbing and sanitation as set forth in Chapter 101, Wis. Stat. and the State administrative rules thereunder.</text>
+      <text>The application of the State public health and safety standards to casino facilities through this ordinance shall be interpreted as being at least as restrictive as the State public health and safety standards for public buildings, electrical wiring, fire prevention, plumbing and sanitation as set forth in <cite path="101">Chapter 101</cite>, Wis. Stat. and the State administrative rules thereunder.</text>
     </para>
     <para>
       <num>(F)</num>
@@ -170,16 +168,16 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
+        <num>1.</num>
         <text>Approved by Tribal Council May 22, 1992; Resolution No. 1316.  This ordinance was necessary to meet federal regulations for Class III gaming and to comply with Section XIV of the Gaming Compact between the Stockbridge-Munsee Community and the State of Wisconsin.</text>
       </para>
       <para>
-        <num>2</num>
+        <num>2.</num>
         <text>Recommended for approval by BIA in letter dated July 16, 1992 from Ashland office to Minneapolis Area Office.</text>
       </para>
       <para>
-        <num>3</num>
-        <text>On August 5, 2015, the Tribal Council by Resolution No. 057-15 repealed existing Chapter 26 and adopted a new version of Chapter 26.  New version reformats the ordinance to be consistent with the format of other tribal ordinances, clarifies the applicability of the ordinance, updates references to Wisconsin laws and adds a requirement in relation to elevators.  BIA approval granted on August 13, 2015.</text>
+        <num>3.</num>
+        <text>On August 5, 2015, the Tribal Council by Resolution No. 057-15 repealed existing <cite path="26">Chapter 26</cite> and adopted a new version of <cite path="26">Chapter 26</cite>.  New version reformats the ordinance to be consistent with the format of other tribal ordinances, clarifies the applicability of the ordinance, updates references to Wisconsin laws and adds a requirement in relation to elevators.  BIA approval granted on August 13, 2015.</text>
       </para>
     </annotation>
   </annotations>

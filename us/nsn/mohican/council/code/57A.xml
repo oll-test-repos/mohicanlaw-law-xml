@@ -6,7 +6,7 @@
   <section>
     <num>57-A.1</num>
     <heading>Definitions</heading>
-    <text>In <cite path="57-A.1" proof="needed">this chapter</cite> the following definitions shall apply:</text>
+    <text>In <cite path="57-A.1">this chapter</cite> the following definitions shall apply:</text>
     <para>
       <num>(A)</num>
       <text>"Gross receipts" means the total revenue received from the retail furnishing of rooms, lodging, or similar accommodations by a hotel or motel as defined herein.</text>
@@ -56,12 +56,12 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
+        <num>1.</num>
         <text>On July 6, 2010, the Stockbridge-Munsee Tribal Council adopted a new ordinance titled the "Room Tax Ordinance" by Resolution 047-10.  The ordinance was approved by the BIA on August 13, 2010.</text>
       </para>
       <para>
-        <num>2</num>
-        <text>Prior to publication, the Room Tax Ordinance was numbered as Chapter 57-A of Stockbridge-Munsee Tribal Law and internal references were updated accordingly.</text>
+        <num>2.</num>
+        <text>Prior to publication, the Room Tax Ordinance was numbered as <cite path="57">Chapter 57</cite>-A of Stockbridge-Munsee Tribal Law and internal references were updated accordingly.</text>
       </para>
     </annotation>
   </annotations>

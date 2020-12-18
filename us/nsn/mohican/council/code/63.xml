@@ -26,8 +26,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <heading>A violation of Sec.</heading>
-        <text><cite doc="Wis. Stat." path="§940.225|(1)" proof="needed">940.225 (1)</cite>, (2) or (3) of the Wisconsin state statutes.</text>
+        <text>A violation of <cite path="§940.225|(1)">Sec. 940.225 (1)</cite>, (2) or (3) of the Wisconsin state statutes.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -93,7 +92,7 @@
     <heading>Commencement of Action and Response</heading>
     <para>
       <num>(A)</num>
-      <text>No action under this section may be commenced by complaint and summons.  An action under this section may be commenced only by a petition described under <cite path="§63.7|(A)">Section 63.7 (A)</cite>.  The action commences with service of the petition upon the respondent if a copy of the petition is filed before service or promptly after service.  If the judge or family court commissioner extends the time for a hearing under <cite path="§63.4|(C)" proof="needed">Section 63.4 (C)</cite> and the petitioner files an affidavit with the court stating that personal service by a Stockbridge-Munsee law enforcement officer or a private server under Section 19 of the Stockbridge-Munsee rules of procedure was unsuccessful because the respondent is avoiding service by concealment or otherwise, the petitioner may serve the respondent by publication of the petition in the tribal newspaper and by mailing if the respondent's post-office address is known or can with due diligence be ascertained.  The mailing may be omitted if the post-office address cannot be ascertained with due diligence.</text>
+      <text>No action under this section may be commenced by complaint and summons.  An action under this section may be commenced only by a petition described under <cite path="§63.7|(A)">Section 63.7 (A)</cite>.  The action commences with service of the petition upon the respondent if a copy of the petition is filed before service or promptly after service.  If the judge or family court commissioner extends the time for a hearing under <cite path="§63.4|(C)">Section 63.4 (C)</cite> and the petitioner files an affidavit with the court stating that personal service by a Stockbridge-Munsee law enforcement officer or a private server under Section 19 of the Stockbridge-Munsee rules of procedure was unsuccessful because the respondent is avoiding service by concealment or otherwise, the petitioner may serve the respondent by publication of the petition in the tribal newspaper and by mailing if the respondent's post-office address is known or can with due diligence be ascertained.  The mailing may be omitted if the post-office address cannot be ascertained with due diligence.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -103,7 +102,7 @@
   <section>
     <num>63.4</num>
     <heading>Two-part Procedure</heading>
-    <text>Procedure for an action under this section is in 2 parts.  First, if the petitioner requests a temporary restraining order the court shall issue or refuse to issue that order.  Second, the court shall hold a hearing under <cite path="§63.6">Section 63.6</cite> on whether to issue an injunction, which is the final relief.  If the court issues a temporary restraining order, the order shall set forth the date for the hearing on an injunction.  If the court does not issue a temporary restraining order, the date for the hearing shall be set upon motion by either party.</text>
+    <text>Procedure for an action under this section is in 2 parts.  First, if the petitioner requests a temporary restraining order the court shall issue or refuse to issue that order.  Second, the court shall hold a hearing under <cite path="§63.6">Section 63.6 </cite>on whether to issue an injunction, which is the final relief.  If the court issues a temporary restraining order, the order shall set forth the date for the hearing on an injunction.  If the court does not issue a temporary restraining order, the date for the hearing shall be set upon motion by either party.</text>
   </section>
   <section>
     <num>63.5</num>
@@ -230,15 +229,15 @@
     <heading>Enforcement.</heading>
     <para>
       <num>(A)</num>
-      <text>Tribal court orders and injunctions issued under this ordinance will be enforced in accordance with <cite doc="Wis. Stat." path="§813.12|(7)" proof="needed">section 813.12 (7)</cite> and (8) of the Wisconsin state statutes.</text>
+      <text>Tribal court orders and injunctions issued under this ordinance will be enforced in accordance with <cite path="§813.12|(7)">section 813.12 (7)</cite> and (8) of the Wisconsin state statutes.</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>In addition, Stockbridge-Munsee Community law enforcement officers may issue citations in accordance with <cite path="§63.11">Section 63.11</cite> if the officer has probable cause to believe that a violation of a tribal court order or injunction has occurred.</text>
+      <text>In addition, Stockbridge-Munsee Community law enforcement officers may issue citations in accordance with <cite path="§63.11">Section 63.11 </cite>if the officer has probable cause to believe that a violation of a tribal court order or injunction has occurred.</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>The deposit for any citation issued under (B) shall be $200.00.</text>
+      <text>The deposit for any citation issued under (B) shall be $<cite path="§200.00">200.00</cite>.</text>
     </para>
   </section>
   <section>
@@ -254,7 +253,7 @@
       <text>Whoever knowingly violates any of the following shall be fined not more than $1,000:</text>
       <para>
         <num>(1)</num>
-        <text>A temporary restraining order or injunction issued under Sections <cite path="§63.5">63.5</cite> or <cite path="§63.6">63.6</cite>.</text>
+        <text>A temporary restraining order or injunction issued under Sections <cite path="§63.5">63.5 </cite>or <cite path="§63.6">63.6</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -267,7 +266,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>The petitioner does not violate the court order under Sections <cite path="§63.5">63.5</cite> and <cite path="§63.6">63.6</cite>, if he or she admits into his or her residence a person ordered to avoid that residence under those sections.</text>
+      <text>The petitioner does not violate the court order under Sections <cite path="§63.5">63.5 </cite>and <cite path="§63.6">63.6</cite>, if he or she admits into his or her residence a person ordered to avoid that residence under those sections.</text>
     </para>
   </section>
   <section>

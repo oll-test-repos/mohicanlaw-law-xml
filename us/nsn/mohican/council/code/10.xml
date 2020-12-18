@@ -7,7 +7,7 @@
   <section>
     <num>10.1</num>
     <heading>Starting an Action for Termination of Parental Rights.</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Petition:</heading>
       <text>A proceeding to terminate parental rights shall be initiated by filing a petition with the Court.  The petition shall include:</text>
@@ -30,13 +30,11 @@
     </para>
     <para>
       <num>(B)</num>
-      <heading>Setting the Hearing:</heading>
-      <text>When the Court receives the petition, it shall set a date for the termination hearing, which shall not be more than sixty (60) days after the Court receives the petition.</text>
+      <text>Setting the Hearing:  When the Court receives the petition, it shall set a date for the termination hearing, which shall not be more than sixty (60) days after the Court receives the petition.</text>
     </para>
     <para>
       <num>(C)</num>
-      <heading>Notice of Hearing:</heading>
-      <text>Notice of hearing shall be served on all parties in the manner specified under <cite path="§7.12">Section 7.12</cite> of Chapter 7.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
+      <text>Notice of Hearing:  Notice of hearing shall be served on all parties in the manner specified under <cite path="§7.12">Section 7.12 </cite>of <cite path="7">Chapter 7</cite>.  Service shall be executed by tribal law enforcement, the court clerk or other person designated to perform this duty.  Notice shall be served at least twenty (20) days prior to the date of the hearing.  The notice shall include:  the name of the court; the date of the hearing; the time and place of the hearing; the purpose of the hearing; and a copy of the petition.  Notice shall be served on:</text>
       <para>
         <num>(1)</num>
         <text>The youth;</text>
@@ -64,8 +62,7 @@
     </para>
     <para>
       <num>(F)</num>
-      <heading>Additional Reports:</heading>
-      <text>Any party may file a pre-termination report which shall include his or her recommendations for consideration by the Court.</text>
+      <text>Additional Reports:  Any party may file a pre-termination report which shall include his or her recommendations for consideration by the Court.</text>
     </para>
     <para>
       <num>(G)</num>
@@ -73,7 +70,7 @@
     </para>
     <para>
       <num>(H)</num>
-      <text>Termination Hearing - Conduct:  The hearing shall be private and closed.  The following procedural rules apply, <cite path="§8.8|(F)" proof="needed">Section 8.8 (F)</cite>-(O) of Chapter 8.</text>
+      <text>Termination Hearing - Conduct:  The hearing shall be private and closed.  The following procedural rules apply, <cite path="§8.8|(F)">Section 8.8 (F)</cite>-(O) of <cite path="8">Chapter 8</cite>.</text>
       <para>
         <num>(1)</num>
         <text>The Court shall hear testimony to determine whether termination of parental rights is in the best interest of the youth.  The Court shall consider all pre-termination reports submitted for review.</text>

@@ -6,20 +6,20 @@
   <section>
     <num>70.1</num>
     <heading>Statement of Purpose, Findings, and Authority</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Purpose.</heading>
       <text>The Stockbridge-Munsee Tribal Council enacts this ordinance to exercise the fundamental right of sovereignty and self-determination by setting forth the official Flag for the Stockbridge-Munsee Community, its use and who shall be responsible for safekeeping and authorizing its use.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Findings.</heading>
       <text>The Stockbridge-Munsee Flag shall represent the jurisdiction and sovereignty of the Stockbridge-Munsee Community when flown.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Authority.</heading>
-      <text>The ordinance is authorized under Article VII (f) of the Stockbridge-Munsee Constitution, which provides for the promulgation and enforcement of ordinance.</text>
+      <text>The ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite>, which provides for the promulgation and enforcement of ordinance.</text>
     </para>
   </section>
   <section>
@@ -73,7 +73,7 @@
   <section>
     <num>70.4</num>
     <heading>Display of the Stockbridge-Munsee Flag</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Locations, time and occasions for display.</heading>
       <text>As the Stockbridge-Munsee Flag represents the Tribe's sovereignty, it shall be displayed according to the following requirements:</text>
@@ -94,12 +94,12 @@
         <text>The Stockbridge-Munsee Flag may be mandated to be displayed through resolution of the Stockbridge-Munsee Tribal Council.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Conduct during hoisting, lowering or passing of the Stockbridge-Munsee Flag.</heading>
       <text>The Stockbridge-Munsee Flag shall be hoisted briskly and lowered ceremoniously.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Position of the Flag.</heading>
       <text>The position of the flag is an important symbol of prominence and sovereignty; therefore, the following requirements shall be adhered to:</text>
@@ -128,7 +128,7 @@
         <text>When flags of other states, localities or pennants of societies are flown on the same  line or rope used to hoist a flag with the Stockbridge-Munsee Flag, the Stockbridge-Munsee flag shall always be on top.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(D)</num>
       <heading>Manner of Display.</heading>
       <text>The Stockbridge-Munsee Flag shall be displayed as follows:</text>
@@ -157,7 +157,7 @@
         <text>When used on a speaker's platform, the flag, if displayed flat, shall be displayed above and behind the speaker. When displayed from a staff in a church or public auditorium, the Stockbridge-Munsee Flag shall hold the position of prominence, in advance of the audience, and in the position of honor at the clergy's or speaker's right as he or she faces the audience. Any other flag so displayed shall be placed on the left of the clergyman or speaker or to the right of the audience.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(E)</num>
       <heading>Display of Respect.</heading>
       <text>At certain times, the Stockbridge-Munsee Flag shall be lowered to half-staff as a sign of respect. In doing so, the Flag shall be first hoisted to the peak for an instant and then lowered to half-staff position. The Stockbridge-Munsee Flag shall again be raised to the peak before it is lowered for the day.</text>
@@ -250,8 +250,8 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
-        <text>On August 20, 2019, the Tribal Council adopted a new ordinance, the Chapter 70 – Stockbridge-Munsee Flag Ordinance, by Resolution No. 062-19.  The ordinance was approved by the BIA on __________________.</text>
+        <num>1.</num>
+        <text>On August 20, 2019, the Tribal Council adopted a new ordinance, the <cite path="70">Chapter 70</cite> – Stockbridge-Munsee Flag Ordinance, by Resolution No. 062-19.  The ordinance was approved by the BIA on __________________.</text>
       </para>
     </annotation>
   </annotations>

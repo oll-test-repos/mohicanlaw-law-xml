@@ -6,22 +6,22 @@
   <section>
     <num>68.1</num>
     <heading>Statement of Purpose, Findings, and Authority</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Purpose.</heading>
       <text>The Stockbridge-Munsee Tribal Council enacts this ordinance to provide for the safety and well-being of the tribal community by providing parameters for the expulsion of persons who are considered to be a danger to the community from lands under the jurisdiction of the Stockbridge-Munsee Community.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Findings.</heading>
       <text>The Stockbridge-Munsee Tribal Council finds that this ordinance is necessary to protect the social, economic and political welfare of the Stockbridge-Munsee Community and tribal members, as well as to protect the lands and assets of the Stockbridge-Munsee Community.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
-      <text><u>Authority</u>.</text>
+      <heading>Authority.</heading>
       <para>
         <num>(1)</num>
-        <text>The ordinance is authorized under Article VII (f) of the Stockbridge-Munsee Constitution, which provides for the promulgation and enforcement of ordinance for the exclusion of nonmembers from its territory, as well as inherent tribal authority to govern the members of the Stockbridge-Munsee Community and the use, management and administration of lands under the jurisdiction of the Stockbridge-Munsee Community.</text>
+        <text>The ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite>, which provides for the promulgation and enforcement of ordinance for the exclusion of nonmembers from its territory, as well as inherent tribal authority to govern the members of the Stockbridge-Munsee Community and the use, management and administration of lands under the jurisdiction of the Stockbridge-Munsee Community.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -84,17 +84,17 @@
   <section>
     <num>68.3</num>
     <heading>Jurisdiction</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Territorial Jurisdiction.</heading>
       <text>This ordinance shall apply on the Reservation.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Personal Jurisdiction.</heading>
       <text>This ordinance shall apply in relation to members of the Stockbridge-Munsee Community, as well as non-members who consent to the jurisdiction of the Stockbridge-Munsee Community by entering the Reservation.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Subject Matter.</heading>
       <text>The Tribal Council has exclusive jurisdiction in relation to actions under this ordinance.  There is no right to appeal such actions through the Tribal Court.</text>
@@ -135,9 +135,9 @@
       <num>(A)</num>
       <text>The Tribe has sovereign authority over lands under its jurisdiction and to control the access of persons to such lands in order to act in the best interests of the Tribe and its members.  While the Tribal Council intends to provide due process in accordance with this ordinance to individuals prior to exclusion from such lands, the authority of the Tribal Council to exclude persons shall be broadly applicable and deviations from the process shall not nullify actions of Tribal Council properly taken as part of a duly-noticed and held meeting.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
-      <text><u>Petition</u>.</text>
+      <heading>Petition.</heading>
       <para>
         <num>(1)</num>
         <text>The process to exclude a person from the Reservation is initiated by the filing of a petition that is signed by at least fifteen (15) members.</text>
@@ -171,9 +171,9 @@
         <text>The petition shall be filed with the Tribal Council Secretary (or a person acting on the Secretary's behalf), who shall sign and date when it is received.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
-      <text><u>Role of Tribal Council Secretary to Administer Exclusion Process</u>.</text>
+      <heading>Role of Tribal Council Secretary to Administer Exclusion Process.</heading>
       <para>
         <num>(1)</num>
         <text>Upon receipt of a petition, the Tribal Council Secretary shall have the person who is the subject of the petition served with the copy of the petition.  With the petition, the Tribal Council Secretary shall include a cover letter informing the person that:</text>
@@ -231,14 +231,14 @@
         <text>If the Tribal Council authorizes an exclusion order following a hearing, then the Tribal Council Secretary shall be responsible to facilitate the issuance of such order as provided hereunder.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(D)</num>
       <heading>Service.</heading>
       <text>For purposes of this ordinance, service may be either in person or certified U.S. mail, return receipt requested.  If, after a good faith attempt at service, the Tribe cannot obtain either service in person or by mail, then the Tribe may obtain service by providing a copy of the papers to be served to a member of the person's household or taping the papers on the front door of the person's residence or place of business.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(E)</num>
-      <text><u>Hearing</u>.</text>
+      <heading>Hearing.</heading>
       <para>
         <num>(1)</num>
         <text>The Tribal Council will consider the petition, any background investigation into the allegations, as well as testimony and evidence from interested parties as part of their determination of whether the person committed an act or omission that meets the grounds for exclusion.</text>
@@ -272,9 +272,9 @@
         <text>The Tribal Council shall act by motion to decide whether or not to issue an exclusion order and what, if any, special conditions shall apply to such order.  Motions to exclude a person must have at least five (5) Tribal Council members voting in support of the motion.  If the motion to exclude does not have at least five (5) votes in support, then the person shall not be excluded.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(F)</num>
-      <text><u>Exclusion Order</u>.</text>
+      <heading>Exclusion Order.</heading>
       <para>
         <num>(1)</num>
         <text>The Tribal Council may orally advise the parties of its decision at the hearing or may issue an opinion within five (5) business days of the hearing.  In either case, the Tribal Council shall prepare a written order of its action.</text>
@@ -292,7 +292,7 @@
         <text>Exclusion orders shall be effective upon issuance.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(G)</num>
       <heading>Records.</heading>
       <text>A copy of the exclusion order, as well as other records related to the exclusion proceedings shall be maintained in secure storage by the Tribal Council Secretary or designee.  Such records shall be maintained for at least the duration of the exclusion plus three (3) years.</text>
@@ -301,27 +301,27 @@
   <section>
     <num>68.6</num>
     <heading>Implementation of Exclusion Order</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Time to Vacate Reservation.</heading>
       <text>While exclusion orders are effective upon issuance, persons normally shall be provided reasonable time to voluntarily vacate the Reservation in compliance with the exclusion order.  However, if warranted by circumstances, a person may be immediately removed from the Reservation by law enforcement.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Personal Property.</heading>
       <text>If a person requires time to remove or disposal of personal property from the Reservation following the issuance of an exclusion order, then that person must make arrangements with law enforcement to access the Reservation for such purpose.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Funerals.</heading>
       <text>Persons subject to an exclusion order may enter the Reservation for purposes of a family member's funeral on the day of the funeral and during funeral hours.  The person must notify the Tribe's Police Department at least 4-hours prior to entering the Reservation for the funeral.  The person is only permitted access to go directly to the funeral and must exit immediately after the funeral.  A person may be denied entry for a funeral if there is a substantial threat of harm or injury to the community or a person.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(D)</num>
       <heading>Employment.</heading>
       <text>Unless specifically authorized by special condition of the exclusion order, persons subject to an exclusion order are not authorized to access the Reservation for the purpose of employment.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(E)</num>
       <heading>Business.</heading>
       <text>Persons subject to an exclusion order are not authorized to conduct business with the Tribe or operate or conduct any other business activities on the Reservation.</text>
@@ -435,12 +435,12 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
+        <num>1.</num>
         <text>On October 11, 2014, the Tribe held an advisory referendum in relation to whether an ordinance authorizing the banishment of tribal members and/or the exclusion of non-members should be adopted.  The majority of tribal members voting in the referendum supported an ordinance that provided for exclusion, but not banishment.</text>
       </para>
       <para>
-        <num>2</num>
-        <text>On July 7, 2015, the Tribal Council adopted a new ordinance, which is Chapter 68 - Exclusion Ordinance, by Resolution No. 054-15.  The ordinance was approved by the BIA on July 15, 2015.</text>
+        <num>2.</num>
+        <text>On July 7, 2015, the Tribal Council adopted a new ordinance, which is <cite path="68">Chapter 68</cite> - Exclusion Ordinance, by Resolution No. 054-15.  The ordinance was approved by the BIA on July 15, 2015.</text>
       </para>
     </annotation>
   </annotations>

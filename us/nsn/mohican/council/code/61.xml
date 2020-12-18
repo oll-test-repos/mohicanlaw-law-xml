@@ -28,7 +28,7 @@
     <heading>Applicability</heading>
     <para>
       <num>(A)</num>
-      <text><cite path="61.5" proof="needed">This chapter</cite> authorizes the Stockbridge-Munsee Tribal Court to issue marriage licenses and perform marriages in which one or both parties to the marriage is a member of the Stockbridge-Munsee Tribe or is a resident of the Stockbridge-Munsee Community.</text>
+      <text><cite path="61.5">This chapter</cite> authorizes the Stockbridge-Munsee Tribal Court to issue marriage licenses and perform marriages in which one or both parties to the marriage is a member of the Stockbridge-Munsee Tribe or is a resident of the Stockbridge-Munsee Community.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -36,7 +36,7 @@
     </para>
     <para>
       <num>(C)</num>
-      <text>The procedures set forth herein shall be concurrent with the procedures established by the laws of the state of Wisconsin as to any marriage performed on the reservation in which one party is not a member of the Stockbridge-Munsee Tribe or is not a resident of the Stockbridge-Munsee Community. The completion of an application for a marriage license under <cite path="61.5" proof="needed">this chapter</cite> constitutes the nonmember's consent to the tribe's jurisdiction to grant such a license.</text>
+      <text>The procedures set forth herein shall be concurrent with the procedures established by the laws of the state of Wisconsin as to any marriage performed on the reservation in which one party is not a member of the Stockbridge-Munsee Tribe or is not a resident of the Stockbridge-Munsee Community. The completion of an application for a marriage license under <cite path="61.5">this chapter</cite> constitutes the nonmember's consent to the tribe's jurisdiction to grant such a license.</text>
     </para>
     <para>
       <num>(D)</num>
@@ -65,7 +65,7 @@
     </para>
     <para>
       <num>(E)</num>
-      <text>"Council" or "Tribal Council" means the elected governing body of the Stockbridge-Munsee Tribe established under Article IV of the Constitution.</text>
+      <text>"Council" or "Tribal Council" means the elected governing body of the Stockbridge-Munsee Tribe established under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="IV">Article IV of the Constitution</cite>.</text>
     </para>
     <para>
       <num>(F)</num>
@@ -156,8 +156,7 @@
     <heading>Solemnization of Marriage Contract</heading>
     <para>
       <num>(A)</num>
-      <heading>Officiate at Marriages.</heading>
-      <text>A marriage shall be validly solemnized and contracted after the issuance of license and by the mutual declarations of the two parties involved that they agree to enter into marriage before a duly authorized officiate and in the presence of at least two competent adult witnesses. The following persons are duly authorized to be officiates:</text>
+      <text>Officiate at Marriages.   A marriage shall be validly solemnized and contracted after the issuance of license and by the mutual declarations of the two parties involved that they agree to enter into marriage before a duly authorized officiate and in the presence of at least two competent adult witnesses. The following persons are duly authorized to be officiates:</text>
       <para>
         <num>(1)</num>
         <text>Any ordained clergyman of any religious denomination or society;</text>
@@ -205,12 +204,12 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
-        <text>Chapter 61, Marriage, approved by the Stockbridge-Munsee Tribal Council, Resolution No. 108-97, January 21, 1997.</text>
+        <num>1.</num>
+        <text><cite path="61">Chapter 61</cite>, Marriage, approved by the Stockbridge-Munsee Tribal Council, Resolution No. 108-97, January 21, 1997.</text>
       </para>
       <para>
-        <num>2</num>
-        <text>Chapter 61, Marriage was amended by the Stockbridge-Munsee Tribal Council by Resolution No. 024-16, February 2, 2016. Approved by BIA on February 22, 2016.</text>
+        <num>2.</num>
+        <text><cite path="61">Chapter 61</cite>, Marriage was amended by the Stockbridge-Munsee Tribal Council by Resolution No. 024-16, February 2, 2016. Approved by BIA on February 22, 2016.</text>
       </para>
     </annotation>
   </annotations>

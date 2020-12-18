@@ -8,11 +8,11 @@
     <heading>Authority</heading>
     <para>
       <num>(A)</num>
-      <text>The Stockbridge-Munsee Community has jurisdiction and authority over tribal lands as established under Article II of its Constitution as well as its inherent authority as a tribal government and under federal law.</text>
+      <text>The Stockbridge-Munsee Community has jurisdiction and authority over tribal lands as established under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="II">Article II of its Constitution</cite> as well as its inherent authority as a tribal government and under federal law.</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>The Stockbridge-Munsee Tribal Council has authority to establish ordinances regulating tribal lands, including the making, holding and revoking of tribal land assignments, under Article VII (f) of its Constitution.</text>
+      <text>The Stockbridge-Munsee Tribal Council has authority to establish ordinances regulating tribal lands, including the making, holding and revoking of tribal land assignments, under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|(f)">Article VII (f) of its Constitution</cite>.</text>
     </para>
   </section>
   <section>
@@ -112,12 +112,12 @@
   <section>
     <num>40.5</num>
     <heading>Land Committee</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
-      <text><u>Committee</u>.</text>
+      <heading>Committee.</heading>
       <para>
         <num>(1)</num>
-        <text>As authorized under Article IV, Section 3 of the Stockbridge-Munsee Constitution, the Tribal Council establishes a five member Land Committee from among the enrolled members.</text>
+        <text>As authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="IV|3">Article IV, Section 3 of the Stockbridge-Munsee Constitution</cite>, the Tribal Council establishes a five member Land Committee from among the enrolled members.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -132,7 +132,7 @@
         <text>The Tribal Council retains the authority to remove any appointed committee member at will for just cause and to appoint another Tribal member to fill the vacant seat.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Powers and Responsibilities of the Committee.</heading>
       <text>Subject to the general responsibilities of all Stockbridge-Munsee Tribal Committees as defined by the policy enacted September 6, 2005, as amended, and any properly adopted Land Committee By-laws, the Land Committee shall exercise the following powers and responsibilities:</text>
@@ -178,7 +178,7 @@
       <text>The Tribe issues a Grant to assign rights of use in a specific land assignment to a grantee.</text>
       <para>
         <num>(1)</num>
-        <text>A Grant does not assign a right of exclusive use to a land assignment; however, grantees do have a zone of privacy in the area around the buildings on their land assignments.  The zone of privacy encompasses the area around the buildings on a land assignment, but shall not exceed the 300-foot setback for development established under Chapter 43.</text>
+        <text>A Grant does not assign a right of exclusive use to a land assignment; however, grantees do have a zone of privacy in the area around the buildings on their land assignments.  The zone of privacy encompasses the area around the buildings on a land assignment, but shall not exceed the 300-foot setback for development established under <cite path="43">Chapter 43</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -195,7 +195,7 @@
     </para>
     <para>
       <num>(D)</num>
-      <text>Land assignments granted between July 2, 2002 and July 15, 2014 shall be identified as either residential or recreational assignments.  Residential land assignments shall only be issued for areas where development is permitted in conformance with Chapter 43, the Land Use Code.</text>
+      <text>Land assignments granted between July 2, 2002 and July 15, 2014 shall be identified as either residential or recreational assignments.  Residential land assignments shall only be issued for areas where development is permitted in conformance with <cite path="43">Chapter 43</cite>, the Land Use Code.</text>
     </para>
     <para>
       <num>(E)</num>
@@ -203,14 +203,14 @@
     </para>
     <para>
       <num>(F)</num>
-      <text>As of July 15, 2014, grants shall only be issued in areas where development is permitted in conformance with Chapter 43, the Land Use Code.</text>
+      <text>As of July 15, 2014, grants shall only be issued in areas where development is permitted in conformance with <cite path="43">Chapter 43</cite>, the Land Use Code.</text>
     </para>
     <para>
       <num>(G)</num>
       <text>Recreational assignments are not authorized to be places of residence for the grantee and no grantee may construct or maintain a dwelling on a recreational assignment.  Examples of authorized recreational uses include camping and picnicking.</text>
       <para>
         <num>(1)</num>
-        <text>Recreational assignments are only available in areas with commercial forest or multi-purpose designations as defined in Chapter 43, the Land Use Code.  The Tribe shall not grant a recreational assignment in areas that are identified for residential development.</text>
+        <text>Recreational assignments are only available in areas with commercial forest or multi-purpose designations as defined in <cite path="43">Chapter 43</cite>, the Land Use Code.  The Tribe shall not grant a recreational assignment in areas that are identified for residential development.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -232,7 +232,7 @@
     </para>
     <para>
       <num>(H)</num>
-      <text>Business/commercial uses of land are covered by individual leases and/or other applicable contracts with Tribal Council.  The Tribe does not authorize the use of tribal land for a business/commercial use through a grant, except that home businesses are allowed in accordance with Chapter 43.</text>
+      <text>Business/commercial uses of land are covered by individual leases and/or other applicable contracts with Tribal Council.  The Tribe does not authorize the use of tribal land for a business/commercial use through a grant, except that home businesses are allowed in accordance with <cite path="43">Chapter 43</cite>.</text>
     </para>
     <para>
       <num>(I)</num>
@@ -328,7 +328,7 @@
     <heading>General Standards Applicable to Land Assignments</heading>
     <para>
       <num>(A)</num>
-      <text>Grantees are responsible for maintaining their land assignments and improvements on the land assignment in good condition in accordance with all applicable laws, including Chapters 43 and 16.</text>
+      <text>Grantees are responsible for maintaining their land assignments and improvements on the land assignment in good condition in accordance with all applicable laws, including Chapters <cite path="43">43</cite> and <cite path="16">16</cite>.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -352,11 +352,11 @@
     </para>
     <para>
       <num>(G)</num>
-      <text>Roads and Right-of-Ways, as defined in Chapter 43, the Stockbridge-Munsee Land Use Code, which run through a land assignment, shall not be blocked and shall be open for public access.</text>
+      <text>Roads and Right-of-Ways, as defined in <cite path="43">Chapter 43</cite>, the Stockbridge-Munsee Land Use Code, which run through a land assignment, shall not be blocked and shall be open for public access.</text>
     </para>
     <para>
       <num>(H)</num>
-      <text>In addition to the terms and conditions imposed by the grant and this ordinance, all assignments shall be subject to all terms and conditions contained in Chapter 43, the Land Use Code and other applicable laws.</text>
+      <text>In addition to the terms and conditions imposed by the grant and this ordinance, all assignments shall be subject to all terms and conditions contained in <cite path="43">Chapter 43</cite>, the Land Use Code and other applicable laws.</text>
     </para>
     <para>
       <num>(I)</num>
@@ -364,13 +364,11 @@
     </para>
     <para>
       <num>(J)</num>
-      <text>Structures shall be built in accordance with Chapter 43, the Land Use Code and other applicable laws.</text>
+      <text>Structures shall be built in accordance with <cite path="43">Chapter 43</cite>, the Land Use Code and other applicable laws.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(K)</num>
-      <text>
-        <u>Improvements.</u>
-      </text>
+      <heading>Improvements.</heading>
       <para>
         <num>(1)</num>
         <text>Buildings and other improvements placed upon land assignment by a grantee are recognized as the personal property of that grantee.</text>
@@ -388,7 +386,7 @@
         <text>Improvements such as driveways, fences, shrubs, utility lines, wells, septic systems and other items of a similar nature, even if placed on the property by the grantee, are considered to be attached to the land and become part of the land assignment.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(L)</num>
       <heading>Abandonment.</heading>
       <text>The Tribe may have a land assignment that contains a dwelling declared abandoned through the Tribal Court.</text>
@@ -451,19 +449,19 @@
       <para>
         <num>(3)</num>
         <text>In the event that a grantee does not substantially complete the required dwelling within 2 years, then one of the following will occur.</text>
-        <para>
+        <para proof="needed">
           <num>(a)</num>
           <heading>Request for Extension.</heading>
           <text>The grantee may petition the Land Committee and Tribal Council to request a one-time, two-year extension.  The grantee must show good cause for the extension.  If the extension is granted by Tribal Council, the grantee must have substantially completed a dwelling on the land assignment within two (2) years after the Tribal Council action, or the land assignment will revert back to the Tribe.</text>
         </para>
-        <para>
+        <para proof="needed">
           <num>(b)</num>
           <heading>Relinquishment of Land Assignment.</heading>
           <text>A grantee may relinquish the land assignment to another eligible tribal member.  However, if a grantee relinquishes his/her land assignment to another Tribal Member, then the new grantee must have a substantially completed dwelling on the land assignment within the relinquisher's original timeline(s), except in extenuating circumstances if approved by Tribal Council.</text>
         </para>
-        <para>
+        <para proof="needed">
           <num>(c)</num>
-          <text><em>Automatic Reversion of Land Assignment to Tribe</em>.</text>
+          <heading>Automatic Reversion of Land Assignment to Tribe.</heading>
           <para>
             <num>(i)</num>
             <text>When a dwelling is not substantially completed within the required time frame, then the land assignment shall automatically revert back to the Tribe.</text>
@@ -489,11 +487,11 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Grantees may have visitors who are not tribal members and not members of the grantee's family in the part of the land assignment that are in the development zone established under Chapter 43.  However, such visitors are not authorized at a recreational land assignment unless there is public road (not including tribal logging roads) providing direct access to such recreational land assignment.</text>
+      <text>Grantees may have visitors who are not tribal members and not members of the grantee's family in the part of the land assignment that are in the development zone established under <cite path="43">Chapter 43</cite>.  However, such visitors are not authorized at a recreational land assignment unless there is public road (not including tribal logging roads) providing direct access to such recreational land assignment.</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>Except for valid grants, no person shall have the right to occupy or use Tribal land or Tribal resources thereon without the approval of the Tribal Council or other permitted uses from Chapter 43 and other tribal laws.</text>
+      <text>Except for valid grants, no person shall have the right to occupy or use Tribal land or Tribal resources thereon without the approval of the Tribal Council or other permitted uses from <cite path="43">Chapter 43</cite> and other tribal laws.</text>
     </para>
     <para>
       <num>(D)</num>
@@ -550,7 +548,7 @@
         <num>(3)</num>
         <text>If the beneficiary is eligible for and interested in obtaining the land assignment, the beneficiary must submit an application for the assignment within 90 days of the date that the beneficiary is notified that he/she is the identified beneficiary.  This application will be processed in accordance with this ordinance.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(4)</num>
         <heading>Beneficiary is Minor Child.</heading>
         <text>If the identified beneficiary is a tribal member who is a minor child, then the following process shall apply:</text>
@@ -616,7 +614,7 @@
   <section>
     <num>40.13</num>
     <heading>Rights of Surviving Spouse in Land Assignment</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Non-Member Spouse.</heading>
       <text>Notwithstanding any other agreement, if a grantee is married to a non-member of the Tribe and dies, the surviving non-member spouse shall be entitled to reside on the land assignment, not to exceed five acres, for his/her lifetime or until marriage to a non-member of the Tribe, whichever occurs first.</text>
@@ -641,7 +639,7 @@
         <text>Upon termination of the surviving non-member spouse's right to reside on said assignment, such surviving non-member spouse or the spouse's heirs shall have a reasonable period of time, not to exceed six (6) months to vacate said assignment.  Personal property that has not been removed from the land assignment within this time will be deemed abandoned and disposed of by the Tribe.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Tribal Member Spouse.</heading>
       <text>Notwithstanding any other agreement, if a grantee is married to a member of the Tribe and the grantee dies, the land assignment, not to exceed five acres, shall revert to the surviving tribal member spouse.</text>
@@ -682,11 +680,11 @@
   <section>
     <num>40.15</num>
     <heading>Revocation, Modification or Cancellation of Land Assignment</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Revocation.</heading>
       <text>In the event a grantee fails to comply with the terms of the Grant and applicable laws in relation to the land assignment, it shall be deemed a noncompliance.  The grantee shall be considered to be in breach of the grant and it may be subject to revocation consistent with the following process.</text>
-      <para>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Initiation of Revocation Process.</heading>
         <text>A grantee will typically have an opportunity to cure a breach, but this step may be skipped in the event of an egregious noncompliance.</text>
@@ -699,9 +697,9 @@
           <text>In the event the noncompliance is believed to rise to the level of being an egregious noncompliance, then the matter shall be referred to the Land and Enrollment Department to have the grantee's file forwarded to the Land Committee for consideration of revocation.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(2)</num>
-        <text><em>Land Committee</em>.</text>
+        <heading>Land Committee.</heading>
         <para>
           <num>(a)</num>
           <text>The Land Committee shall review the matter and make a recommendation on whether the Tribal Council should revoke the land assignment or take some other action, if appropriate.</text>
@@ -727,9 +725,9 @@
           </para>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
-        <text><em>Tribal Council</em>.</text>
+        <heading>Tribal Council.</heading>
         <para>
           <num>(a)</num>
           <text>After thirty (30) days, the Tribal Council Secretary shall place the Land Committee's recommendation on open agenda for a Tribal Council meeting.</text>
@@ -755,12 +753,12 @@
           <text>The Tribal Council shall act by motion on the recommendation.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(4)</num>
         <heading>Tribal Secretary.</heading>
         <text>The Tribal Secretary will send a letter documenting the Tribal Council's decision to the grantee, with a copy provided to the Land and Enrollment Department.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(5)</num>
         <heading>Effect of Revocation.</heading>
         <text>If the Tribal Council revokes the land assignment, the revocation shall be effective upon the date of the Tribal Council's motion.</text>
@@ -794,9 +792,9 @@
         </para>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
-      <text><u>Modification</u>.</text>
+      <heading>Modification.</heading>
       <para>
         <num>(1)</num>
         <text>The Tribal Council may modify the size of a land assignment, but the size shall not exceed 5 acres, with the consent of the grantee.</text>
@@ -806,7 +804,7 @@
         <text>The Tribal Council may modify a land assignment without the consent of the grantee when necessary for public purposes or in order to resolve disputes between grantees.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Cancellation.</heading>
       <text>In the event that the Tribal Council determines that a land assignment was granted in error, it may be cancelled by action of the Tribal Council.  The tribal member shall have up to 60 days to vacate the land assignment from the date of the cancellation.</text>
@@ -821,7 +819,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Said temporary permits shall be subject to any terms, conditions, and qualifications designated under this ordinance, Chapter 43 the Land Use Code and any other applicable Tribal ordinance, rule, regulation, or policy.</text>
+      <text>Said temporary permits shall be subject to any terms, conditions, and qualifications designated under this ordinance, <cite path="43">Chapter 43</cite> the Land Use Code and any other applicable Tribal ordinance, rule, regulation, or policy.</text>
     </para>
   </section>
   <section>
@@ -833,7 +831,7 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Any person who violates any provision of this ordinance or any rule or regulation authorized thereunder, shall be guilty of a Tribal Civil offense punishable by a fine of not more than five hundred dollars ($500.00).</text>
+      <text>Any person who violates any provision of this ordinance or any rule or regulation authorized thereunder, shall be guilty of a Tribal Civil offense punishable by a fine of not more than five hundred dollars ($<cite path="§500.00">500.00</cite>).</text>
     </para>
     <para>
       <num>(C)</num>
@@ -843,51 +841,48 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
-        <heading>Ordinance No.</heading>
-        <text>11-A Lands, as adopted by the Stockbridge-Munsee Tribal Council Nov. 21, 1939 and returned by BIA for lack of signature space. (10/15/40 BIA Letter to Chairman).</text>
+        <num>1.</num>
+        <text>Ordinance No. 11-A Lands, as adopted by the Stockbridge-Munsee Tribal Council Nov. 21, 1939 and returned by BIA for lack of signature space. (10/15/40 BIA Letter to Chairman).</text>
       </para>
       <para>
-        <num>2</num>
-        <heading>Ordinance No.</heading>
-        <text>1 Lands as adopted by the Stockbridge Munsee Tribal Council on Sept. 27, 1940 and approved by the Department of the Interior, June 30, 1941.</text>
+        <num>2.</num>
+        <text>Ordinance No. 1 Lands as adopted by the Stockbridge Munsee Tribal Council on Sept. 27, 1940 and approved by the Department of the Interior, June 30, 1941.</text>
       </para>
       <para>
-        <num>3</num>
+        <num>3.</num>
         <text>Amended by Stockbridge-Munsee Resolution No. 0663 (June 15, 1979).</text>
       </para>
       <para>
-        <num>4</num>
+        <num>4.</num>
         <text>See also Tribal Agricultural Land Standard Assignment (Form approved by the Secretary of the Interior June 30, 1941) and Grant of Standard Assignment (Form approved June 30, 1941 as amended by Stockbridge Munsee Resolution No. 0988, July 15, 1986); and Tribal Council meeting minutes of January 2, 1975, June 15, 1979, and April 1, 1986.</text>
       </para>
       <para>
-        <num>5</num>
+        <num>5.</num>
         <text>A new land ordinance approved for adoption by Tribal Council on March 3, 1987, by Resolution No.  0988.</text>
       </para>
       <para>
-        <num>6</num>
-        <heading>Legislative attorney's note:</heading>
-        <text>Sections <cite path="§40.3|(B)" proof="needed">40.3(B)</cite> (deleting the word exclusive), <cite path="§40.5|(B)|(4)">40.5(B)(4)</cite> (reflecting the time frame for improvements be three years), <cite path="§40.6|(A)">40.6(A)</cite> (deleting Secretary of Interior Approval), and <cite path="§40.6|(F)">40.6(F)</cite> (deleting the word exploit) amended by Tribal Council on June 12, 1987, Resolution No. 1037.  However, the amendment had not been incorporated into the Ordinance.  Upon this discovery, the amendment was incorporated into the Ordinance on July 27, 2000 by the Legal Department.</text>
+        <num>6.</num>
+        <text>Legislative attorney's note: Sections <cite path="§40.3|(B)">40.3(B)</cite> (deleting the word exclusive), <cite path="§40.5|(B)|(4)">40.5(B)(4)</cite> (reflecting the time frame for improvements be three years), <cite path="§40.6|(A)">40.6(A)</cite> (deleting Secretary of Interior Approval), and <cite path="§40.6|(F)">40.6(F)</cite> (deleting the word exploit) amended by Tribal Council on June 12, 1987, Resolution No. 1037.  However, the amendment had not been incorporated into the Ordinance.  Upon this discovery, the amendment was incorporated into the Ordinance on July 27, 2000 by the Legal Department.</text>
       </para>
       <para>
-        <num>7</num>
+        <num>7.</num>
         <text>Section 8 (B) which is now <cite path="§40.8|(B)">Section 40.8 (B)</cite> amended by Resolution 1552-95 on Nov. 7, 1995 by replacing Tribal Council with Tribal Court.</text>
       </para>
       <para>
-        <num>8</num>
-        <text>Several amendments and other modifications adopted by Tribal Council on August 20, 2002, by Resolution No. 045-02.  <cite path="§40.1">Section 40.1</cite>, Short Title is deleted, resulting in the other sections being renumbered.  Other sections deleted were <cite path="§40.5">Section 40.5</cite> [now <cite path="§40.4">40.4</cite>] (B)(3), (B)(4), (B)(7), (B)(8), and <cite path="§40.6">Section 40.6</cite> [now <cite path="§40.5">40.5</cite>] (D), (G), (J).  Sections amended were <cite path="§40.2">40.2</cite> [now <cite path="§40.1">40.1</cite>], <cite path="§40.3">40.3</cite> [now <cite path="§40.2">40.2</cite>] (A), (B), <cite path="§40.4">40.4</cite> [now <cite path="§40.3">40.3</cite>] (A), (B), (C), (D), (E), <cite path="§40.5">40.5</cite> [now <cite path="§40.4">40.4</cite>] (A)(1), (A)(3), (A)(4), (B)(1), (B)(2), (B)(5) [now (B)(3)], (B)(6) [now (B)(4)], (B)(9) [now (B)(5)], <cite path="§40.6" proof="needed">40.6</cite> (now 40.5) (A)(1), (A)(2), (B), (E) [now (D)], (H) [now (F)], (I) [now (G)].  Approved by BIA on September 18, 2002.</text>
+        <num>8.</num>
+        <text>Several amendments and other modifications adopted by Tribal Council on August 20, 2002, by Resolution No. 045-02.  <cite path="§40.1">Section 40.1</cite>, Short Title is deleted, resulting in the other sections being renumbered.  Other sections deleted were <cite path="§40.5">Section 40.5 </cite>[now <cite path="§40.4">40.4</cite>] (B)(3), (B)(4), (B)(7), (B)(8), and <cite path="§40.6">Section 40.6 </cite>[now <cite path="§40.5">40.5</cite>] (D), (G), (J).  Sections amended were <cite path="§40.2">40.2 </cite>[now <cite path="§40.1">40.1</cite>], <cite path="§40.3">40.3 </cite>[now <cite path="§40.2">40.2</cite>] (A), (B), <cite path="§40.4">40.4 </cite>[now <cite path="§40.3">40.3</cite>] (A), (B), (C), (D), (E), <cite path="§40.5">40.5 </cite>[now <cite path="§40.4">40.4</cite>] (A)(1), (A)(3), (A)(4), (B)(1), (B)(2), (B)(5) [now (B)(3)], (B)(6) [now (B)(4)], (B)(9) [now (B)(5)], <cite path="§40.6|(now 40.5)">40.6 (now 40.5)</cite> (A)(1), (A)(2), (B), (E) [now (D)], (H) [now (F)], (I) [now (G)].  Approved by BIA on September 18, 2002.</text>
       </para>
       <para>
-        <num>9</num>
-        <text>On May 3, 2005, Tribal Council by Resolution No. 028-05 amended Chapter 40 by creating Sections <cite path="§40.2|(A)">40.2(A)</cite>,(B),(E); <cite path="§40.4|(A)|(3)" proof="needed">Section 40.4(A)(3)</cite>; <cite path="§40.5|(H)" proof="needed">Section 40.5(H)</cite>; and by amending <cite path="§40.5|(A)">Section 40.5(A)</cite>, <cite path="§40.5|(A)|(1)">40.5(A)(1)</cite>, <cite path="§40.5|(A)|(3)">40.5(A)(3)</cite>; <cite path="§40.5|(E)" proof="needed">40.5(E)</cite>; <cite path="§40.5|(G)" proof="needed">40.5(G)</cite>.  Approved by BIA on February 24, 2006.</text>
+        <num>9.</num>
+        <text>On May 3, 2005, Tribal Council by Resolution No. 028-05 amended <cite path="40">Chapter 40</cite> by creating Sections <cite path="§40.2|(A)">40.2(A)</cite>,(B),(E); <cite path="§40.4|(A)|(3)">Section 40.4(A)(3)</cite>; <cite path="§40.5|(H)">Section 40.5(H)</cite>; and by amending <cite path="§40.5|(A)">Section 40.5(A)</cite>, <cite path="§40.5|(A)|(1)">40.5(A)(1)</cite>, <cite path="§40.5|(A)|(3)">40.5(A)(3)</cite>; <cite path="§40.5|(E)">40.5(E)</cite>; <cite path="§40.5|(G)">40.5(G)</cite>.  Approved by BIA on February 24, 2006.</text>
       </para>
       <para>
-        <num>10</num>
-        <text>On November 22, 2005, Tribal Council by Resolution No. 07-06 amended Chapter 40 by creating sections <cite path="§40.2|(B)">40.2(B)</cite>; <cite path="§40.2|(F)" proof="needed">40.2(F)</cite>; <cite path="§40.2|(G)" proof="needed">40.2(G)</cite>; <cite path="§40.3|(B)|(1)|(a)" proof="needed">40.3(B)(1)(a)</cite>,(b),(c); <cite path="§40.4|(B)|(3)" proof="needed">40.4(B)(3)</cite>; <cite path="§40.5|(A)|(2)|(a)" proof="needed">40.5(A)(2)(a)</cite>,(b),(c),(d); <cite path="§40.7|(A)">40.7(A)</cite> and technical changes to sections <cite path="§40.5|(B)">40.5(B)</cite>,(D)(E)(H); and <cite path="§40.6|(B)">40.6(B)</cite>.  Approved by BIA on April 10, 2006.</text>
+        <num>10.</num>
+        <text>On November 22, 2005, Tribal Council by Resolution No. 07-06 amended <cite path="40">Chapter 40</cite> by creating sections <cite path="§40.2|(B)">40.2(B)</cite>; <cite path="§40.2|(F)">40.2(F)</cite>; <cite path="§40.2|(G)">40.2(G)</cite>; <cite path="§40.3|(B)|(1)|(a)">40.3(B)(1)(a)</cite>,(b),(c); <cite path="§40.4|(B)|(3)">40.4(B)(3)</cite>; <cite path="§40.5|(A)|(2)|(a)">40.5(A)(2)(a)</cite>,(b),(c),(d); <cite path="§40.7|(A)">40.7(A)</cite> and technical changes to sections <cite path="§40.5|(B)">40.5(B)</cite>,(D)(E)(H); and <cite path="§40.6|(B)">40.6(B)</cite>.  Approved by BIA on April 10, 2006.</text>
       </para>
       <para>
-        <num>11</num>
-        <text>On July 15, 2014, the Tribal Council repealed the existing Chapter 40 and adopted a new Chapter 40.  This was done by Resolution No. 036-14 and was necessary since the entire ordinance was re-organized and many changes were adopted to clarify tribal practices in relation to the granting of, rights to and obligations in relation to tribal land assignments.  These changes were approved by the BIA on July 28, 2014.</text>
+        <num>11.</num>
+        <text>On July 15, 2014, the Tribal Council repealed the existing <cite path="40">Chapter 40</cite> and adopted a new <cite path="40">Chapter 40</cite>.  This was done by Resolution No. 036-14 and was necessary since the entire ordinance was re-organized and many changes were adopted to clarify tribal practices in relation to the granting of, rights to and obligations in relation to tribal land assignments.  These changes were approved by the BIA on July 28, 2014.</text>
       </para>
     </annotation>
   </annotations>

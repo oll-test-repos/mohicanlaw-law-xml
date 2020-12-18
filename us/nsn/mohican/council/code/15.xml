@@ -20,7 +20,7 @@
     <heading>Definitions</heading>
     <para>
       <num>(A)</num>
-      <text>Unless otherwise defined in this Ordinance, the terms shall have the same definitions as under Chapter 7 of the Youth Code.  Any terms not defined either under this Ordinance or in Chapter 7 are used in their ordinary and everyday sense.</text>
+      <text>Unless otherwise defined in this Ordinance, the terms shall have the same definitions as under <cite path="7">Chapter 7</cite> of the Youth Code.  Any terms not defined either under this Ordinance or in <cite path="7">Chapter 7</cite> are used in their ordinary and everyday sense.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -92,7 +92,7 @@
     <heading>Court Authority in Custody, Physical Placement and Visitation Actions</heading>
     <para>
       <num>(A)</num>
-      <text>When it is necessary to determine the legal custody, physical placement, and/or visitation of a child, the Court shall make such provisions as it deems just and reasonable in accordance with this Ordinance and other applicable laws.  Other laws containing causes of actions relating to custody matters include the Youth in Need of Care Ordinance (Chapter 8), Guardianship (Chapter 9), and Dissolution of Marriage (Chapter 62).</text>
+      <text>When it is necessary to determine the legal custody, physical placement, and/or visitation of a child, the Court shall make such provisions as it deems just and reasonable in accordance with this Ordinance and other applicable laws.  Other laws containing causes of actions relating to custody matters include the Youth in Need of Care Ordinance (<cite path="8">Chapter 8</cite>), Guardianship (<cite path="9">Chapter 9</cite>), and Dissolution of Marriage (<cite path="62">Chapter 62</cite>).</text>
     </para>
     <para>
       <num>(B)</num>
@@ -100,7 +100,7 @@
     </para>
     <para>
       <num>(C)</num>
-      <text>The Court shall work cooperatively to coordinate with other Tribal and State courts when there is a request to transfer of an action into or out of the Court and/or there are simultaneous proceedings in another court. Such coordination with Wisconsin courts shall be consistent with <cite doc="Wis. Stat." path="§801.54" proof="needed">Section 801.54</cite>, Wis. Stat., regarding "Discretionary transfer of civil actions to tribal court."</text>
+      <text>The Court shall work cooperatively to coordinate with other Tribal and State courts when there is a request to transfer of an action into or out of the Court and/or there are simultaneous proceedings in another court. Such coordination with Wisconsin courts shall be consistent with <cite path="§801.54">Section 801.54</cite>, Wis. Stat., regarding "Discretionary transfer of civil actions to tribal court."</text>
     </para>
   </section>
   <section>
@@ -588,7 +588,7 @@
     <heading>Modification of Court Orders</heading>
     <para>
       <num>(A)</num>
-      <text>The Court may order the following modifications to legal custody orders or physical placement orders, unless the modifications are being requested by a parent who is proposing to move a child, in which case <cite path="§15.14">Section 15.14</cite> shall apply.</text>
+      <text>The Court may order the following modifications to legal custody orders or physical placement orders, unless the modifications are being requested by a parent who is proposing to move a child, in which case <cite path="§15.14">Section 15.14 </cite>shall apply.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -870,8 +870,8 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
-        <text>On March 19, 2013, the Stockbridge-Munsee Tribal Council adopted a Custody, Physical Placement and Visitation Ordinance as Chapter 15 of Stockbridge-Munsee Tribal Law by Resolution 031-13.  This is a new ordinance.  Approved by the BIA on January 30, 2014.</text>
+        <num>1.</num>
+        <text>On March 19, 2013, the Stockbridge-Munsee Tribal Council adopted a Custody, Physical Placement and Visitation Ordinance as <cite path="15">Chapter 15</cite> of Stockbridge-Munsee Tribal Law by Resolution 031-13.  This is a new ordinance.  Approved by the BIA on January 30, 2014.</text>
       </para>
     </annotation>
   </annotations>

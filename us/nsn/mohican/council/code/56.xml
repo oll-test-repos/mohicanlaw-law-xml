@@ -6,14 +6,13 @@
   <section>
     <num>56.1</num>
     <heading>Purpose, Authority, and Jurisdiction</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Purpose.</heading>
       <text>This ordinance has the purposes of promoting food sovereignty and food safety.</text>
       <para>
         <num>(1)</num>
-        <heading>Food Sovereignty.</heading>
-        <text>The Tribe wishes to protect and promote local food and community self-governance.</text>
+        <text>Food Sovereignty.  The Tribe wishes to protect and promote local food and community self-governance.</text>
         <para>
           <num>(a)</num>
           <text>Historical changes (loss of the tribal homelands, removal to Wisconsin and the reservation system) disrupted traditional agricultural knowledge and practices of the Stockbridge-Munsee Community.</text>
@@ -53,8 +52,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <heading>Food Safety.</heading>
-        <text>The Tribe wishes to ensure the protection of the tribal community through the adoption of food safety requirements in relation to food service.</text>
+        <text>Food Safety.  The Tribe wishes to ensure the protection of the tribal community through the adoption of food safety requirements in relation to food service.</text>
         <para>
           <num>(a)</num>
           <text>This ordinance includes minimum food safety standards.</text>
@@ -69,12 +67,12 @@
         </para>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Authority.</heading>
-      <text>This ordinance is authorized under Article VII (f) of the Stockbridge-Munsee Constitution and inherent tribal authority as an exercise of governmental powers to govern members of the Stockbridge-Munsee Community, as well as the use, management and administration of the Stockbridge-Munsee Reservation.</text>
+      <text>This ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite> and inherent tribal authority as an exercise of governmental powers to govern members of the Stockbridge-Munsee Community, as well as the use, management and administration of the Stockbridge-Munsee Reservation.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Jurisdiction.</heading>
       <text>This ordinance applies in relation to members of the Stockbridge-Munsee Community, as well as such persons who consent to the jurisdiction of the Stockbridge-Munsee Community by entering tribal lands and engaging in activities that may endanger the economic, social and political welfare of the Stockbridge-Munsee Community if they violate this ordinance.  The Stockbridge-Munsee Tribal Court has jurisdiction to hear violations of this ordinance.</text>
@@ -157,8 +155,7 @@
     <heading>Food Access</heading>
     <para>
       <num>(A)</num>
-      <heading>Healthy Foods.</heading>
-      <text>The Tribe supports access to healthy, minimally-processed, foods such as through local farmers markets.</text>
+      <text>Healthy Foods.  The Tribe supports access to healthy, minimally-processed, foods such as through local farmers markets.</text>
     </para>
     <para>
       <num>(B)</num>
@@ -177,7 +174,7 @@
       <text>Traditional Foods.</text>
       <para>
         <num>(1)</num>
-        <text>As our people require traditional foods for our good health and sustenance in accordance with our covenant with the Creator and our ability to sustain ourselves and ecosystems, the Tribe supports ongoing traditional harvests of wild rice, maple syrup, medicinal plants, fish, game and deer on tribal lands pursuant to the Fish and Wildlife Ordinance, Chapter 21, and the Forestry Ordinance, Chapter 22.</text>
+        <text>As our people require traditional foods for our good health and sustenance in accordance with our covenant with the Creator and our ability to sustain ourselves and ecosystems, the Tribe supports ongoing traditional harvests of wild rice, maple syrup, medicinal plants, fish, game and deer on tribal lands pursuant to the Fish and Wildlife Ordinance, <cite path="21">Chapter 21</cite>, and the Forestry Ordinance, <cite path="22">Chapter 22</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -214,13 +211,11 @@
     </para>
     <para>
       <num>(F)</num>
-      <heading>Local Food Processing.</heading>
-      <text>The Tribe supports local food processing on the reservation to enhance local food production and access to traditional foods for our communities. This includes educational efforts to teach basic canning and freezing techniques for traditional foods, drying, and preparation to ensure these foods are available for tribal community members.</text>
+      <text>Local Food Processing.  The Tribe supports local food processing on the reservation to enhance local food production and access to traditional foods for our communities. This includes educational efforts to teach basic canning and freezing techniques for traditional foods, drying, and preparation to ensure these foods are available for tribal community members.</text>
     </para>
     <para>
       <num>(G)</num>
-      <heading>Sustainable Practices.</heading>
-      <text>The Tribe supports sustainable agricultural practices and the adoption of appropriate of standards regulating pollution from agriculture and overuse of natural resources.</text>
+      <text>Sustainable Practices.  The Tribe supports sustainable agricultural practices and the adoption of appropriate of standards regulating pollution from agriculture and overuse of natural resources.</text>
     </para>
   </section>
   <section>
@@ -228,28 +223,23 @@
     <heading>Promotion of Traditional, Healthy, and Local Foods in Tribal Programs</heading>
     <para>
       <num>(A)</num>
-      <heading>Tribal Preference.</heading>
-      <text>Tribal producers shall have preference for food sales at events sponsored by the Tribe and its departments, such as pow wows and farmers markets.</text>
+      <text>Tribal Preference.  Tribal producers shall have preference for food sales at events sponsored by the Tribe and its departments, such as pow wows and farmers markets.</text>
     </para>
     <para>
       <num>(B)</num>
-      <heading>Traditional Foods.</heading>
-      <text>Tribal programs shall attempt to incorporate traditional foods, such as fish, squash, and berries, in menus on a regular basis.</text>
+      <text>Traditional Foods.  Tribal programs shall attempt to incorporate traditional foods, such as fish, squash, and berries, in menus on a regular basis.</text>
     </para>
     <para>
       <num>(C)</num>
-      <heading>Healthy Foods.</heading>
-      <text>Tribal programs shall attempt to offer healthy food alternatives in menus.</text>
+      <text>Healthy Foods.  Tribal programs shall attempt to offer healthy food alternatives in menus.</text>
     </para>
     <para>
       <num>(D)</num>
-      <heading>Native American Producers.</heading>
-      <text>Tribal programs shall seek to purchase food from Stockbridge-Munsee, or if not reasonably feasible, other Native American producers.</text>
+      <text>Native American Producers.  Tribal programs shall seek to purchase food from Stockbridge-Munsee, or if not reasonably feasible, other Native American producers.</text>
     </para>
     <para>
       <num>(E)</num>
-      <heading>Local Foods.</heading>
-      <text>Tribal programs shall seek to purchase food from local food producers, as well as seek to promote healthy, local food production as part of tribal programs.</text>
+      <text>Local Foods.  Tribal programs shall seek to purchase food from local food producers, as well as seek to promote healthy, local food production as part of tribal programs.</text>
     </para>
   </section>
   <section>
@@ -282,12 +272,12 @@
     <para>
       <num>(D)</num>
       <text>Requirements for sale of cottage foods.</text>
-      <para>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Signs.</heading>
         <text>The seller must have a sign at the place of sale stating:  "These foods are homemade and not subject to inspection."</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(2)</num>
         <heading>Labels.</heading>
         <text>The seller shall label each container of food product with a label that includes the following information:</text>
@@ -305,22 +295,21 @@
         </para>
         <para>
           <num>(d)</num>
-          <heading>The following statement:</heading>
-          <text>"This product was made in a private home not subject to licensing or inspection."</text>
+          <text>The following statement:  "This product was made in a private home not subject to licensing or inspection."</text>
         </para>
         <para>
           <num>(e)</num>
           <text>A list of ingredients in descending order of prominence.</text>
           <para>
-            <num>i</num>
+            <num>i.</num>
             <text>The common or usual name for the ingredient should be used.</text>
           </para>
           <para>
-            <num>ii</num>
+            <num>ii.</num>
             <text>Major food allergens should be identified, as applicable.</text>
           </para>
           <para>
-            <num>iii</num>
+            <num>iii.</num>
             <text>For example, instead of listing "flour" as an ingredient, "wheat flour" should be listed or list "pecans" instead of "nuts."</text>
           </para>
         </para>
@@ -363,7 +352,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Shelf-stable, canned foods with an equilibrium pH value of <cite path="§4.6" proof="needed">4.6</cite> or lower, such as:</text>
+        <text>Shelf-stable, canned foods with an equilibrium pH value of <cite path="§4.6">4.6 </cite>or lower, such as:</text>
         <para>
           <num>(a)</num>
           <text>Jams and jellies made from acid foods like fruits;</text>
@@ -634,26 +623,26 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
+        <num>1.</num>
         <text>Originally approved August 3, 1993 by Resolution of Tribal Council, to be effective Jan. 1, 1994.  Revised and amended August 17, 2005.  All drafts were developed and recommended by Indian Health Service.</text>
       </para>
       <para>
-        <num>2</num>
-        <text>On March 21, 2006, Tribal Council, by Resolution No.027-06 created sections <cite path="§56.1|(C)">56.1(C)</cite>,(D),(E); <cite path="§56.2|(B)|(2)" proof="needed">56.2(B)(2)</cite>; <cite path="§56.5">56.5</cite>; Appendix A, and amended sections <cite path="§56.3">56.3</cite> and <cite path="§56.4">56.4</cite>.  Approved by BIA on April 10, 2006.</text>
+        <num>2.</num>
+        <text>On March 21, 2006, Tribal Council, by Resolution No.027-06 created sections <cite path="§56.1|(C)">56.1(C)</cite>,(D),(E); <cite path="§56.2|(B)|(2)">56.2(B)(2)</cite>; <cite path="§56.5">56.5</cite>; Appendix A, and amended sections <cite path="§56.3">56.3 </cite>and <cite path="§56.4">56.4</cite>.  Approved by BIA on April 10, 2006.</text>
       </para>
       <para>
-        <num>3</num>
+        <num>3.</num>
         <text>In 2015, the Tribal Council adopted a Strategic Plan that identified food sovereignty as a Tier One goal and included an objective of having a food sovereignty ordinance.  The Tribe's Food Service Code was revised to become a Food Ordinance that addressed both food sovereignty and food safety issues.</text>
       </para>
       <para>
-        <num>4</num>
-        <text>On April 17, 2018, the Tribal Council adopted amendments to Chapter 56 of Stockbridge-Munsee Tribal Law by Resolution No. 034-18.  The amendments added food sovereignty provisions including food access and sale of cottage foods; updated references and terminology to be consistent with the FDA Food Code; and updated and clarified the provisions about food service permitting.  The ordinance was renamed as the Food Ordinance and the following changes were made:</text>
+        <num>4.</num>
+        <text>On April 17, 2018, the Tribal Council adopted amendments to <cite path="56">Chapter 56</cite> of Stockbridge-Munsee Tribal Law by Resolution No. 034-18.  The amendments added food sovereignty provisions including food access and sale of cottage foods; updated references and terminology to be consistent with the FDA Food Code; and updated and clarified the provisions about food service permitting.  The ordinance was renamed as the Food Ordinance and the following changes were made:</text>
         <text>
           <ul proof="needed">
             <li>Added new Sections <cite path="§56.1">56.1</cite>, <cite path="§56.2|(A)">56.2 (A)</cite>, (C), (H-L), (N), (O); <cite path="§56.3">56.3</cite>; <cite path="§56.4">56.4</cite>; <cite path="§56.5">56.5</cite>; and <cite path="§56.6">56.6</cite>.</li>
-            <li>Renumbered Sections <cite path="§56.1">56.1</cite> as <cite path="§56.2">56.2</cite>; <cite path="§56.2">56.2</cite> is now <cite path="§56.7">56.7</cite>, <cite path="§56.8">56.8</cite> and <cite path="§56.9">56.9</cite>; <cite path="§56.3">56.3</cite> is now <cite path="§56.10">56.10</cite> and the remainder are renumbered accordingly.</li>
-            <li>Deleted Sections <cite path="§56.1|(F)" proof="needed">56.1 (F)</cite> and <cite path="§56.2|(C)">56.2 (C)</cite>.</li>
-            <li>Moved <cite path="§56.2|(B)|(2)|(d)" proof="needed">Section 56.2 (B)(2)(d)</cite> to now be <cite path="§56.12|(A)">56.12 (A)</cite>.</li>
+            <li>Renumbered Sections <cite path="§56.1">56.1 </cite>as <cite path="§56.2">56.2</cite>; <cite path="§56.2">56.2 </cite>is now <cite path="§56.7">56.7</cite>, <cite path="§56.8">56.8 </cite>and <cite path="§56.9">56.9</cite>; <cite path="§56.3">56.3 </cite>is now <cite path="§56.10">56.10 </cite>and the remainder are renumbered accordingly.</li>
+            <li>Deleted Sections <cite path="§56.1|(F)">56.1 (F)</cite> and <cite path="§56.2|(C)">56.2 (C)</cite>.</li>
+            <li>Moved <cite path="§56.2|(B)|(2)|(d)">Section 56.2 (B)(2)(d)</cite> to now be <cite path="§56.12|(A)">56.12 (A)</cite>.</li>
             <li>Amended Sections:  <cite path="§56.7|(A)">56.7 (A)</cite> and subparts, (B)(1), (2), (4)(a), and (C); <cite path="§56.8">56.8</cite>; <cite path="§56.9">56.9</cite>; <cite path="§56.10|(A)">56.10 (A)</cite>, (B) and (C); <cite path="§56.11|(A)">56.11 (A)</cite>; and <cite path="§56.12|(B)">56.12 (B)</cite>.</li>
           </ul>
         </text>

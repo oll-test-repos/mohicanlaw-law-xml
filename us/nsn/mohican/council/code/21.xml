@@ -53,7 +53,7 @@
       <heading>Authority</heading>
       <para>
         <num>(A)</num>
-        <text>The Ordinance is authorized under Article VII (f) of the Stockbridge-Munsee Constitution, and its inherent powers, as an exercise of its governmental powers to govern the use, management and administration of lands, waters, fish and wildlife of the Stockbridge-Munsee Indian Reservation.  Such authority is essential to protect the political integrity, economy, and the general welfare of the Stockbridge-Munsee Community.</text>
+        <text>The Ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite>, and its inherent powers, as an exercise of its governmental powers to govern the use, management and administration of lands, waters, fish and wildlife of the Stockbridge-Munsee Indian Reservation.  Such authority is essential to protect the political integrity, economy, and the general welfare of the Stockbridge-Munsee Community.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -141,7 +141,7 @@
       </para>
       <para>
         <num>(T)</num>
-        <text>"Public Road" refers to any road that is intended to provide a route for public access, such as roads listed on the Indian Reservation Roads inventory or other local road inventories, as well as driveways to facilities that are open to the public.  In addition, the railroad bed from Morgan to Camp One Road is treated as Public Road for the purpose of this Ordinance, however, this treatment does not grant any access rights to the general public.  Forest roads, as defined in Chapter 22, are not Public Roads.</text>
+        <text>"Public Road" refers to any road that is intended to provide a route for public access, such as roads listed on the Indian Reservation Roads inventory or other local road inventories, as well as driveways to facilities that are open to the public.  In addition, the railroad bed from Morgan to Camp One Road is treated as Public Road for the purpose of this Ordinance, however, this treatment does not grant any access rights to the general public.  Forest roads, as defined in <cite path="22">Chapter 22</cite>, are not Public Roads.</text>
       </para>
     </section>
     <section>
@@ -176,7 +176,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The Fish and Wildlife Board will follow all applicable Tribal law including Chapter 51, Code of Conduct.</text>
+          <text>The Fish and Wildlife Board will follow all applicable Tribal law including <cite path="51">Chapter 51</cite>, Code of Conduct.</text>
         </para>
       </para>
       <para>
@@ -233,7 +233,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>The Tribal Council may temporarily alter seasons, limits, fees, permit requirements, close areas, or waive provisions of this ordinance, if the Tribal Council determines that it is in the best interests of the Tribe and that an emergency exists, other similar circumstances exist, or there is not adequate time to amend this Ordinance.  The Tribal Council must also determine that if it does not act, the Tribe or its conservation resources will be harmed.  Any actions under this provision must be acted on by Resolution, and in accordance with Chapter 50.</text>
+        <text>The Tribal Council may temporarily alter seasons, limits, fees, permit requirements, close areas, or waive provisions of this ordinance, if the Tribal Council determines that it is in the best interests of the Tribe and that an emergency exists, other similar circumstances exist, or there is not adequate time to amend this Ordinance.  The Tribal Council must also determine that if it does not act, the Tribe or its conservation resources will be harmed.  Any actions under this provision must be acted on by Resolution, and in accordance with <cite path="50">Chapter 50</cite>.</text>
       </para>
       <para>
         <num>(C)</num>
@@ -357,15 +357,15 @@
         <text>Fees for adult direct descendants and spouses of tribal members are:</text>
         <para>
           <num>(1)</num>
-          <text>Deer, migratory birds, and small game hunting permit is $30.00 annually.</text>
+          <text>Deer, migratory birds, and small game hunting permit is $<cite path="§30.00">30.00 </cite>annually.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>A Sportsman permit for hunting and fishing, which is valid for the calendar year, is $50.00 annually.  A Sportsman permit is not valid for turkey hunting.</text>
+          <text>A Sportsman permit for hunting and fishing, which is valid for the calendar year, is $<cite path="§50.00">50.00 </cite>annually.  A Sportsman permit is not valid for turkey hunting.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Turkey permit for spring or fall is $8.00.</text>
+          <text>Turkey permit for spring or fall is $<cite path="§8.00">8.00</cite>.</text>
         </para>
       </para>
       <para>
@@ -413,13 +413,11 @@
         <text>Deer hunting for adult direct descendants and other Permittees is limited to:</text>
         <para>
           <num>(1)</num>
-          <heading>Bow season:</heading>
-          <text>September 15 through December 31.</text>
+          <text>Bow season:  September 15 through December 31.</text>
         </para>
         <para>
           <num>(2)</num>
-          <heading>Firearm season:</heading>
-          <text>from the Saturday of the week before Thanksgiving to the Sunday following Thanksgiving.</text>
+          <text>Firearm season:  from the Saturday of the week before Thanksgiving to the Sunday following Thanksgiving.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -816,11 +814,11 @@
         <text>Fees for adult direct descendants and spouses of tribal members are:</text>
         <para>
           <num>(1)</num>
-          <text>Fishing permit, which is valid for the calendar year, is $30.00 annually.</text>
+          <text>Fishing permit, which is valid for the calendar year, is $<cite path="§30.00">30.00 </cite>annually.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>A Sportsman permit for hunting (except turkey) and fishing, which is valid for the calendar year, is $50.00 annually.</text>
+          <text>A Sportsman permit for hunting (except turkey) and fishing, which is valid for the calendar year, is $<cite path="§50.00">50.00 </cite>annually.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1122,7 +1120,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Forest roads are defined under Chapter 22.</text>
+          <text>Forest roads are defined under <cite path="22">Chapter 22</cite>.</text>
         </para>
       </para>
       <para>
@@ -1232,7 +1230,7 @@
       <heading>Enforcement</heading>
       <para>
         <num>(A)</num>
-        <text>Both Stockbridge-Munsee Law Enforcement Officers and Game Wardens/Conservation Officers are considered "Authorized Law Enforcement" for purposes of enforcement of Chapters 21 and 22 of the Stockbridge-Munsee Tribal Law (hereinafter referred to as "Ordinances" in this <cite path="§21.29">Section 21.29</cite>) and, as such, have authority to investigate and enforce the provisions of such Ordinance.  Authorized Law Enforcement shall consult with other law enforcement agencies, where appropriate.</text>
+        <text>Both Stockbridge-Munsee Law Enforcement Officers and Game Wardens/Conservation Officers are considered "Authorized Law Enforcement" for purposes of enforcement of Chapters <cite path="21">21</cite> and <cite path="22">22</cite> of the Stockbridge-Munsee Tribal Law (hereinafter referred to as "Ordinances" in this <cite path="§21.29">Section 21.29</cite>) and, as such, have authority to investigate and enforce the provisions of such Ordinance.  Authorized Law Enforcement shall consult with other law enforcement agencies, where appropriate.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -1283,7 +1281,7 @@
         <text>Penalties.</text>
         <para>
           <num>(1)</num>
-          <text>Any person found guilty of this Ordinance shall be assessed of a fine ranging from $100.00 to $5,000 as specified in <cite path="§21.21|(D)|(6)" proof="needed">Section 21.21(D)(6)</cite>, (7) or (8).  In assessing the fine, the Court shall consider the severity of the offense, the acceptance of responsibility by the charged person, the number of previous convictions, and deterrence to others.</text>
+          <text>Any person found guilty of this Ordinance shall be assessed of a fine ranging from $<cite path="§100.00">100.00 </cite>to $5,000 as specified in <cite path="§21.21|(D)|(6)">Section 21.21(D)(6)</cite>, (7) or (8).  In assessing the fine, the Court shall consider the severity of the offense, the acceptance of responsibility by the charged person, the number of previous convictions, and deterrence to others.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1306,15 +1304,15 @@
           <text>Civil remedial money penalties, referred to in this Ordinance as Fish &amp; Game Infraction(s) are classified and carry penalties as follows and other remedies as the court deems appropriate:</text>
           <para>
             <num>(a)</num>
-            <text>Class A Infractions, not less than $500.00 nor more than $5,000.00.</text>
+            <text>Class A Infractions, not less than $<cite path="§500.00">500.00 </cite>nor more than $5,<cite path="§000.00">000.00</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>Class B Infractions, not less than $300.00 nor more than $5,000.00.</text>
+            <text>Class B Infractions, not less than $<cite path="§300.00">300.00 </cite>nor more than $5,<cite path="§000.00">000.00</cite>.</text>
           </para>
           <para>
             <num>(c)</num>
-            <text>Class C Infractions, not less than $200.00 nor more than $5,000.00.</text>
+            <text>Class C Infractions, not less than $<cite path="§200.00">200.00 </cite>nor more than $5,<cite path="§000.00">000.00</cite>.</text>
           </para>
         </para>
         <para>
@@ -1322,26 +1320,25 @@
           <text>When any person is found guilty of a violation, and such person has been convicted of a previous violation of this Ordinance within a period of one year, there shall be a mandatory revocation of all privileges regulated under this Ordinance for a minimum of two years, and the Infraction penalties may be enhanced as follows and other remedies as the court deems appropriate:</text>
           <para>
             <num>(a)</num>
-            <text>For a Class A Infraction, $5,000.00.</text>
+            <text>For a Class A Infraction, $5,<cite path="§000.00">000.00</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>For a Class B Infraction, not less than $1,000.00 nor more than $5,000.00.</text>
+            <text>For a Class B Infraction, not less than $1,<cite path="§000.00">000.00 </cite>nor more than $5,<cite path="§000.00">000.00</cite>.</text>
           </para>
           <para>
             <num>(c)</num>
-            <text>For a Class C Infraction, not less than $500.00 nor more than $5,000.00.</text>
+            <text>For a Class C Infraction, not less than $<cite path="§500.00">500.00 </cite>nor more than $5,<cite path="§000.00">000.00</cite>.</text>
           </para>
         </para>
         <para>
           <num>(8)</num>
-          <text>For a third violation of this Ordinance within a period of one (1) year the penalty shall be $5,000.00 and a mandatory lifetime revocation of all privileges regulated under this Ordinance and other remedies as the court deems appropriate.</text>
+          <text>For a third violation of this Ordinance within a period of one (1) year the penalty shall be $5,<cite path="§000.00">000.00 </cite>and a mandatory lifetime revocation of all privileges regulated under this Ordinance and other remedies as the court deems appropriate.</text>
         </para>
       </para>
       <para>
         <num>(E)</num>
-        <heading>Civil Damages.</heading>
-        <text>In addition to an action for civil penalties, the Tribe may bring a civil action for recovery of damages against any person unlawfully killing, wounding, catching, taking, trapping, harvesting, or having unlawfully in his or her possession any game animal, fish, or bird.</text>
+        <text>Civil Damages.  In addition to an action for civil penalties, the Tribe may bring a civil action for recovery of damages against any person unlawfully killing, wounding, catching, taking, trapping, harvesting, or having unlawfully in his or her possession any game animal, fish, or bird.</text>
       </para>
     </section>
     <section>
@@ -1391,110 +1388,108 @@
   <annotations>
     <annotation type="Legislative History">
       <para>
-        <num>1</num>
-        <heading>Legislative Note:</heading>
-        <text>Chapter 20 initially part of Conservation Code, which was adopted by the Tribal Council on November 14, 1978; for additional Legislative History on Conservation Code, see Chapter 22.</text>
+        <num>1.</num>
+        <text>Legislative Note:  <cite path="20">Chapter 20</cite> initially part of Conservation Code, which was adopted by the Tribal Council on November 14, 1978; for additional Legislative History on Conservation Code, see <cite path="22">Chapter 22</cite>.</text>
       </para>
       <para>
-        <num>2</num>
+        <num>2.</num>
         <text>Amended by Council motion of Council, July 15, 1997.  New provisions include allowing minor-aged direct descendants to hunt during tribal season, shortening of deer gun season; adding turkey season guidelines; changing brook trout and bass bag limits; prohibiting 4-wheel drive vehicles on logging roads during spring break up; closing road south of Richard's Bridge; mandatory registration; wildlife count.</text>
       </para>
       <para>
-        <num>3</num>
+        <num>3.</num>
         <text>Amended on March 21, 2000 by Resolution No. 010-2000.  Approval by BIA April 11, 2000.</text>
       </para>
       <para>
-        <num>4</num>
+        <num>4.</num>
         <text><cite path="§21.9|(A)">Section 21.9(A)</cite> amended creating deer donation policy by Tribal Council on January 2, 2002, Resolution Number 03-02.  Approved by BIA January 15, 2002.</text>
       </para>
       <para>
-        <num>5</num>
-        <heading>Legislative Note:</heading>
-        <text>The March 21, 2000 amendments regarding fees were not properly incorporated into the Ordinance.  Upon this discovery, the appropriate fees were incorporated into the Ordinance on November 5, 2003, following the November 4, 2003 Tribal Council meeting.</text>
+        <num>5.</num>
+        <text>Legislative Note: The March 21, 2000 amendments regarding fees were not properly incorporated into the Ordinance.  Upon this discovery, the appropriate fees were incorporated into the Ordinance on November 5, 2003, following the November 4, 2003 Tribal Council meeting.</text>
       </para>
       <para>
-        <num>6</num>
-        <text>On July 20, 2004, by Resolution No. 039-04, Tribal Council amended sections <cite path="§21.1|(A)">21.1(A)</cite> and (B), <cite path="§21.11|(C)">21.11(C)</cite>, <cite path="§21.13">21.13</cite> by inserting "and the Stockbridge-Munsee Fish and Game Board;" sections <cite path="§21.2|(A)">21.2(A)</cite> and (B) by deleting requirement to obtain State of Wisconsin licenses; sections <cite path="§21.3|(A)">21.3(A)</cite> and (B) by changing the fees; creating <cite path="§21.3|(C)">section 21.3(C)</cite>;  deleting <cite path="§21.6|(5)" proof="needed">section 21.6(5)</cite>  "Fur bearing animal"; deleting "bald eagle, elk, fisher, golden eagle, marten, timber wolf, lynx or any species determined to be rare or" from <cite path="§21.6|(C)|(4)" proof="needed">section 21.6(C)(4)</cite>; adding "no more than ten grouse" to <cite path="§21.7|(D)">section 21.7(D)</cite>; adding sections <cite path="§21.8|(E)">21.8(E)</cite> and <cite path="§21.10|(E)" proof="needed">21.10(E)</cite>; creating reporting requirement to <cite path="§21.9|(A)|(4)" proof="needed">section 21.9(A)(4)</cite>; amending sections <cite path="§21.9|(A)|(2)" proof="needed">21.9(A)(2)</cite> and <cite path="§21.9|(B)">21.9(B)</cite> to clarify the type and size of weapon or firearm; deleted "the restrictions on the manner for taking bear are the same as outlined in (A)(1) of this section" from <cite path="§21.9|(B)|(1)">section 21.9(B)(1)</cite>; creating <cite path="§21.11|(B)|(1)">section 21.11(B)(1)</cite>; and creating <cite path="§21.14">section 21.14</cite>.</text>
+        <num>6.</num>
+        <text>On July 20, 2004, by Resolution No. 039-04, Tribal Council amended sections <cite path="§21.1|(A)">21.1(A)</cite> and (B), <cite path="§21.11|(C)">21.11(C)</cite>, <cite path="§21.13">21.13 </cite>by inserting "and the Stockbridge-Munsee Fish and Game Board;" sections <cite path="§21.2|(A)">21.2(A)</cite> and (B) by deleting requirement to obtain State of Wisconsin licenses; sections <cite path="§21.3|(A)">21.3(A)</cite> and (B) by changing the fees; creating <cite path="§21.3|(C)">section 21.3(C)</cite>;  deleting <cite path="§21.6|(5)">section 21.6(5)</cite>  "Fur bearing animal"; deleting "bald eagle, elk, fisher, golden eagle, marten, timber wolf, lynx or any species determined to be rare or" from <cite path="§21.6|(C)|(4)">section 21.6(C)(4)</cite>; adding "no more than ten grouse" to <cite path="§21.7|(D)">section 21.7(D)</cite>; adding sections <cite path="§21.8|(E)">21.8(E)</cite> and <cite path="§21.10|(E)">21.10(E)</cite>; creating reporting requirement to <cite path="§21.9|(A)|(4)">section 21.9(A)(4)</cite>; amending sections <cite path="§21.9|(A)|(2)">21.9(A)(2)</cite> and <cite path="§21.9|(B)">21.9(B)</cite> to clarify the type and size of weapon or firearm; deleted "the restrictions on the manner for taking bear are the same as outlined in (A)(1) of this section" from <cite path="§21.9|(B)|(1)">section 21.9(B)(1)</cite>; creating <cite path="§21.11|(B)|(1)">section 21.11(B)(1)</cite>; and creating <cite path="§21.14">section 21.14</cite>.</text>
       </para>
       <para>
-        <num>7</num>
+        <num>7.</num>
         <text>Amended by Tribal Council on June 6, 2006, by creating <cite path="§21.9|(D)">section 21.9(D)</cite>, Resolution No. 044-06.</text>
       </para>
       <para>
-        <num>8</num>
-        <text>Amended by Tribal Council on July 18, 2006, by creating sections <cite path="§21.2|(D)" proof="needed">21.2(D)</cite>, <cite path="§21.3|(A)|(4)" proof="needed">21.3(A)(4)</cite>, <cite path="§21.3|(B)|(3)" proof="needed">21.3(B)(3)</cite>, <cite path="§21.8|(A)">21.8(A)</cite>, <cite path="§21.8|(B)|(1)|(2)|(3)" proof="needed">21.8(B)(1)(2)(3)</cite>, <cite path="§21.8|(C)|(1)|(2)" proof="needed">21.8 (C)(1)(2)</cite>, and <cite path="§21.11|(A)|(1)|(2)|(3)" proof="needed">21.11(A)(1)(2)(3)</cite>; and amending <cite path="§21.3|(A)|(3)" proof="needed">section 21.3(A)(3)</cite>, Resolution No. 051-06.</text>
+        <num>8.</num>
+        <text>Amended by Tribal Council on July 18, 2006, by creating sections <cite path="§21.2|(D)">21.2(D)</cite>, <cite path="§21.3|(A)|(4)">21.3(A)(4)</cite>, <cite path="§21.3|(B)|(3)">21.3(B)(3)</cite>, <cite path="§21.8|(A)">21.8(A)</cite>, <cite path="§21.8|(B)|(1)|(2)|(3)">21.8(B)(1)(2)(3)</cite>, <cite path="§21.8|(C)|(1)|(2)">21.8 (C)(1)(2)</cite>, and <cite path="§21.11|(A)|(1)|(2)|(3)">21.11(A)(1)(2)(3)</cite>; and amending <cite path="§21.3|(A)|(3)">section 21.3(A)(3)</cite>, Resolution No. 051-06.</text>
       </para>
       <para>
-        <num>9</num>
-        <text>Amended by Tribal Council on November 7, 2006, by deleting, "Tribal members may request their harvest tags be mailed to them," from <cite path="§21.11|(A)|(1)" proof="needed">Section 21.11(A)(1)</cite>, Resolution No. 011-07.</text>
+        <num>9.</num>
+        <text>Amended by Tribal Council on November 7, 2006, by deleting, "Tribal members may request their harvest tags be mailed to them," from <cite path="§21.11|(A)|(1)">Section 21.11(A)(1)</cite>, Resolution No. 011-07.</text>
       </para>
       <para>
-        <num>10</num>
-        <text>On May 6, 2008, Tribal Council repealed existing Chapter 21 and adopted a new Chapter 21 that renumbered and had changes clarifying numerous sections and incorporated enforcement and other relevant sections of Chapter 20.  This was done by Resolution No. 030-08.</text>
+        <num>10.</num>
+        <text>On May 6, 2008, Tribal Council repealed existing <cite path="21">Chapter 21</cite> and adopted a new <cite path="21">Chapter 21</cite> that renumbered and had changes clarifying numerous sections and incorporated enforcement and other relevant sections of <cite path="20">Chapter 20</cite>.  This was done by Resolution No. 030-08.</text>
       </para>
       <para>
-        <num>11</num>
+        <num>11.</num>
         <text>On October 9, 2008, Tribal Council made an administrative correction by adding the words "or permittee" to <cite path="§21.15">Section 21.15</cite>.5 (C).</text>
       </para>
       <para>
-        <num>12</num>
-        <text>Amendments adopted by Tribal Council on January 6, 2009 to create new Sections <cite path="§21.3|(P)">21.3 (P)</cite>, <cite path="§21.7|(F)">21.7 (F)</cite>, <cite path="§21.10|(D)" proof="needed">21.10 (D)</cite>, <cite path="§21.13|(C)|(1)">21.13 (C)(1)</cite>, <cite path="§21.13|(E)" proof="needed">21.13 (E)</cite>, <cite path="§21.15|(B)|(4)" proof="needed">21.15 (B)(4)</cite>, and <cite path="§21.20|(EE)" proof="needed">21.20 (EE)</cite>; renumber <cite path="§21.10|(D)" proof="needed">Section 21.10 (D)</cite> as <cite path="§21.10|(E)" proof="needed">21.10 (E)</cite>; amend <cite path="§21.16|(A)">Section 21.16 (A)</cite>; move <cite path="§21.15|(A)|(2)" proof="needed">Section 21.15 (A)(2)</cite> to be <cite path="§21.15|(F)" proof="needed">Section 21.15 (F)</cite>; and make a technical change to <cite path="§21.21">Section 21.21</cite>.  On February 3, 2009, Tribal Council renumbered the resolution adopting amendments as Resolution No. 021-09.</text>
+        <num>12.</num>
+        <text>Amendments adopted by Tribal Council on January 6, 2009 to create new Sections <cite path="§21.3|(P)">21.3 (P)</cite>, <cite path="§21.7|(F)">21.7 (F)</cite>, <cite path="§21.10|(D)">21.10 (D)</cite>, <cite path="§21.13|(C)|(1)">21.13 (C)(1)</cite>, <cite path="§21.13|(E)">21.13 (E)</cite>, <cite path="§21.15|(B)|(4)">21.15 (B)(4)</cite>, and <cite path="§21.20|(EE)">21.20 (EE)</cite>; renumber <cite path="§21.10|(D)">Section 21.10 (D)</cite> as <cite path="§21.10|(E)">21.10 (E)</cite>; amend <cite path="§21.16|(A)">Section 21.16 (A)</cite>; move <cite path="§21.15|(A)|(2)">Section 21.15 (A)(2)</cite> to be <cite path="§21.15|(F)">Section 21.15 (F)</cite>; and make a technical change to <cite path="§21.21">Section 21.21</cite>.  On February 3, 2009, Tribal Council renumbered the resolution adopting amendments as Resolution No. 021-09.</text>
       </para>
       <para>
-        <num>13</num>
-        <text>Amendment adopted by Tribal Council on September 1, 2009 to amend Sections <cite path="§21.13">21.13</cite>, <cite path="§21.16|(A)|(3)" proof="needed">21.16 (A)(3)</cite> and <cite path="§21.20|(D)" proof="needed">21.20(D)</cite>; and to create new Sections <cite path="§21.13|(C)|(2)">21.13(C)(2)</cite> and <cite path="§21.13|(C)|(3)">21.13(C)(3)</cite>.  This was done by Resolution No. 082-09.</text>
+        <num>13.</num>
+        <text>Amendment adopted by Tribal Council on September 1, 2009 to amend Sections <cite path="§21.13">21.13</cite>, <cite path="§21.16|(A)|(3)">21.16 (A)(3)</cite> and <cite path="§21.20|(D)">21.20(D)</cite>; and to create new Sections <cite path="§21.13|(C)|(2)">21.13(C)(2)</cite> and <cite path="§21.13|(C)|(3)">21.13(C)(3)</cite>.  This was done by Resolution No. 082-09.</text>
       </para>
       <para>
-        <num>14</num>
-        <text>On November 16, 2010, the Tribal Council adopted changes to Chapter 21 amending Sections <cite path="§21.8|(C)">21.8(C)</cite>, <cite path="§21.15">21.15</cite>.5(C)(1), and <cite path="§21.15">21.15</cite>.5(G) and creating new Sections <cite path="§21.3|(Q)">21.3(Q)</cite>, <cite path="§21.8|(A)|(1)">21.8(A)(1)</cite>, <cite path="§21.8|(G)">21.8(G)</cite> and <cite path="§21.20|(FF)" proof="needed">21.20(FF)</cite>.  These changes were adopted by Resolution No. 06-11.</text>
+        <num>14.</num>
+        <text>On November 16, 2010, the Tribal Council adopted changes to <cite path="21">Chapter 21</cite> amending Sections <cite path="§21.8|(C)">21.8(C)</cite>, <cite path="§21.15">21.15</cite>.5(C)(1), and <cite path="§21.15">21.15</cite>.5(G) and creating new Sections <cite path="§21.3|(Q)">21.3(Q)</cite>, <cite path="§21.8|(A)|(1)">21.8(A)(1)</cite>, <cite path="§21.8|(G)">21.8(G)</cite> and <cite path="§21.20|(FF)">21.20(FF)</cite>.  These changes were adopted by Resolution No. 06-11.</text>
       </para>
       <para>
-        <num>15</num>
-        <text>On June 5, 2012, the Tribal Council adopted the following changes to Chapter 21:</text>
+        <num>15.</num>
+        <text>On June 5, 2012, the Tribal Council adopted the following changes to <cite path="21">Chapter 21</cite>:</text>
         <text>
           <ul proof="needed">
-            <li>Amending <cite path="§21.2|(A)">21.2(A)</cite>, <cite path="§21.4">21.4</cite>, <cite path="§21.15|(B)|(2)" proof="needed">21.15(B)(2)</cite>, <cite path="§21.15">21.15</cite>.5(A), <cite path="§21.15">21.15</cite>.5(B), <cite path="§21.15">21.15</cite>.5(C), <cite path="§21.17|(B)">21.17(B)</cite>, <cite path="§21.19|(A)">21.19(A)</cite>, <cite path="§21.20|(V)" proof="needed">21.20(V)</cite>, <cite path="§21.21|(A)">21.21(A)</cite> and <cite path="§21.21|(B)">21.21 (B)</cite>; and</li>
-            <li>Deleting <cite path="§21.8|(A)|(1)">21.8(A)(1)</cite>, <cite path="§21.8|(C)|(1)">21.8(C)(1)</cite>, <cite path="§21.15|(D)">21.15(D)</cite>, <cite path="§21.15|(E)" proof="needed">21.15(E)</cite>, <cite path="§21.15">21.15</cite>.5(D)-(G), <cite path="§21.17|(F)|(2)|(d)" proof="needed">21.17(F)(2)(d)</cite>, <cite path="§21.17|(G)|(1)" proof="needed">21.17(G)(1)</cite> and <cite path="§21.21|(B)|(3)|(a)" proof="needed">21.21(B)(3)(a)</cite>-(b); and</li>
-            <li>Creating new <cite path="§21.2|(B)">21.2(B)</cite>, <cite path="§21.12|(C)">21.12(C)</cite>, <cite path="§21.12|(D)">21.12(D)</cite>, <cite path="§21.15|(A)|(1)|(c)" proof="needed">21.15(A)(1)(c)</cite>, <cite path="§21.17|(A)|(1)">21.17(A)(1)</cite>-(3), <cite path="§21.20|(GG)" proof="needed">21.20(GG)</cite> and <cite path="§21.21|(B)|(2)|(a)" proof="needed">21.21(B)(2)(a)</cite>-(b); and</li>
-            <li>Renumbering <cite path="§21.17|(F)|(2)|(e)" proof="needed">21.17(F)(2)(e)</cite>-(g), <cite path="§21.17|(G)|(2)" proof="needed">21.17(G)(2)</cite>-(4), <cite path="§21.19">21.19</cite> and <cite path="§21.21">21.21</cite>; and</li>
-            <li>Technical change <cite path="§21.6|(B)">21.6(B)</cite>, <cite path="§21.8|(H)">21.8(H)</cite>, <cite path="§21.17|(C)">21.17(C)</cite> and <cite path="§21.21|(D)|(1)" proof="needed">21.21(D)(1)</cite>.</li>
+            <li>Amending <cite path="§21.2|(A)">21.2(A)</cite>, <cite path="§21.4">21.4</cite>, <cite path="§21.15|(B)|(2)">21.15(B)(2)</cite>, <cite path="§21.15">21.15</cite>.5(A), <cite path="§21.15">21.15</cite>.5(B), <cite path="§21.15">21.15</cite>.5(C), <cite path="§21.17|(B)">21.17(B)</cite>, <cite path="§21.19|(A)">21.19(A)</cite>, <cite path="§21.20|(V)">21.20(V)</cite>, <cite path="§21.21|(A)">21.21(A)</cite> and <cite path="§21.21|(B)">21.21 (B)</cite>; and</li>
+            <li>Deleting <cite path="§21.8|(A)|(1)">21.8(A)(1)</cite>, <cite path="§21.8|(C)|(1)">21.8(C)(1)</cite>, <cite path="§21.15|(D)">21.15(D)</cite>, <cite path="§21.15|(E)">21.15(E)</cite>, <cite path="§21.15">21.15</cite>.5(D)-(G), <cite path="§21.17|(F)|(2)|(d)">21.17(F)(2)(d)</cite>, <cite path="§21.17|(G)|(1)">21.17(G)(1)</cite> and <cite path="§21.21|(B)|(3)|(a)">21.21(B)(3)(a)</cite>-(b); and</li>
+            <li>Creating new <cite path="§21.2|(B)">21.2(B)</cite>, <cite path="§21.12|(C)">21.12(C)</cite>, <cite path="§21.12|(D)">21.12(D)</cite>, <cite path="§21.15|(A)|(1)|(c)">21.15(A)(1)(c)</cite>, <cite path="§21.17|(A)|(1)">21.17(A)(1)</cite>-(3), <cite path="§21.20|(GG)">21.20(GG)</cite> and <cite path="§21.21|(B)|(2)|(a)">21.21(B)(2)(a)</cite>-(b); and</li>
+            <li>Renumbering <cite path="§21.17|(F)|(2)|(e)">21.17(F)(2)(e)</cite>-(g), <cite path="§21.17|(G)|(2)">21.17(G)(2)</cite>-(4), <cite path="§21.19">21.19 </cite>and <cite path="§21.21">21.21</cite>; and</li>
+            <li>Technical change <cite path="§21.6|(B)">21.6(B)</cite>, <cite path="§21.8|(H)">21.8(H)</cite>, <cite path="§21.17|(C)">21.17(C)</cite> and <cite path="§21.21|(D)|(1)">21.21(D)(1)</cite>.</li>
           </ul>
         </text>
         <text>These changes were adopted by Resolution No. 040-12.</text>
       </para>
       <para>
-        <num>16</num>
-        <text>On October 23, 2012, the Tribal Council adopted Resolution No. 007-13, which authorized changes to Chapter 21 to add requirement that individuals be at least 12-years of age, clarifying the time frame for permits and seasons, and to clarify other language.  These changes are:  amending <cite path="§21.8|(A)">21.8 (A)</cite> to create subsection (1) and a new subsection (2); amending <cite path="§21.8|(B)">21.8 (B)</cite>; amending <cite path="§21.8|(C)">21.8 (C)</cite> to create a new subsection (1) and subsection (2); amending <cite path="§21.8|(H)">21.8 (H)</cite>; amending <cite path="§21.9|(A)|(2)" proof="needed">21.9 (A)(2)</cite> and (3); amending <cite path="§21.9|(B)|(1)">21.9 (B)(1)</cite>, (2) and (3); amending <cite path="§21.16|(A)|(1)">21.16 (A)(1)</cite>; and amending <cite path="§21.21|(B)|(2)|(a)" proof="needed">21.21 (B)(2)(a)</cite>.</text>
+        <num>16.</num>
+        <text>On October 23, 2012, the Tribal Council adopted Resolution No. 007-13, which authorized changes to <cite path="21">Chapter 21</cite> to add requirement that individuals be at least 12-years of age, clarifying the time frame for permits and seasons, and to clarify other language.  These changes are:  amending <cite path="§21.8|(A)">21.8 (A)</cite> to create subsection (1) and a new subsection (2); amending <cite path="§21.8|(B)">21.8 (B)</cite>; amending <cite path="§21.8|(C)">21.8 (C)</cite> to create a new subsection (1) and subsection (2); amending <cite path="§21.8|(H)">21.8 (H)</cite>; amending <cite path="§21.9|(A)|(2)">21.9 (A)(2)</cite> and (3); amending <cite path="§21.9|(B)|(1)">21.9 (B)(1)</cite>, (2) and (3); amending <cite path="§21.16|(A)|(1)">21.16 (A)(1)</cite>; and amending <cite path="§21.21|(B)|(2)|(a)">21.21 (B)(2)(a)</cite>.</text>
       </para>
       <para>
-        <num>17</num>
-        <text>On November 5, 2013, the Tribal Council adopted Resolution No. 07-14, which authorized changes to Chapter 21 adding a new deer sustenance tag, allowing mentor hunting by 10- and 11-year olds, and clarifying required permits and fees for permittees who are minors. These changes are:  amending sub<cite path="§21.8|(A)|(2)">section 21.8 (A)(2)</cite>; amending sub<cite path="§21.8|(C)|(1)">section 21.8 (C)(1)</cite>; amending sub<cite path="§21.8|(D)">section 21.8 (D)</cite>; adding new sub<cite path="§21.8|(I)">section 21.8 (I)</cite>; adding new subparts <cite path="§21.8|(I)|(1)" proof="needed">21.8 (I)(1)</cite>-(4); adding new sub<cite path="§21.8|(J)" proof="needed">section 21.8 (J)</cite>; adding new subparts <cite path="§21.8|(J)|(1)" proof="needed">21.8 (J)(1)</cite>-(4) and amending sub<cite path="§21.9|(B)|(2)">section 21.9 (B)(2)</cite>.</text>
+        <num>17.</num>
+        <text>On November 5, 2013, the Tribal Council adopted Resolution No. 07-14, which authorized changes to <cite path="21">Chapter 21</cite> adding a new deer sustenance tag, allowing mentor hunting by 10- and 11-year olds, and clarifying required permits and fees for permittees who are minors. These changes are:  amending sub<cite path="§21.8|(A)|(2)">section 21.8 (A)(2)</cite>; amending sub<cite path="§21.8|(C)|(1)">section 21.8 (C)(1)</cite>; amending sub<cite path="§21.8|(D)">section 21.8 (D)</cite>; adding new sub<cite path="§21.8|(I)">section 21.8 (I)</cite>; adding new subparts <cite path="§21.8|(I)|(1)">21.8 (I)(1)</cite>-(4); adding new sub<cite path="§21.8|(J)">section 21.8 (J)</cite>; adding new subparts <cite path="§21.8|(J)|(1)">21.8 (J)(1)</cite>-(4) and amending sub<cite path="§21.9|(B)|(2)">section 21.9 (B)(2)</cite>.</text>
       </para>
       <para>
-        <num>18</num>
-        <text>On August 19, 2014, the Tribal Council adopted Resolution No. 043-14, which authorized changes to Chapter 21 to limit baiting and feeding to control the spread of chronic wasting disease, as well as to address using resources responsibly, tagging of equipment, hunting by permittees, turkey harvest and hunting bear with dogs. These changes are to add sections <cite path="§21.12">21.12</cite>.5, <cite path="§21.1|(I)">21.1(I)</cite>, <cite path="§21.8|(K)" proof="needed">21.8(K)</cite>, <cite path="§21.8|(L)" proof="needed">21.8(L)</cite>, <cite path="§21.15|(C)|(3)">21.15(C)(3)</cite>, and <cite path="§21.15|(D)">21.15(D)</cite>; and to amend sections <cite path="§21.9|(A)|(4)" proof="needed">21.9(A)(4)</cite>, <cite path="§21.14|(B)|(1)">21.14(B)(1)</cite>, <cite path="§21.14|(C)|(1)">21.14(C)(1)</cite>-(3), <cite path="§21.15|(C)">21.15(C)</cite>, and <cite path="§21.20|(E)" proof="needed">21.20(E)</cite>.</text>
+        <num>18.</num>
+        <text>On August 19, 2014, the Tribal Council adopted Resolution No. 043-14, which authorized changes to <cite path="21">Chapter 21</cite> to limit baiting and feeding to control the spread of chronic wasting disease, as well as to address using resources responsibly, tagging of equipment, hunting by permittees, turkey harvest and hunting bear with dogs. These changes are to add sections <cite path="§21.12">21.12</cite>.5, <cite path="§21.1|(I)">21.1(I)</cite>, <cite path="§21.8|(K)">21.8(K)</cite>, <cite path="§21.8|(L)">21.8(L)</cite>, <cite path="§21.15|(C)|(3)">21.15(C)(3)</cite>, and <cite path="§21.15|(D)">21.15(D)</cite>; and to amend sections <cite path="§21.9|(A)|(4)">21.9(A)(4)</cite>, <cite path="§21.14|(B)|(1)">21.14(B)(1)</cite>, <cite path="§21.14|(C)|(1)">21.14(C)(1)</cite>-(3), <cite path="§21.15|(C)">21.15(C)</cite>, and <cite path="§21.20|(E)">21.20(E)</cite>.</text>
       </para>
       <para>
-        <num>19</num>
-        <text>On June 3, 2015, the Tribal Council adopted Resolution No. 048-15, which authorized clarifications in relation to turkey hunting fees for permittees, the trout season for tribal members and citations.  These changes amend subsections <cite path="§21.9|(A)|(4)" proof="needed">21.9(A)(4)</cite>, <cite path="§21.9|(B)|(3)">21.9(B)(3)</cite>, <cite path="§21.10|(D)" proof="needed">21.10(D)</cite>, and <cite path="§21.21|(B)|(1)|(b)" proof="needed">21.21 (B)(1)(b)</cite>, (C), (C)(4), (D)(2) and (D)(3).</text>
+        <num>19.</num>
+        <text>On June 3, 2015, the Tribal Council adopted Resolution No. 048-15, which authorized clarifications in relation to turkey hunting fees for permittees, the trout season for tribal members and citations.  These changes amend subsections <cite path="§21.9|(A)|(4)">21.9(A)(4)</cite>, <cite path="§21.9|(B)|(3)">21.9(B)(3)</cite>, <cite path="§21.10|(D)">21.10(D)</cite>, and <cite path="§21.21|(B)|(1)|(b)">21.21 (B)(1)(b)</cite>, (C), (C)(4), (D)(2) and (D)(3).</text>
       </para>
       <para>
-        <num>20</num>
-        <text>On September 6, 2016, the Tribal Council adopted Resolution No. 063-16, which authorized changes to Chapter 21 to rename a fishing pond, clarify use of lead shot, and modify hunting seasons.  The changes amend subsections <cite path="§21.10|(E)" proof="needed">21.10(E)</cite>, <cite path="§21.12">21.12</cite>.5(C), <cite path="§21.13|(C)|(1)">21.13(C)(1)</cite>, <cite path="§21.14|(B)|(2)">21.14(B)(2)</cite> and <cite path="§21.15|(A)">21.15(A)</cite> and create new subsections <cite path="§21.13|(E)" proof="needed">21.13(E)</cite> (1) and (2).</text>
+        <num>20.</num>
+        <text>On September 6, 2016, the Tribal Council adopted Resolution No. 063-16, which authorized changes to <cite path="21">Chapter 21</cite> to rename a fishing pond, clarify use of lead shot, and modify hunting seasons.  The changes amend subsections <cite path="§21.10|(E)">21.10(E)</cite>, <cite path="§21.12">21.12</cite>.5(C), <cite path="§21.13|(C)|(1)">21.13(C)(1)</cite>, <cite path="§21.14|(B)|(2)">21.14(B)(2)</cite> and <cite path="§21.15|(A)">21.15(A)</cite> and create new subsections <cite path="§21.13|(E)">21.13(E)</cite> (1) and (2).</text>
       </para>
       <para>
-        <num>21</num>
-        <text>On August 15, 2017, the Tribal Council adopted Resolution No. 042-17, which authorized changes to Chapter 21 to:  redefine big game to not include turkey; define adult bear and cub; retitle department names; increase age for permittee fishing to 16; eliminate fees for minor-age direct descendants to hunt and fish; and eliminate the buck-only season.  These changes:</text>
+        <num>21.</num>
+        <text>On August 15, 2017, the Tribal Council adopted Resolution No. 042-17, which authorized changes to <cite path="21">Chapter 21</cite> to:  redefine big game to not include turkey; define adult bear and cub; retitle department names; increase age for permittee fishing to 16; eliminate fees for minor-age direct descendants to hunt and fish; and eliminate the buck-only season.  These changes:</text>
         <text>
           <ul proof="needed">
             <li>Amend sections:  <cite path="§21.3|(A)">21.3(A)</cite>,(C) and (J); <cite path="§21.5|(B)|(5)">21.5(B)(5)</cite>; <cite path="§21.6|(A)">21.6(A)</cite>,(C) and (D); <cite path="§21.7|(A)">21.7(A)</cite>; <cite path="§21.8|(D)">21.8(D)</cite> and (H); <cite path="§21.9|(B)">21.9(B)</cite>; <cite path="§21.14|(A)">21.14 (A)</cite>; <cite path="§21.15|(A)">21.15(A)</cite> and(C); <cite path="§21.16|(A)">21.16(A)</cite>, (B) and (C); <cite path="§21.17|(A)|(3)">21.17(A)(3)</cite>, (F)(7) and (G); <cite path="§21.18|(A)">21.18(A)</cite>; and <cite path="§21.20|(A)">21.20 (A)</cite>, (Q).</li>
             <li>Create the following new sections: <cite path="§21.3|(R)">21.3(R)</cite> and (S); and <cite path="§21.15|(C)|(2)">21.15(C)(2)</cite>.</li>
-            <li>Delete the following sections:  <cite path="§21.9|(B)|(1-3)" proof="needed">21.9(B)(1-3)</cite>; and <cite path="§21.15|(B)|(4)" proof="needed">21.15 (B)(4)</cite>.</li>
+            <li>Delete the following sections:  <cite path="§21.9|(B)|(1-3)">21.9(B)(1-3)</cite>; and <cite path="§21.15|(B)|(4)">21.15 (B)(4)</cite>.</li>
           </ul>
         </text>
       </para>
       <para>
-        <num>22</num>
+        <num>22.</num>
         <text>On September 3, 2019, the Tribal Council adopted Resolution No. 069-19, which re-organized content to make it more convenient for readers by grouping similar provisions into parts and re-arranging and re-numbering accordingly.  Additionally, substantive changes to modify bag limits for deer, turkey, and trout were made and clarifications about roads where hunting is limited and assistance to other persons were made.  More specifically, the following changes were made.</text>
         <text>
           <ul proof="needed">
@@ -1509,26 +1504,26 @@
         </para>
         <para>
           <num>
-            <cite path="§21.8|(J)" proof="needed">21.8 (J)</cite>
+            <cite path="§21.8|(J)">21.8 (J)</cite>
           </num>
           <text>to <cite path="§21.8|(C)">21.8 (C)</cite></text>
         </para>
         <para>
           <num>
-            <cite path="§21.8|(K)" proof="needed">21.8 (K)</cite>
+            <cite path="§21.8|(K)">21.8 (K)</cite>
           </num>
           <text>to <cite path="§21.8|(D)">21.8 (D)</cite></text>
         </para>
         <para>
           <num>
-            <cite path="§21.8|(L)" proof="needed">21.8 (L)</cite>
+            <cite path="§21.8|(L)">21.8 (L)</cite>
           </num>
           <text>to <cite path="§21.8|(E)">21.8 (E)</cite></text>
           <text>
             <ul proof="needed">
-              <li><cite path="§21.10">21.10</cite> to <cite path="§21.19">21.19</cite></li>
-              <li><cite path="§21.11">21.11</cite> to <cite path="§21.20">21.20</cite></li>
-              <li><cite path="§21.12">21.12</cite> to <cite path="§21.27">21.27</cite></li>
+              <li><cite path="§21.10">21.10 </cite>to <cite path="§21.19">21.19</cite></li>
+              <li><cite path="§21.11">21.11 </cite>to <cite path="§21.20">21.20</cite></li>
+              <li><cite path="§21.12">21.12 </cite>to <cite path="§21.27">21.27</cite></li>
             </ul>
           </text>
         </para>
@@ -1536,36 +1531,36 @@
           <num>
             <cite path="§21.15|(A)">21.15 (A)</cite>
           </num>
-          <text>and (B) to <cite path="§21.10">21.10</cite> with (A) separated into (A) and (B)</text>
+          <text>and (B) to <cite path="§21.10">21.10 </cite>with (A) separated into (A) and (B)</text>
           <text>
             <ul proof="needed">
               <li><cite path="§21.15">21.15</cite>.5 to <cite path="§21.11">21.11</cite></li>
               <li><cite path="§21.12">21.12</cite>.5 to <cite path="§21.12">21.12</cite></li>
-              <li><cite path="§21.13">21.13</cite> to <cite path="§21.15">21.15</cite></li>
+              <li><cite path="§21.13">21.13 </cite>to <cite path="§21.15">21.15</cite></li>
             </ul>
           </text>
         </para>
         <aftertext>
           <ul proof="needed">
-            <li>New <cite path="§21.13">21.13</cite> moved final sentence of (B) to be new (A)</li>
+            <li>New <cite path="§21.13">21.13 </cite>moved final sentence of (B) to be new (A)</li>
           </ul>
         </aftertext>
         <para>
           <num>
-            <cite path="§21.15|(E)" proof="needed">21.15 (E)</cite>
+            <cite path="§21.15|(E)">21.15 (E)</cite>
           </num>
           <text>to <cite path="§21.12|(D)">21.12 (D)</cite></text>
           <text>
             <ul proof="needed">
-              <li><cite path="§21.16">21.16</cite> to <cite path="§21.18">21.18</cite></li>
-              <li><cite path="§21.17">21.17</cite> to <cite path="§21.22">21.22</cite></li>
-              <li><cite path="§21.18">21.18</cite> to <cite path="§21.16" proof="needed">21.16</cite> (portion on hunting) and <cite path="§21.23" proof="needed">21.23</cite> (portion on trapping)</li>
-              <li><cite path="§21.19">21.19</cite> to <cite path="§21.25">21.25</cite></li>
-              <li><cite path="§21.20">21.20</cite> to <cite path="§21.17" proof="needed">21.17</cite> (on hunting), <cite path="§21.21" proof="needed">21.21</cite> (on fishing), <cite path="§21.24" proof="needed">21.24</cite> (on trapping), <cite path="§21.26" proof="needed">21.26</cite> (on vehicles), and <cite path="§21.28">21.28</cite></li>
-              <li>Starting from previous <cite path="§21.21">21.21</cite> the sections were renumbered beginning at <cite path="§21.29">21.29</cite></li>
+              <li><cite path="§21.16">21.16 </cite>to <cite path="§21.18">21.18</cite></li>
+              <li><cite path="§21.17">21.17 </cite>to <cite path="§21.22">21.22</cite></li>
+              <li><cite path="§21.18">21.18 </cite>to <cite path="§21.16|(portion on hunting)">21.16 (portion on hunting)</cite> and <cite path="§21.23|(portion on trapping)">21.23 (portion on trapping)</cite></li>
+              <li><cite path="§21.19">21.19 </cite>to <cite path="§21.25">21.25</cite></li>
+              <li><cite path="§21.20">21.20 </cite>to <cite path="§21.17|(on hunting)">21.17 (on hunting)</cite>, <cite path="§21.21|(on fishing)">21.21 (on fishing)</cite>, <cite path="§21.24|(on trapping)">21.24 (on trapping)</cite>, <cite path="§21.26|(on vehicles)">21.26 (on vehicles)</cite>, and <cite path="§21.28">21.28</cite></li>
+              <li>Starting from previous <cite path="§21.21">21.21 </cite>the sections were renumbered beginning at <cite path="§21.29">21.29</cite></li>
               <li>Amended sections:  <cite path="§21.1|(G)">21.1 (G)</cite>; <cite path="§21.3|(C)">21.3 (C)</cite>, (H); <cite path="§21.6|(B)">21.6 (B)</cite>; <cite path="§21.8|(A)">21.8 (A)</cite>, (F), (G); <cite path="§21.9|(B)">21.9 (B)</cite>, (B)(1-3); <cite path="§21.10|(B)">21.10 (B)</cite>; <cite path="§21.14|(B)|(1)">21.14 (B)(1)</cite> and (C)(1); <cite path="§21.15|(C)">21.15 (C)</cite>; <cite path="§21.18|(A)|(4)">21.18 (A)(4)</cite>; <cite path="§21.19|(C)">21.19 (C)</cite>; <cite path="§21.22|(C)|(1)">21.22 (C)(1)</cite>, (E), (H)(4); <cite path="§21.23|(A)">21.23 (A)</cite>; and <cite path="§21.25|(A)">21.25 (A)</cite>, (A)(1-2).</li>
               <li>Created new sections:  <cite path="§21.3|(T)">21.3 (T)</cite>; <cite path="§21.8|(A)|(3)">21.8 (A)(3)</cite>; <cite path="§21.9|(D)">21.9 (D)</cite> and (E); <cite path="§21.17">21.17</cite>; <cite path="§21.19|(A)">21.19 (A)</cite> (this is based on <cite path="§21.9|(A)">21.9 (A)</cite>); <cite path="§21.21">21.21</cite>; <cite path="§21.22|(A)">21.22 (A)</cite> and (B), (H)(2), (H)(5), (G); <cite path="§21.24">21.24</cite>; <cite path="§21.26">21.26</cite>; and <cite path="§21.28|(F)">21.28 (F)</cite>.</li>
-              <li>Deleted section (numbering from previous): <cite path="§21.8|(D)">21.8 (D)</cite>; <cite path="§21.8|(I)">21.8 (I)</cite>; <cite path="§21.9|(A)|(2)" proof="needed">21.9 (A)(2)</cite>; <cite path="§21.13|(E)" proof="needed">21.13 (E)</cite>; and <cite path="§21.17|(F)" proof="needed">21.17 (F)</cite>.</li>
+              <li>Deleted section (numbering from previous): <cite path="§21.8|(D)">21.8 (D)</cite>; <cite path="§21.8|(I)">21.8 (I)</cite>; <cite path="§21.9|(A)|(2)">21.9 (A)(2)</cite>; <cite path="§21.13|(E)">21.13 (E)</cite>; and <cite path="§21.17|(F)">21.17 (F)</cite>.</li>
             </ul>
           </text>
         </para>

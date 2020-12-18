@@ -474,7 +474,7 @@
       <text>No use that is prohibited or regulated by this Ordinance shall be lawful in a wellhead protection district upon enactment of this Ordinance.  However, uses of wellhead protection districts, which are not in conformance with the Ordinance and exist at the time the Ordinance takes effect, are not prohibited.</text>
       <para>
         <num>(1)</num>
-        <text>If an alteration of, addition to or repair over 50% of the value is planned for a nonconforming use, a variance under <cite path="§37.15">Section 37.15</cite> is required.</text>
+        <text>If an alteration of, addition to or repair over 50% of the value is planned for a nonconforming use, a variance under <cite path="§37.15">Section 37.15 </cite>is required.</text>
       </para>
     </para>
     <para>
@@ -714,7 +714,7 @@
   <section>
     <num>37.19</num>
     <heading>Reports of Suspected Violations</heading>
-    <text>Any person who engages in any operation or activity that causes groundwater pollution in violation of this Ordinance or who witnesses another person engaging in such operations or activities, shall notify the tribal Environmental Office as soon as he or she has knowledge of that violation.  A person who fails to notify the Tribe as soon as practicable is deemed in violation of this Ordinance and, upon a judicial finding thereof, shall be levied a civil penalty of not more than Five-hundred dollars ($500.00).</text>
+    <text>Any person who engages in any operation or activity that causes groundwater pollution in violation of this Ordinance or who witnesses another person engaging in such operations or activities, shall notify the tribal Environmental Office as soon as he or she has knowledge of that violation.  A person who fails to notify the Tribe as soon as practicable is deemed in violation of this Ordinance and, upon a judicial finding thereof, shall be levied a civil penalty of not more than Five-hundred dollars ($<cite path="§500.00">500.00</cite>).</text>
   </section>
   <section>
     <num>37.20</num>
@@ -754,13 +754,11 @@
     <text>If the Tribal Court finds that there has been a violation of this Ordinance, the Court may issue the following remedies.</text>
     <para>
       <num>(A)</num>
-      <heading>Cease and Desist Order.</heading>
-      <text>A Cease and Desist Order sets forth the acts or practices that violate the Ordinance and the time by which the violation must be terminated.</text>
+      <text>Cease and Desist Order.  A Cease and Desist Order sets forth the acts or practices that violate the Ordinance and the time by which the violation must be terminated.</text>
     </para>
     <para>
       <num>(B)</num>
-      <heading>Clean-up Order.</heading>
-      <text>A Clean-Up Order requires a person to clean up any material that could contaminate groundwater and take actions to remediate groundwater that has been contaminated.</text>
+      <text>Clean-up Order.  A Clean-Up Order requires a person to clean up any material that could contaminate groundwater and take actions to remediate groundwater that has been contaminated.</text>
     </para>
     <para>
       <num>(C)</num>
@@ -774,11 +772,11 @@
         <text>Any person who violates the terms of this Ordinance shall be subject to a forfeiture, for each day the violation occurs, as follows:</text>
         <para>
           <num>(a)</num>
-          <text>If the violation is committed with negligence or recklessly, the maximum forfeiture shall be Two-hundred fifty dollars ($250.00) per day.</text>
+          <text>If the violation is committed with negligence or recklessly, the maximum forfeiture shall be Two-hundred fifty dollars ($<cite path="§250.00">250.00</cite>) per day.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>If the violation is committed knowingly or intentionally, the maximum forfeiture shall be Five-hundred dollars ($500.00) per day.</text>
+          <text>If the violation is committed knowingly or intentionally, the maximum forfeiture shall be Five-hundred dollars ($<cite path="§500.00">500.00</cite>) per day.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -787,7 +785,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Any person who violates a Final Cease and Desist Order or Clean-Up Order shall be subject to a civil penalty of not more than Five hundred dollars ($500.00) per day for each day during which such violation occurs.</text>
+        <text>Any person who violates a Final Cease and Desist Order or Clean-Up Order shall be subject to a civil penalty of not more than Five hundred dollars ($<cite path="§500.00">500.00</cite>) per day for each day during which such violation occurs.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -796,8 +794,7 @@
     </para>
     <para>
       <num>(E)</num>
-      <heading>Alternative Dispositions.</heading>
-      <text>The Court shall have the discretion to tailor a disposition that will be the most effective in addressing the defendant's violation, the needs of the Community and any harm resulting from the violation.  Such alternative remedies may be issued in addition to those remedies described in this Ordinance.</text>
+      <text>Alternative Dispositions.  The Court shall have the discretion to tailor a disposition that will be the most effective in addressing the defendant's violation, the needs of the Community and any harm resulting from the violation.  Such alternative remedies may be issued in addition to those remedies described in this Ordinance.</text>
     </para>
   </section>
   <annotations>

@@ -11,7 +11,7 @@
   <section>
     <num>43.2</num>
     <heading>AUTHORITY</heading>
-    <text>The Mohican Land Use Code is enacted by the Stockbridge-Munsee Band of Mohicans Tribal Council pursuant to its general duty and authority under Article VII of the Constitution, as an exercise of its governmental powers to govern the use, management and administration of lands on the Stockbridge-Munsee Indian Reservation.</text>
+    <text>The Mohican Land Use Code is enacted by the Stockbridge-Munsee Band of Mohicans Tribal Council pursuant to its general duty and authority under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII">Article VII of the Constitution</cite>, as an exercise of its governmental powers to govern the use, management and administration of lands on the Stockbridge-Munsee Indian Reservation.</text>
   </section>
   <section>
     <num>43.3</num>
@@ -26,7 +26,7 @@
     </para>
     <para>
       <num>(C)</num>
-      <text>The Tribal Council's intent in adopting <cite path="43.3" proof="needed">this Chapter</cite> is to preserve and protect</text>
+      <text>The Tribal Council's intent in adopting <cite path="43.3">this Chapter</cite> is to preserve and protect</text>
       <text>the political integrity and the economic survival of the people of the Stockbridge-Munsee Community by exercising the Tribe's inherent powers of self-government, and as a means of regulating and directing the overall impact of reservation land development.</text>
     </para>
   </section>
@@ -62,17 +62,17 @@
     <text>Light Manufacturing: Industrial operation where all or nearly all activity is contained within a single building, does not require extensive loading and unloading facilities or outside storage, whose effects (such as smoke, noise, light, heat, and odors) cannot be detected beyond the boundaries of the property.</text>
     <text>Low Density:  a minimal or low per capita ratio of dwellings per fixed measure of land area.</text>
     <text>Manufactured home: a factory built structure that is manufactured or constructed under the authority of the National Manufactured Home Construction and Safety Standards Act to be used for human habitation. A manufactured home is not a mobile home.</text>
-    <text>Medium Density: Contains a low per capita ratio of dwellings per fixed measure of land (0.8 to 2.49 acre lots) and its function is to better accommodate community sewer and water.</text>
+    <text>Medium Density: Contains a low per capita ratio of dwellings per fixed measure of land (<cite path="§0.8">0.8 </cite>to <cite path="§2.49">2.49 </cite>acre lots) and its function is to better accommodate community sewer and water.</text>
     <text>Mobile home: a transportable single-family dwelling intended for permanent occupancy that by original design is capable of being moved on public streets and highways.</text>
     <text>Modular Home: a manufactured or factory built home that conforms to standard building codes and is not equipped with any wheels or axles allowing it to be moved, other than for purposes of moving to a permanent site.</text>
     <text>New Construction: the erection of a new structure or other permanent fixture on unused land.</text>
     <text>Permitted Use: A use of land that is allowed within a designation.</text>
     <text>Person: Individuals, tribal government, firms, organizations, corporations, associations and any other similar entity.</text>
-    <text>Reservation and/or Tribally Regulated Lands:  Means the lands identified in <cite path="§43.4">section 43.4</cite> in this ordinance.</text>
+    <text>Reservation and/or Tribally Regulated Lands:  Means the lands identified in <cite path="§43.4">section 43.4 </cite>in this ordinance.</text>
     <text>Structure: anything constructed or erected that requires location on the ground or attached to a location on the ground, but not including fences.</text>
     <text>Tribal Council: the governing body of the Stockbridge-Munsee Community, Band of Mohican Indians.</text>
     <text>Travel Trailer: a structure built on a chassis with or without a complete kitchen or toilet, and designed to be used for temporary habitation for travel or recreation.</text>
-    <text>Uniform Dwelling Code:  Notwithstanding any other law, Uniform Dwelling Code means Wisconsin Comm Chapters 16, 20, 21, 22, 23, 24, 27, 82, 83, 84, 85, and 86 (electrical, plumbing, manufactured homes, septic, and building codes) including future amendments to the Wisconsin Administrative Code Commerce Chapters, except the Stockbridge-Munsee Community retains exclusive jurisdiction regarding all permits, inspection and other enforcement.</text>
+    <text>Uniform Dwelling Code:  Notwithstanding any other law, Uniform Dwelling Code means Wisconsin Comm Chapters <cite path="16">16</cite>, <cite path="20">20</cite>, <cite path="21">21</cite>, <cite path="22">22</cite>, <cite path="23">23</cite>, <cite path="24">24</cite>, <cite path="27">27</cite>, <cite path="82">82</cite>, <cite path="83">83</cite>, <cite path="84">84</cite>, <cite path="85">85</cite>, and <cite path="86">86</cite> (electrical, plumbing, manufactured homes, septic, and building codes) including future amendments to the Wisconsin Administrative Code Commerce Chapters, except the Stockbridge-Munsee Community retains exclusive jurisdiction regarding all permits, inspection and other enforcement.</text>
     <text>Unnecessary hardship: any circumstances which were not self-created and which affect a particular land assignment or lot, making strict adherence to the requirements of this code as to area, density setbacks, or frontage burdensome or unreasonable.</text>
     <text>Variance: An exception or waiving of the provisions of this Code for standards for yard setbacks, minimum lot requirements, or density requirements where it would cause unnecessary hardship to adhere to the Code.</text>
     <text>Yard: an open space on the same lot with a building and unoccupied by structures.</text>
@@ -84,13 +84,12 @@
     <num>43.6</num>
     <heading>ESTABLISHMENT OF LAND USE DESIGNATIONS</heading>
     <para>
-      <num>A</num>
+      <num>A.</num>
       <text>The Stockbridge-Munsee Tribal Council, by adoption of the Preliminary Mohican Land Use Plan in October 1999, approved designating areas of tribal land to be used for certain purposes.  That plan, as revised, and future amendments are incorporated by reference.  The Stockbridge-Munsee Forestry Management Plan as approved in 1996 and any future amendments are also incorporated by reference.</text>
     </para>
     <para>
-      <num>B</num>
-      <heading>Newly acquired lands:</heading>
-      <text>After seeking input from the Core Planning Committee, the Land Management Department will make a recommendation to the Land Use Review Board regarding designations of newly acquired lands.  The Land Use Review Board, following a 30-day posting and public hearing, will make a recommendation to the Tribal Council, for approval.</text>
+      <num>B.</num>
+      <text>Newly acquired lands:  After seeking input from the Core Planning Committee, the Land Management Department will make a recommendation to the Land Use Review Board regarding designations of newly acquired lands.  The Land Use Review Board, following a 30-day posting and public hearing, will make a recommendation to the Tribal Council, for approval.</text>
       <text>All reservation lands are divided into designated areas as follows:</text>
       <text>
         <table>
@@ -150,19 +149,19 @@
           </tbody>
         </table>
       </text>
-      <text>The requirements set for each designation shall be minimum requirements and shall apply uniformly to each except as provided by the procedures set forth in <cite path="43.6" proof="needed">this chapter</cite>.</text>
+      <text>The requirements set for each designation shall be minimum requirements and shall apply uniformly to each except as provided by the procedures set forth in <cite path="43.6">this chapter</cite>.</text>
       <text>A map of land use designations on tribal lands and entitled "Mohican Land Designation Map" is incorporated as a part of this Code and is adopted by reference and declared to be a part of this Code. No changes of any nature shall be made to the Map, Land Use Plan, or Forest Management Plan except by Tribal Council Resolution.  The most recent map shall be identified by the signature of the Tribal President together with the date of adoption of said map.</text>
     </para>
   </section>
   <section>
     <num>43.7</num>
     <heading>STATEMENT OF PURPOSE AND PERMITTED USES</heading>
-    <text>The following sections specify the purpose, intent, and permitted uses for each class of land use designation identified under <cite path="§43.6">Section 43.6</cite> of this Code.</text>
+    <text>The following sections specify the purpose, intent, and permitted uses for each class of land use designation identified under <cite path="§43.6">Section 43.6 </cite>of this Code.</text>
     <para>
       <num>43.7 (A)</num>
       <text>HOUSING/RESIDENTIAL</text>
       <text>This designation is intended to provide lands for low to medium single-family dwellings for human habitation, and for certain private and public facilities or services that are compatible with neighborhood surroundings.</text>
-      <para>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Permitted Principal Uses.</heading>
         <text>The following principal uses are permitted under this designation upon issuance of any necessary land use permit:</text>
@@ -187,9 +186,9 @@
           <text>Parks and playgrounds and related structures.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(2)</num>
-        <text><u>Permitted Accessory Uses</u>.</text>
+        <heading>Permitted Accessory Uses.</heading>
         <para>
           <num>(a)</num>
           <text>Private garages/private storage of motor vehicles.</text>
@@ -199,7 +198,7 @@
           <text>Accessory uses customarily incidental to the permitted uses.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
         <heading>Conditional Uses.</heading>
         <text>The following uses are allowed in accordance with requirements for and upon the issuance of a conditional use permit:</text>
@@ -217,8 +216,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <heading>Home Business use.</heading>
-          <text>(Home business use may differ if the home is in a subdivision where homes are in closer proximity, depending on what type of business involved.)</text>
+          <text>Home Business use.  (Home business use may differ if the home is in a subdivision where homes are in closer proximity, depending on what type of business involved.)</text>
         </para>
         <para>
           <num>(e)</num>
@@ -241,12 +239,12 @@
           <text>Rental of land and/or home on tribal land. This excludes fee land owned by individual tribal members.  The Tribal Council reserves the right to tax or require paid lease for non-enrolled persons living in rented homes on tribal land to compensate for snow removal, garbage pickup, and other services provided.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(4)</num>
         <heading>Prohibited Uses.</heading>
         <text>All other uses are prohibited.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(5)</num>
         <heading>Cluster Development.</heading>
         <text>The following provisions apply to areas that are developed as planned communities for housing:</text>
@@ -272,10 +270,10 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>Individual lots cannot be further subdivided or made smaller for additional home lots located in subdivisions except as provided for in <cite path="§43.8|(6)" proof="needed">Section 43.8(6)</cite>.</text>
+          <text>Individual lots cannot be further subdivided or made smaller for additional home lots located in subdivisions except as provided for in <cite path="§43.8|(6)">Section 43.8(6)</cite>.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(6)</num>
         <heading>Additional Requirements.</heading>
         <text>The following provisions apply for mobile homes within the Housing/Residential Designation:</text>
@@ -309,14 +307,13 @@
       <num>43.7 (B)</num>
       <text>Commercial/Enterprise</text>
       <text>This designation is intended to provide lands for the location of businesses with good access to major roadways.</text>
-      <para>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Permitted Principal Uses:</heading>
         <text>The following principal uses are permitted under this designation upon issuance of any necessary land use permit:</text>
         <para>
           <num>(a)</num>
-          <heading>Retail and wholesale sales:</heading>
-          <text>grocery, hardware, general merchandise, handicraft, other sales to consumers.</text>
+          <text>Retail and wholesale sales: grocery, hardware, general merchandise, handicraft, other sales to consumers.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -375,7 +372,7 @@
           <text>Activities and uses which are customarily associated with the principal uses.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
         <heading>Conditional Uses.</heading>
         <text>The following uses are allowed in accordance with requirements for and upon the issuance of a conditional use permit:</text>
@@ -424,7 +421,7 @@
           <text>Sanitary landfill.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(4)</num>
         <heading>Prohibited Uses.</heading>
         <text>All other uses are prohibited.</text>
@@ -434,7 +431,7 @@
       <num>43.7 (C)</num>
       <text>Industrial/Manufacturing</text>
       <text>This area is intended to provide for light manufacturing where all or nearly all activity is contained within a single building, does not require extensive loading and unloading facilities or outside storage, and whose effects such as smoke, noise, light, heat, and odors cannot be detected outside property boundaries; and heavy manufacturing where more than one building is involved, where there is a great deal of activity with storage outside of buildings, and effects such as noise, smoke, dust, heat, light, and odors can be detected beyond property lines.  These areas shall be located on roads suitable for industrial traffic and compatible with nearby land uses.</text>
-      <para>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Permitted Principal Uses.</heading>
         <text>The following principal uses are permitted under this designation upon issuance of any necessary  land use permit.</text>
@@ -487,12 +484,12 @@
           <text>Storage warehouses.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(2)</num>
         <heading>Permitted Accessory Uses.</heading>
         <text>Uses customarily incidental to any of the above listed.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
         <heading>Conditional Uses.</heading>
         <text>The following uses are allowed in accordance with requirements for and upon the issuance of a Conditional Use Permit, because of the consideration of odor, dust, smoke, noise, fumes, or hazard. All environmental codes shall be met.</text>
@@ -585,7 +582,7 @@
           <text>Sanitary landfill.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(4)</num>
         <heading>Prohibited Uses.</heading>
         <text>All other uses are prohibited.</text>
@@ -597,8 +594,7 @@
       <text>This designation is intended to provide land for Tribal governmental services.</text>
       <para>
         <num>(1)</num>
-        <heading>Permitted Principal Uses.</heading>
-        <text>The following principal uses are permitted under this designation upon issuance of any necessary Land Use Permit:</text>
+        <text>Permitted Principal Uses. The following principal uses are permitted under this designation upon issuance of any necessary Land Use Permit:</text>
         <para>
           <num>(a)</num>
           <text>Governmental services office.</text>
@@ -648,9 +644,9 @@
           <text>Emergency shelters.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(2)</num>
-        <text><u>Permitted Accessory Uses</u>.</text>
+        <heading>Permitted Accessory Uses.</heading>
         <para>
           <num>(a)</num>
           <text>Garages.</text>
@@ -664,7 +660,7 @@
           <text>Other uses customarily associated with principal uses.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
         <heading>Conditional Uses.</heading>
         <text>The following uses are allowed in accordance with requirements for and upon the issuance of a Conditional Use Permit:</text>
@@ -673,7 +669,7 @@
           <text>Housing/residential.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(4)</num>
         <heading>Prohibited Uses.</heading>
         <text>All other uses are prohibited.</text>
@@ -682,8 +678,8 @@
     <para>
       <num>43.7 (E)</num>
       <text>Commercial Forest</text>
-      <text>This designation is intended to identify that portion of the forests which shall be managed by the Tribe pursuant to Chapter 22, to produce quality saw timber and pulpwood for sale.</text>
-      <para>
+      <text>This designation is intended to identify that portion of the forests which shall be managed by the Tribe pursuant to <cite path="22">Chapter 22</cite>, to produce quality saw timber and pulpwood for sale.</text>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Permitted Principal Uses.</heading>
         <text>The following principal uses are permitted under this designation upon issuance of any necessary Land Use Permit:</text>
@@ -720,7 +716,7 @@
           <text>Low impact recreational activities like hiking, bridle trails, picnicking.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
         <heading>Conditional Uses.</heading>
         <text>The following uses are allowed in accordance with requirements for and upon the issuance of a Conditional Use Permit:</text>
@@ -737,7 +733,7 @@
           <text>Sanitary landfill.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(4)</num>
         <heading>Prohibited Uses.</heading>
         <text>All other uses are prohibited.</text>
@@ -746,8 +742,8 @@
     <para>
       <num>43.7 (F)</num>
       <text>Reserve</text>
-      <text>This designation   prohibits any development but is to remain open for  low impact recreation and for hunting subject to the permitted uses below and applicable ordinances, including Chapters 21 and 22..</text>
-      <para>
+      <text>This designation   prohibits any development but is to remain open for  low impact recreation and for hunting subject to the permitted uses below and applicable ordinances, including Chapters <cite path="21">21</cite> and <cite path="22">22</cite>..</text>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Permitted Principal Uses.</heading>
         <text>The following principal uses are permitted under this designation upon issuance of any necessary Land Use Permit:</text>
@@ -784,7 +780,7 @@
           <text>Swimming.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
         <heading>Conditional Uses.</heading>
         <text>The following uses are allowed in accordance with requirements for and upon the issuance of a Conditional Use Permit:</text>
@@ -805,7 +801,7 @@
           <text>Burial Grounds, Cemeteries, Individual Burials, except that burial grounds, cemeteries, and individual burials are not permitted in any lowlands.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(4)</num>
         <heading>Prohibited Uses.</heading>
         <text>All other uses are prohibited.</text>
@@ -863,7 +859,7 @@
           <text>Structures, such as picnic shelters and public restroom facilities.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
         <heading>Conditional Uses.</heading>
         <text>The following uses are allowed in accordance with requirements for and upon the issuance of a conditional use permit:</text>
@@ -872,7 +868,7 @@
           <text>Housing/Residential.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(4)</num>
         <heading>Prohibited Uses.</heading>
         <text>All other uses are prohibited.</text>
@@ -882,7 +878,7 @@
       <num>43.7 (H)</num>
       <text>Utilities/Infrastructure/Transportation</text>
       <text>This designation is intended to set aside the necessary lands that provide services to the community such as water and sanitation systems, and to specify which lands are suitable for transportation links.</text>
-      <para>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Permitted Principal Uses.</heading>
         <text>The following principal uses are permitted under this designation upon issuance of any necessary land use permit:</text>
@@ -913,10 +909,9 @@
       </para>
       <para>
         <num>(2)</num>
-        <heading>Permitted Accessory Uses.</heading>
-        <text>Uses customarily associated with principal uses.</text>
+        <text>Permitted Accessory Uses. Uses customarily associated with principal uses.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
         <heading>Prohibited Uses.</heading>
         <text>All other uses are prohibited.</text>
@@ -926,7 +921,7 @@
       <num>43.7 (I)</num>
       <text>Historic/Cultural</text>
       <text>This designation is intended to set aside lands that shall enable historic and cultural traditions to be practiced.</text>
-      <para>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Permitted Principal Uses.</heading>
         <text>The following principal uses are permitted under this designation upon issuance of any necessary land use permit:</text>
@@ -959,9 +954,9 @@
           <text>Camping</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(2)</num>
-        <text><u>Permitted Accessory Uses</u>.</text>
+        <heading>Permitted Accessory Uses.</heading>
         <para>
           <num>(a)</num>
           <text>Parking areas.</text>
@@ -979,7 +974,7 @@
           <text>Other uses customarily associated with principal uses.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
         <heading>Prohibited Uses.</heading>
         <text>All other uses are prohibited.</text>
@@ -989,7 +984,7 @@
       <num>43.7 (J)</num>
       <text>Agricultural</text>
       <text>This designation is intended to set-aside lands that are suited for purposes of farming, animal range, orchards, gardens and related activities.</text>
-      <para>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Permitted Principal Uses.</heading>
         <text>The following principal uses are permitted under this designation upon issuance of any necessary land use permit:</text>
@@ -1020,10 +1015,9 @@
       </para>
       <para>
         <num>(2)</num>
-        <heading>Permitted Accessory Uses:</heading>
-        <text>Uses customarily associated with principal uses.</text>
+        <text>Permitted Accessory Uses: Uses customarily associated with principal uses.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
         <heading>Conditional Uses.</heading>
         <text>The following uses are allowed in accordance with requirements for and upon the issuance of a conditional use permit:</text>
@@ -1060,7 +1054,7 @@
           <text>Sanitary landfill.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(4)</num>
         <heading>Prohibited Uses.</heading>
         <text>All other uses are prohibited.</text>
@@ -1122,12 +1116,12 @@
       <para>
         <num>(1)</num>
         <text>Minimum Set-back Requirements:</text>
-        <para>
+        <para proof="needed">
           <num>(a)</num>
           <heading>Front:</heading>
           <text>The minimum setback from the centerline of the Tribal or Town Roads shall be 63 feet, and 75 feet from the centerline of County Roads.</text>
         </para>
-        <para>
+        <para proof="needed">
           <num>(b)</num>
           <heading>Side:</heading>
           <text>The minimum side-yard setback shall be 25 feet.</text>
@@ -1136,7 +1130,7 @@
       <para>
         <num>(2)</num>
         <text>Maximum Set-back Requirements:</text>
-        <para>
+        <para proof="needed">
           <num>(a)</num>
           <heading>Front:</heading>
           <text>The maximum setback from the centerline of the roadway shall be 300 feet.  The structure must be within the 300 feet setback.</text>
@@ -1144,13 +1138,11 @@
       </para>
       <para>
         <num>(3)</num>
-        <heading>Minimum Lot Size:</heading>
-        <text>The minimum lot size shall be one (1) acre for any dwelling, except for any mobile home approved under <cite path="§43.8|(6)" proof="needed">Section 43.8(6)</cite>.</text>
+        <text>Minimum Lot Size: The minimum lot size shall be one (1) acre for any dwelling, except for any mobile home approved under <cite path="§43.8|(6)">Section 43.8(6)</cite>.</text>
       </para>
       <para>
         <num>(4)</num>
-        <heading>Waterway setback:</heading>
-        <text>Exterior boundary of 100-year floodplain or minimum of 300 feet to nearest navigable waterbody, whichever is greater.</text>
+        <text>Waterway setback:  Exterior boundary of 100-year floodplain or minimum of 300 feet to nearest navigable waterbody, whichever is greater.</text>
       </para>
       <para>
         <num>(5)</num>
@@ -1178,12 +1170,12 @@
   <section>
     <num>43.10</num>
     <heading>CONFORMANCE WITH OTHER LAWS</heading>
-    <text>Uses of land under this ordinance shall comply with all applicable Tribal laws and policies, including but not limited to, Chapters 16, 20, 21, 22, 33, 34, 35, 37, 40.</text>
+    <text>Uses of land under this ordinance shall comply with all applicable Tribal laws and policies, including but not limited to, Chapters <cite path="16">16</cite>, <cite path="20">20</cite>, <cite path="21">21</cite>, <cite path="22">22</cite>, <cite path="33">33</cite>, <cite path="34">34</cite>, <cite path="35">35</cite>, <cite path="37">37</cite>, <cite path="40">40</cite>.</text>
   </section>
   <section>
     <num>43.11</num>
     <heading>NONCONFORMING USES OF STRUCTURE AND LAND</heading>
-    <text>Use of lands, waters, or buildings which lawfully existed at the effective date of this Code but which do not comply with the regulations of this Code may be continued but their designated use of the land may not be changed except to a permitted use or to a conditional use if approved by the Land Use Review Board as identified in <cite path="§43.14">Section   43.14</cite> and <cite path="§43.16">43.16</cite>.  For purposes of this section, "use" means occupied and/or maintained for a certain purpose, and does not apply to land that is vacant and is not being used.</text>
+    <text>Use of lands, waters, or buildings which lawfully existed at the effective date of this Code but which do not comply with the regulations of this Code may be continued but their designated use of the land may not be changed except to a permitted use or to a conditional use if approved by the Land Use Review Board as identified in <cite path="§43.14">Section   43.14 </cite>and <cite path="§43.16">43.16</cite>.  For purposes of this section, "use" means occupied and/or maintained for a certain purpose, and does not apply to land that is vacant and is not being used.</text>
   </section>
   <section>
     <num>43.12</num>
@@ -1193,27 +1185,27 @@
   <section>
     <num>43.13</num>
     <heading>GENERAL LAND USE PERMITS</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Activities Not Requiring Permits.</heading>
       <text>With the exception of <cite path="§43.13|(B)">Section 43.13(B)</cite> any land use permitted outright in any designation, may be conducted without permit provided it is conducted in accordance with this Code and other tribal laws.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Activities Requiring Permits.</heading>
       <text>Any person shall apply for and receive the appropriate Land Use Permit before starting any new construction, before bringing in any type of manufactured or mobile home, before installation of any well and septic system, before harvesting of certain forest products, before using any agricultural lands, before camping, and before any tree removal.  The following types of permits are available: Building Plan Review Permit, Driveway/Culvert Permit, Sanitation Permit, Forestry Products Permit, Agricultural Permit, Camping Permit, and Tree Removal Permit.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Processing of Permits.</heading>
       <text>Permits shall be processed in accordance with <cite path="§43.16">Section 43.16</cite>, Permit Process, of this Code, except camping permits, forestry products permits and tree removal permits.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(D)</num>
       <heading>Camping Permits.</heading>
       <text>Camping permits shall be issued by the Assets Department under a policy approved by the Tribal Council.  The Casino will issue permits for camping at the Casino RV Park.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(E)</num>
       <heading>Forestry Products Permits and Tree Removal Permits.</heading>
       <text>Forestry products permits and tree removal permits shall be issued by the Forestry Department.</text>
@@ -1222,27 +1214,27 @@
   <section>
     <num>43.14</num>
     <heading>CONDITIONAL USE PERMITS</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Purpose.</heading>
       <text>While certain compatible uses are permitted outright within a designated area, certain other uses may be acceptable but may need their impact carefully evaluated before their use is allowed. Such uses are classified as conditional uses<em>. </em>The Land Use Review Board shall approve Conditional Use Permits.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>General Provisions.</heading>
       <text>A conditional use permit may be issued only for conditional uses listed in this Code under each specific land use designation, or a use not listed but approved under <cite path="§43.12">Section 43.12</cite>.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Applying for a Conditional Use Permit.</heading>
       <text>Application forms for a conditional use permit shall be available at the Land Management Department. The applicant shall complete the form and return it to the Land Management Department who shall review it for completeness.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(D)</num>
       <heading>Processing of Permit.</heading>
       <text>The permit shall be processed in accordance with <cite path="§43.16">Section 43.16</cite>, Permit Process, of this Code.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(E)</num>
       <heading>Expiration.</heading>
       <text>A Conditional Use Permit shall expire if the use is discontinued for a period of twelve (12) months.</text>
@@ -1262,19 +1254,19 @@
     <para>
       <num>(A)</num>
       <text>The permitting process is used to inform public decision makers and persons of the environmental and economic effects of actions that have been proposed, and initiate exchange of information among interested parties. The following requirements shall be followed for General Land Use Permits and Conditional Use Permits. These requirements do not apply to permits issued by the Forestry Department under the Forest Products Resources Ordinance.</text>
-      <para>
+      <para proof="needed">
         <num>(1)</num>
         <heading>Receipt of applications.</heading>
         <text>All applications for permits shall be received by the Land Management Department. The Department shall be responsible to develop application forms and assure that all the necessary information for each type of permit can be found on the form.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(2)</num>
         <heading>Who May Submit Applications.</heading>
         <text>Applications for permits shall be accepted only from persons who are tribal members and/or who are owners or assignees or beneficiaries of property, or their agents, or who represent a division or subdivision of the Tribe or a Tribal organization.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(3)</num>
-        <text><u>Land Use Impact Review</u>.</text>
+        <heading>Land Use Impact Review.</heading>
         <para>
           <num>(a)</num>
           <text>Before a permit is issued for any purpose except camping, forestry products permits, or tree removal, or before any variance is approved, the request for permit or variance shall go through the Land Use Impact Review.</text>
@@ -1290,7 +1282,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>At the request of any Department participating in the Land Use Impact Review, results of the Land Use Impact Review shall be forwarded to the Core Planning Group, a representative entity of the departments as listed in (b) of this subsection, for recommendation for approval or denial of general land use permits identified in <cite path="§43.13">Section 43.13</cite> of this Code.</text>
+          <text>At the request of any Department participating in the Land Use Impact Review, results of the Land Use Impact Review shall be forwarded to the Core Planning Group, a representative entity of the departments as listed in (b) of this subsection, for recommendation for approval or denial of general land use permits identified in <cite path="§43.13">Section 43.13 </cite>of this Code.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -1305,8 +1297,7 @@
       </text>
       <para>
         <num>(1)</num>
-        <heading>Conditional Use Permits.</heading>
-        <text>The Land Use Review Board shall determine whether the application complies with applicable requirements of this Code, and whether the use shall significantly adversely affect the environment, cultural resources, or endanger public health or safety.</text>
+        <text>Conditional Use Permits. The Land Use Review Board shall determine whether the application complies with applicable requirements of this Code, and whether the use shall significantly adversely affect the environment, cultural resources, or endanger public health or safety.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -1317,11 +1308,9 @@
         <text>The Land Use Review Board shall comply with <cite path="§43.19">Section 43.19</cite>, Hearing Procedures, of this Code when making a determination to approve or deny a Conditional Use Permit.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
-      <text>
-        <u>Issuance of Permits.</u>
-      </text>
+      <heading>Issuance of Permits.</heading>
       <para>
         <num>(1)</num>
         <text>If no departments object to issuance of a General Land Use Permit through the Land Use Impact Review Process, the Land Management Department shall issue such permit or notify the applicant of denial of the application.  If the Impact Review has been sent to the Core Planning Group, upon their recommendation to approve or deny a General Land Use Permit, the Land Management Department shall issue such permit or notify the applicant of denial of the application.</text>
@@ -1331,7 +1320,7 @@
         <text>Upon recommendation by the Land Use Review Board to approve or deny a Conditional Use Permit, the Land Management Department shall issue such permit or notify the applicant of denial of the application.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(D)</num>
       <heading>Expiration of Permits.</heading>
       <text>A permit shall expire automatically if, within one year after its issuance, the use authorized by the permit has not commenced, unless the permittee can provide evidence of any action pending which will result in the authorized use.</text>
@@ -1396,16 +1385,16 @@
   <section>
     <num>43.18</num>
     <heading>ADMINISTRATION OF THIS CODE</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
-      <text><u>Tribal Staff Responsibilities, Land Management Department</u>:</text>
+      <heading>Tribal Staff Responsibilities, Land Management Department:</heading>
       <para>
         <num>(1)</num>
         <text>The Land Management Specialist shall be responsible for the following duties in the administration and enforcement of this Code:</text>
         <para>
           <num>(a)</num>
           <text>Receive and review all applications for permits and variances required</text>
-          <text>under <cite path="43.18" proof="needed">this Chapter</cite>, except those permits issued by the Forestry Department, including providing assistance to all persons in preparation of their applications.</text>
+          <text>under <cite path="43.18">this Chapter</cite>, except those permits issued by the Forestry Department, including providing assistance to all persons in preparation of their applications.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1413,7 +1402,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Determine completeness and adequacy of all applications based on the requirements of <cite path="43.18" proof="needed">this chapter</cite>.</text>
+          <text>Determine completeness and adequacy of all applications based on the requirements of <cite path="43.18">this chapter</cite>.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1450,17 +1439,17 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Both the Land Management Specialist and the Land Management Technician are authorized by this Code to issue citations to individuals for failure to abide by the terms of this Code.  Fines for violations of this Code may be up to $100.00 per day.</text>
+        <text>Both the Land Management Specialist and the Land Management Technician are authorized by this Code to issue citations to individuals for failure to abide by the terms of this Code.  Fines for violations of this Code may be up to $<cite path="§100.00">100.00 </cite>per day.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Land Use Review Board.</heading>
       <text>The Tribe hereby creates and establishes the Land Use Review Board as a governmental arm of the Tribal Council.  The currently established Land Committee shall function as the Land Use Review Board.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
-      <text><u>Powers and Duties of Land Use Review Board</u>:</text>
+      <heading>Powers and Duties of Land Use Review Board:</heading>
       <para>
         <num>(1)</num>
         <text>Hear appeals from denials of any permits issued by the Land Management staff, under this Code.</text>
@@ -1576,9 +1565,9 @@
         <text>If a violation is believed to be causing harm to the Community or jeopardizing health and safety of any person or the Community, the Tribe may expend its own funds to remedy such violation.  If the Tribe expends its own funds to remedy a violation, the person responsible for the violation must reimburse the Tribe for the expenditure. The Prosecutor has the authority to bring an action in order to recover tribal funds expended to remedy the violation.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
-      <text><u>Prosecution, Injunctions, and Penalties</u>.</text>
+      <heading>Prosecution, Injunctions, and Penalties.</heading>
       <para>
         <num>(1)</num>
         <text>It shall be the duty of the Department and/or the Tribal Prosecutor to expeditiously pursue all violations of this Code.</text>
@@ -1599,7 +1588,7 @@
       </text>
       <para>
         <num>(1)</num>
-        <text>Any act constituting a violation of the provisions of this Code or a failure to comply with any of its requirements, including commencing actions for which permits are required without first having obtained a permit, and including violations of any conditions and safeguards established in connection with the grants of variances, Conditional or Special Use Permits, shall subject the offender to a civil penalty of  up to $100.00  per day.</text>
+        <text>Any act constituting a violation of the provisions of this Code or a failure to comply with any of its requirements, including commencing actions for which permits are required without first having obtained a permit, and including violations of any conditions and safeguards established in connection with the grants of variances, Conditional or Special Use Permits, shall subject the offender to a civil penalty of  up to $<cite path="§100.00">100.00 </cite> per day.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -1674,12 +1663,12 @@
   <section>
     <num>43.23</num>
     <heading>AMENDMENTS TO CODE</heading>
-    <para>
+    <para proof="needed">
       <num>(A)</num>
       <heading>Authority.</heading>
       <text>The law imposed and the land use designations created under this Code may be amended from time to time whenever the public necessity and convenience and the Tribal general welfare requires. Such a change shall be proposed by the Land Management Department, the Land Use Review Board, the Tribal Council, or any tribal member.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(B)</num>
       <heading>Initiation of Amendment.</heading>
       <text>The proposed change may be initiated by petition to the Land Management Department with the following information:</text>
@@ -1704,12 +1693,12 @@
         <text>Petitioner's name, address, and phone number.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(C)</num>
       <heading>Petition.</heading>
       <text>The petition shall be forwarded to the Land Use Review Board who shall, within 30 days of receipt of the petition, schedule a public hearing on the proposed amendment.</text>
     </para>
-    <para>
+    <para proof="needed">
       <num>(D)</num>
       <heading>Standards for Land Designation Change.</heading>
       <text>The burden of proof shall be with the petitioner to establish:</text>
@@ -1734,7 +1723,7 @@
         <text>Any other legitimate concern.</text>
       </para>
     </para>
-    <para>
+    <para proof="needed">
       <num>(E)</num>
       <heading>Enactment.</heading>
       <text>The Stockbridge-Munsee Tribal Council may, after the public hearing is held, enact a resolution amending this Code or by motion deny the proposed amendment.  Such amendments are not subject to the approval of the Secretary of the Interior.</text>
@@ -1760,9 +1749,9 @@
       <text>Public Hearing  held April 29, 2002.</text>
       <text>Adopted by Tribal Council on May 23, 2002, Resolution No. 024-02.</text>
       <text>Approved by BIA on June 7, 2002.</text>
-      <text>On May 19, 2004, Resolution No. 023-04, Tribal Council adopted changes affecting the following sections that were newly created or amended:  <cite path="§43.5">Section 43.5</cite> "Building Plan review," "General Use Permits," "Land Use Review Board," "Medium Density," "Mother-in-law Clause"; <cite path="§43.7|(A)" proof="needed">Section 43.7(A)</cite>, (A)(6)(e), (C)(1)(j); <cite path="§43.8|(1)|(a)" proof="needed">Section 43.8(1)(a)</cite>, (5); <cite path="§43.10">Section 43.10</cite>; <cite path="§43.11">Section 43.11</cite>; <cite path="§43.13|(A)">Section 43.13(A)</cite>, (B), (C); <cite path="§43.14|(D)">Section 43.14(D)</cite>; <cite path="§43.15|(E)" proof="needed">Section 43.15(E)</cite>; <cite path="§43.16|(A)|(3)|(b)">Section 43.16(A)(3)(b)</cite>, (A)(3)(c), (A)(3)(d), (A)(3)(e), (B)(4); <cite path="§43.18|(B)">Section 43.18(B)</cite>.</text>
+      <text>On May 19, 2004, Resolution No. 023-04, Tribal Council adopted changes affecting the following sections that were newly created or amended:  <cite path="§43.5">Section 43.5 </cite>"Building Plan review," "General Use Permits," "Land Use Review Board," "Medium Density," "Mother-in-law Clause"; <cite path="§43.7|(A)">Section 43.7(A)</cite>, (A)(6)(e), (C)(1)(j); <cite path="§43.8|(1)|(a)">Section 43.8(1)(a)</cite>, (5); <cite path="§43.10">Section 43.10</cite>; <cite path="§43.11">Section 43.11</cite>; <cite path="§43.13|(A)">Section 43.13(A)</cite>, (B), (C); <cite path="§43.14|(D)">Section 43.14(D)</cite>; <cite path="§43.15|(E)">Section 43.15(E)</cite>; <cite path="§43.16|(A)|(3)|(b)">Section 43.16(A)(3)(b)</cite>, (A)(3)(c), (A)(3)(d), (A)(3)(e), (B)(4); <cite path="§43.18|(B)">Section 43.18(B)</cite>.</text>
       <text>On April 5, 2005, Resolution No. 019-05, Tribal Council adopted changes affecting the following sections:  "Four Seasons Addition or Structure" was created in <cite path="§43.5">Section 43.5</cite>; "Uniform Dwelling Code" was created in <cite path="§43.5">Section 43.5</cite>; and "including the Uniform Dwelling Code" was added to the end of <cite path="§43.9">Section 43.9</cite>.</text>
-      <text>On June 5, 2007, Resolution No. 033-07 Tribal Council adopted changes affecting the following sections:  amending section §<cite path="§43.4">43.4</cite>; §<cite path="§43.5" proof="needed">43.5 (Accessory Use, Camping, Days, Junkyard, Land Use Review Board, Reservation, Uniform Dwelling Code)</cite>; §<cite path="§43.7|(A)|(6)|(a)" proof="needed">43.7(A)(6)(a)</cite>; §<cite path="§43.7|(A)|(6)|(b)" proof="needed">43.7(A)(6)(b)</cite>; §<cite path="§43.7|(A)|(6)|(d)" proof="needed">43.7(A)(6)(d)</cite>; §<cite path="§43.7|(A)|(6)|(e)" proof="needed">43.7(A)(6)(e)</cite>; §<cite path="§43.7|(D)|(1)|(g)" proof="needed">43.7(D)(1)(g)</cite>; §<cite path="§43.7|(F)" proof="needed">43.7(F)</cite>; §<cite path="§43.8|(3)" proof="needed">43.8(3)</cite>; §<cite path="§43.8|(4)" proof="needed">43.8(4)</cite>; §<cite path="§43.10">43.10</cite>; §<cite path="§43.13|(E)">43.13(E)</cite>; §<cite path="§43.15">43.15</cite>; §§<cite path="§43.16|(A)|(3)|(b-e)" proof="needed">43.16(A)(3)(b-e)</cite>;  §§<cite path="§43.16|(B)|(2-3)" proof="needed">43.16(B)(2-3)</cite>; §§<cite path="§43.16|(C)|(1-2)" proof="needed">43.16(C)(1-2)</cite>; §<cite path="§43.17|(E)">43.17(E)</cite>; §<cite path="§43.18|(A)|(2)|(b)">43.18(A)(2)(b)</cite>; §§<cite path="§43.18|(C)|(1-3)" proof="needed">43.18(C)(1-3)</cite>; §<cite path="§43.19|(A)">43.19(A)</cite>; §§<cite path="§43.19|(C-D)" proof="needed">43.19(C-D)</cite>; §§<cite path="§43.20|(A)|(1-4)" proof="needed">43.20(A)(1-4)</cite>; <cite path="§43.20|(B)|(1)">43.20(B)(1)</cite>; §<cite path="§43.21|(A)">43.21(A)</cite>; §<cite path="§43.21|(D)">43.21(D)</cite>; and creating §<cite path="§43.6">43.6</cite>; §<cite path="§43.7|(A)|(5)|(f)" proof="needed">43.7(A)(5)(f)</cite>; §§<cite path="§43.7|(B)|(3)|(g-k)" proof="needed">43.7(B)(3)(g-k)</cite>; §§<cite path="§43.7|(C)|(3)|(0)" proof="needed">43.7(C)(3)(0)</cite>, (s-v); §<cite path="§43.7|(3)|(d)" proof="needed">43.7(3)(d)</cite>; §§<cite path="§43.7|(J)|(3)|(f-h)" proof="needed">43.7(J)(3)(f-h)</cite>; §<cite path="§43.8|(6)" proof="needed">43.8(6)</cite>; §<cite path="§43.13|(E)">43.13(E)</cite>; §<cite path="§43.18|(A)|(2)|(c)">43.18(A)(2)(c)</cite>; §<cite path="§43.18|(A)|(3)">43.18(A)(3)</cite>; §<cite path="§43.21|(E)">43.21(E)</cite>.</text>
+      <text>On June 5, 2007, Resolution No. 033-07 Tribal Council adopted changes affecting the following sections:  amending section §<cite path="§43.4">43.4</cite>; §<cite path="§43.5|(Accessory Use, Camping, Days, Junkyard, Land Use Review Board, Reservation, Uniform Dwelling Code)">43.5 (Accessory Use, Camping, Days, Junkyard, Land Use Review Board, Reservation, Uniform Dwelling Code)</cite>; §<cite path="§43.7|(A)|(6)|(a)">43.7(A)(6)(a)</cite>; §<cite path="§43.7|(A)|(6)|(b)">43.7(A)(6)(b)</cite>; §<cite path="§43.7|(A)|(6)|(d)">43.7(A)(6)(d)</cite>; §<cite path="§43.7|(A)|(6)|(e)">43.7(A)(6)(e)</cite>; §<cite path="§43.7|(D)|(1)|(g)">43.7(D)(1)(g)</cite>; §<cite path="§43.7|(F)">43.7(F)</cite>; §<cite path="§43.8|(3)">43.8(3)</cite>; §<cite path="§43.8|(4)">43.8(4)</cite>; §<cite path="§43.10">43.10</cite>; §<cite path="§43.13|(E)">43.13(E)</cite>; §<cite path="§43.15">43.15</cite>; §§<cite path="§43.16|(A)|(3)|(b-e)">43.16(A)(3)(b-e)</cite>;  §§<cite path="§43.16|(B)|(2-3)">43.16(B)(2-3)</cite>; §§<cite path="§43.16|(C)|(1-2)">43.16(C)(1-2)</cite>; §<cite path="§43.17|(E)">43.17(E)</cite>; §<cite path="§43.18|(A)|(2)|(b)">43.18(A)(2)(b)</cite>; §§<cite path="§43.18|(C)|(1-3)">43.18(C)(1-3)</cite>; §<cite path="§43.19|(A)">43.19(A)</cite>; §§<cite path="§43.19|(C-D)">43.19(C-D)</cite>; §§<cite path="§43.20|(A)|(1-4)">43.20(A)(1-4)</cite>; <cite path="§43.20|(B)|(1)">43.20(B)(1)</cite>; §<cite path="§43.21|(A)">43.21(A)</cite>; §<cite path="§43.21|(D)">43.21(D)</cite>; and creating §<cite path="§43.6">43.6</cite>; §<cite path="§43.7|(A)|(5)|(f)">43.7(A)(5)(f)</cite>; §§<cite path="§43.7|(B)|(3)|(g-k)">43.7(B)(3)(g-k)</cite>; §§<cite path="§43.7|(C)|(3)|(0)">43.7(C)(3)(0)</cite>, (s-v); §<cite path="§43.7|(3)|(d)">43.7(3)(d)</cite>; §§<cite path="§43.7|(J)|(3)|(f-h)">43.7(J)(3)(f-h)</cite>; §<cite path="§43.8|(6)">43.8(6)</cite>; §<cite path="§43.13|(E)">43.13(E)</cite>; §<cite path="§43.18|(A)|(2)|(c)">43.18(A)(2)(c)</cite>; §<cite path="§43.18|(A)|(3)">43.18(A)(3)</cite>; §<cite path="§43.21|(E)">43.21(E)</cite>.</text>
     </annotation>
   </annotations>
 </container>
