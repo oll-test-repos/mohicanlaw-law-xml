@@ -1148,7 +1148,7 @@
       <num>YAE.02.12</num>
       <para>
         <num>(a)</num>
-        <text>Taking a Youth into Custody</text>
+        <heading>Taking a Youth into Custody</heading>
         <para>
           <num>(1)</num>
           <text>Any law enforcement officer or the ICW may take a youth into emergency custody when the law enforcement officer or the ICW determines that it is in the best interests of the youth and the law enforcement officer or ICW reasonably believes one or more of the following circumstances exists, has existed, or is likely to exist:</text>
@@ -1252,7 +1252,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Emergency Court Hearing</text>
+        <heading>Emergency Court Hearing</heading>
         <para>
           <num>(1)</num>
           <text>The court must have an emergency hearing within the next two business days to determine if the court has jurisdiction; if Tribe has made reasonable efforts to provide notice of the emergency hearing; and, whether probable cause exists to believe that the youth is in need of care.</text>
@@ -1476,35 +1476,43 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Rules of Evidence - Purpose: The purpose of these rules of evidence is to ensure that the Court is able to determine the truth of a matter with a minimum of delay, confusion and uncertainty.</text>
+        <heading>Rules of Evidence - Purpose:</heading>
+        <text>The purpose of these rules of evidence is to ensure that the Court is able to determine the truth of a matter with a minimum of delay, confusion and uncertainty.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Rules of Evidence - Reliability: The rules of evidence used in state and federal courts shall not apply to hearings before the Stockbridge-Munsee Youth Court.  Where there is more than one kind of evidence about the same subject, the Court should hear the most reliable kind of evidence. In oral testimony, persons who testify from personal knowledge, such as first-hand observation of or participation in the event described, shall be preferred as witnesses to persons who have second-hand knowledge of the event.</text>
+        <heading>Rules of Evidence - Reliability:</heading>
+        <text>The rules of evidence used in state and federal courts shall not apply to hearings before the Stockbridge-Munsee Youth Court.  Where there is more than one kind of evidence about the same subject, the Court should hear the most reliable kind of evidence. In oral testimony, persons who testify from personal knowledge, such as first-hand observation of or participation in the event described, shall be preferred as witnesses to persons who have second-hand knowledge of the event.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Rules of Evidence - Relevance:  Evidence submitted during Court hearings must be related either to the issues before the Court or to the weight and credibility which should be given to other evidence.  When questioned by the Court or another party, the party who wishes to present certain evidence shall explain why he or she thinks the evidence is relevant.</text>
+        <heading>Rules of Evidence - Relevance:</heading>
+        <text>Evidence submitted during Court hearings must be related either to the issues before the Court or to the weight and credibility which should be given to other evidence.  When questioned by the Court or another party, the party who wishes to present certain evidence shall explain why he or she thinks the evidence is relevant.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Rules of Evidence - Ruling by Court: When the relevance or reliability of evidence is challenged and the Court decides whether or not to use the evidence, it shall explain the decision.</text>
+        <heading>Rules of Evidence - Ruling by Court:</heading>
+        <text>When the relevance or reliability of evidence is challenged and the Court decides whether or not to use the evidence, it shall explain the decision.</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>Admissibility of Statements Made at the Preliminary Inquiry:  All statements made at the Preliminary Inquiry are part of the court record and are admissible in the Fact Finding Hearing unless ruled to be inadmissible by the court.</text>
+        <heading>Admissibility of Statements Made at the Preliminary Inquiry:</heading>
+        <text>All statements made at the Preliminary Inquiry are part of the court record and are admissible in the Fact Finding Hearing unless ruled to be inadmissible by the court.</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>Questioning Witnesses - Order Called:  The Court shall determine the order in which parties or their representatives shall be allowed to question witnesses.  The Court shall protect the witnesses from harassment or unnecessarily repetitive questioning.  The Court itself may call and question any witnesses.</text>
+        <heading>Questioning Witnesses - Order Called:</heading>
+        <text>The Court shall determine the order in which parties or their representatives shall be allowed to question witnesses.  The Court shall protect the witnesses from harassment or unnecessarily repetitive questioning.  The Court itself may call and question any witnesses.</text>
       </para>
       <para>
         <num>(i)</num>
-        <text>Questioning Witnesses - Leading Questions:  When questioning a witness, the Court and parties or their representatives shall not ask questions in such a way as to suggest the answer desired unless the witness is being cross-examined or is clearly hostile to the person asking questions.</text>
+        <heading>Questioning Witnesses - Leading Questions:</heading>
+        <text>When questioning a witness, the Court and parties or their representatives shall not ask questions in such a way as to suggest the answer desired unless the witness is being cross-examined or is clearly hostile to the person asking questions.</text>
       </para>
       <para>
         <num>(j)</num>
-        <text>Rules for Discovery:  The rules for discovery shall be the same as those rules established by the Stockbridge-Munsee Community Court.</text>
+        <heading>Rules for Discovery:</heading>
+        <text>The rules for discovery shall be the same as those rules established by the Stockbridge-Munsee Community Court.</text>
       </para>
       <para>
         <num>(k)</num>
@@ -1573,31 +1581,37 @@
       <num>YAE.02.16</num>
       <para>
         <num>(a)</num>
-        <text>Pre-dispositional Report:  The Indian Child Welfare, in consultation with the Child Protective Board and (Tribal professional staff or County Social Services staff if necessary), shall prepare a written report summarizing the circumstances leading to the petition, the court's fact finding hearing, the child's personal history, the resources available that are suitable to the child and family, the recommended disposition and the rationale for the recommended disposition.</text>
+        <heading>Pre-dispositional Report:</heading>
+        <text>The Indian Child Welfare, in consultation with the Child Protective Board and (Tribal professional staff or County Social Services staff if necessary), shall prepare a written report summarizing the circumstances leading to the petition, the court's fact finding hearing, the child's personal history, the resources available that are suitable to the child and family, the recommended disposition and the rationale for the recommended disposition.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Placement Recommendations:  If placement with someone other than the youth's parent, guardian or custodian is recommended by the ICW, the report shall contain specific reasons for not recommending placement of the youth with his/her parent, guardian or custodian.</text>
+        <heading>Placement Recommendations:</heading>
+        <text>If placement with someone other than the youth's parent, guardian or custodian is recommended by the ICW, the report shall contain specific reasons for not recommending placement of the youth with his/her parent, guardian or custodian.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Pre-dispositional Report - Service:  The ICW shall file with the court and mail the Pre-dispositional to all affected parties and the guardian ad litem, at least five (5) business days before the dispositional hearing.</text>
+        <heading>Pre-dispositional Report - Service:</heading>
+        <text>The ICW shall file with the court and mail the Pre-dispositional to all affected parties and the guardian ad litem, at least five (5) business days before the dispositional hearing.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Additional Reports:  Any affected party may file a Pre-dispositional report with the court and the party must mail or otherwise serve the report to the other affected parties.</text>
+        <heading>Additional Reports:</heading>
+        <text>Any affected party may file a Pre-dispositional report with the court and the party must mail or otherwise serve the report to the other affected parties.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Dispositional Hearing - Time:  If the dispositional hearing is separate from the Fact Finding Hearing, it shall take place within 35 calendar days of the Fact Finding Hearing.</text>
+        <heading>Dispositional Hearing - Time:</heading>
+        <text>If the dispositional hearing is separate from the Fact Finding Hearing, it shall take place within 35 calendar days of the Fact Finding Hearing.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Conduct of Dispositional Hearing:  If disputed, the court may hear testimony to determine the proper disposition for the youth.  All parties shall be given the opportunity to contest the factual contents and conclusions of Pre-dispositional , but not the merits or procedure of the fact-finding hearing.</text>
+        <heading>Conduct of Dispositional Hearing:</heading>
+        <text>If disputed, the court may hear testimony to determine the proper disposition for the youth.  All parties shall be given the opportunity to contest the factual contents and conclusions of Pre-dispositional , but not the merits or procedure of the fact-finding hearing.</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>In considering the appropriate disposition, the court may consider any or all of the following factors:</text>
+        <heading>In considering the appropriate disposition, the court may consider any or all of the following factors:</heading>
         <para>
           <num>(1)</num>
           <text>Special physical, intellectual, or emotional needs of the youth.</text>
@@ -1625,7 +1639,8 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Dispositional Alternatives for Youths in Need of Care:  If a youth has been determined to be in need of care, the Court may take any of the following dispositions which are listed by priority:</text>
+        <heading>Dispositional Alternatives for Youths in Need of Care:</heading>
+        <text>If a youth has been determined to be in need of care, the Court may take any of the following dispositions which are listed by priority:</text>
         <para>
           <num>(1)</num>
           <text>Permit the youth to remain with his or her parent, guardian or custodian, subject to any such limitations and conditions the court may order;</text>
@@ -1653,7 +1668,7 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>Other Services:  The court may also order:</text>
+        <heading>Other Services:  The court may also order:</heading>
         <para>
           <num>(1)</num>
           <text>That the youth and/or family member submit in drug counseling or alcohol testing.</text>
@@ -1701,7 +1716,8 @@
       </para>
       <para>
         <num>(j)</num>
-        <text>Dispositional Order Is Final: The dispositional order constitutes a final order for purposes of appeal.</text>
+        <heading>Dispositional Order Is Final:</heading>
+        <text>The dispositional order constitutes a final order for purposes of appeal.</text>
       </para>
       <annotation type="Prior Codifications">§YAE.02.16 was formerly codified as §8.16</annotation>
     </section>
