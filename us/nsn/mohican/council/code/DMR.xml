@@ -36,7 +36,7 @@
       <num>DMR.01.05</num>
       <para>
         <num>(a)</num>
-        <text><cite path="61.5" proof="needed">This chapter</cite> authorizes the Stockbridge-Munsee Tribal Court to issue marriage licenses and perform marriages in which one or both parties to the marriage is a member of the Stockbridge-Munsee Tribe or is a resident of the Stockbridge-Munsee Community.</text>
+        <text><cite path="61.5">This chapter</cite> authorizes the Stockbridge-Munsee Tribal Court to issue marriage licenses and perform marriages in which one or both parties to the marriage is a member of the Stockbridge-Munsee Tribe or is a resident of the Stockbridge-Munsee Community.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -44,7 +44,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The procedures set forth herein shall be concurrent with the procedures established by the laws of the state of Wisconsin as to any marriage performed on the reservation in which one party is not a member of the Stockbridge-Munsee Tribe or is not a resident of the Stockbridge-Munsee Community. The completion of an application for a marriage license under <cite path="61.5" proof="needed">this chapter</cite> constitutes the nonmember's consent to the tribe's jurisdiction to grant such a license.</text>
+        <text>The procedures set forth herein shall be concurrent with the procedures established by the laws of the state of Wisconsin as to any marriage performed on the reservation in which one party is not a member of the Stockbridge-Munsee Tribe or is not a resident of the Stockbridge-Munsee Community. The completion of an application for a marriage license under <cite path="61.5">this chapter</cite> constitutes the nonmember's consent to the tribe's jurisdiction to grant such a license.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -74,7 +74,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>"Council" or "Tribal Council" means the elected governing body of the Stockbridge-Munsee Tribe established under Article IV of the Constitution.</text>
+        <text>"Council" or "Tribal Council" means the elected governing body of the Stockbridge-Munsee Tribe established under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="IV">Article IV of the Constitution</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -172,8 +172,7 @@
       <num>DMR.01.13</num>
       <para>
         <num>(a)</num>
-        <heading>Officiate at Marriages.</heading>
-        <text>A marriage shall be validly solemnized and contracted after the issuance of license and by the mutual declarations of the two parties involved that they agree to enter into marriage before a duly authorized officiate and in the presence of at least two competent adult witnesses. The following persons are duly authorized to be officiates:</text>
+        <text>Officiate at Marriages.   A marriage shall be validly solemnized and contracted after the issuance of license and by the mutual declarations of the two parties involved that they agree to enter into marriage before a duly authorized officiate and in the presence of at least two competent adult witnesses. The following persons are duly authorized to be officiates:</text>
         <para>
           <num>(1)</num>
           <text>Any ordained clergyman of any religious denomination or society;</text>
@@ -225,11 +224,11 @@
       <annotation type="Legislative History">
         <para>
           <num>1</num>
-          <text>Chapter 61, Marriage, approved by the Stockbridge-Munsee Tribal Council, Resolution No. 108-97, January 21, 1997.</text>
+          <text><cite path="DMR|DMR.01">Chapter DMR.01</cite>, Marriage, approved by the Stockbridge-Munsee Tribal Council, Resolution No. 108-97, January 21, 1997.</text>
         </para>
         <para>
           <num>2</num>
-          <text>Chapter 61, Marriage was amended by the Stockbridge-Munsee Tribal Council by Resolution No. 024-16, February 2, 2016. Approved by BIA on February 22, 2016.</text>
+          <text><cite path="DMR|DMR.01">Chapter DMR.01</cite>, Marriage was amended by the Stockbridge-Munsee Tribal Council by Resolution No. 024-16, February 2, 2016. Approved by BIA on February 22, 2016.</text>
         </para>
       </annotation>
     </annotations>
@@ -344,7 +343,7 @@
       <text>The Tribal Court shall grant a judgment of divorce if:</text>
       <para>
         <num>(a)</num>
-        <text>The requirements of <cite path="62.4" proof="needed">this chapter</cite> as to marriage counseling have been complied with and the court finds that the marriage is irretrievably broken under <cite path="§DMR.02.05">Section DMR.02.05</cite>.</text>
+        <text>The requirements of <cite path="62.4">this chapter</cite> as to marriage counseling have been complied with and the court finds that the marriage is irretrievably broken under <cite path="§DMR.02.05">Section DMR.02.05</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -533,7 +532,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>For the purposes of <cite path="62.7" proof="needed">this chapter</cite>, a land assignment issued by the Stockbridge-Munsee Community is not the real or personal property of the individual.  Land assignments shall not be subject to the Court's division of property between the parties. The Court may not alter a person's right to his or her land assignment in any way EXCEPT in accordance with the following:</text>
+          <text>For the purposes of <cite path="62.7">this chapter</cite>, a land assignment issued by the Stockbridge-Munsee Community is not the real or personal property of the individual.  Land assignments shall not be subject to the Court's division of property between the parties. The Court may not alter a person's right to his or her land assignment in any way EXCEPT in accordance with the following:</text>
           <para>
             <num>(A)</num>
             <text>In a divorce where both parties are Stockbridge-Munsee tribal members, the Court may, if it deems in the best interest of the children and after consideration of all factors listed in (2), award a party's land assignment to the other party where the second party has physical placement of the minor children for the greater period of time.</text>
@@ -688,7 +687,7 @@
         <para>
           <num>(1)</num>
           <text>Substantial modifications.</text>
-          <para>
+          <para proof="needed">
             <num>(A)</num>
             <heading>Within 2 years after initial order.</heading>
             <text>Except as provided under sub. (2), a court may not modify any of the following orders before 2 years after the initial order is entered, unless a party seeking the modification, upon petition, motion, or order to show cause shows by substantial evidence that the modification is necessary because the current custodial conditions are physically or emotionally harmful to the best interest of the child:</text>
@@ -701,15 +700,12 @@
               <text>An order of physical placement if the modification would substantially alter the time a parent may spend with his or her child.</text>
             </para>
           </para>
-          <para>
+          <para proof="needed">
             <num>(B)</num>
-            <text>
-              <em>After 2–year period.</em>
-            </text>
+            <heading>After 2–year period.</heading>
             <para>
               <num>(i)</num>
-              <heading>Except as provided under par.</heading>
-              <text>(a) and sub. (2), upon petition, motion or order to show cause by a party, a court may modify an order of legal custody or an order of physical placement where the modification would substantially alter the time a parent may spend with his or her child if the court finds all of the following:</text>
+              <text>Except as provided under par. (a) and sub. (2), upon petition, motion or order to show cause by a party, a court may modify an order of legal custody or an order of physical placement where the modification would substantially alter the time a parent may spend with his or her child if the court finds all of the following:</text>
               <para>
                 <num>(I)</num>
                 <text>The modification is in the best interest of the child;</text>
@@ -721,8 +717,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <heading>With respect to sub.</heading>
-              <text>(A)(1)(b)(i), there is a rebuttable presumption that:</text>
+              <text>With respect to sub. (A)(1)(b)(i), there is a rebuttable presumption that:</text>
               <para>
                 <num>(I)</num>
                 <text>Continuing the current allocation of decision making under a legal custody order is in the best interest of the child;</text>
@@ -747,8 +742,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <heading>In any case in which par.</heading>
-            <text>(a) does not apply and in which the parties have substantially equal periods of physical placement pursuant to a court order, a court, upon petition, motion or order to show cause of a party, may modify such an order based on the appropriate standard under sub. (1).  However, under sub. (1) (b) 2, there is a rebuttable presumption that having substantially equal periods of physical placement is in the best interest of the child.</text>
+            <text>In any case in which par. (a) does not apply and in which the parties have substantially equal periods of physical placement pursuant to a court order, a court, upon petition, motion or order to show cause of a party, may modify such an order based on the appropriate standard under sub. (1).  However, under sub. (1) (b) 2, there is a rebuttable presumption that having substantially equal periods of physical placement is in the best interest of the child.</text>
           </para>
         </para>
         <para>
@@ -757,23 +751,20 @@
         </para>
         <para>
           <num>(4)</num>
-          <heading>Denial of physical placement.</heading>
-          <text>Upon petition, motion or order to show cause by a party or on its own motion, a court may deny a parent's physical placement rights at any time if it finds that the physical placement rights would endanger the child's physical, mental or emotional health.</text>
+          <text>Denial of physical placement.  Upon petition, motion or order to show cause by a party or on its own motion, a court may deny a parent's physical placement rights at any time if it finds that the physical placement rights would endanger the child's physical, mental or emotional health.</text>
         </para>
         <para>
           <num>(5)</num>
-          <heading>Reasons for modification.</heading>
-          <text>If either party opposes modification or termination of a legal custody or physical placement order under this section the court shall state, in writing, its reasons for the modification or termination.</text>
+          <text>Reasons for modification.  If either party opposes modification or termination of a legal custody or physical placement order under this section the court shall state, in writing, its reasons for the modification or termination.</text>
         </para>
-        <para>
+        <para proof="needed">
           <num>(6)</num>
           <heading>Notice.</heading>
           <text>No court may enter an order for modification under this section until notice of the petition, motion or order to show cause requesting modification has been given to the child's parents, if they can be found, and to any relative or agency having custody of the child.</text>
         </para>
         <para>
           <num>(7)</num>
-          <heading>Transfer to department.</heading>
-          <text>The court may order custody transferred to the Tribal Social Services only if that department agrees to accept custody.</text>
+          <text>Transfer to department.  The court may order custody transferred to the Tribal Social Services only if that department agrees to accept custody.</text>
         </para>
       </para>
       <annotation type="Prior Codifications">§DMR.02.09 was formerly codified as §62.9</annotation>
@@ -783,7 +774,7 @@
       <num>DMR.02.10</num>
       <para>
         <num>(a)</num>
-        <text>In any action affecting the family under <cite path="62.10" proof="needed">this Chapter</cite>, if the court orders maintenance payments or other allowances for a party or children or retains jurisdiction in such matters, the written judgment shall include a provision that disobedience of the court order with respect to the same is punishable in accordance with the Mohican Judiciary Act, Chapter 1, Tribal Court Code until such judgment is complied with.</text>
+        <text>In any action affecting the family under <cite path="62.10">this Chapter</cite>, if the court orders maintenance payments or other allowances for a party or children or retains jurisdiction in such matters, the written judgment shall include a provision that disobedience of the court order with respect to the same is punishable in accordance with the Mohican Judiciary Act, <cite path="TCT|TCT.01">Chapter TCT.01</cite>, Tribal Court Code until such judgment is complied with.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -791,7 +782,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>When a judgment of divorce is granted it shall be effective immediately except as provided in Chapter 61, <cite path="§DMR.01.09|(d)">Section DMR.01.09(d)</cite>.  The judge granting the divorce shall inform the parties appearing in court that the judgment is effective immediately, except as provided in Chapter 61, <cite path="§DMR.01.09|(d)">Section DMR.01.09(d)</cite>.</text>
+        <text>When a judgment of divorce is granted it shall be effective immediately except as provided in <cite path="DMR|DMR.01">Chapter DMR.01</cite>, <cite path="§DMR.01.09|(d)">Section DMR.01.09(d)</cite>.  The judge granting the divorce shall inform the parties appearing in court that the judgment is effective immediately, except as provided in <cite path="DMR|DMR.01">Chapter DMR.01</cite>, <cite path="§DMR.01.09|(d)">Section DMR.01.09(d)</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§DMR.02.10 was formerly codified as §62.10</annotation>
     </section>
@@ -812,11 +803,11 @@
       <num>DMR.02.13</num>
       <para>
         <num>(a)</num>
-        <text>In order to consistently and fairly implement the provisions of <cite path="62.13" proof="needed">this chapter</cite>, the Tribal Council may, in conjunction with the personnel deemed relevant by the Council, draft regulations which will provide the public and the Tribal Court more specific rules on the matters addressed in <cite path="62.13" proof="needed">this chapter</cite>.</text>
+        <text>In order to consistently and fairly implement the provisions of <cite path="62.13">this chapter</cite>, the Tribal Council may, in conjunction with the personnel deemed relevant by the Council, draft regulations which will provide the public and the Tribal Court more specific rules on the matters addressed in <cite path="62.13">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>If regulations addressing a certain area of <cite path="62.13" proof="needed">this chapter</cite> have not been enacted and the Court is faced with a question, the Court may, in its discretion, refer to the corresponding State of Wisconsin regulations or law, or to other states or to other Indian tribes' guidance.</text>
+        <text>If regulations addressing a certain area of <cite path="62.13">this chapter</cite> have not been enacted and the Court is faced with a question, the Court may, in its discretion, refer to the corresponding State of Wisconsin regulations or law, or to other states or to other Indian tribes' guidance.</text>
       </para>
       <annotation type="Prior Codifications">§DMR.02.13 was formerly codified as §62.13</annotation>
     </section>
@@ -861,8 +852,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <heading>A violation of Sec.</heading>
-          <text><cite doc="Wis. Stat." path="§940.225|(1)" proof="needed">940.225 (1)</cite>, (2) or (3) of the Wisconsin state statutes.</text>
+          <text>A violation of <cite path="§940.225|(1)">Sec. 940.225 (1)</cite>, (2) or (3) of the Wisconsin state statutes.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -929,7 +919,7 @@
       <num>DMR.03.03</num>
       <para>
         <num>(a)</num>
-        <text>No action under this section may be commenced by complaint and summons.  An action under this section may be commenced only by a petition described under <cite path="§DMR.03.07|(a)">Section DMR.03.07(a)</cite>.  The action commences with service of the petition upon the respondent if a copy of the petition is filed before service or promptly after service.  If the judge or family court commissioner extends the time for a hearing under <cite path="§63.4|(C)" proof="needed">Section 63.4 (C)</cite> and the petitioner files an affidavit with the court stating that personal service by a Stockbridge-Munsee law enforcement officer or a private server under Section 19 of the Stockbridge-Munsee rules of procedure was unsuccessful because the respondent is avoiding service by concealment or otherwise, the petitioner may serve the respondent by publication of the petition in the tribal newspaper and by mailing if the respondent's post-office address is known or can with due diligence be ascertained.  The mailing may be omitted if the post-office address cannot be ascertained with due diligence.</text>
+        <text>No action under this section may be commenced by complaint and summons.  An action under this section may be commenced only by a petition described under <cite path="§DMR.03.07|(a)">Section DMR.03.07(a)</cite>.  The action commences with service of the petition upon the respondent if a copy of the petition is filed before service or promptly after service.  If the judge or family court commissioner extends the time for a hearing under <cite path="§63.4|(C)">Section 63.4 (C)</cite> and the petitioner files an affidavit with the court stating that personal service by a Stockbridge-Munsee law enforcement officer or a private server under Section 19 of the Stockbridge-Munsee rules of procedure was unsuccessful because the respondent is avoiding service by concealment or otherwise, the petitioner may serve the respondent by publication of the petition in the tribal newspaper and by mailing if the respondent's post-office address is known or can with due diligence be ascertained.  The mailing may be omitted if the post-office address cannot be ascertained with due diligence.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1072,7 +1062,7 @@
       <num>DMR.03.09</num>
       <para>
         <num>(a)</num>
-        <text>Tribal court orders and injunctions issued under this ordinance will be enforced in accordance with <cite doc="Wis. Stat." path="§813.12|(7)" proof="needed">section 813.12 (7)</cite> and (8) of the Wisconsin state statutes.</text>
+        <text>Tribal court orders and injunctions issued under this ordinance will be enforced in accordance with <cite path="§813.12|(7)">section 813.12 (7)</cite> and (8) of the Wisconsin state statutes.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1080,7 +1070,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The deposit for any citation issued under (B) shall be $200.00.</text>
+        <text>The deposit for any citation issued under (B) shall be $<cite path="§200.00">200.00</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§DMR.03.09 was formerly codified as §63.9</annotation>
     </section>
@@ -1147,7 +1137,7 @@
       <heading>Title, Purpose And Definitions</heading>
       <para>
         <num>(a)</num>
-        <text><strong>Title</strong> -</text>
+        <text><strong>Title</strong></text>
         <text>This Code may be cited as the "Domestic and Family Violence Code."</text>
       </para>
       <para>
@@ -1174,7 +1164,7 @@
         <text>
           <strong>Construction</strong>
         </text>
-        <text><cite path="64.1" proof="needed">This Chapter</cite> shall be liberally construed to effect the purposes stated above and shall be interpreted to comport with the customs and traditions of this Tribe. If tribal law, customs and traditions are inconclusive in any matter arising under <cite path="64.1" proof="needed">this chapter</cite>, then federal law and, as a last resort, the law of the State of Wisconsin, may be used for guidance.</text>
+        <text><cite path="64.1">This Chapter</cite> shall be liberally construed to effect the purposes stated above and shall be interpreted to comport with the customs and traditions of this Tribe. If tribal law, customs and traditions are inconclusive in any matter arising under <cite path="64.1">this chapter</cite>, then federal law and, as a last resort, the law of the State of Wisconsin, may be used for guidance.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1578,7 +1568,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>This privilege does not relieve a person from a duty imposed under State Law to report child abuse or neglect or from providing evidence about child abuse or neglect in State Court pursuant to proceedings under Wisconsin Statutes, Chapters 48 and 938 and in Tribal Court under the Youth Code.</text>
+          <text>This privilege does not relieve a person from a duty imposed under State Law to report child abuse or neglect or from providing evidence about child abuse or neglect in State Court pursuant to proceedings under Wisconsin Statutes, Chapters <cite path="48">48</cite> and <cite path="938">938</cite> and in Tribal Court under the Youth Code.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1609,7 +1599,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Written policies and procedures developed pursuant to <cite path="64.4" proof="needed">this chapter</cite> may include requiring tribal programs and other entities within the jurisdiction of this Tribe to provide information about the rights of victims and about remedies and services available, may set standards for service providers concerning domestic and family violence, and may establish protocols for intervention and referrals for services for suspected victims or batterers, and their household and family members.</text>
+        <text>Written policies and procedures developed pursuant to <cite path="64.4">this chapter</cite> may include requiring tribal programs and other entities within the jurisdiction of this Tribe to provide information about the rights of victims and about remedies and services available, may set standards for service providers concerning domestic and family violence, and may establish protocols for intervention and referrals for services for suspected victims or batterers, and their household and family members.</text>
       </para>
       <annotation type="Prior Codifications">§DMR.04.04 was formerly codified as §64.4</annotation>
     </section>
@@ -1643,8 +1633,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <heading>Composition of the Team:</heading>
-          <text>The Team shall consist of a Tribal Council member selected by the Tribal Council; the Director of Social Services, the Employment Assistance Program, and the Health Office; the Chief Judge of the Tribal Court; the Director of the program which provides services to victims of domestic abuse. In addition, the Team shall include at least two members of the community who have demonstrated expertise and experience in providing services to victims of domestic abuse and their family or household members. The community members shall be selected by the Tribal Council.</text>
+          <text>Composition of the Team: The Team shall consist of a Tribal Council member selected by the Tribal Council; the Director of Social Services, the Employment Assistance Program, and the Health Office; the Chief Judge of the Tribal Court; the Director of the program which provides services to victims of domestic abuse. In addition, the Team shall include at least two members of the community who have demonstrated expertise and experience in providing services to victims of domestic abuse and their family or household members. The community members shall be selected by the Tribal Council.</text>
         </para>
       </para>
       <para>
@@ -1745,7 +1734,7 @@
     <section>
       <heading>Severability</heading>
       <num>DMR.04.06</num>
-      <text>If any part or parts, or the application of any part, of <cite path="64.6" proof="needed">this chapter</cite> is held invalid, such holding shall not affect the validity of the remaining parts of <cite path="64.6" proof="needed">this chapter</cite>. The Stockbridge-Munsee Community hereby declares that it would have passed the remaining parts of <cite path="64.6" proof="needed">this chapter</cite> even if it had known that such part or parts or the application of any part would be declared invalid.</text>
+      <text>If any part or parts, or the application of any part, of <cite path="64.6">this chapter</cite> is held invalid, such holding shall not affect the validity of the remaining parts of <cite path="64.6">this chapter</cite>. The Stockbridge-Munsee Community hereby declares that it would have passed the remaining parts of <cite path="64.6">this chapter</cite> even if it had known that such part or parts or the application of any part would be declared invalid.</text>
       <annotation type="Prior Codifications">§DMR.04.06 was formerly codified as §64.6</annotation>
     </section>
     <annotations>

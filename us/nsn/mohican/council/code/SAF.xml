@@ -69,7 +69,7 @@
         <text>Citation books will only be issued to law enforcement personnel, including county sheriff's deputies, who shall be responsible for the security of the books.</text>
         <para>
           <num>(1)</num>
-          <text>Upon completing the citation form, the issuing officer shall deliver a copy of the 	citation to the alleged violator.</text>
+          <text>Upon completing the citation form, the issuing officer shall deliver a copy of the citation to the alleged violator.</text>
         </para>
       </para>
       <para>
@@ -89,7 +89,7 @@
         <text>Council approved Court Code October 4, 1988 by Resolution No. 1109.</text>
         <text>A list of S-M Ordinances on file at Great Lake Agency, BIA, includes Court Code</text>
         <text>Resolution No. 1489-95 dated April 25, 1995, affirms Court Code of 1988.</text>
-        <text>Resolution No. 1490-95 dated April 25, 1995 amends Court Code in <cite path="§1.03|(B)" proof="needed">section 1.03(B)</cite> by adding "For purposes of initial establishment of the Tribal Court, the first judges to the tribal court may be appointed by the Tribal Council to serve two-year terms.  When the two-year terms are expired, or as soon thereafter as the general tribal election is held, the tribal judges will thereafter be elected positions."</text>
+        <text>Resolution No. 1490-95 dated April 25, 1995 amends Court Code in <cite path="§1.03|(B)">section 1.03(B)</cite> by adding "For purposes of initial establishment of the Tribal Court, the first judges to the tribal court may be appointed by the Tribal Council to serve two-year terms.  When the two-year terms are expired, or as soon thereafter as the general tribal election is held, the tribal judges will thereafter be elected positions."</text>
         <text>Resolution No. 1551-95 dated November 7, 1995, adopts the Mohican Judiciary Act containing revised Court Code, revised General Citation Ordinance, and the Stockbridge-Munsee Bill of Rights.  Mohican Judiciary Act forwarded to BIA for their review and approval on December 15, 1995.  Comments from BIA on July 5, 1996.  Approval letter from BIA on July 18, 1996.</text>
         <text>Resolution No. 246-97, passed September 2, 1997, amended <cite path="§TCT.01.06">Section TCT.01.06</cite>, altering the method for selecting judges.  Judges are nominated by the Tribal Council and confirmed or denied by the Tribal Electorate.</text>
       </annotation>
@@ -102,22 +102,22 @@
     <section>
       <num>SAF.02.01</num>
       <heading>Statement Of Purpose, Findings, And Authority</heading>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Purpose.</heading>
         <text>The Stockbridge-Munsee Tribal Council enacts this Ordinance to provide for the public peace and good order and to minimize health and accident hazards to lands and persons under the jurisdiction of the Stockbridge-Munsee Community.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
         <heading>Findings.</heading>
-        <text>The Stockbridge-Munsee Tribal Council further finds that <cite path="16.1" proof="needed">this chapter</cite> is necessary to protect social, economic and political welfare of the Stockbridge-Munsee Community and its members.</text>
+        <text>The Stockbridge-Munsee Tribal Council further finds that <cite path="16.1">this chapter</cite> is necessary to protect social, economic and political welfare of the Stockbridge-Munsee Community and its members.</text>
       </para>
       <para>
         <num>(c)</num>
         <text>Authority.</text>
         <para>
           <num>(1)</num>
-          <text>The Ordinance is authorized under Article VII (f) of the Stockbridge-Munsee Constitution and inherent tribal authority as an exercise of governmental powers to govern the members of the Stockbridge-Munsee Community, as well as the use, management and administration of the Stockbridge-Munsee Reservation.</text>
+          <text>The Ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite> and inherent tribal authority as an exercise of governmental powers to govern the members of the Stockbridge-Munsee Community, as well as the use, management and administration of the Stockbridge-Munsee Reservation.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -131,18 +131,15 @@
       <num>SAF.02.02</num>
       <para>
         <num>(a)</num>
-        <heading>Territorial Jurisdiction.</heading>
-        <text>This ordinance shall apply on the Stockbridge-Munsee Reservation, which for purposes of enforcement of this ordinance includes proclaimed reservation lands and tribal trust lands as well as individual trust lands under the jurisdiction of the Stockbridge-Munsee Community.  This ordinance shall also apply in relation to lands that the Stockbridge-Munsee Community owns in fee simple.</text>
+        <text>Territorial Jurisdiction.  This ordinance shall apply on the Stockbridge-Munsee Reservation, which for purposes of enforcement of this ordinance includes proclaimed reservation lands and tribal trust lands as well as individual trust lands under the jurisdiction of the Stockbridge-Munsee Community.  This ordinance shall also apply in relation to lands that the Stockbridge-Munsee Community owns in fee simple.</text>
       </para>
       <para>
         <num>(b)</num>
-        <heading>Personal Jurisdiction.</heading>
-        <text>This ordinance shall apply in relation to members of the Stockbridge-Munsee Community, as well as such persons who consent to the jurisdiction of the Stockbridge-Munsee Community by entering tribal lands and endangering the economic, social and political welfare of the Stockbridge-Munsee Community by violating this ordinance.</text>
+        <text>Personal Jurisdiction.  This ordinance shall apply in relation to members of the Stockbridge-Munsee Community, as well as such persons who consent to the jurisdiction of the Stockbridge-Munsee Community by entering tribal lands and endangering the economic, social and political welfare of the Stockbridge-Munsee Community by violating this ordinance.</text>
       </para>
       <para>
         <num>(c)</num>
-        <heading>Subject Matter Jurisdiction.</heading>
-        <text>The Stockbridge-Munsee Tribal Court may exercise jurisdiction to hear violations of this ordinance where there is territorial and/or personal jurisdiction.</text>
+        <text>Subject Matter Jurisdiction. The Stockbridge-Munsee Tribal Court may exercise jurisdiction to hear violations of this ordinance where there is territorial and/or personal jurisdiction.</text>
       </para>
       <annotation type="Prior Codifications">§SAF.02.02 was formerly codified as §16.2</annotation>
     </section>
@@ -179,13 +176,11 @@
       <num>SAF.02.05</num>
       <para>
         <num>(a)</num>
-        <heading>Damage to Property:</heading>
-        <text>No person shall deface, mar, injure, break or damage any tribal or private property.  Tribal and private property includes, but is not limited to, physical structures such as signs, statues, monuments, or buildings, infrastructure like roads and utility lines, and personal property such as vehicles and personal belongings.</text>
+        <text>Damage to Property:  No person shall deface, mar, injure, break or damage any tribal or private property.  Tribal and private property includes, but is not limited to, physical structures such as signs, statues, monuments, or buildings, infrastructure like roads and utility lines, and personal property such as vehicles and personal belongings.</text>
       </para>
       <para>
         <num>(b)</num>
-        <heading>Damage to Vegetation:</heading>
-        <text>No person shall maliciously destroy, remove or cut down, root up, sever or injure any fruit, trees, shrubs, plants, flowers, or other vegetation.  This provision does not prohibit activities such as gathering of medicine or transplanting plants and trees, with the required permission from the Tribal Council where applicable.</text>
+        <text>Damage to Vegetation:  No person shall maliciously destroy, remove or cut down, root up, sever or injure any fruit, trees, shrubs, plants, flowers, or other vegetation.  This provision does not prohibit activities such as gathering of medicine or transplanting plants and trees, with the required permission from the Tribal Council where applicable.</text>
       </para>
       <annotation type="Prior Codifications">§SAF.02.05 was formerly codified as §16.5</annotation>
     </section>
@@ -194,13 +189,11 @@
       <num>SAF.02.06</num>
       <para>
         <num>(a)</num>
-        <heading>Disorderly Conduct:</heading>
-        <text>Individuals are prohibited, in either a public or private place, from engaging in violent, abusive, indecent, profane, boisterous, unreasonably loud or otherwise disorderly conduct under circumstances in which the conduct tends to cause or provoke a disturbance.</text>
+        <text>Disorderly Conduct:  Individuals are prohibited, in either a public or private place, from engaging in violent, abusive, indecent, profane, boisterous, unreasonably loud or otherwise disorderly conduct under circumstances in which the conduct tends to cause or provoke a disturbance.</text>
       </para>
       <para>
         <num>(b)</num>
-        <heading>Disturbing the Peace:</heading>
-        <text>No person shall make or cause to be made any loud, disturbing, or unnecessary sounds or noises or engage in other acts or omissions that disturb the peace and may reasonably be cause to annoy or disturb any person.</text>
+        <text>Disturbing the Peace:  No person shall make or cause to be made any loud, disturbing, or unnecessary sounds or noises or engage in other acts or omissions that disturb the peace and may reasonably be cause to annoy or disturb any person.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -293,12 +286,12 @@
     <section>
       <heading>Loitering And Trespass Prohibited</heading>
       <num>SAF.02.09</num>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Loitering:</heading>
         <text>No person shall loiter, lounge, or loaf in or about tribal premises, such as the Tribal Offices, Tribal Administrative offices, Stockbridge-Munsee Health and Wellness Center, housing project area or other tribal buildings, facilities or grounds.  A person is considered to be loitering on tribal premises if the person remains in an area for no legitimate reason.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
         <heading>Trespass:</heading>
         <text>No person shall enter or remain in a location where he or she is not authorized to be.  Such trespass can include, but it not limited to, entry into another person's home without invite, entry in a building or part thereof that is not open to the public or from which a person has been banned, or the entry into a part of the reservation that is not open to the public by a non-member.</text>
@@ -314,8 +307,7 @@
       <num>SAF.02.10</num>
       <para>
         <num>(a)</num>
-        <heading>Theft (less than $100):</heading>
-        <text>No person shall intentionally take moveable property valuing less than $50 of another without out the other's consent and with the intent to deprive the owner of possession of such property.</text>
+        <text>Theft (less than $100):  No person shall intentionally take moveable property valuing less than $50 of another without out the other's consent and with the intent to deprive the owner of possession of such property.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -323,10 +315,9 @@
       </para>
       <para>
         <num>(c)</num>
-        <heading>Worthless Checks:</heading>
-        <text>No person shall issue a check or other order for payment that he or she intends shall not be paid.</text>
+        <text>Worthless Checks:  No person shall issue a check or other order for payment that he or she intends shall not be paid.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(d)</num>
         <heading>Restitution:</heading>
         <text>In addition to other remedies, the court may order a violator to pay restitution to the victim.</text>
@@ -338,13 +329,11 @@
       <num>SAF.02.11</num>
       <para>
         <num>(a)</num>
-        <heading>Public Buildings:</heading>
-        <text>The use of cigarettes, pipes and any other tobacco products, which produce smoke, is prohibited inside all tribal buildings <u>except</u> where exceptions have been approved by the Tribal Council or for traditional ceremonial purposes.</text>
+        <text>Public Buildings:  The use of cigarettes, pipes and any other tobacco products, which produce smoke, is prohibited inside all tribal buildings <u>except</u> where exceptions have been approved by the Tribal Council or for traditional ceremonial purposes.</text>
       </para>
       <para>
         <num>(b)</num>
-        <heading>Underage Persons:</heading>
-        <text>No minor, or person over 18-years of age on behalf of a minor, may purchase, attempt to purchase, or possess any cigarette, nicotine product or tobacco product for use other than part of traditional ceremonial purposes.</text>
+        <text>Underage Persons:  No minor, or person over 18-years of age on behalf of a minor, may purchase, attempt to purchase, or possess any cigarette, nicotine product or tobacco product for use other than part of traditional ceremonial purposes.</text>
       </para>
       <annotation type="Prior Codifications">§SAF.02.11 was formerly codified as §16.11</annotation>
     </section>
@@ -369,13 +358,11 @@
       </para>
       <para>
         <num>(c)</num>
-        <heading>Open Intoxicants:</heading>
-        <text>No person shall have open intoxicants in a moving vehicle.</text>
+        <text>Open Intoxicants:  No person shall have open intoxicants in a moving vehicle.</text>
       </para>
       <para>
         <num>(d)</num>
-        <heading>Underage Persons:</heading>
-        <text>No person under the age of 21 shall be intoxicated or possess intoxicants unless accompanied by a parent, guardian or spouse.</text>
+        <text>Underage Persons:  No person under the age of 21 shall be intoxicated or possess intoxicants unless accompanied by a parent, guardian or spouse.</text>
       </para>
       <annotation type="Prior Codifications">§SAF.02.12 was formerly codified as §16.12</annotation>
     </section>
@@ -412,7 +399,7 @@
     <section>
       <heading>Concealed Weapons Prohibited In Tribal Buildings</heading>
       <num>SAF.02.15</num>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Definitions.</heading>
         <text>The following definitions apply in relation to this section.</text>
@@ -473,7 +460,7 @@
         <text>Individuals are prohibited from any act or omission that constitutes a public nuisance.  The following is a non-exclusive list of actions that may constitute a public nuisance.</text>
         <para>
           <num>(1)</num>
-          <text>Allowing unlicensed, inoperable, disassembled, junked, or wrecked vehicles and/or scrap material or related items to be stored or remain in an area that does not have a permit to operate as a junkyard/recycling center or for auto repair in accordance with Chapter 43.</text>
+          <text>Allowing unlicensed, inoperable, disassembled, junked, or wrecked vehicles and/or scrap material or related items to be stored or remain in an area that does not have a permit to operate as a junkyard/recycling center or for auto repair in accordance with <cite path="PRP|PRP.02">Chapter PRP.02</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -581,7 +568,7 @@
     <section>
       <heading>Condemnation Of Unsafe Buildings</heading>
       <num>SAF.02.18</num>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Definitions.</heading>
         <text>The following definitions apply for purposes of this section.</text>
@@ -812,7 +799,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>When a building appears to be abandoned and the person holding the land assignment is known, then the Tribe may alternatively use the abandonment process for land assignments, as outlined in Chapter 40, the Land Ordinance, to abate the problem.</text>
+          <text>When a building appears to be abandoned and the person holding the land assignment is known, then the Tribe may alternatively use the abandonment process for land assignments, as outlined in <cite path="PRP|PRP.01">Chapter PRP.01</cite>, the Land Ordinance, to abate the problem.</text>
         </para>
       </para>
       <para>
@@ -848,7 +835,7 @@
     <section>
       <heading>Animal Control</heading>
       <num>SAF.02.20</num>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Definitions.</heading>
         <text>The following definitions shall apply for purposes of this section.</text>
@@ -886,7 +873,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The license fee shall be $2.00 per dog/cat and may be changed by the Tribal Council by resolution.</text>
+          <text>The license fee shall be $<cite path="§2.00">2.00</cite> per dog/cat and may be changed by the Tribal Council by resolution.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -894,7 +881,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Licenses are good for one (1) calendar year and must be obtained in January of each year.  If an owner fails to obtain the license in a timely fashion, then the owner shall pay a fine of $25.00 in addition to the license fee.</text>
+          <text>Licenses are good for one (1) calendar year and must be obtained in January of each year.  If an owner fails to obtain the license in a timely fashion, then the owner shall pay a fine of $<cite path="§25.00">25.00</cite> in addition to the license fee.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -945,7 +932,7 @@
           <text>The Tribe may condemn animals that are affected by a contagious or infectious disease if it determines it is necessary to do so to prevent or control the spread of the disease.  The Tribe will generally obtain a court order in relation to such condemnation, but this requirement is waived in emergencies when immediate action to protect the safety of humans.  Condemned animals shall be destroyed as directed by the Tribe.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(d)</num>
         <heading>Violations.</heading>
         <text>Except as otherwise provided, no person may:</text>
@@ -1046,7 +1033,7 @@
           <text>A tribal officer or conservation officer may take any reasonable actions to protect public safety and welfare, the safety of him or herself, and the safety of other animal(s) and property.  Reasonable actions include, but are not limited to, taking an animal into custody or destroying an animal in a humane manner if it cannot be controlled by the officer or an owner or custodian on the scene.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(f)</num>
         <heading>Costs.</heading>
         <text>In addition to any penalties or remedies assessed under this ordinance, an animal owner shall be responsible for all costs related to the custody and care of an animal in the event that the animal is taken into custody by the Tribe or to remediate damage caused by the animal.</text>
@@ -1062,8 +1049,7 @@
       <num>SAF.02.21</num>
       <para>
         <num>(a)</num>
-        <heading>Regular Park Rules.</heading>
-        <text>All persons using the tribal park facilities shall abide by the following special terms and conditions:</text>
+        <text>Regular Park Rules.  All persons using the tribal park facilities shall abide by the following special terms and conditions:</text>
         <para>
           <num>(1)</num>
           <text>Camping is permitted in designated camping areas only.</text>
@@ -1141,7 +1127,7 @@
           </para>
           <para>
             <num>(D)</num>
-            <text>If the camper will utilize electricity, a $3.00 charge per night must be paid prior to permit being issued.</text>
+            <text>If the camper will utilize electricity, a $<cite path="§3.00">3.00</cite> charge per night must be paid prior to permit being issued.</text>
           </para>
           <para>
             <num>(E)</num>
@@ -1179,8 +1165,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <heading>Penalties and Enforcement.</heading>
-        <text>In addition to any other penalty, including criminal charges:</text>
+        <text>Penalties and Enforcement.  In addition to any other penalty, including criminal charges:</text>
         <para>
           <num>(1)</num>
           <text>Citations against minors may also be issued against the parent(s) or guardian of the minor.</text>
@@ -1263,7 +1248,7 @@
       <num>SAF.02.24</num>
       <para>
         <num>(a)</num>
-        <text>In addition to any other remedy, any person who violates any provision of this ordinance or any rule or regulation authorized thereunder, shall be guilty of a tribal civil offense punishable by a forfeiture of up to Five Thousand dollars ($5,000.00).  The following forfeiture schedules shall generally apply for violations of this ordinance.</text>
+        <text>In addition to any other remedy, any person who violates any provision of this ordinance or any rule or regulation authorized thereunder, shall be guilty of a tribal civil offense punishable by a forfeiture of up to Five Thousand dollars ($5,<cite path="§000.00">000.00</cite>).  The following forfeiture schedules shall generally apply for violations of this ordinance.</text>
         <para>
           <num>(1)</num>
           <text>For violations by individuals who are 16 years of age or younger:</text>
@@ -1331,13 +1316,11 @@
       <annotation type="Legislative History">
         <para>
           <num>1</num>
-          <heading>Ordinance No.</heading>
-          <text>5 an ordinance to minimize health and accident hazards within the reservation proper...adopted by the Tribal Council January 13, 1973 (No BIA approval); included Snowmobile Resolution No. 1 dated January 6, 1973.</text>
+          <text>Ordinance No. 5 an ordinance to minimize health and accident hazards within the reservation proper...adopted by the Tribal Council January 13, 1973 (No BIA approval); included Snowmobile Resolution No. 1 dated January 6, 1973.</text>
         </para>
         <para>
           <num>2</num>
-          <heading>Resolution No.</heading>
-          <text>0506, dated May 3, 1974, established an ordinance entitled "Rules and Regulations-Stockbridge-Munsee Campground".</text>
+          <text>Resolution No. 0506, dated May 3, 1974, established an ordinance entitled "Rules and Regulations-Stockbridge-Munsee Campground".</text>
         </para>
         <para>
           <num>3</num>
@@ -1357,8 +1340,7 @@
         </para>
         <para>
           <num>7</num>
-          <heading>Resolution No.</heading>
-          <text>1552-95, November 7, 1995, amends Ordinance by replacing "Tribal Council" with "Tribal Court" in <cite path="§SAF.02.14">Section SAF.02.14</cite> VIOLATION: JURISDICTION.</text>
+          <text>Resolution No. 1552-95, November 7, 1995, amends Ordinance by replacing "Tribal Council" with "Tribal Court" in <cite path="§SAF.02.14">Section SAF.02.14</cite> VIOLATION: JURISDICTION.</text>
         </para>
         <para>
           <num>8</num>
@@ -1370,11 +1352,11 @@
         </para>
         <para>
           <num>10</num>
-          <text>Amended by Tribal Council on July 18, 2006 by repealing and recreating <cite path="§SAF.02.10">Section SAF.02.10</cite>, Animal Control; Subsections <cite path="§SAF.02.11|(a)">Section SAF.02.11(a)</cite> 11-17, under Park Rules, are created; <cite path="§SAF.02.11|(b)">Section SAF.02.11(b)</cite> for Pow Wow Park Rules is created; <cite path="§16.11|(C)" proof="needed">Section 16.11(C)</cite> is created; <cite path="§SAF.02.15">Section SAF.02.15</cite>, Future Amendments, is created; and <cite path="§SAF.02.16">Section SAF.02.16</cite>, Severability, is created, Resolution Number 050-06.  Approved by BIA on August 15, 2006.</text>
+          <text>Amended by Tribal Council on July 18, 2006 by repealing and recreating <cite path="§SAF.02.10">Section SAF.02.10</cite>, Animal Control; Subsections <cite path="§SAF.02.11|(a)">Section SAF.02.11(a)</cite> 11-17, under Park Rules, are created; <cite path="§SAF.02.11|(b)">Section SAF.02.11(b)</cite> for Pow Wow Park Rules is created; <cite path="§16.11|(C)">Section 16.11(C)</cite> is created; <cite path="§SAF.02.15">Section SAF.02.15</cite>, Future Amendments, is created; and <cite path="§SAF.02.16">Section SAF.02.16</cite>, Severability, is created, Resolution Number 050-06.  Approved by BIA on August 15, 2006.</text>
         </para>
         <para>
           <num>11</num>
-          <text>On June 3, 2015, Tribal Council by Resolution No. 049-15 repealed existing Chapter 16 and adopted a new version of Chapter 16.  New version of ordinance renumbered, reorganized and clarified existing material.  It also added new sections on jurisdiction, as well as new violations for misappropriation, drug-related criminal activity, public intoxication, obstruction, nuisance, condemnation and abandoned buildings, and codified Resolution 042-11 regarding concealed weapons.  BIA approval not required per <cite path="§SAF.02.25" proof="needed">Section SAF.02.25</cite> (formerly Section 16.15).</text>
+          <text>On June 3, 2015, Tribal Council by Resolution No. 049-15 repealed existing <cite path="SAF|SAF.02">Chapter SAF.02</cite> and adopted a new version of <cite path="SAF|SAF.02">Chapter SAF.02</cite>.  New version of ordinance renumbered, reorganized and clarified existing material.  It also added new sections on jurisdiction, as well as new violations for misappropriation, drug-related criminal activity, public intoxication, obstruction, nuisance, condemnation and abandoned buildings, and codified Resolution 042-11 regarding concealed weapons.  BIA approval not required per <cite path="§16.25|(formerly Section 16.15)">Section 16.25 (formerly Section 16.15)</cite>.</text>
         </para>
       </annotation>
     </annotations>
@@ -1402,12 +1384,12 @@
           <text>The Stockbridge-Munsee Tribal Council finds that this ordinance is necessary to protect the social, economic and political welfare of the Stockbridge-Munsee Community and its members.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
         <heading>Purpose.</heading>
         <text>The Stockbridge-Munsee Tribal Council enacts this ordinance to provide for the health and safety of persons in any facility that is used by the Stockbridge-Munsee Community for Class III gaming activities pursuant to a gaming compact.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
         <heading>Authority.</heading>
         <text>The Tribal Council of the Stockbridge-Munsee Community has the authority to adopt ordinances providing for the health and safety of the general public and tribal members on reservation and trust lands within the jurisdiction of the Tribe by virtue of the provisions of Article VII, section 1(a) and (f) of the Stockbridge-Munsee Constitution.</text>
@@ -1492,7 +1474,7 @@
           <text>Chapter SPS 366 – Existing Buildings, Wis. Admin. Code.</text>
           <para>
             <num>(A)</num>
-            <text>Section SPS <cite doc="Wis. Stat." path="§361.05" proof="needed">361.05</cite> of State law provides for the incorporation of the IEBC-2009, subject to the modifications under Chapters SPS 361 and SPS 366.</text>
+            <text>Section SPS <cite path="§361.05">361.05</cite> of State law provides for the incorporation of the IEBC-2009, subject to the modifications under Chapters SPS 361 and SPS 366.</text>
           </para>
           <para>
             <num>(B)</num>
@@ -1511,11 +1493,9 @@
       <para>
         <num>(c)</num>
         <text>The following ASME standards are hereby incorporated, by reference, into this ordinance as tribal standards:</text>
-        <para>
+        <para proof="needed">
           <num>(1)</num>
-          <text>
-            <em>Safety Code for Elevators and Escalators, ASME A<cite path="§TCT.05.01">Section TCT.05.01</cite>/CSA B44-2013.</em>
-          </text>
+          <heading>Safety Code for Elevators and Escalators, ASME A17.1/CSA B44-2013.</heading>
         </para>
       </para>
       <para>
@@ -1524,7 +1504,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The application of the State public health and safety standards to casino facilities through this ordinance shall be interpreted as being at least as restrictive as the State public health and safety standards for public buildings, electrical wiring, fire prevention, plumbing and sanitation as set forth in Chapter 101, Wis. Stat. and the State administrative rules thereunder.</text>
+        <text>The application of the State public health and safety standards to casino facilities through this ordinance shall be interpreted as being at least as restrictive as the State public health and safety standards for public buildings, electrical wiring, fire prevention, plumbing and sanitation as set forth in <cite path="101">Chapter 101</cite>, Wis. Stat. and the State administrative rules thereunder.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -1565,7 +1545,7 @@
         </para>
         <para>
           <num>3</num>
-          <text>On August 5, 2015, the Tribal Council by Resolution No. 057-15 repealed existing Chapter 26 and adopted a new version of Chapter 26.  New version reformats the ordinance to be consistent with the format of other tribal ordinances, clarifies the applicability of the ordinance, updates references to Wisconsin laws and adds a requirement in relation to elevators.  BIA approval granted on August 13, 2015.</text>
+          <text>On August 5, 2015, the Tribal Council by Resolution No. 057-15 repealed existing <cite path="SAF|SAF.03">Chapter SAF.03</cite> and adopted a new version of <cite path="SAF|SAF.03">Chapter SAF.03</cite>.  New version reformats the ordinance to be consistent with the format of other tribal ordinances, clarifies the applicability of the ordinance, updates references to Wisconsin laws and adds a requirement in relation to elevators.  BIA approval granted on August 13, 2015.</text>
         </para>
       </annotation>
     </annotations>
@@ -1587,7 +1567,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The ordinance is authorized under Article VII(f) of the Stockbridge-Munsee Constitution, and its inherent powers, as an exercise of its governmental powers to protect the political integrity, economy, and the general welfare of the Stockbridge-Munsee Community.</text>
+        <text>The ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|(f)">Article VII(f) of the Stockbridge-Munsee Constitution</cite>, and its inherent powers, as an exercise of its governmental powers to protect the political integrity, economy, and the general welfare of the Stockbridge-Munsee Community.</text>
       </para>
       <annotation type="Prior Codifications">§SAF.04.01 was formerly codified as §26A.1</annotation>
     </section>
@@ -1614,7 +1594,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>A high probability of widespread exposure to a biological, chemical or radiological agent that creates a significant risk of substantial future harm to a 	large number of people.</text>
+            <text>A high probability of widespread exposure to a biological, chemical or radiological agent that creates a significant risk of substantial future harm to a large number of people.</text>
           </para>
         </para>
       </para>
@@ -1646,7 +1626,7 @@
       <num>SAF.04.04</num>
       <para>
         <num>(a)</num>
-        <text>The Director may require isolation or quarantine of a patient or individual who is a carrier of a communicable disease, a patient or individual under <cite path="§26A.3|(A)|(2)" proof="needed">Section 26A.3(A)(2)</cite>, quarantine of contacts, concurrent and terminal disinfection, or modified forms of these procedures as may be necessary.</text>
+        <text>The Director may require isolation or quarantine of a patient or individual who is a carrier of a communicable disease, a patient or individual under <cite path="§26A.3|(A)|(2)">Section 26A.3(A)(2)</cite>, quarantine of contacts, concurrent and terminal disinfection, or modified forms of these procedures as may be necessary.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1731,7 +1711,7 @@
     </section>
     <annotations>
       <annotation type="Legislative History">
-        <text>Adopted by Tribal Council on August 21, 2007, Resolution No. 059-07.   BIA approved the ordinance, except for <cite path="§26A.7" proof="needed">Section 26A.7</cite>, on April 16, 2012.  <cite path="§26A.7" proof="needed">Section 26A.7</cite>, regarding the need for BIA approval of future amendments, was deleted.</text>
+        <text>Adopted by Tribal Council on August 21, 2007, Resolution No. 059-07.   BIA approved the ordinance, except for <cite path="§26A.7">Section 26A.7</cite>, on April 16, 2012.  <cite path="§26A.7">Section 26A.7</cite>, regarding the need for BIA approval of future amendments, was deleted.</text>
         <text class="center">
           <strong>NON-QUARANTINABLE DISEASES</strong>
         </text>
@@ -1800,14 +1780,13 @@
     <section>
       <num>SAF.05.01</num>
       <heading>Purpose, Authority, And Jurisdiction</heading>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Purpose.</heading>
         <text>This ordinance has the purposes of promoting food sovereignty and food safety.</text>
         <para>
           <num>(1)</num>
-          <heading>Food Sovereignty.</heading>
-          <text>The Tribe wishes to protect and promote local food and community self-governance.</text>
+          <text>Food Sovereignty.  The Tribe wishes to protect and promote local food and community self-governance.</text>
           <para>
             <num>(A)</num>
             <text>Historical changes (loss of the tribal homelands, removal to Wisconsin and the reservation system) disrupted traditional agricultural knowledge and practices of the Stockbridge-Munsee Community.</text>
@@ -1847,8 +1826,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <heading>Food Safety.</heading>
-          <text>The Tribe wishes to ensure the protection of the tribal community through the adoption of food safety requirements in relation to food service.</text>
+          <text>Food Safety.  The Tribe wishes to ensure the protection of the tribal community through the adoption of food safety requirements in relation to food service.</text>
           <para>
             <num>(A)</num>
             <text>This ordinance includes minimum food safety standards.</text>
@@ -1863,12 +1841,12 @@
           </para>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
         <heading>Authority.</heading>
-        <text>This ordinance is authorized under Article VII (f) of the Stockbridge-Munsee Constitution and inherent tribal authority as an exercise of governmental powers to govern members of the Stockbridge-Munsee Community, as well as the use, management and administration of the Stockbridge-Munsee Reservation.</text>
+        <text>This ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite> and inherent tribal authority as an exercise of governmental powers to govern members of the Stockbridge-Munsee Community, as well as the use, management and administration of the Stockbridge-Munsee Reservation.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
         <heading>Jurisdiction.</heading>
         <text>This ordinance applies in relation to members of the Stockbridge-Munsee Community, as well as such persons who consent to the jurisdiction of the Stockbridge-Munsee Community by entering tribal lands and engaging in activities that may endanger the economic, social and political welfare of the Stockbridge-Munsee Community if they violate this ordinance.  The Stockbridge-Munsee Tribal Court has jurisdiction to hear violations of this ordinance.</text>
@@ -1953,8 +1931,7 @@
       <num>SAF.05.03</num>
       <para>
         <num>(a)</num>
-        <heading>Healthy Foods.</heading>
-        <text>The Tribe supports access to healthy, minimally-processed, foods such as through local farmers markets.</text>
+        <text>Healthy Foods.  The Tribe supports access to healthy, minimally-processed, foods such as through local farmers markets.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1973,7 +1950,7 @@
         <text>Traditional Foods.</text>
         <para>
           <num>(1)</num>
-          <text>As our people require traditional foods for our good health and sustenance in accordance with our covenant with the Creator and our ability to sustain ourselves and ecosystems, the Tribe supports ongoing traditional harvests of wild rice, maple syrup, medicinal plants, fish, game and deer on tribal lands pursuant to the Fish and Wildlife Ordinance, Chapter 21, and the Forestry Ordinance, Chapter 22.</text>
+          <text>As our people require traditional foods for our good health and sustenance in accordance with our covenant with the Creator and our ability to sustain ourselves and ecosystems, the Tribe supports ongoing traditional harvests of wild rice, maple syrup, medicinal plants, fish, game and deer on tribal lands pursuant to the Fish and Wildlife Ordinance, <cite path="ENV|ENV.01">Chapter ENV.01</cite>, and the Forestry Ordinance, <cite path="ENV|ENV.02">Chapter ENV.02</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2010,13 +1987,11 @@
       </para>
       <para>
         <num>(f)</num>
-        <heading>Local Food Processing.</heading>
-        <text>The Tribe supports local food processing on the reservation to enhance local food production and access to traditional foods for our communities. This includes educational efforts to teach basic canning and freezing techniques for traditional foods, drying, and preparation to ensure these foods are available for tribal community members.</text>
+        <text>Local Food Processing.  The Tribe supports local food processing on the reservation to enhance local food production and access to traditional foods for our communities. This includes educational efforts to teach basic canning and freezing techniques for traditional foods, drying, and preparation to ensure these foods are available for tribal community members.</text>
       </para>
       <para>
         <num>(g)</num>
-        <heading>Sustainable Practices.</heading>
-        <text>The Tribe supports sustainable agricultural practices and the adoption of appropriate of standards regulating pollution from agriculture and overuse of natural resources.</text>
+        <text>Sustainable Practices.  The Tribe supports sustainable agricultural practices and the adoption of appropriate of standards regulating pollution from agriculture and overuse of natural resources.</text>
       </para>
       <annotation type="Prior Codifications">§SAF.05.03 was formerly codified as §56.3</annotation>
     </section>
@@ -2025,28 +2000,23 @@
       <num>SAF.05.04</num>
       <para>
         <num>(a)</num>
-        <heading>Tribal Preference.</heading>
-        <text>Tribal producers shall have preference for food sales at events sponsored by the Tribe and its departments, such as pow wows and farmers markets.</text>
+        <text>Tribal Preference.  Tribal producers shall have preference for food sales at events sponsored by the Tribe and its departments, such as pow wows and farmers markets.</text>
       </para>
       <para>
         <num>(b)</num>
-        <heading>Traditional Foods.</heading>
-        <text>Tribal programs shall attempt to incorporate traditional foods, such as fish, squash, and berries, in menus on a regular basis.</text>
+        <text>Traditional Foods.  Tribal programs shall attempt to incorporate traditional foods, such as fish, squash, and berries, in menus on a regular basis.</text>
       </para>
       <para>
         <num>(c)</num>
-        <heading>Healthy Foods.</heading>
-        <text>Tribal programs shall attempt to offer healthy food alternatives in menus.</text>
+        <text>Healthy Foods.  Tribal programs shall attempt to offer healthy food alternatives in menus.</text>
       </para>
       <para>
         <num>(d)</num>
-        <heading>Native American Producers.</heading>
-        <text>Tribal programs shall seek to purchase food from Stockbridge-Munsee, or if not reasonably feasible, other Native American producers.</text>
+        <text>Native American Producers.  Tribal programs shall seek to purchase food from Stockbridge-Munsee, or if not reasonably feasible, other Native American producers.</text>
       </para>
       <para>
         <num>(e)</num>
-        <heading>Local Foods.</heading>
-        <text>Tribal programs shall seek to purchase food from local food producers, as well as seek to promote healthy, local food production as part of tribal programs.</text>
+        <text>Local Foods.  Tribal programs shall seek to purchase food from local food producers, as well as seek to promote healthy, local food production as part of tribal programs.</text>
       </para>
       <annotation type="Prior Codifications">§SAF.05.04 was formerly codified as §56.4</annotation>
     </section>
@@ -2081,12 +2051,12 @@
       <para>
         <num>(d)</num>
         <text>Requirements for sale of cottage foods.</text>
-        <para>
+        <para proof="needed">
           <num>(1)</num>
           <heading>Signs.</heading>
           <text>The seller must have a sign at the place of sale stating:  "These foods are homemade and not subject to inspection."</text>
         </para>
-        <para>
+        <para proof="needed">
           <num>(2)</num>
           <heading>Labels.</heading>
           <text>The seller shall label each container of food product with a label that includes the following information:</text>
@@ -2104,8 +2074,7 @@
           </para>
           <para>
             <num>(D)</num>
-            <heading>The following statement:</heading>
-            <text>"This product was made in a private home not subject to licensing or inspection."</text>
+            <text>The following statement:  "This product was made in a private home not subject to licensing or inspection."</text>
           </para>
           <para>
             <num>(E)</num>
@@ -2162,7 +2131,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Shelf-stable, canned foods with an equilibrium pH value of <cite path="§4.6" proof="needed">4.6</cite> or lower, such as:</text>
+          <text>Shelf-stable, canned foods with an equilibrium pH value of <cite path="§4.6">4.6</cite> or lower, such as:</text>
           <para>
             <num>(A)</num>
             <text>Jams and jellies made from acid foods like fruits;</text>
@@ -2446,7 +2415,7 @@
         </para>
         <para>
           <num>2</num>
-          <text>On March 21, 2006, Tribal Council, by Resolution No.027-06 created sections <cite path="§SAF.05.01|(c)">Section SAF.05.01(c)</cite>,(D),(E); <cite path="§56.2|(B)|(2)" proof="needed">56.2(B)(2)</cite>; <cite path="§SAF.05.05">Section SAF.05.05</cite>; Appendix A, and amended sections <cite path="§SAF.05.03">Section SAF.05.03</cite> and <cite path="§SAF.05.04">Section SAF.05.04</cite>.  Approved by BIA on April 10, 2006.</text>
+          <text>On March 21, 2006, Tribal Council, by Resolution No.027-06 created sections <cite path="§SAF.05.01|(c)">Section SAF.05.01(c)</cite>,(D),(E); <cite path="§56.2|(B)|(2)">56.2(B)(2)</cite>; <cite path="§SAF.05.05">Section SAF.05.05</cite>; Appendix A, and amended sections <cite path="§SAF.05.03">Section SAF.05.03</cite> and <cite path="§SAF.05.04">Section SAF.05.04</cite>.  Approved by BIA on April 10, 2006.</text>
         </para>
         <para>
           <num>3</num>
@@ -2454,13 +2423,13 @@
         </para>
         <para>
           <num>4</num>
-          <text>On April 17, 2018, the Tribal Council adopted amendments to Chapter 56 of Stockbridge-Munsee Tribal Law by Resolution No. 034-18.  The amendments added food sovereignty provisions including food access and sale of cottage foods; updated references and terminology to be consistent with the FDA Food Code; and updated and clarified the provisions about food service permitting.  The ordinance was renamed as the Food Ordinance and the following changes were made:</text>
+          <text>On April 17, 2018, the Tribal Council adopted amendments to <cite path="SAF|SAF.05">Chapter SAF.05</cite> of Stockbridge-Munsee Tribal Law by Resolution No. 034-18.  The amendments added food sovereignty provisions including food access and sale of cottage foods; updated references and terminology to be consistent with the FDA Food Code; and updated and clarified the provisions about food service permitting.  The ordinance was renamed as the Food Ordinance and the following changes were made:</text>
           <text>
             <ul proof="needed">
               <li>Added new Sections <cite path="§SAF.05.01">Section SAF.05.01</cite>, <cite path="§SAF.05.02|(a)">Section SAF.05.02(a)</cite>, (C), (H-L), (N), (O); <cite path="§SAF.05.03">Section SAF.05.03</cite>; <cite path="§SAF.05.04">Section SAF.05.04</cite>; <cite path="§SAF.05.05">Section SAF.05.05</cite>; and <cite path="§SAF.05.06">Section SAF.05.06</cite>.</li>
               <li>Renumbered Sections <cite path="§SAF.05.01">Section SAF.05.01</cite> as <cite path="§SAF.05.02">Section SAF.05.02</cite>; <cite path="§SAF.05.02">Section SAF.05.02</cite> is now <cite path="§SAF.05.07">Section SAF.05.07</cite>, <cite path="§SAF.05.08">Section SAF.05.08</cite> and <cite path="§SAF.05.09">Section SAF.05.09</cite>; <cite path="§SAF.05.03">Section SAF.05.03</cite> is now <cite path="§SAF.05.10">Section SAF.05.10</cite> and the remainder are renumbered accordingly.</li>
-              <li>Deleted Sections <cite path="§56.1|(F)" proof="needed">56.1 (F)</cite> and <cite path="§SAF.05.02|(c)">Section SAF.05.02(c)</cite>.</li>
-              <li>Moved <cite path="§56.2|(B)|(2)|(d)" proof="needed">Section 56.2 (B)(2)(d)</cite> to now be <cite path="§SAF.05.12|(a)">Section SAF.05.12(a)</cite>.</li>
+              <li>Deleted Sections <cite path="§56.1|(F)">56.1 (F)</cite> and <cite path="§SAF.05.02|(c)">Section SAF.05.02(c)</cite>.</li>
+              <li>Moved <cite path="§56.2|(B)|(2)|(d)">Section 56.2 (B)(2)(d)</cite> to now be <cite path="§SAF.05.12|(a)">Section SAF.05.12(a)</cite>.</li>
               <li>Amended Sections:  <cite path="§SAF.05.07|(a)">Section SAF.05.07(a)</cite> and subparts, (B)(1), (2), (4)(a), and (C); <cite path="§SAF.05.08">Section SAF.05.08</cite>; <cite path="§SAF.05.09">Section SAF.05.09</cite>; <cite path="§SAF.05.10|(a)">Section SAF.05.10(a)</cite>, (B) and (C); <cite path="§SAF.05.11|(a)">Section SAF.05.11(a)</cite>; and <cite path="§SAF.05.12|(b)">Section SAF.05.12(b)</cite>.</li>
             </ul>
           </text>
@@ -2476,22 +2445,22 @@
     <section>
       <num>SAF.06.01</num>
       <heading>Statement Of Purpose, Findings, And Authority</heading>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Purpose.</heading>
         <text>The Stockbridge-Munsee Tribal Council enacts this ordinance to provide for the safety and well-being of the tribal community by providing parameters for the expulsion of persons who are considered to be a danger to the community from lands under the jurisdiction of the Stockbridge-Munsee Community.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
         <heading>Findings.</heading>
         <text>The Stockbridge-Munsee Tribal Council finds that this ordinance is necessary to protect the social, economic and political welfare of the Stockbridge-Munsee Community and tribal members, as well as to protect the lands and assets of the Stockbridge-Munsee Community.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
-        <text><u>Authority</u>.</text>
+        <heading>Authority.</heading>
         <para>
           <num>(1)</num>
-          <text>The ordinance is authorized under Article VII (f) of the Stockbridge-Munsee Constitution, which provides for the promulgation and enforcement of ordinance for the exclusion of nonmembers from its territory, as well as inherent tribal authority to govern the members of the Stockbridge-Munsee Community and the use, management and administration of lands under the jurisdiction of the Stockbridge-Munsee Community.</text>
+          <text>The ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite>, which provides for the promulgation and enforcement of ordinance for the exclusion of nonmembers from its territory, as well as inherent tribal authority to govern the members of the Stockbridge-Munsee Community and the use, management and administration of lands under the jurisdiction of the Stockbridge-Munsee Community.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2556,17 +2525,17 @@
     <section>
       <heading>Jurisdiction</heading>
       <num>SAF.06.03</num>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Territorial Jurisdiction.</heading>
         <text>This ordinance shall apply on the Reservation.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
         <heading>Personal Jurisdiction.</heading>
         <text>This ordinance shall apply in relation to members of the Stockbridge-Munsee Community, as well as non-members who consent to the jurisdiction of the Stockbridge-Munsee Community by entering the Reservation.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
         <heading>Subject Matter.</heading>
         <text>The Tribal Council has exclusive jurisdiction in relation to actions under this ordinance.  There is no right to appeal such actions through the Tribal Court.</text>
@@ -2609,9 +2578,9 @@
         <num>(a)</num>
         <text>The Tribe has sovereign authority over lands under its jurisdiction and to control the access of persons to such lands in order to act in the best interests of the Tribe and its members.  While the Tribal Council intends to provide due process in accordance with this ordinance to individuals prior to exclusion from such lands, the authority of the Tribal Council to exclude persons shall be broadly applicable and deviations from the process shall not nullify actions of Tribal Council properly taken as part of a duly-noticed and held meeting.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
-        <text><u>Petition</u>.</text>
+        <heading>Petition.</heading>
         <para>
           <num>(1)</num>
           <text>The process to exclude a person from the Reservation is initiated by the filing of a petition that is signed by at least fifteen (15) members.</text>
@@ -2645,9 +2614,9 @@
           <text>The petition shall be filed with the Tribal Council Secretary (or a person acting on the Secretary's behalf), who shall sign and date when it is received.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
-        <text><u>Role of Tribal Council Secretary to Administer Exclusion Process</u>.</text>
+        <heading>Role of Tribal Council Secretary to Administer Exclusion Process.</heading>
         <para>
           <num>(1)</num>
           <text>Upon receipt of a petition, the Tribal Council Secretary shall have the person who is the subject of the petition served with the copy of the petition.  With the petition, the Tribal Council Secretary shall include a cover letter informing the person that:</text>
@@ -2705,14 +2674,14 @@
           <text>If the Tribal Council authorizes an exclusion order following a hearing, then the Tribal Council Secretary shall be responsible to facilitate the issuance of such order as provided hereunder.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(d)</num>
         <heading>Service.</heading>
         <text>For purposes of this ordinance, service may be either in person or certified U.S. mail, return receipt requested.  If, after a good faith attempt at service, the Tribe cannot obtain either service in person or by mail, then the Tribe may obtain service by providing a copy of the papers to be served to a member of the person's household or taping the papers on the front door of the person's residence or place of business.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(e)</num>
-        <text><u>Hearing</u>.</text>
+        <heading>Hearing.</heading>
         <para>
           <num>(1)</num>
           <text>The Tribal Council will consider the petition, any background investigation into the allegations, as well as testimony and evidence from interested parties as part of their determination of whether the person committed an act or omission that meets the grounds for exclusion.</text>
@@ -2746,9 +2715,9 @@
           <text>The Tribal Council shall act by motion to decide whether or not to issue an exclusion order and what, if any, special conditions shall apply to such order.  Motions to exclude a person must have at least five (5) Tribal Council members voting in support of the motion.  If the motion to exclude does not have at least five (5) votes in support, then the person shall not be excluded.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(f)</num>
-        <text><u>Exclusion Order</u>.</text>
+        <heading>Exclusion Order.</heading>
         <para>
           <num>(1)</num>
           <text>The Tribal Council may orally advise the parties of its decision at the hearing or may issue an opinion within five (5) business days of the hearing.  In either case, the Tribal Council shall prepare a written order of its action.</text>
@@ -2766,7 +2735,7 @@
           <text>Exclusion orders shall be effective upon issuance.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(g)</num>
         <heading>Records.</heading>
         <text>A copy of the exclusion order, as well as other records related to the exclusion proceedings shall be maintained in secure storage by the Tribal Council Secretary or designee.  Such records shall be maintained for at least the duration of the exclusion plus three (3) years.</text>
@@ -2776,27 +2745,27 @@
     <section>
       <heading>Implementation Of Exclusion Order</heading>
       <num>SAF.06.06</num>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Time to Vacate Reservation.</heading>
         <text>While exclusion orders are effective upon issuance, persons normally shall be provided reasonable time to voluntarily vacate the Reservation in compliance with the exclusion order.  However, if warranted by circumstances, a person may be immediately removed from the Reservation by law enforcement.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
         <heading>Personal Property.</heading>
         <text>If a person requires time to remove or disposal of personal property from the Reservation following the issuance of an exclusion order, then that person must make arrangements with law enforcement to access the Reservation for such purpose.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
         <heading>Funerals.</heading>
         <text>Persons subject to an exclusion order may enter the Reservation for purposes of a family member's funeral on the day of the funeral and during funeral hours.  The person must notify the Tribe's Police Department at least 4-hours prior to entering the Reservation for the funeral.  The person is only permitted access to go directly to the funeral and must exit immediately after the funeral.  A person may be denied entry for a funeral if there is a substantial threat of harm or injury to the community or a person.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(d)</num>
         <heading>Employment.</heading>
         <text>Unless specifically authorized by special condition of the exclusion order, persons subject to an exclusion order are not authorized to access the Reservation for the purpose of employment.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(e)</num>
         <heading>Business.</heading>
         <text>Persons subject to an exclusion order are not authorized to conduct business with the Tribe or operate or conduct any other business activities on the Reservation.</text>
@@ -2922,7 +2891,7 @@
         </para>
         <para>
           <num>2</num>
-          <text>On July 7, 2015, the Tribal Council adopted a new ordinance, which is Chapter 68 - Exclusion Ordinance, by Resolution No. 054-15.  The ordinance was approved by the BIA on July 15, 2015.</text>
+          <text>On July 7, 2015, the Tribal Council adopted a new ordinance, which is <cite path="SAF|SAF.06">Chapter SAF.06</cite> - Exclusion Ordinance, by Resolution No. 054-15.  The ordinance was approved by the BIA on July 15, 2015.</text>
         </para>
       </annotation>
     </annotations>

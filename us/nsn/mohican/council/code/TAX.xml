@@ -284,7 +284,7 @@
       <para>
         <num>(a)</num>
         <text>Tax Commission Established.</text>
-        <text>The Tax Commission is hereby established pursuant to the constitutional authority of the Tribal Council to provide for the levying and collection of taxes pursuant Article VII, §1(f) to the Tribe's Constitution and shall be subject to the provisions of this Tax Ordinance.</text>
+        <text>The Tax Commission is hereby established pursuant to the constitutional authority of the Tribal Council to provide for the levying and collection of taxes pursuant <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|1(f)">Article VII, §1(f) to the Tribe's Constitution</cite> and shall be subject to the provisions of this Tax Ordinance.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -430,22 +430,22 @@
         <num>(i)</num>
         <text>Jurisdiction Of Court</text>
         <text>The Tribal Court is vested with exclusive jurisdiction:</text>
-        <para>
+        <para proof="needed">
           <num>(1)</num>
           <heading>Persons.</heading>
           <text>Over any and all Persons subject of this Tax Ordinance.</text>
         </para>
-        <para>
+        <para proof="needed">
           <num>(2)</num>
           <heading>Subjects.</heading>
           <text>To hear and determine any challenge to the validity of this Tax Ordinance, either generally or as applied to any Person, subject to compliance with the regulations governing administrative appeals.</text>
         </para>
-        <para>
+        <para proof="needed">
           <num>(3)</num>
           <heading>Review on Appeal.</heading>
           <text>Review of Tax Commission actions shall be on the record made in the Tax Commission and not de novo, and shall be limited to the determination whether the action of the Tax Commission was not supported by the evidence, or was arbitrary, capricious, an abuse of discretion, beyond its authority, or otherwise contrary to the Tribe's tribal law.</text>
         </para>
-        <para>
+        <para proof="needed">
           <num>(4)</num>
           <heading>Actions of the Tribal Court.</heading>
           <text>The Tribal Court shall be empowered to affirm, reverse, or to remand the matter to the Tax Commission for further action, and it may stay the effect of an order suspending a right to engage in productive activity, pending the appeal.</text>
@@ -629,16 +629,16 @@
       <annotation type="Legislative History">
         <para>
           <num>1</num>
-          <text>Chapter 57, Construction Tax Ordinance was adopted by the Tribal Council by Resolution #1208, dated May 30, 1990.  The BIA had no record of receiving the Construction Tax Ordinance as of their 1993 listing.</text>
+          <text><cite path="TAX|TAX.01">Chapter TAX.01</cite>, Construction Tax Ordinance was adopted by the Tribal Council by Resolution #1208, dated May 30, 1990.  The BIA had no record of receiving the Construction Tax Ordinance as of their 1993 listing.</text>
         </para>
         <para>
           <num>2</num>
-          <text>On July 6, 2010, the Stockbridge-Munsee Tribal Council adopted a new ordinance titled the "Room Tax Ordinance" by Resolution 047-10. The ordinance was approved by the BIA on August 13, 2010.  Prior to publication, the Room Tax Ordinance was numbered as Chapter 57-A of Stockbridge-Munsee Tribal Law and internal references were updated accordingly.</text>
+          <text>On July 6, 2010, the Stockbridge-Munsee Tribal Council adopted a new ordinance titled the "Room Tax Ordinance" by Resolution 047-10. The ordinance was approved by the BIA on August 13, 2010.  Prior to publication, the Room Tax Ordinance was numbered as <cite path="TAX|TAX.01">Chapter TAX.01</cite>-A of Stockbridge-Munsee Tribal Law and internal references were updated accordingly.</text>
         </para>
         <para>
           <num>3</num>
-          <text>On March 6, 2018, in Resolution 026-18, the Tribal Council rescinded the existing Chapter 57 (Construction Tax Ordinance) and Chapter 57-A (Room Tax Ordinance) to adopt a new Tax Ordinance as Chapter 57.</text>
-          <text>The new Chapter 57 establishes a more comprehensive tribal tax regime that incorporated both a sales tax and a hotel occupancy tax, as well as the related administrative process.  The new Chapter 57, Tax Ordinance, was approved by the BIA on __________________.</text>
+          <text>On March 6, 2018, in Resolution 026-18, the Tribal Council rescinded the existing <cite path="TAX|TAX.01">Chapter TAX.01</cite> (Construction Tax Ordinance) and <cite path="TAX|TAX.01">Chapter TAX.01</cite>-A (Room Tax Ordinance) to adopt a new Tax Ordinance as <cite path="TAX|TAX.01">Chapter TAX.01</cite>.</text>
+          <text>The new <cite path="TAX|TAX.01">Chapter TAX.01</cite> establishes a more comprehensive tribal tax regime that incorporated both a sales tax and a hotel occupancy tax, as well as the related administrative process.  The new <cite path="TAX|TAX.01">Chapter TAX.01</cite>, Tax Ordinance, was approved by the BIA on __________________.</text>
         </para>
       </annotation>
     </annotations>
@@ -650,7 +650,7 @@
     <section>
       <num>TAX.02.01</num>
       <heading>Definitions</heading>
-      <text>In <cite path="57-A.1" proof="needed">this chapter</cite> the following definitions shall apply:</text>
+      <text>In <cite path="57-A.1">this chapter</cite> the following definitions shall apply:</text>
       <para>
         <num>(a)</num>
         <text>"Gross receipts" means the total revenue received from the retail furnishing of rooms, lodging, or similar accommodations by a hotel or motel as defined herein.</text>
@@ -711,7 +711,7 @@
         </para>
         <para>
           <num>2</num>
-          <text>Prior to publication, the Room Tax Ordinance was numbered as Chapter 57-A of Stockbridge-Munsee Tribal Law and internal references were updated accordingly.</text>
+          <text>Prior to publication, the Room Tax Ordinance was numbered as <cite path="TAX|TAX.02">Chapter TAX.02</cite> of Stockbridge-Munsee Tribal Law and internal references were updated accordingly.</text>
         </para>
       </annotation>
     </annotations>

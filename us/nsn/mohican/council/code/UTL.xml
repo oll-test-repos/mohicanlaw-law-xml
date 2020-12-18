@@ -139,7 +139,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>There is a $40.00 fee for connection to the tribal utility system, either as a new consumer or to be reconnected after services have been shut off.</text>
+          <text>There is a $<cite path="§40.00">40.00</cite> fee for connection to the tribal utility system, either as a new consumer or to be reconnected after services have been shut off.</text>
         </para>
       </para>
       <para>
@@ -445,7 +445,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A service charge of $25.00 will be charged for bulk water purchases, in addition to the volumetric charge.</text>
+          <text>A service charge of $<cite path="§25.00">25.00</cite> will be charged for bulk water purchases, in addition to the volumetric charge.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -602,7 +602,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The person disposing of the waste shall furnish a bond to Tribe in amount of $1,000.00 to guarantee performance, unless this requirement is waived by the Tribal Council.  The performance bond shall be delivered to Tribal Council prior to the issuance of the permit under <cite path="§UTL.01.18">Section UTL.01.18</cite>.</text>
+        <text>The person disposing of the waste shall furnish a bond to Tribe in amount of $1,<cite path="§000.00">000.00</cite> to guarantee performance, unless this requirement is waived by the Tribal Council.  The performance bond shall be delivered to Tribal Council prior to the issuance of the permit under <cite path="§UTL.01.18">Section UTL.01.18</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§UTL.01.18 was formerly codified as §39.18</annotation>
     </section>
@@ -704,7 +704,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A two percent (2%) penalty will be added to those bills not paid on or before the 20th day after the due date of the bill with a twenty-five cent ($0.25) minimum penalty charge.</text>
+          <text>A two percent (2%) penalty will be added to those bills not paid on or before the 20th day after the due date of the bill with a twenty-five cent ($<cite path="§0.25">0.25</cite>) minimum penalty charge.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -837,12 +837,12 @@
           <text>In case of such violation, the Utility Board may declare any payment for the service, made by the party or parties committing such violation, to be forfeited.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
         <heading>Penalties.</heading>
         <text>Any person who violates any of the provisions of this Ordinance; or makes a service connection without first obtaining a permit; or who violates any provisions of any other materials, which are incorporated by reference, shall upon conviction thereof forfeit not less than $50 nor more than $500 plus the costs of prosecution.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(d)</num>
         <heading>Damages.</heading>
         <text>In addition to any other penalty provided by this Ordinance or other law, the Tribe shall have the right of recovery from any responsible persons of any expense incurred by the Tribe for penalties due to the violation of this Ordinance or other law, correction of conditions impairing the proper operation of the sewer system and the repair or replacement of any sewer pipe or other property of the sewer system damaged in any manner by any negligent or intended act or emission by such person by others under their control.</text>

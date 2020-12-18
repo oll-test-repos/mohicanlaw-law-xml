@@ -351,13 +351,13 @@
       <num>EMP.01.08</num>
       <para>
         <num>(a)</num>
-        <text>Any person desiring to act as a business agent on Stockbridge-Munsee Tribal lands shall first obtain and continue to be eligible to maintain a gaming license pursuant to the gaming license requirements, and in accordance with other gaming license provisions in Chapter 25.</text>
+        <text>Any person desiring to act as a business agent on Stockbridge-Munsee Tribal lands shall first obtain and continue to be eligible to maintain a gaming license pursuant to the gaming license requirements, and in accordance with other gaming license provisions in <cite path="GMG|GMG.01">Chapter GMG.01</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
         <text>Any agreement between any labor organization and an employer that violates the rights of employees guaranteed by the provisions of this Ordinance is against the public policy of the Tribe, is void and has no legal effect.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
         <heading>Violations.</heading>
         <text>It shall be a violation for any person to:</text>
@@ -403,7 +403,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Fine any person who, directly or indirectly, violates any provision of this Ordinance shall be subject to a fine not exceeding $1,000.00, or exclusion from Stockbridge-Munsee Tribal lands, or both.</text>
+          <text>Fine any person who, directly or indirectly, violates any provision of this Ordinance shall be subject to a fine not exceeding $1,<cite path="§000.00">000.00</cite>, or exclusion from Stockbridge-Munsee Tribal lands, or both.</text>
         </para>
       </para>
       <annotation type="Prior Codifications">§EMP.01.08 was formerly codified as §53.6</annotation>
@@ -414,7 +414,9 @@
       <text>If any part, portion, or section of this Ordinance is found to be illegal or invalid by a court of competent jurisdiction, the remaining provisions of this Ordinance shall remain in full force and effect and shall remain unaffected.</text>
       <annotation type="Prior Codifications">§EMP.01.09 was formerly codified as §53.7</annotation>
     </section>
-    <text>Preamble</text>
+    <text>
+      <strong>Preamble</strong>
+    </text>
     <text>The Stockbridge-Munsee Tribe is firmly committed to the principal of tribal self-government. Consistent with federal policy, tribal government provides a wide range of public services, including general governmental services, the maintenance of peace and good order, and the promotion and regulation of economic activities within the sovereign jurisdiction of the tribe. Pursuant to the inherent sovereign powers of the Tribe and the powers expressly delegated to the Tribal Council by the tribal constitution, the tribal government recognizes the need for creating laws to govern and protect its employees, especially where state and federal laws do not apply.</text>
     <annotations>
       <annotation type="Legislative History">
@@ -436,11 +438,11 @@
         </para>
         <para>
           <num>5</num>
-          <text>On July 17, 2007, Tribal Council, by Resolution Number 049-07, created sections <cite path="§EMP.01.02|(b)">Section EMP.01.02(b)</cite>; <cite path="§EMP.01.02|(h)">Section EMP.01.02(h)</cite>; <cite path="§EMP.01.03|(o)">Section EMP.01.03(o)</cite>; <cite path="§EMP.01.08">Section EMP.01.08</cite>; <cite path="§EMP.01.09">Section EMP.01.09</cite>, and <cite path="§53.8" proof="needed">53.8</cite> and amended <cite path="§EMP.01.03|(d)">Section EMP.01.03(d)</cite>.  No reply from BIA in relation to approval.</text>
+          <text>On July 17, 2007, Tribal Council, by Resolution Number 049-07, created sections <cite path="§EMP.01.02|(b)">Section EMP.01.02(b)</cite>; <cite path="§EMP.01.02|(h)">Section EMP.01.02(h)</cite>; <cite path="§EMP.01.03|(o)">Section EMP.01.03(o)</cite>; <cite path="§EMP.01.08">Section EMP.01.08</cite>; <cite path="§EMP.01.09">Section EMP.01.09</cite>, and <cite path="§53.8">53.8</cite> and amended <cite path="§EMP.01.03|(d)">Section EMP.01.03(d)</cite>.  No reply from BIA in relation to approval.</text>
         </para>
         <para>
           <num>6</num>
-          <text>Amendments adopted by Tribal Council on August 17, 2010, by Resolution No. 055-10, amended Sections <cite path="§EMP.01.01">Section EMP.01.01</cite>, <cite path="§EMP.01.02|(e)">Section EMP.01.02(e)</cite>, <cite path="§EMP.01.02|(f)">Section EMP.01.02(f)</cite>, <cite path="§EMP.01.02|(j)">Section EMP.01.02(j)</cite>, <cite path="§EMP.01.03|(e)">Section EMP.01.03(e)</cite>, <cite path="§EMP.01.03|(f)">Section EMP.01.03(f)</cite>, <cite path="§EMP.01.03|(i)">Section EMP.01.03(i)</cite>, <cite path="§EMP.01.03|(j)|(1)">Section EMP.01.03(j)(1)</cite>, <cite path="§EMP.01.03|(l)">Section EMP.01.03(l)</cite>, <cite path="§EMP.01.03|(m)">Section EMP.01.03(m)</cite>, <cite path="§EMP.01.05">Section EMP.01.05</cite>, <cite path="§EMP.01.06">Section EMP.01.06</cite>, and <cite path="§EMP.01.07|(g)">Section EMP.01.07(g)</cite>; created new <cite path="§EMP.01.02|(k)">Section EMP.01.02(k)</cite>; deleted <cite path="§EMP.01.07|(h)">Section EMP.01.07(h)</cite>, and renumbering Sections <cite path="§EMP.01.02|(l)">Section EMP.01.02(l)</cite>-(P) and <cite path="§53.5|(I)" proof="needed">53.5(I)</cite>.  The version forwarded to the BIA for approval included both the 2007 amendments and those adopted in 2010.  Approved by the BIA on April 16, 2012, except for <cite path="§53.8" proof="needed">Section 53.8</cite>.  <cite path="§53.8" proof="needed">Section 53.8</cite>, regarding the need for BIA approval of future amendments, was deleted.</text>
+          <text>Amendments adopted by Tribal Council on August 17, 2010, by Resolution No. 055-10, amended Sections <cite path="§EMP.01.01">Section EMP.01.01</cite>, <cite path="§EMP.01.02|(e)">Section EMP.01.02(e)</cite>, <cite path="§EMP.01.02|(f)">Section EMP.01.02(f)</cite>, <cite path="§EMP.01.02|(j)">Section EMP.01.02(j)</cite>, <cite path="§EMP.01.03|(e)">Section EMP.01.03(e)</cite>, <cite path="§EMP.01.03|(f)">Section EMP.01.03(f)</cite>, <cite path="§EMP.01.03|(i)">Section EMP.01.03(i)</cite>, <cite path="§EMP.01.03|(j)|(1)">Section EMP.01.03(j)(1)</cite>, <cite path="§EMP.01.03|(l)">Section EMP.01.03(l)</cite>, <cite path="§EMP.01.03|(m)">Section EMP.01.03(m)</cite>, <cite path="§EMP.01.05">Section EMP.01.05</cite>, <cite path="§EMP.01.06">Section EMP.01.06</cite>, and <cite path="§EMP.01.07|(g)">Section EMP.01.07(g)</cite>; created new <cite path="§EMP.01.02|(k)">Section EMP.01.02(k)</cite>; deleted <cite path="§EMP.01.07|(h)">Section EMP.01.07(h)</cite>, and renumbering Sections <cite path="§EMP.01.02|(l)">Section EMP.01.02(l)</cite>-(P) and <cite path="§53.5|(I)">53.5(I)</cite>.  The version forwarded to the BIA for approval included both the 2007 amendments and those adopted in 2010.  Approved by the BIA on April 16, 2012, except for <cite path="§53.8">Section 53.8</cite>.  <cite path="§53.8">Section 53.8</cite>, regarding the need for BIA approval of future amendments, was deleted.</text>
         </para>
       </annotation>
     </annotations>
@@ -458,7 +460,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>This ordinance is authorized under Article VII of the Stockbridge-Munsee Constitution and inherent tribal authority, which grants the Tribal Council power over governmental and economic operations.</text>
+        <text>This ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII">Article VII of the Stockbridge-Munsee Constitution</cite> and inherent tribal authority, which grants the Tribal Council power over governmental and economic operations.</text>
       </para>
       <annotation type="Prior Codifications">§EMP.02.01 was formerly codified as §54.05</annotation>
     </section>
@@ -652,7 +654,7 @@
         </para>
         <para>
           <num>3</num>
-          <text>On May 4, 2004, by Resolution 019-04, Tribal Council amended the Purpose section, deleted Section 54.(H) [Other Indian], <cite path="§54.3|(A)|(4)" proof="needed">54.3(A)(4)</cite> [Other Indian] to remove "other Indian" as a preference category and to amended the Purpose section and <cite path="§EMP.02.04|(a)">Section EMP.02.04(a)</cite> to clarify that preference is to be applied only in hiring and layoff situations.  BIA approval, May 27, 2004.</text>
+          <text>On May 4, 2004, by Resolution 019-04, Tribal Council amended the Purpose section, deleted Section 54.(H) [Other Indian], <cite path="§54.3|(A)|(4)">54.3(A)(4)</cite> [Other Indian] to remove "other Indian" as a preference category and to amended the Purpose section and <cite path="§EMP.02.04|(a)">Section EMP.02.04(a)</cite> to clarify that preference is to be applied only in hiring and layoff situations.  BIA approval, May 27, 2004.</text>
         </para>
         <para>
           <num>4</num>
@@ -812,15 +814,15 @@
       <text>Exempt employees are defined as follows:</text>
       <para>
         <num>(a)</num>
-        <text>An<strong> executive employee</strong> is paid at least $360.00 per week; their primary duty is management of the enterprise in which employed, or of a customary recognized department or sub-division thereof and supervises two or more employees; the customary and regular direction of the work of two or more other employees in the establishment or department. Primary duty is defined as 50% or more of their time.</text>
+        <text>An<strong> executive employee</strong> is paid at least $<cite path="§360.00">360.00</cite> per week; their primary duty is management of the enterprise in which employed, or of a customary recognized department or sub-division thereof and supervises two or more employees; the customary and regular direction of the work of two or more other employees in the establishment or department. Primary duty is defined as 50% or more of their time.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>An <strong>administrative employee</strong> is paid at least $360.00 per week and the primary duty is the performance of office or non-manual work directly related to management policies or general businesses operations of their employer or their employer's customers and such duty includes work requiring the exercise of discretion and independent judgement. Primary duty is defined as 50% or more of their time.</text>
+        <text>An <strong>administrative employee</strong> is paid at least $<cite path="§360.00">360.00</cite> per week and the primary duty is the performance of office or non-manual work directly related to management policies or general businesses operations of their employer or their employer's customers and such duty includes work requiring the exercise of discretion and independent judgement. Primary duty is defined as 50% or more of their time.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>A <strong>professional employee</strong> is paid at least $360.00 per week.  Their primary duty consists of the performance of work either requiring knowledge of an advanced type in a field of science or learning, or teaching, including work that requires the consistent exercise of discretion, judgment or the primary duty consists of the performance of work in a recognized field of artistic endeavor, including work that requires invention, imagination or talent.</text>
+        <text>A <strong>professional employee</strong> is paid at least $<cite path="§360.00">360.00</cite> per week.  Their primary duty consists of the performance of work either requiring knowledge of an advanced type in a field of science or learning, or teaching, including work that requires the consistent exercise of discretion, judgment or the primary duty consists of the performance of work in a recognized field of artistic endeavor, including work that requires invention, imagination or talent.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1157,7 +1159,7 @@
           </para>
           <para>
             <num>(C)</num>
-            <text>Any payments to or on account of a minor dependent or beneficiary collected under <cite path="52.3" proof="needed">this chapter</cite> terminate when such child reaches 18 years of age, unless the child is a dependent invalid child or is under 25 years of age and enrolled full-time at an accredited school.</text>
+            <text>Any payments to or on account of a minor dependent or beneficiary collected under <cite path="52.3">this chapter</cite> terminate when such child reaches 18 years of age, unless the child is a dependent invalid child or is under 25 years of age and enrolled full-time at an accredited school.</text>
             <para>
               <num>(i)</num>
               <text>If enrolled full-time in school, payments terminate when such child reaches 25 years of age or ceases to be a full-time student, whichever occurs first.</text>
@@ -1273,7 +1275,7 @@
     <section>
       <heading>Worker'S Compensation Claims Procedure</heading>
       <num>EMP.04.06</num>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Claim.</heading>
         <text>If the worker feels that he or she is eligible for benefits under this Ordinance, the worker shall file a written request for benefits with the insurer.</text>
@@ -1290,14 +1292,14 @@
           <text>To limit the effect of any intervening events, the worker must receive medical treatment within 30 days of the accident or the claim shall be barred.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
         <heading>Investigation.</heading>
         <text>After receiving an application for compensation, the insurer shall promptly investigate the reported injury and administer valid claims for compensation arising from the reported injury.  The insurer shall develop a written record of the claim.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
-        <text><u>Compensation Determination</u>.</text>
+        <heading>Compensation Determination.</heading>
         <para>
           <num>(1)</num>
           <text>The insurer shall conduct an initial investigation promptly, so that a preliminary decision is made as to whether the worker shall receive compensation.  In claims where compensation is payable, the insurer shall make the first payment thereof within 14 days after receipt of the claim.  This preliminary decision is not a binding determination of any obligations for compensation.</text>
@@ -1315,7 +1317,7 @@
           <text>If the worker is eligible to receive mileage for transportation expenses related to medical examination or treatment, the mileage rate shall be based on the federal mileage rate in effect at that time.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(d)</num>
         <heading>Communication with Employer.</heading>
         <text>The worker shall maintain contact with his or her employer throughout the worker's compensation process.  This includes providing all required notices and documents, as well as regular updates on the worker's condition and prognosis.</text>
@@ -1329,7 +1331,7 @@
     <section>
       <heading>Medical Care And Examination For Claims</heading>
       <num>EMP.04.07</num>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Employer Directed Medical.</heading>
         <text>Employer shall furnish reasonable medical services and supplies to treat injured workers, but the employer may designate the medical care providers from whom the worker shall seek treatment for injuries under this Ordinance.</text>
@@ -1362,7 +1364,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
         <heading>Reasonable Examination.</heading>
         <text>Whenever a worker makes a claim for compensation, the worker shall submit to reasonable, additional examinations by physicians, chiropractors, psychologists, podiatrists, or vocational experts that are provided and paid for by the employer or insurer upon written request of that party.</text>
@@ -1391,7 +1393,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
         <heading>Refusal.</heading>
         <text>If the worker, after a written request of the employer or insurer, refuses to submit to or in any way obstructs medical examinations, treatment, or rehabilitation (other than surgery that may endanger life or limb), the worker's right to begin or maintain any proceeding to receive worker's compensation is suspended, unless it is shown that the request is unreasonable.</text>
@@ -1400,7 +1402,7 @@
           <text>A worker who fails to comply with reasonable restrictions identified by his or her health care provider will be viewed as obstructing the treatment process.  The worker will not be eligible for further worker's compensation benefits; provided that the worker has received notice of the restrictions and there is documented evidence that a worker has engaged in activities in violation of these restrictions on two (2) or more occasions.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(d)</num>
         <heading>Testimony.</heading>
         <text>Any physician, chiropractor, psychologist, podiatrist or vocational expert who is present at any examination under subsection (B) or attended to a worker for any condition or complaint reasonably related to the condition for which the worker claims compensation:</text>
@@ -1413,12 +1415,12 @@
           <text>May be required to furnish information and reports, relative to the claim, to the worker, employer or insurer.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(e)</num>
         <heading>Privilege Waived.</heading>
         <text>A worker, who reports an injury alleged to be work-related or files an application for a hearing, waives all doctor-patient privilege with respect to any condition or complaint reasonably related to the condition for which the worker claims compensation.  Any physician, chiropractor, psychologist, podiatrist, dentist, hospital, or health care provider shall, within a reasonable time after written request, provide the worker, employer, or insurer with any information or written material reasonably related to any injury for which the worker claims compensation.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(f)</num>
         <heading>Medical Excuse from Work.</heading>
         <text>To receive leave from work and benefits for lost wages under this Ordinance, a worker must provide his or her employer with a written excuse from an authorized health care provider that excuses the worker from reporting to work.  If the worker is released for work in a restricted capacity, the worker shall provide his or her employer with a written excuse from an authorized health care provider that describes the worker's restrictions.  A copy of the written excuse must be provided to the employer the next work day after the appointment.</text>
@@ -1538,10 +1540,10 @@
     <section>
       <heading>Dispute Resolution Procedures</heading>
       <num>EMP.04.13</num>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Application.</heading>
-        <text>Any party to a worker's compensation claim can initiate dispute resolution by filing a written petition for dispute resolution with the Mohican Nation Insurance Department of the Stockbridge-Munsee Community within 30 days of the insurer's initial decision regarding a claim.  Parties are allowed a 5 day grace period for filing this petition.  A filing fee of $25.00 must be submitted with the petition.</text>
+        <text>Any party to a worker's compensation claim can initiate dispute resolution by filing a written petition for dispute resolution with the Mohican Nation Insurance Department of the Stockbridge-Munsee Community within 30 days of the insurer's initial decision regarding a claim.  Parties are allowed a 5 day grace period for filing this petition.  A filing fee of $<cite path="§25.00">25.00</cite> must be submitted with the petition.</text>
         <para>
           <num>(1)</num>
           <text>The petition may be in any written format and shall at least contain the following:</text>
@@ -1575,12 +1577,12 @@
           <text>The ALJ may bring in additional parties by service of a copy of the petition, if necessary.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
         <heading>Answer.</heading>
         <text>The respondent shall file an answer to the petition for dispute resolution within 20 days.  The answer shall also be filed with the Mohican Nation Insurance Department and a copy served on the petitioner and provided to all other parties in interest.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
         <heading>Dismissal.</heading>
         <text>The ALJ may dismiss the petition for dispute resolution, if:</text>
@@ -1593,12 +1595,12 @@
           <text>review of the petition and answer indicate that the petition is groundless.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(d)</num>
         <heading>Notice.</heading>
         <text>If dispute resolution proceedings are appropriate, the ALJ shall schedule a hearing based on the petition and provide notice of the hearing to each interested party, by serving such notice on the interested party personally or by mailing a copy to the interested party's last-known address at least 10 days before such hearing.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(e)</num>
         <heading>Hearing.</heading>
         <text>The parties shall have a full, fair hearing on the merits of the dispute.</text>
@@ -1611,37 +1613,37 @@
           <text>If a hearing is required, the ALJ shall schedule an initial informal conference to discuss preliminary matters with the parties, including scheduling, motions, and discovery within 30 days after the respondent's answer is filed.  The hearing shall be scheduled no later than 30 days following this conference, except that this time may be extended for an additional 30 days upon a finding of good cause.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(f)</num>
         <heading>Record.</heading>
         <text>The ALJ shall develop and maintain a full record of dispute resolution proceedings.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(g)</num>
         <heading>Participation.</heading>
         <text>All parties concerned have the right to be present at any hearing, in person or by attorney or other agent, and to present such testimony as may be pertinent to the controversy before the ALJ.  Participation via telephone will be allowed upon the ALJ's discretion.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(h)</num>
         <heading>Burden of Proof.</heading>
         <text>The petitioner has the burden of proof to establish his or her claim beyond a legitimate doubt.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(i)</num>
         <heading>Subpoena.</heading>
         <text>Any party, including the ALJ, may issue a subpoena to compel the attendance of a witness or the production of evidence at the hearing by service of a subpoena upon the person, along with a tender of witness fees.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(j)</num>
         <heading>Evidence.</heading>
         <text>The parties have a right to present relevant evidence regarding the disputed claim. Opposing parties have the right to cross-examine persons testifying as to such evidence and present information to question such evidence.  The ALJ shall take care to ensure that the evidence presented is credible.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(k)</num>
         <heading>Medical Evidence.</heading>
         <text>The contents of certified medical reports by licensed practitioners, who have examined or treated the worker, may be used as prima facie evidence regarding the matter contained in them, instead of requiring the practitioner to testify in person.  The ALJ may not admit into evidence a certified report that was not filed with the ALJ and all parties in interest at least 10 days before the date of the hearing, unless the ALJ is satisfied that there is good cause for the failure to timely file the report.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(l)</num>
         <heading>Independent Evidence.</heading>
         <text>The ALJ may, with or without notice to any party, cause testimony to be taken, an inspection of the premises where the injury occurred to be made, the time books and payrolls of the employer to be examined, or may direct any worker claiming compensation to be examined by an independent doctor, if such information is needed to resolve the dispute.</text>
@@ -1658,12 +1660,12 @@
           <text>The expense of such examination shall be paid out of the ALJ's budget.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(m)</num>
         <heading>Time Limitations.</heading>
         <text>The right to proceed in dispute resolution shall not extend beyond 4 years from the date of the injury or the date that compensation, other than treatment or burial expenses, was last paid.  Payment of wages by the employer, during disability or absence from work to obtain treatment, shall be deemed payment of compensation for the purpose of this Section, if the employer knew of the worker's condition and its alleged relation to the employment.</text>
       </para>
-      <para>
+      <para proof="needed">
         <num>(n)</num>
         <heading>Expense Statement.</heading>
         <text>Unless otherwise agreed to by all parties, an injured worker shall file with the ALJ and serve on all parties, at least 10 days before the date of the hearing, an itemized statement of all expenses claimed by the injured worker.</text>
@@ -1786,7 +1788,7 @@
     <section>
       <heading>Disability Benefits</heading>
       <num>EMP.04.18</num>
-      <para>
+      <para proof="needed">
         <num>(a)</num>
         <heading>Definitions.</heading>
         <text>As used in this Ordinance:</text>
@@ -1815,7 +1817,7 @@
           </para>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(b)</num>
         <heading>Rates.</heading>
         <text>Compensation rates are based on a worker's "average weekly wage," which is the wage rate in effect at the time of the injury.  The average weekly wage is used to calculate the worker's wage loss and applicable disability benefits.</text>
@@ -1832,14 +1834,13 @@
           <text>The average annual earnings for this Ordinance shall consist of fifty (50) times the worker's average weekly wage.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(c)</num>
         <heading>Compensation.</heading>
         <text>Benefits shall be due starting after the third day of disability, excluding Sundays unless the employee regularly works Sundays.  If the disability exists beyond 7 days, the employee may receive benefits for the first 3 days.</text>
         <para>
           <num>(1)</num>
-          <heading>Temporary Total Disability.</heading>
-          <text>If the injury causes temporary total disability, the worker shall receive temporary total disability benefits.  These benefits are two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
+          <text>Temporary Total Disability.  If the injury causes temporary total disability, the worker shall receive temporary total disability benefits.  These benefits are two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
           <para>
             <num>(A)</num>
             <text>There is no limitation on the number of weeks that a worker can receive temporary disability benefits, unless limited elsewhere in this Ordinance.</text>
@@ -1867,8 +1868,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <heading>Temporary Partial Disability.</heading>
-          <text>If the injury causes temporary partial disability, the worker shall receive such proportion of temporary total disability benefits as the actual wage loss of the worker bears to the worker's average weekly wage at the time of the injury.</text>
+          <text>Temporary Partial Disability.  If the injury causes temporary partial disability, the worker shall receive such proportion of temporary total disability benefits as the actual wage loss of the worker bears to the worker's average weekly wage at the time of the injury.</text>
           <para>
             <num>(A)</num>
             <text>Benefits are subject to the maximum and minimum amounts discussed in subsection (B)(1) of this Section.</text>
@@ -1908,8 +1908,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <heading>Permanent Total Disability.</heading>
-          <text>If there is total physical impairment, the permanent total disability benefit rate is the same as that for temporary total disability or two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
+          <text>Permanent Total Disability.  If there is total physical impairment, the permanent total disability benefit rate is the same as that for temporary total disability or two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
           <para>
             <num>(A)</num>
             <text>The worker may be eligible for a supplemental benefit to the permanent total disability benefit of up to $233 per week.  Eligibility for and amount of such a supplemental benefit is described in <strong><cite doc="Wis. Stat." path="§102.44">Wis. Stat. § 102.44</cite> (1)</strong>.</text>
@@ -1921,11 +1920,10 @@
         </para>
         <para>
           <num>(5)</num>
-          <heading>Permanent Partial Disability.</heading>
-          <text>If the permanent effects result in less than total impairment, permanent partial disability benefits are paid at the rate of two-thirds of the average weekly wage for the period provided in the permanent partial disability schedule.  These amounts are subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
+          <text>Permanent Partial Disability.  If the permanent effects result in less than total impairment, permanent partial disability benefits are paid at the rate of two-thirds of the average weekly wage for the period provided in the permanent partial disability schedule.  These amounts are subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
           <para>
             <num>(A)</num>
-            <text>The permanent partial disability schedule sets out the number of weeks that a worker receives further benefits at the end of the healing period.  The time periods in the schedule vary depending on the location and degree of the permanent effects.  The schedule can be found in <strong><cite doc="Wis. Stat." path="§102.52">Wis. Stat. § 102.52</cite></strong>.  The application of the permanent partial disability schedule is discussed in <strong>Wis. Stat. §<cite doc="Wis. Stat." path="§102.53" proof="needed">§ 102.53</cite> to <cite doc="Wis. Stat." path="§102.56" proof="needed">102.56</cite></strong>.</text>
+            <text>The permanent partial disability schedule sets out the number of weeks that a worker receives further benefits at the end of the healing period.  The time periods in the schedule vary depending on the location and degree of the permanent effects.  The schedule can be found in <strong><cite doc="Wis. Stat." path="§102.52">Wis. Stat. § 102.52</cite></strong>.  The application of the permanent partial disability schedule is discussed in <strong>Wis. Stat. §<cite path="§102.53">§ 102.53</cite> to <cite path="§102.56">102.56</cite></strong>.</text>
           </para>
           <para>
             <num>(B)</num>
@@ -1938,8 +1936,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <heading>Mental Injury.</heading>
-          <text>Benefits for mental injuries shall be paid for a maximum of two (2) years at the rate of two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
+          <text>Mental Injury.  Benefits for mental injuries shall be paid for a maximum of two (2) years at the rate of two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in subsection (B) (1) of this Section.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -1970,10 +1967,10 @@
           <text>If the disability period involves a fractional week, compensation shall be paid for each day of such week, except Sundays only, at the rate of one-sixth of the weekly compensation.</text>
         </para>
       </para>
-      <para>
+      <para proof="needed">
         <num>(d)</num>
         <heading>Burial Expenses.</heading>
-        <text>In cases where death of the worker proximately results from the injury, reasonable burial expenses shall be paid, not exceeding $6,000.00.</text>
+        <text>In cases where death of the worker proximately results from the injury, reasonable burial expenses shall be paid, not exceeding $6,<cite path="§000.00">000.00</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§EMP.04.18 was formerly codified as §52.18</annotation>
     </section>
@@ -2116,11 +2113,11 @@
           <num>3</num>
           <text>On February 21, 2006, Tribal Council by Resolution No. 026-06 made several changes:</text>
           <text>creating Sections <cite path="§EMP.04.02|(h)|(2)">Section EMP.04.02(h)(2)</cite>; <cite path="§EMP.04.02|(h)|(5)">Section EMP.04.02(h)(5)</cite>; <cite path="§EMP.04.06|(a)|(3)">Section EMP.04.06(a)(3)</cite>; <cite path="§EMP.04.06|(c)|(4)">Section EMP.04.06(c)(4)</cite>; <cite path="§EMP.04.06|(d)">Section EMP.04.06(d)</cite>; <cite path="§EMP.04.07|(b)|(3)">Section EMP.04.07(b)(3)</cite>; <cite path="§EMP.04.07|(c)|(1)">Section EMP.04.07(c)(1)</cite>; <cite path="§EMP.04.07|(f)">Section EMP.04.07(f)</cite>; <cite path="§EMP.04.08|(a)|(1)">Section EMP.04.08(a)(1)</cite>; <cite path="§EMP.04.18|(c)|(1)|(C)">Section EMP.04.18(c)(1)(C)</cite>; <cite path="§EMP.04.18|(c)|(2)|(E)">Section EMP.04.18(c)(2)(E)</cite>; <cite path="§EMP.04.19|(e)">Section EMP.04.19(e)</cite>; and <cite path="§EMP.04.19|(f)">Section EMP.04.19(f)</cite>;</text>
-          <text>amending Sections <cite path="§EMP.04.02|(h)">Section EMP.04.02(h)</cite>; <cite path="§EMP.04.02|(j)|(2)">Section EMP.04.02(j)(2)</cite>; <cite path="§EMP.04.07|(c)">Section EMP.04.07(c)</cite>; <cite path="§EMP.04.13|(a)">Section EMP.04.13(a)</cite>; <cite path="§EMP.04.13|(e)|(2)">Section EMP.04.13(e)(2)</cite>; <cite path="§EMP.04.18|(c)|(1)|(B)">Section EMP.04.18(c)(1)(B)</cite>; <cite path="§EMP.04.18|(c)|(4)|(A)">Section EMP.04.18(c)(4)(A)</cite>; <cite path="§EMP.04.19|(b)">Section EMP.04.19(b)</cite>; and <cite path="§EMP.04.19|(c)">Section EMP.04.19(c)</cite>; moving Sections <cite path="§52.2|(J)" proof="needed">52.2(J)</cite> to be <cite path="§EMP.04.02|(h)|(3)">Section EMP.04.02(h)(3)</cite>; and <cite path="§52.9|(C)" proof="needed">52.9(C)</cite> to be <cite path="§EMP.04.08|(c)">Section EMP.04.08(c)</cite>; and making technical changes to Sections <cite path="§EMP.04.02|(g)">Section EMP.04.02(g)</cite>; <cite path="§EMP.04.02|(k)">Section EMP.04.02(k)</cite>; <cite path="§EMP.04.03|(b)">Section EMP.04.03(b)</cite>; <cite path="§EMP.04.04|(b)">Section EMP.04.04(b)</cite>; <cite path="§EMP.04.04|(e)">Section EMP.04.04(e)</cite>; <cite path="§52.5|(A)|(B)|(C)" proof="needed">52.5(A)(B)(C)</cite>; <cite path="§EMP.04.06|(a)|(1)">Section EMP.04.06(a)(1)</cite>; <cite path="§EMP.04.06|(b)">Section EMP.04.06(b)</cite>; <cite path="§EMP.04.06|(c)|(2)">Section EMP.04.06(c)(2)</cite>; <cite path="§EMP.04.07|(a)">Section EMP.04.07(a)</cite>; <cite path="§EMP.04.09|(b)">Section EMP.04.09(b)</cite>; <cite path="§EMP.04.12|(a)">Section EMP.04.12(a)</cite>; <cite path="§EMP.04.13|(g)">Section EMP.04.13(g)</cite>; <cite path="§EMP.04.15|(b)">Section EMP.04.15(b)</cite>; <cite path="§EMP.04.18|(a)">Section EMP.04.18(a)</cite>; <cite path="§EMP.04.18|(b)">Section EMP.04.18(b)</cite>; <cite path="§EMP.04.18|(c)|(1)">Section EMP.04.18(c)(1)</cite>; <cite path="§EMP.04.18|(c)|(2)">Section EMP.04.18(c)(2)</cite>; <cite path="§EMP.04.18|(c)|(3)">Section EMP.04.18(c)(3)</cite>; <cite path="§EMP.04.18|(c)|(5)|(B)">Section EMP.04.18(c)(5)(B)</cite>; <cite path="§52.18|(C)|(7)|(a)|(b)" proof="needed">52.18(C)(7)(a)(b)</cite>; <cite path="§EMP.04.18|(d)">Section EMP.04.18(d)</cite>; <cite path="§EMP.04.19|(d)">Section EMP.04.19(d)</cite>; <cite path="§EMP.04.20|(a)">Section EMP.04.20(a)</cite>; and <cite path="§EMP.04.20|(b)">Section EMP.04.20(b)</cite>.  Approved by BIA on April 10, 2006.</text>
+          <text>amending Sections <cite path="§EMP.04.02|(h)">Section EMP.04.02(h)</cite>; <cite path="§EMP.04.02|(j)|(2)">Section EMP.04.02(j)(2)</cite>; <cite path="§EMP.04.07|(c)">Section EMP.04.07(c)</cite>; <cite path="§EMP.04.13|(a)">Section EMP.04.13(a)</cite>; <cite path="§EMP.04.13|(e)|(2)">Section EMP.04.13(e)(2)</cite>; <cite path="§EMP.04.18|(c)|(1)|(B)">Section EMP.04.18(c)(1)(B)</cite>; <cite path="§EMP.04.18|(c)|(4)|(A)">Section EMP.04.18(c)(4)(A)</cite>; <cite path="§EMP.04.19|(b)">Section EMP.04.19(b)</cite>; and <cite path="§EMP.04.19|(c)">Section EMP.04.19(c)</cite>; moving Sections <cite path="§52.2|(J)">52.2(J)</cite> to be <cite path="§EMP.04.02|(h)|(3)">Section EMP.04.02(h)(3)</cite>; and <cite path="§52.9|(C)">52.9(C)</cite> to be <cite path="§EMP.04.08|(c)">Section EMP.04.08(c)</cite>; and making technical changes to Sections <cite path="§EMP.04.02|(g)">Section EMP.04.02(g)</cite>; <cite path="§EMP.04.02|(k)">Section EMP.04.02(k)</cite>; <cite path="§EMP.04.03|(b)">Section EMP.04.03(b)</cite>; <cite path="§EMP.04.04|(b)">Section EMP.04.04(b)</cite>; <cite path="§EMP.04.04|(e)">Section EMP.04.04(e)</cite>; <cite path="§52.5|(A)|(B)|(C)">52.5(A)(B)(C)</cite>; <cite path="§EMP.04.06|(a)|(1)">Section EMP.04.06(a)(1)</cite>; <cite path="§EMP.04.06|(b)">Section EMP.04.06(b)</cite>; <cite path="§EMP.04.06|(c)|(2)">Section EMP.04.06(c)(2)</cite>; <cite path="§EMP.04.07|(a)">Section EMP.04.07(a)</cite>; <cite path="§EMP.04.09|(b)">Section EMP.04.09(b)</cite>; <cite path="§EMP.04.12|(a)">Section EMP.04.12(a)</cite>; <cite path="§EMP.04.13|(g)">Section EMP.04.13(g)</cite>; <cite path="§EMP.04.15|(b)">Section EMP.04.15(b)</cite>; <cite path="§EMP.04.18|(a)">Section EMP.04.18(a)</cite>; <cite path="§EMP.04.18|(b)">Section EMP.04.18(b)</cite>; <cite path="§EMP.04.18|(c)|(1)">Section EMP.04.18(c)(1)</cite>; <cite path="§EMP.04.18|(c)|(2)">Section EMP.04.18(c)(2)</cite>; <cite path="§EMP.04.18|(c)|(3)">Section EMP.04.18(c)(3)</cite>; <cite path="§EMP.04.18|(c)|(5)|(B)">Section EMP.04.18(c)(5)(B)</cite>; <cite path="§52.18|(C)|(7)|(a)|(b)">52.18(C)(7)(a)(b)</cite>; <cite path="§EMP.04.18|(d)">Section EMP.04.18(d)</cite>; <cite path="§EMP.04.19|(d)">Section EMP.04.19(d)</cite>; <cite path="§EMP.04.20|(a)">Section EMP.04.20(a)</cite>; and <cite path="§EMP.04.20|(b)">Section EMP.04.20(b)</cite>.  Approved by BIA on April 10, 2006.</text>
         </para>
         <para>
           <num>4</num>
-          <text>Amendments adopted by Tribal Council on May 7, 2013, by Resolution No. 049-13, are creating a new <cite path="§EMP.04.02|(k)|(4)">Section EMP.04.02(k)(4)</cite> and amending <cite path="§52.11|(B)|(1-3)" proof="needed">Section 52.11 (B)(1-3)</cite>.  Approved by the BIA on February 10, 2015.</text>
+          <text>Amendments adopted by Tribal Council on May 7, 2013, by Resolution No. 049-13, are creating a new <cite path="§EMP.04.02|(k)|(4)">Section EMP.04.02(k)(4)</cite> and amending <cite path="§52.11|(B)|(1-3)">Section 52.11 (B)(1-3)</cite>.  Approved by the BIA on February 10, 2015.</text>
         </para>
       </annotation>
     </annotations>
@@ -2235,8 +2232,7 @@
       <num>EMP.05.05</num>
       <para>
         <num>(a)</num>
-        <heading>Payment of Prevailing Wages.</heading>
-        <text>Each contractor/employer, including the Tribe, when performing under an agreement pursuant to Acts or an agreement designated by Council, shall pay the established Prevailing Wage, and shall maintain payroll records reporting the hourly wages paid to each employee.</text>
+        <text>Payment of Prevailing Wages.  Each contractor/employer, including the Tribe, when performing under an agreement pursuant to Acts or an agreement designated by Council, shall pay the established Prevailing Wage, and shall maintain payroll records reporting the hourly wages paid to each employee.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2244,8 +2240,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <heading>Posting of Prevailing Wage.</heading>
-        <text>Each contractor/employer, while performing under an Agreement, pursuant to an Act, shall:</text>
+        <text>Posting of Prevailing Wage.  Each contractor/employer, while performing under an Agreement, pursuant to an Act, shall:</text>
         <para>
           <num>(1)</num>
           <text>Post in a conspicuous location site the current established Prevailing Wage,</text>
@@ -2257,8 +2252,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <heading>Payments withheld.</heading>
-        <text>In addition to the remedies available in Section 55-A.5, the Tribe, has the authority to withhold payment to contractors/employers if the Tribe in good faith believes that an contractor/employer is not complying with any provision of this Ordinance.</text>
+        <text>Payments withheld.  In addition to the remedies available in Section 55-A.5, the Tribe, has the authority to withhold payment to contractors/employers if the Tribe in good faith believes that an contractor/employer is not complying with any provision of this Ordinance.</text>
       </para>
       <annotation type="Prior Codifications">§EMP.05.05 was formerly codified as §55-A.4</annotation>
     </section>
@@ -2318,7 +2312,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>For any other violations, the Court may order any of the remedies from 55-A.5(D)(1)(b)(c)(d) or impose fines and interest not to exceed $500.00 per day.</text>
+          <text>For any other violations, the Court may order any of the remedies from 55-A.5(D)(1)(b)(c)(d) or impose fines and interest not to exceed $<cite path="§500.00">500.00</cite> per day.</text>
         </para>
       </para>
       <para>
