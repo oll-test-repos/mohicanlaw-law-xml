@@ -2870,9 +2870,7 @@
         <heading>Purpose</heading>
         <para>
           <num>(a)</num>
-          <text>The following title shall hereinafter be referred to as the Probate Code. The</text>
-          <text>objective of the Probate Code is to provide for the exercise of the greatest possible tribal</text>
-          <text>jurisdiction over the probate of the estate of decedents who were domiciled or owned real or personal property on the Stockbridge-Munsee Community Indian Reservation. The Stockbridge-Munsee Tribal Council finds that probate procedure in the Stockbridge-Munsee Tribal Court is in the best interest of tribal members in that probate may be concluded more economically and more expeditiously than by other jurisdictions.  Furthermore, the determination of how property is disposed upon a person's death is an exercise of self-governance crucial to tribal sovereignty.</text>
+          <text>The following title shall hereinafter be referred to as the Probate Code. The objective of the Probate Code is to provide for the exercise of the greatest possible tribal jurisdiction over the probate of the estate of decedents who were domiciled or owned real or personal property on the Stockbridge-Munsee Community Indian Reservation. The Stockbridge-Munsee Tribal Council finds that probate procedure in the Stockbridge-Munsee Tribal Court is in the best interest of tribal members in that probate may be concluded more economically and more expeditiously than by other jurisdictions.  Furthermore, the determination of how property is disposed upon a person's death is an exercise of self-governance crucial to tribal sovereignty.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3053,9 +3051,7 @@
       <section>
         <heading>Jurisdiction</heading>
         <num>PRP.04.01.03</num>
-        <text>The Tribal Court shall have jurisdiction to administer in probate the estate of a</text>
-        <text>decedent who, at the time of their death, was domiciled or owned real or personal property</text>
-        <text>situated within the Stockbridge-Munsee Community Indian Reservation to the extent that such estate consists of property which does not come within the exclusive jurisdiction of the Secretary of the Interior of the United States.</text>
+        <text>The Tribal Court shall have jurisdiction to administer in probate the estate of a decedent who, at the time of their death, was domiciled or owned real or personal property situated within the Stockbridge-Munsee Community Indian Reservation to the extent that such estate consists of property which does not come within the exclusive jurisdiction of the Secretary of the Interior of the United States.</text>
         <annotation type="Prior Codifications">§PRP.04.01.03 was formerly codified as §6.1.3</annotation>
       </section>
       <section>
@@ -3063,8 +3059,7 @@
         <num>PRP.04.01.04</num>
         <para>
           <num>(a)</num>
-          <text>Control of funeral arrangements and disposition of the remains of the decedent</text>
-          <text>shall be based upon any wishes, instructions or directions of the decedent as expressed in the decedent's will.</text>
+          <text>Control of funeral arrangements and disposition of the remains of the decedent shall be based upon any wishes, instructions or directions of the decedent as expressed in the decedent's will.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3154,9 +3149,7 @@
       <section>
         <heading>Oath Or Affirmation On Filed Documents</heading>
         <num>PRP.04.01.12</num>
-        <text>Except as specifically provided in this Probate Code, every document filed with</text>
-        <text>the Court under this Probate Code shall be deemed to include an oath, affirmation, or</text>
-        <text>statement to the effect that its representations are true as far as the person executing or filing it knows or is informed, and the penalties for perjury shall follow deliberate falsification therein.</text>
+        <text>Except as specifically provided in this Probate Code, every document filed with the Court under this Probate Code shall be deemed to include an oath, affirmation, or statement to the effect that its representations are true as far as the person executing or filing it knows or is informed, and the penalties for perjury shall follow deliberate falsification therein.</text>
         <annotation type="Prior Codifications">§PRP.04.01.12 was formerly codified as §6.1.12</annotation>
       </section>
       <section>
@@ -3293,8 +3286,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>An oral will is also valid under custom if made in the presence of a competent disinterested adult person by a testator who declares at the time that it is his or her wish that their property descend in a specific manner upon the event of the testator's death.</text>
-          <text>"Disinterested" means that the person hearing the oral declaration of testator's intent will not benefit in any way directly or indirectly nor will a spouse or any relative of said disinterested person benefit in any way directly or indirectly.</text>
+          <text>An oral will is also valid under custom if made in the presence of a competent disinterested adult person by a testator who declares at the time that it is his or her wish that their property descend in a specific manner upon the event of the testator's death. "Disinterested" means that the person hearing the oral declaration of testator's intent will not benefit in any way directly or indirectly nor will a spouse or any relative of said disinterested person benefit in any way directly or indirectly.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -3305,20 +3297,76 @@
       <section>
         <heading>Self-Proved Will-Form</heading>
         <num>PRP.04.02.05</num>
-        <text>An attested will may, at the time of its existence or at any subsequent date, be made self- proved, by the acknowledgment thereof by the testator and the affidavits of the witnesses, each made before a notary public or a judge, under official seal, attached or annexed to the will in form and content and substantially as follows:</text>
-        <text>State of _______________</text>
-        <text>County of _____________</text>
-        <text>We,       ,         , and       , the testator and the witnesses, respectively, whose names are signed to the attached and foregoing instrument, being first duly sworn, do hereby declare to the foregoing authority that the testator signed and executed the instrument as the testator's last will and that the testator signed willingly or directed another to sign for the testator, and that the testator executed the instrument as their free and voluntary act for the purposes therein expressed; and that each of the witnesses, in the presence and hearing of the testator, signed the will as witness and that to the best of their knowledge the testator was at the time 18 years or more of age, of sound mind and under no constraint or undue influence.</text>
-        <text>___________________________</text>
-        <text>TESTATOR</text>
-        <text>______________________________	____________________________</text>
-        <text>WITNESS					Address</text>
-        <text>Date:</text>
-        <text>______________________________	____________________________</text>
-        <text>WITNESS					Address</text>
-        <text>Date:</text>
-        <text>Subscribed, sworn to and acknowledged before me by             the testator, and subscribed and sworn to before me by ____________________ and __________________ witnesses, this ____ day of_______________ 19 _____.</text>
-        <text>SIGNED BY JUDGE OR NOTARY</text>
+        <text>
+          <table class="layout-table">
+            <tbody>
+              <tr>
+                <td colspan="3">An attested will may, at the time of its existence or at any subsequent date, be made self- proved, by the acknowledgment thereof by the testator and the affidavits of the witnesses, each made before a notary public or a judge, under official seal, attached or annexed to the will in form and content and substantially as follows:</td>
+              </tr>
+              <tr>
+                <td class="text-indent-5">State of _______________</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-5">County of _____________</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td colspan="3">We, ____, ____, and ____, the testator and the witnesses, respectively, whose names are signed to the attached and foregoing instrument, being first duly sworn, do hereby declare to the foregoing authority that the testator signed and executed the instrument as the testator's last will and that the testator signed willingly or directed another to sign for the testator, and that the testator executed the instrument as their free and voluntary act for the purposes therein expressed; and that each of the witnesses, in the presence and hearing of the testator, signed the will as witness and that to the best of their knowledge the testator was at the time 18 years or more of age, of sound mind and under no constraint or undue influence.</td>
+              </tr>
+              <tr>
+                <td/>
+                <td/>
+                <td>___________________________</td>
+              </tr>
+              <tr>
+                <td/>
+                <td/>
+                <td>TESTATOR</td>
+              </tr>
+              <tr>
+                <td>______________________________</td>
+                <td/>
+                <td>____________________________</td>
+              </tr>
+              <tr>
+                <td>WITNESS</td>
+                <td/>
+                <td>Address</td>
+              </tr>
+              <tr>
+                <td>Date:</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>______________________________</td>
+                <td/>
+                <td>____________________________</td>
+              </tr>
+              <tr>
+                <td>WITNESS</td>
+                <td/>
+                <td>Address</td>
+              </tr>
+              <tr>
+                <td>Date:</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td colspan="3">Subscribed, sworn to and acknowledged before me by _____________ the testator, and subscribed and sworn to before me by ____________________ and __________________ witnesses, this ____ day of_______________ 19 _____.</td>
+              </tr>
+              <tr>
+                <td/>
+                <td/>
+                <td>SIGNED BY JUDGE OR NOTARY</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
         <annotation type="Prior Codifications">§PRP.04.02.05 was formerly codified as §6.2.5</annotation>
       </section>
       <section>
@@ -3330,18 +3378,14 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>A will is not invalidated because signed by an interested witness; but, unless</text>
-          <text>the will is also signed by 2 disinterested witnesses, any beneficial provisions of the will for a witness or the witness' spouse are invalid to the extent that such provisions in the aggregate exceed in value what the witness or spouse would have received had the testator died intestate. Valuation is to be made as of testator's death.</text>
+          <text>A will is not invalidated because signed by an interested witness; but, unless the will is also signed by 2 disinterested witnesses, any beneficial provisions of the will for a witness or the witness' spouse are invalid to the extent that such provisions in the aggregate exceed in value what the witness or spouse would have received had the testator died intestate. Valuation is to be made as of testator's death.</text>
         </para>
         <annotation type="Prior Codifications">§PRP.04.02.06 was formerly codified as §6.2.6</annotation>
       </section>
       <section>
         <heading>Choice Of Law As To Execution</heading>
         <num>PRP.04.02.07</num>
-        <text>A written will is valid if executed in compliance with this Probate Code or if</text>
-        <text>its execution complies with the law at the time of execution of the place where the will is</text>
-        <text>executed, or of the law of the place where at the time of execution or at the time of death of the</text>
-        <text>testator is domiciled, has a place of abode or was a national.</text>
+        <text>A written will is valid if executed in compliance with this Probate Code or if its execution complies with the law at the time of execution of the place where the will is executed, or of the law of the place where at the time of execution or at the time of death of the testator is domiciled, has a place of abode or was a national.</text>
         <annotation type="Prior Codifications">§PRP.04.02.07 was formerly codified as §6.2.7</annotation>
       </section>
       <section>
@@ -3366,8 +3410,7 @@
         <num>PRP.04.02.09</num>
         <para>
           <num>(a)</num>
-          <text>If, after executing a will, the testator is divorced or the testator's marriage is annulled,</text>
-          <text>the divorce or annulment revokes any disposition or appointment of property made by the will to the former spouse, any provision conferring a general or special power of appointment on the former spouse and any nomination of the former spouse as Executor, trustee, conservator, or guardian, unless the will expressly provides otherwise.</text>
+          <text>If, after executing a will, the testator is divorced or the testator's marriage is annulled, the divorce or annulment revokes any disposition or appointment of property made by the will to the former spouse, any provision conferring a general or special power of appointment on the former spouse and any nomination of the former spouse as Executor, trustee, conservator, or guardian, unless the will expressly provides otherwise.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -3502,8 +3545,7 @@
       <section>
         <heading>No Taker</heading>
         <num>PRP.04.03.04</num>
-        <text>If there is no taker under the provisions of <cite path="6.3">this chapter</cite>, the intestate estate passes to</text>
-        <text>the Tribe.</text>
+        <text>If there is no taker under the provisions of <cite path="6.3">this chapter</cite>, the intestate estate passes to the Tribe.</text>
         <annotation type="Prior Codifications">§PRP.04.03.04 was formerly codified as §6.3.4</annotation>
       </section>
       <section>
@@ -3704,9 +3746,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The family allowance is not chargeable against any benefit or share passing to</text>
-          <text>the surviving spouse or children by the will of the decedent unless otherwise provided, by</text>
-          <text>intestate succession, or by way of elective share. The death of any person entitled to family allowance terminates their right to allowances not yet paid.</text>
+          <text>The family allowance is not chargeable against any benefit or share passing to the surviving spouse or children by the will of the decedent unless otherwise provided, by intestate succession, or by way of elective share. The death of any person entitled to family allowance terminates their right to allowances not yet paid.</text>
         </para>
         <annotation type="Prior Codifications">§PRP.04.04.11 was formerly codified as §6.4.11</annotation>
       </section>
@@ -3909,8 +3949,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Notice of the hearing shall be made by the petitioning party or by the clerk if</text>
-          <text>the Tribe is the petitioning party and shall also be posted in a conspicuous place in the Court building.</text>
+          <text>Notice of the hearing shall be made by the petitioning party or by the clerk if the Tribe is the petitioning party and shall also be posted in a conspicuous place in the Court building.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -3946,8 +3985,7 @@
         <num>PRP.04.06.06</num>
         <para>
           <num>(a)</num>
-          <text>Payment to creditors of the decedent shall be made by the Administrator or</text>
-          <text>by the clerk if no Administrator is appointed only upon the order of the Court after determining the validity of the claims by affidavit or personal testimony of the claimant.</text>
+          <text>Payment to creditors of the decedent shall be made by the Administrator or by the clerk if no Administrator is appointed only upon the order of the Court after determining the validity of the claims by affidavit or personal testimony of the claimant.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -4145,9 +4183,13 @@
         <text class="center"><cite path="YAE|YAE.02">Chapter YAE.02</cite>       GUARDIANSHIP</text>
         <annotation type="Prior Codifications">§PRP.04.07.11 was formerly codified as §6.7.11</annotation>
       </section>
+    </container>
+    <container>
+      <prefix>Part</prefix>
+      <num>PRP.04.08</num>
       <section>
         <heading>Definition Of Guardian</heading>
-        <num>PRP.04.07.12</num>
+        <num>PRP.04.08.01</num>
         <para>
           <num>(a)</num>
           <text>A guardian is an adult appointed to take care of the person or property of another. The guardian must exercise the highest standard of care for the ward, and is subject to regulation by the Tribal Court.</text>
@@ -4162,22 +4204,21 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>When a guardian has been appointed by the Court for a child under the age of</text>
-          <text>fourteen (14) years, the child, at any time after the child attains that age, may nominate their own guardian, subject to the approval of the Court. A guardian appointed may as specified by the Court have the custody and care of the education of the child and the care and management of their property until such child arrives at the age of eighteen (18), marries, is emancipated</text>
-          <text>by the Court, or until the guardian is legally discharged, provided, however, that said guardian shall not have the authority, without express written consent of the Court, to dispose of any real or personal property of the child in any manner, including, but not limited to, the child's Individual Indian Money Account and any trust fund account. With respect to a child's trust fund account, the guardian shall be bound by this code and any requirements and provisions of the Tribe's Revenue Allocation Plan.  Said guardian shall also have the authority to consent to the medical care and treatment of the child.</text>
+          <text>When a guardian has been appointed by the Court for a child under the age of fourteen (14) years, the child, at any time after the child attains that age, may nominate their own guardian, subject to the approval of the Court. A guardian appointed may as specified by the Court have the custody and care of the education of the child and the care and management of their property until such child arrives at the age of eighteen (18), marries, is emancipated by the Court, or until the guardian is legally discharged, provided, however, that said guardian shall not have the authority, without express written consent of the Court, to dispose of any real or personal property of the child in any manner, including, but not limited to, the child's Individual Indian Money Account and any trust fund account. With respect to a child's trust fund account, the guardian shall be bound by this code and any requirements and provisions of the Tribe's Revenue Allocation Plan.  Said guardian shall also have the authority to consent to the medical care and treatment of the child.</text>
         </para>
         <para>
           <num>(e)</num>
           <text>The Court may order that the Court disburse monthly reimbursement payments to the person or agency to whom custody is granted under this code, provided sufficient funds have been appropriated by the Tribal council. Said disbursements must be used by the person or agency with custody of the child for the sole purpose of covering expenses incurred in the care and custody of said child and shall not be used for any other purpose. The use of said funds for any purpose other than that described in this section shall subject said person or agency to contempt of Court and to any criminal and civil penalties or remedies provided by the Tribal code.</text>
         </para>
-        <annotation type="Prior Codifications">§PRP.04.07.12 was formerly codified as §6.8.1</annotation>
+        <annotation type="Prior Codifications">§PRP.04.08.01 was formerly codified as §6.8.1</annotation>
       </section>
       <section>
         <heading>How Guardians Are Appointed</heading>
-        <num>PRP.04.07.13</num>
+        <num>PRP.04.08.02</num>
         <para>
           <num>(a)</num>
-          <text>By will.   The last surviving parent or spouse of a minor or mental incompetent may designate in a will the guardian for the minor or mental incompetent. Upon determination by the Court that the will is valid, and that the person designated is willing to accept the responsibilities of guardianship, the Court shall appoint the person designated; provided that for good cause shown, the Court may decline to appoint the person designated.</text>
+          <heading>By will.</heading>
+          <text>The last surviving parent or spouse of a minor or mental incompetent may designate in a will the guardian for the minor or mental incompetent. Upon determination by the Court that the will is valid, and that the person designated is willing to accept the responsibilities of guardianship, the Court shall appoint the person designated; provided that for good cause shown, the Court may decline to appoint the person designated.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -4188,46 +4229,44 @@
           <heading>Hearing.</heading>
           <text>In each case where a guardian is to be appointed, either by will, or by Court appointment, a hearing shall be held following notice to all interested parties.</text>
         </para>
-        <annotation type="Prior Codifications">§PRP.04.07.13 was formerly codified as §6.8.2</annotation>
+        <annotation type="Prior Codifications">§PRP.04.08.02 was formerly codified as §6.8.2</annotation>
       </section>
       <section>
         <heading>Types Of Guardianship</heading>
-        <num>PRP.04.07.14</num>
+        <num>PRP.04.08.03</num>
         <text>The types of guardianship shall include guardianship of property and/or guardianship of the person. Guardianship of the person shall include both temporary guardianship and permanent guardianship.</text>
-        <annotation type="Prior Codifications">§PRP.04.07.14 was formerly codified as §6.8.3</annotation>
+        <annotation type="Prior Codifications">§PRP.04.08.03 was formerly codified as §6.8.3</annotation>
       </section>
       <section>
         <heading>Guardianship Of Property</heading>
-        <num>PRP.04.07.15</num>
+        <num>PRP.04.08.04</num>
         <text>The Court may appoint a guardian of the property of a child or incompetent person under such terms and conditions as the Court sets forth in the written order. The guardianship may cover all property until the child reaches eighteen (18) years of age or until the incompetent person becomes competent or it may be limited to only specific property or a specific legal action as set forth in the written order. A temporary or permanent guardianship of the person may also include guardianship of the child's property if set forth in the written order.</text>
-        <annotation type="Prior Codifications">§PRP.04.07.15 was formerly codified as §6.8.4</annotation>
+        <annotation type="Prior Codifications">§PRP.04.08.04 was formerly codified as §6.8.4</annotation>
       </section>
       <section>
         <heading>Permanent Guardianship</heading>
-        <num>PRP.04.07.16</num>
+        <num>PRP.04.08.05</num>
         <text>The Court may appoint a permanent guardian for the child under such terms and conditions as the Court sets forth in the written order. Permanent guardianship provides for permanent custody of a child to someone other than the parent(s), although there is no termination of the parental rights of the parents. There shall be a presumption of continued permanent guardianship in order to provide stability for the child. Permanent guardianship shall only be terminated based upon the unsuitability of the permanent guardian(s) rather than the competency or suitability of the parent(s). The parent(s') and the child's extended family shall be granted liberal visitation rights unless deemed inappropriate by the Court.</text>
-        <annotation type="Prior Codifications">§PRP.04.07.16 was formerly codified as §6.8.5</annotation>
+        <annotation type="Prior Codifications">§PRP.04.08.05 was formerly codified as §6.8.5</annotation>
       </section>
       <section>
         <heading>Temporary Guardianship</heading>
-        <num>PRP.04.07.17</num>
+        <num>PRP.04.08.06</num>
         <text>The Court may appoint a temporary guardian under such terms and conditions as the Court sets forth in the written order. A temporary guardianship may be terminated if the Court determines that it is in the best interests of the child to change custody from the temporary guardian to a new guardian or to return the child to the parent, guardian or custodian. The parent(s') and the child's extended family shall be granted liberal visitation rights unless deemed inappropriate by the Court.</text>
-        <annotation type="Prior Codifications">§PRP.04.07.17 was formerly codified as §6.8.6</annotation>
+        <annotation type="Prior Codifications">§PRP.04.08.06 was formerly codified as §6.8.6</annotation>
       </section>
       <section>
         <heading>Who May File Guardianship Petition</heading>
-        <num>PRP.04.07.18</num>
-        <text>Any person may file a petition for guardianship. The petition shall be initiated</text>
-        <text>either by the proposed guardian or by the child if at least fourteen (14) years of age.</text>
-        <annotation type="Prior Codifications">§PRP.04.07.18 was formerly codified as §6.8.7</annotation>
+        <num>PRP.04.08.07</num>
+        <text>Any person may file a petition for guardianship. The petition shall be initiated either by the proposed guardian or by the child if at least fourteen (14) years of age.</text>
+        <annotation type="Prior Codifications">§PRP.04.08.07 was formerly codified as §6.8.7</annotation>
       </section>
       <section>
         <heading>Contents Of Guardianship Petition</heading>
-        <num>PRP.04.07.19</num>
+        <num>PRP.04.08.08</num>
         <para>
           <num>(a)</num>
-          <text>The petition for guardianship shall include the following, to the best information</text>
-          <text>and belief of the petitioner.</text>
+          <text>The petition for guardianship shall include the following, to the best information and belief of the petitioner.</text>
           <para>
             <num>(1)</num>
             <text>The full name, address and tribal affiliation of the petitioner;</text>
@@ -4265,11 +4304,11 @@
           <num>(b)</num>
           <text>All petitions must be signed and dated by the petitioners, and must be notarized.</text>
         </para>
-        <annotation type="Prior Codifications">§PRP.04.07.19 was formerly codified as §6.8.8</annotation>
+        <annotation type="Prior Codifications">§PRP.04.08.08 was formerly codified as §6.8.8</annotation>
       </section>
       <section>
         <heading>Guardianship Report</heading>
-        <num>PRP.04.07.20</num>
+        <num>PRP.04.08.09</num>
         <para>
           <num>(a)</num>
           <text>Upon the filing of a guardianship petition, the Court shall immediately request that the social services department or other qualified agency conduct a guardianship report on the proposed guardian and report on the proposed ward. The guardianship report shall contain all pertinent information necessary to assist the Court in determining the best interests of the proposed ward.</text>
@@ -4278,11 +4317,11 @@
           <num>(b)</num>
           <text>No determination can be made on a petition for guardianship until the report has been completed and submitted to and considered by the Court. The guardianship report shall be submitted to the Court no later than ten (10) days before the hearing. The Court may order additional reports as it deems necessary.</text>
         </para>
-        <annotation type="Prior Codifications">§PRP.04.07.20 was formerly codified as §6.8.9</annotation>
+        <annotation type="Prior Codifications">§PRP.04.08.09 was formerly codified as §6.8.9</annotation>
       </section>
       <section>
         <heading>Management Of Property</heading>
-        <num>PRP.04.07.21</num>
+        <num>PRP.04.08.10</num>
         <para>
           <num>(a)</num>
           <text>In the event that any guardian shall receive any money or funds of any child or incompetent person during their term of office as guardian, before taking and receiving into custody such money or funds, the Court must require of such person a bond with sufficient surety to be approved by the Court and in such sum as the Court shall order, conditioned that the guardian will faithfully execute the duties of their trust, and the following conditions shall form the part of such bond without being expressed therein:</text>
@@ -4307,11 +4346,11 @@
             <text>If determined to be appropriate by the Court, the written order may set forth that the child's property may not be used for the child's care, but rather to be managed for the child until the child reaches the age of eighteen (18) or is emancipated by the Court.</text>
           </para>
         </para>
-        <annotation type="Prior Codifications">§PRP.04.07.21 was formerly codified as §6.8.10</annotation>
+        <annotation type="Prior Codifications">§PRP.04.08.10 was formerly codified as §6.8.10</annotation>
       </section>
       <section>
         <heading>Incompetent Persons</heading>
-        <num>PRP.04.07.22</num>
+        <num>PRP.04.08.11</num>
         <para>
           <num>(a)</num>
           <text>In case of incompetent persons, if after a full hearing and examination upon such petition, and upon further proof by the certificates of at least two qualified physicians showing that any person is incompetent as defined in this Code, it appears to the Court that the person in question is not capable of taking care of himself or herself and of managing their property, such Court must appoint a guardian of the person and estate within the powers and duties specified in this Part.</text>
@@ -4322,16 +4361,13 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>A person who has been declared insane or incompetent or the guardian, or any</text>
-          <text>relative of such person within the third degree or any friend, may apply by petition to the Court in which they were declared insane, to have the fact of their restoration to capacity judicially</text>
-          <text>determined. The petition shall be verified and shall state that such person is then sane or competent. The Court shall require notice to be given of a hearing upon said petition at some date after said petition has been filed; and at the hearing upon said petition, witnesses shall be</text>
-          <text>examined and a determination made by the Court as to whether the petition should be granted and the insane or incompetent person be declared of sound mind and capable of taking care of himself or herself and his or her property, their restoration to capacity shall be adjudged and the guardianship of such person, if such person shall not be a child, shall cease.</text>
+          <text>A person who has been declared insane or incompetent or the guardian, or any relative of such person within the third degree or any friend, may apply by petition to the Court in which they were declared insane, to have the fact of their restoration to capacity judicially determined. The petition shall be verified and shall state that such person is then sane or competent. The Court shall require notice to be given of a hearing upon said petition at some date after said petition has been filed; and at the hearing upon said petition, witnesses shall be examined and a determination made by the Court as to whether the petition should be granted and the insane or incompetent person be declared of sound mind and capable of taking care of himself or herself and his or her property, their restoration to capacity shall be adjudged and the guardianship of such person, if such person shall not be a child, shall cease.</text>
         </para>
-        <annotation type="Prior Codifications">§PRP.04.07.22 was formerly codified as §6.8.11</annotation>
+        <annotation type="Prior Codifications">§PRP.04.08.11 was formerly codified as §6.8.11</annotation>
       </section>
       <section>
         <heading>Termination Of Guardianship</heading>
-        <num>PRP.04.07.23</num>
+        <num>PRP.04.08.12</num>
         <para>
           <num>(a)</num>
           <text>Upon motion of any person, or the Tribe, the Court may provide notice and a hearing on whether to terminate a guardianship. Grounds for termination shall include, but not be limited to, personal use by the guardian of the assets of the ward, failure to provide a reasonable level of care for the ward, or the marriage of a minor ward.</text>
@@ -4340,7 +4376,7 @@
           <num>(b)</num>
           <text>Guardianship, including guardians of the property of the ward, shall terminate automatically upon a minor reaching age 18, or upon a mental incompetent being adjudged by the Court to have regained legal capacity.</text>
         </para>
-        <annotation type="Prior Codifications">§PRP.04.07.23 was formerly codified as §6.8.12</annotation>
+        <annotation type="Prior Codifications">§PRP.04.08.12 was formerly codified as §6.8.12</annotation>
       </section>
     </container>
     <annotations>
