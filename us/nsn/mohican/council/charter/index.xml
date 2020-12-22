@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Stockbridge-Munsee Federal Corporate Charter">
   <meta>
-    <effective></effective>
+    <effective>1996-06-21</effective>
     <citations>
       <citation type="charter" url="./charter/adopted/charter.pdf">Stockbridge-Munsee Federal Corporate Charter</citation>
       <citation type="charter" url="./charter/PL_106-216.pdf">Pub. L. 106-216</citation>
