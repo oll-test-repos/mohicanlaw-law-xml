@@ -9,12 +9,12 @@
     <canonical-urls>
       <xml-bulk>https://github.com/mohicanlaw/law-xml</xml-bulk>
       <html-bulk>https://github.com/mohicanlaw/law-html</html-bulk>
-      <html>https://mohican.nsn.us.demos.dev.openlawlibrary.us/</html>
-      <static-assets>https://github.com/oll-test-repos/mohicanlaw-law-static-assets</static-assets>
+      <html>https://mohican.nsn.us.demos.open.law/</html>
+      <static-assets>https://github.com/mohicanlaw/law-static-assets</static-assets>
     </canonical-urls>
     <history-start>2009-06-29</history-start>
   </meta>
-  <xi:include href="./us/nsn/mohican/council/constitution-and-by-laws/index.xml"/>
+  <xi:include href="./us/nsn/mohican/council/constitution/index.xml"/>
   <xi:include href="./us/nsn/mohican/council/code/index.xml"/>
   <collection name="us/nsn/mohican/council/resolutions">
     <heading>Tribal Council Ordinance Resolutions.</heading>
