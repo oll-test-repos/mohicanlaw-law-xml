@@ -4,9 +4,9 @@
   <meta>
     <effective>1937-11-18</effective>
     <citations>
-      <citation type="const" url="./constitution/adopted/const.pdf">Stockbridge-Munsee Constitution and By-laws</citation>
-      <citation type="const" url="./constitution/amendments/amendment_I.pdf">Amendment I</citation>
-      <citation type="const" url="./constitution/notices/election_notice_1995.pdf">Amendment I - Notice of Election</citation>
+      <citation type="const" url="./constitution/adopted/const.pdf">1938 Publication of Stockbridge-Munsee Constitution and By-Laws</citation>
+      <citation type="const" url="./constitution/notices/election_notice_1995.pdf">1995 Amendment - Election Results</citation>
+      <citation type="const" url="./constitution/amendments/amendment_I.pdf">1995 Amendment</citation>
     </citations>
   </meta>
   <text>Constitution and By Laws of the Stockbridge-Munsee Community</text>
@@ -15,6 +15,7 @@
     <text>We, the people of the Stockbridge Munsee Band of Mohican Indians, grateful to the Great Spirit for his fostering care, in order to re establish our tribal organization, to conserve and develop our common resources and to protect the welfare of ourselves and our descendants, do ordain and establish this Constitution and By laws.</text>
   </container>
   <container id="const">
+    <heading>CONSTITUTION OF THE STOCKBRIDGE MUNSEE COMMUNITY</heading>
     <container>
       <prefix>ARTICLE</prefix>
       <num>I</num>
@@ -248,7 +249,7 @@
     <text>(SEAL)</text>
     <text>WASHINGTON, D.C., November 18, 1937</text>
   </procedural-data>
-  <text>LEGISLATIVE HISTORY</text>
+  <subheading>LEGISLATIVE HISTORY</subheading>
   <para>
     <num>1</num>
     <text>RATIFICATION: Stockbridge Munsee Tribal Constitution adopted by the vote of the people on October 30, 1937. Approved by Assistant Secretary of the Interior November 18, 1937.&gt;</text>
