@@ -14,7 +14,7 @@
     <para proof="needed">
       <num>(B)</num>
       <heading>Citation.</heading>
-      <text>These rules may be cited as <strong>"S-M Rules App."</strong> with a citation to a specific rule number, which corresponds to the section of the Ordinance where it is found [<em><u>E.g.</u></em><em>,</em> S-M Rules App. 1(B) is found at Section 5-A.1(B) and is the name of the appellate division of the Stockbridge-Munsee Tribal Court].</text>
+      <text>These rules may be cited as <strong>"S-M Rules App."</strong> with a citation to a specific rule number, which corresponds to the section of the Ordinance where it is found [<em><u>E.g.</u></em><em>,</em> S-M Rules App. 1(B) is found at <cite path="§5A.1|(B)">Section 5-A.1(B)</cite> and is the name of the appellate division of the Stockbridge-Munsee Tribal Court].</text>
     </para>
     <para proof="needed">
       <num>(C)</num>
@@ -140,14 +140,14 @@
     <para proof="needed">
       <num>(A)</num>
       <heading>Panels of the Stockbridge-Munsee Court of Appeals.</heading>
-      <text>Any civil decision involving a requested judgment amount of over $25, or any decision stemming from a civil jury verdict, child custody/adoption, tribal membership standing, constitutional questions or tribal elections shall be considered by a panel of at least three (3) justices.</text>
+      <text>Any civil decision involving a requested judgment amount of over $25,000.00 or any decision stemming from a civil jury verdict, child custody/adoption, tribal membership standing, constitutional questions or tribal elections shall be considered by a panel of at least three (3) justices.</text>
     </para>
     <para proof="needed">
       <num>(B)</num>
       <heading>Single Justice Decisions.</heading>
       <para>
         <num>(1)</num>
-        <text>Any decision originating from bench trial civil matter judgments with a potential liability amount below $25,<cite path="§000.00">000.00</cite>, may be heard by a single justice.</text>
+        <text>Any decision originating from bench trial civil matter judgments with a potential liability amount below $25,000.00, may be heard by a single justice.</text>
       </para>
       <para>
         <num>(2)</num>
