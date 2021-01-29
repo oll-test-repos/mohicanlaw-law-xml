@@ -1137,14 +1137,12 @@
       <heading>Title, Purpose And Definitions</heading>
       <para>
         <num>(a)</num>
-        <text><strong>Title</strong></text>
-        <text>This Code may be cited as the "Domestic and Family Violence Code."</text>
+        <heading>Title.</heading>
+        <text>This Ordinance may be cited as the "Domestic and Family Violence Code."</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <strong>Purpose</strong>
-        </text>
+        <heading>Purpose.</heading>
         <text>The purpose of this Code is to:</text>
         <para>
           <num>(1)</num>
@@ -1161,50 +1159,43 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <strong>Construction</strong>
-        </text>
-        <text><cite path="64.1">This Chapter</cite> shall be liberally construed to effect the purposes stated above and shall be interpreted to comport with the customs and traditions of this Tribe. If tribal law, customs and traditions are inconclusive in any matter arising under <cite path="64.1">this chapter</cite>, then federal law and, as a last resort, the law of the State of Wisconsin, may be used for guidance.</text>
+        <heading>Construction.</heading>
+        <text>This Code shall be liberally construed to effect the purposes stated above and shall be interpreted to comport with the customs and traditions of this Tribe. If tribal law, customs and traditions are inconclusive in any matter arising under this code, then federal law and, as a last resort, the law of the State of Wisconsin, may be used for guidance.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>
-          <strong>Definitions</strong>
-        </text>
-        <text>
-          <u>Domestic and Family Violence</u>
-        </text>
-        <para>
+        <heading>Definitions.</heading>
+        <para proof="needed">
           <num>(1)</num>
-          <text>Domestic and family violence includes:</text>
+          <heading>Domestic and Family Violence.</heading>
           <para>
             <num>(A)</num>
-            <text>intentional infliction of physical harm to a family or household member;</text>
+            <text>Domestic and family violence includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>intentional infliction of physical harm to a family or household member;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>an act, word, gesture or any other behavior that places a family or household member in fear of imminent physical harm,</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>intentional use of force, coercion, threat, intimidation, humiliation, or confinement which results in mental or emotional harm to a family or household member; or</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>causing a family or household member to engage involuntarily in sexual activity by force, coercion, threat, intimidation, humiliation, confinement, or administering alcohol or drugs to the family or household member without their knowledge.</text>
+            </para>
           </para>
           <para>
             <num>(B)</num>
-            <text>an act, word, gesture or any other behavior that places a family or household member in fear of imminent physical harm,</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>intentional use of force, coercion, threat, intimidation, humiliation, or confinement which results in mental or emotional harm to a family or household member; or</text>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>causing a family or household member to engage involuntarily in sexual activity by force, coercion, threat, intimidation, humiliation, confinement, or administering alcohol or drugs to the family or household member without their knowledge.</text>
+            <text>Imminent physical harm as used above refers to such physical harm that is close or near at hand, that is impending, perilous, or on the point of happening. It does not require that such physical harm be immediate or without delay after the behavior that places the victim in fear.</text>
           </para>
         </para>
-        <para>
+        <para proof="needed">
           <num>(2)</num>
-          <text>Imminent physical harm as used above refers to such physical harm that is close or near at hand, that is impending, perilous, or on the point of happening. It does not require that such physical harm be immediate or without delay after the behavior that places the victim in fear.</text>
-        </para>
-        <aftertext>
-          <strong>
-            <u>Family or household member</u>
-          </strong>
-        </aftertext>
-        <para>
-          <num>(3)</num>
+          <heading>Family or household member.</heading>
           <text>Family or household member includes:</text>
           <para>
             <num>(A)</num>
@@ -1227,40 +1218,30 @@
             <text>adult relatives who are living together or who have lived together.</text>
           </para>
         </para>
-        <aftertext>
-          <strong>
-            <u>Exclusions</u>
-          </strong>
-        </aftertext>
-        <para>
-          <num>(4)</num>
-          <text>Domestic and family violence in the parent-minor child relationship is not covered in this Code. The occurrence of domestic and family violence in that relationship is covered in the Youth Code of this Tribe or through the juvenile and children's codes of the State of Wisconsin.</text>
-        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Exclusions.</heading>
+        <text>Domestic and family violence in the parent-minor child relationship is not covered in this Code. The occurrence of domestic and family violence in that relationship is covered in the Youth Code of this Tribe or through the juvenile and children's codes of the State of Wisconsin.</text>
       </para>
       <annotation type="Prior Codifications">§DMR.04.01 was formerly codified as §64.1</annotation>
     </section>
     <section>
-      <heading>Jurisdiction &amp; Civil Nature Of This Code</heading>
+      <heading>Jurisdiction And Civil Nature Of This Code</heading>
       <num>DMR.04.02</num>
       <para>
         <num>(a)</num>
-        <text>
-          <strong>Jurisdiction &amp; Authority to Enact This Code</strong>
-        </text>
+        <heading>Jurisdiction and Authority to Enact This Code.</heading>
         <text>This Code is adopted pursuant to the Stockbridge-Munsee Community Constitution and pursuant to an exercise of this Tribe's inherent sovereign authority.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <strong>Jurisdiction of the Court &amp; Civil Nature of This Code</strong>
-        </text>
-        <text>The jurisdiction of the Tribal Court shall be civil in nature and shall include the power to issue all orders necessary to insure the purposes and provisions of this Code are put into effect. This includes the power to enforce subpoenas, orders of contempt, and any other orders as appropriate.</text>
+        <heading>Jurisdiction of the Court and Civil Nature of This Code.</heading>
+        <text>The jurisdiction of the Tribal Court shall be civil in nature and shall include the power to issue all orders necessary to ensure the purposes and provisions of this Code are put into effect. This includes the power to enforce subpoenas, orders of contempt, and any other orders as appropriate.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <strong>Availability of Criminal Penalties</strong>
-        </text>
+        <heading>Availability of Criminal Penalties.</heading>
         <text>The provisions of this Code do not replace the criminal penalties and procedures available under state law for an act of domestic and family violence.</text>
       </para>
       <annotation type="Prior Codifications">§DMR.04.02 was formerly codified as §64.2</annotation>
@@ -1270,9 +1251,7 @@
       <num>DMR.04.03</num>
       <para>
         <num>(a)</num>
-        <text>
-          <strong>Who May Petition the Court</strong>
-        </text>
+        <heading>Who May Petition the Court.</heading>
         <para>
           <num>(1)</num>
           <text>A person who is subject to the jurisdiction of this Tribe's Court and who has been a victim of domestic and family violence may file a Petition for an Order for Protection against a family or household member who commits an act of domestic and family violence.</text>
@@ -1285,279 +1264,266 @@
           <num>(3)</num>
           <text>No filing fee, bond, or other payment shall be required from the victim for the filing of a Petition for an Order for Protection under this Code.</text>
         </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>
-          <strong>Contents of the Petition</strong>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Petition shall include membership status or any other information necessary to establish jurisdiction of the Court; the Petitioner's name and address at the time of the incident of domestic and family violence; the name, address, and relationship of the family or household member who is the Respondent; a description of the specific facts and circumstances justifying the relief requested; the relief requested; and the current location of the Respondent, if known.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The current location of the Petitioner shall not be released by the Court except on Petitioner's written request and consent.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The Petition shall also state the nature of any other legal matter pending regarding the Petitioner or the Respondent; for example, criminal charges, child protection proceeding, and divorce.</text>
-        </para>
         <para>
           <num>(4)</num>
-          <text>The Petition may include a request that the Court arrange for law enforcement to be present at the time of the hearing.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>
-          <strong>Duty of Court Personnel to Provide Forms &amp; Clerical Assistance</strong>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Clerk of Court or other designated person shall provide to a person requesting an Order for Protection;</text>
+          <heading>Contents of the Petition.</heading>
           <para>
             <num>(A)</num>
-            <text>a standard Petition form with instructions for completion,</text>
+            <text>The Petition shall include membership status or any other information necessary to establish jurisdiction of the Court; the Petitioner's name and address at the time of the incident of domestic and family violence; the name, address, and relationship of the family or household member who is the Respondent; a description of the specific facts and circumstances justifying the relief requested; the relief requested; and the current location of the Respondent, if known.</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>all other forms required to petition for an Order for Protection, such as those needed for service of process,</text>
+            <text>The current location of the Petitioner shall not be released by the Court except on Petitioner's written request and consent.</text>
           </para>
           <para>
             <num>(C)</num>
-            <text>clerical assistance in filling out the forms and filing the Petition for an Order for Protection, and</text>
+            <text>The Petition shall also state the nature of any other legal matter pending regarding the Petitioner or the Respondent; for example, criminal charges, child protection proceeding, and divorce.</text>
           </para>
           <para>
             <num>(D)</num>
-            <text>provide written notice to the victim identifying the nearest available provider of shelter and advocacy services.</text>
+            <text>The Petition may include a request that the Court arrange for law enforcement to be present at the time of the hearing.</text>
           </para>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>In order to facilitate enforcement under full faith and credit provisions of state law, the Clerk of Court or other designated person shall send an authenticated copy of the Emergency Order for Protection and the Order for Protection to the circuit court clerk for the county where Respondent is located within one business day of the issuance of the Order.</text>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>
-          <strong>Emergency Orders for Protection</strong>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Court shall immediately grant an ex-parte Emergency Order for Protection if, based on the specific facts stated in the Petition, there is reasonable grounds to believe that the Petitioner is in danger of domestic and family violence occurring prior to a hearing on the Petition. An allegation of a recent incident of domestic and family violence constitutes reasonable grounds to believe the Petitioner is in danger.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The Emergency Order for Protection may include the following relief:</text>
-          <para>
-            <num>(A)</num>
-            <text>prohibit the Respondent from committing or threatening to commit acts of domestic and family violence against the Petitioner and the Petitioner's family and household members;</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>prohibiting the Respondent from contacting or communicating with the Petitioner directly or indirectly;</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>removing and excluding Respondent from the Petitioner's residence, regardless of ownership;</text>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>removing and excluding Respondent from the Petitioner's place of employment and other locations frequented by Petitioner; and</text>
-          </para>
-          <para>
-            <num>(E)</num>
-            <text>such other relief as the Court deems necessary to protect and provide for the safety of the Petitioner and any designated family or household member.</text>
-          </para>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The Emergency Order for Protection shall be served with the notice of hearing on the Respondent and shall expire at the time of the hearing.</text>
-        </para>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>
-          <strong>Notice to Respondent &amp; Other Interested Parties</strong>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>Respondent shall be served a notice of hearing along with a copy of the Petition and a copy of any Emergency Order for Protection at least forty-eight hours prior to the time of the hearing.</text>
-        </para>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>
-          <strong>Hearing</strong>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Court shall hold a hearing on the Petition for an Order for Protection within seven (7) days of the filing date of the Petition.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The Court may extend the time for a hearing once for up to fourteen (14) days upon consent of the parties or upon finding that Respondent has not been timely served a notice of hearing.</text>
-        </para>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>
-          <strong>Remedies Available in an Order for Protection</strong>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>The Court may grant the following relief in an Order for Protection if requested by the Petitioner and after notice and hearing, whether or not the Respondent appears:</text>
-          <para>
-            <num>(A)</num>
-            <text>prohibit the Respondent from threatening to commit or committing acts of domestic or family violence against the Petitioner;</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>prohibit the Respondent from harassing, telephoning, contacting, or otherwise communicating with the Petitioner directly or indirectly, or through others;</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>remove and exclude Respondent from Petitioner's residence, or if Respondent owns or leases the residence and the Petitioner has no legal interest in the residence, then the Court may order the Respondent to avoid the residence for a reasonable length of time until the Petitioner relocates;</text>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>remove and exclude Respondent from Petitioner's place of employment at any time Petitioner is present;</text>
-          </para>
-          <para>
-            <num>(E)</num>
-            <text>remove and exclude Respondent from other specified locations frequented by Petitioner;</text>
-          </para>
-          <para>
-            <num>(F)</num>
-            <text>remove and exclude Respondent from specified public social events and activities;</text>
-          </para>
-          <para>
-            <num>(G)</num>
-            <text>limit or prohibit contact with minor children of Respondent where necessary to protect the safety of the Petitioner or child;</text>
-          </para>
-          <para>
-            <num>(H)</num>
-            <text>refer minors who are family or household members for assessments and services through the Indian Child Welfare office, mental health program, or other tribal program;</text>
-          </para>
-          <para>
-            <num>(I)</num>
-            <text>require Respondent to participate in alcohol and other assessments and to participate in treatment where the treatment program meets the State of Wisconsin's batterer's treatment standards;</text>
-          </para>
-          <para>
-            <num>(J)</num>
-            <text>limit or prohibit Respondent from using or possessing a firearm or other weapon as specified by the Court;</text>
-          </para>
-          <para>
-            <num>(K)</num>
-            <text>require Respondent to reimburse the Petitioner or any other person for any expenses associated with the domestic or family violence, including but not limited to medical expenses, counseling, shelter, legal fees, and repair or replacement of damaged property;</text>
-          </para>
-          <para>
-            <num>(L)</num>
-            <text>require Respondent participate in community service, such as cutting wood or providing other services for elderly members of the Tribe;</text>
-          </para>
-          <para>
-            <num>(M)</num>
-            <text>require that notice of Respondent's act(s) of domestic and family violence be publicly posted; and</text>
-          </para>
-          <para>
-            <num>(N)</num>
-            <text>any other relief as the Court deems necessary to protect and provide for the safety of the Petitioner and any designated family or household member.</text>
-          </para>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>An Order for Protection shall not contain any provisions which impose requirements on a victim of domestic and family violence. The Court may recommend services for the victim and shall verify that the victim is aware of locally available shelter facilities.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The Court shall cause the Order for Protection to be delivered for service of process; make reasonable efforts to ensure that the Order is understood by the Petitioner, and Respondent if present at the hearing; and transmit a copy of the Order for Protection to the local law enforcement agency or agencies within one business day after the Order is issued if requested by the Petitioner.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>The Court shall not grant a mutual Order for Protection to opposing parties.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>The Court shall not deny a Petitioner the relief requested solely because of a lapse of time between an act of domestic or family violence and the filing of the Petition.</text>
+          <heading>Duty of Court Personnel to Provide Forms &amp; Clerical Assistance.</heading>
+          <para>
+            <num>(A)</num>
+            <text>The Clerk of Court or other designated person shall provide to a person requesting an Order for Protection;</text>
+            <para>
+              <num>(i)</num>
+              <text>a standard Petition form with instructions for completion,</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>all other forms required to petition for an Order for Protection, such as those needed for service of process,</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>clerical assistance in filling out the forms and filing the Petition for an Order for Protection, and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>provide written notice to the victim identifying the nearest available provider of shelter and advocacy services.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>In order to facilitate enforcement under full faith and credit provisions of state law, the Clerk of Court or other designated person shall send an authenticated copy of the Emergency Order for Protection and the Order for Protection to the circuit court clerk for the county where Respondent is located within one business day of the issuance of the Order.</text>
+          </para>
         </para>
-      </para>
-      <para>
-        <num>(h)</num>
-        <text>
-          <strong>Duration, Extension, and Modification of Orders for Protection</strong>
-        </text>
         <para>
-          <num>(1)</num>
-          <text>An Order for Protection or a modification of an Order for Protection is effective until further order of the Court.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>An Order for Protection may be modified or withdrawn following notice and hearing, on the Court's own motion or upon the request of either Petitioner or Respondent if;</text>
+          <num>(6)</num>
           <text>
-            <ul proof="needed">
-              <li>assessments or treatments ordered by the Court have been completed,</li>
-              <li>Respondent demonstrates behavioral changes which eliminate the risk of a recurrence of acts of domestic and family violence as verified by treatment providers or other independent sources identified by the Court, or</li>
-              <li>the Court determines the safety needs of the Petitioner and other family or household members are provided for by the Protection.</li>
-            </ul>
+            <strong>Emergency Orders for Protection</strong>
           </text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>If Respondent is excluded from Petitioner's residence or ordered to stay away from Petitioner, an invitation by the Petitioner to do so does not waive or nullify an Order for Protection.</text>
-        </para>
-      </para>
-      <para>
-        <num>(i)</num>
-        <text>
-          <strong>Enforcement and Penalties for Violation</strong>
-        </text>
-        <text>Where Respondent has violated an Order for Protection, the Court may order additional and other remedies as provided in Section G., above and may impose such penalties as are deemed necessary by the Court given the severity of the violation of the Order. Penalties include, but are not limited to those available for contempt, fines, assessments of court costs and fees, and exclusion from tribal offices and businesses.</text>
-      </para>
-      <para>
-        <num>(j)</num>
-        <text>
-          <strong>Full Faith &amp; Credit</strong>
-        </text>
-        <para>
-          <num>(1)</num>
-          <text>Any protection order that is consistent with subsection 2) of this section by the court of one state or Indian tribe (the issuing state or Indian tribe) shall be accorded full faith and credit by this Tribe and enforced as if it were the order of this Tribal Court.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A protection order issued by a state or tribal court is consistent with this subsection if:</text>
           <para>
             <num>(A)</num>
-            <text>such court has jurisdiction over the parties and matter under the law of such state or tribe; and</text>
+            <text>The Court shall immediately grant an ex-parte Emergency Order for Protection if, based on the specific facts stated in the Petition, there is reasonable grounds to believe that the Petitioner is in danger of domestic and family violence occurring prior to a hearing on the Petition. An allegation of a recent incident of domestic and family violence constitutes reasonable grounds to believe the Petitioner is in danger.</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>reasonable notice and opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person's right to due process. In the case of ex parse orders, notice and opportunity to be heard must be provided within the time required by the issuing state's or tribe's law, and in any event within a reasonable time after the order is issued, sufficient to protect the respondent's due process rights.</text>
+            <text>The Emergency Order for Protection may include the following relief:</text>
+            <para>
+              <num>(i)</num>
+              <text>prohibit the Respondent from committing or threatening to commit acts of domestic and family violence against the Petitioner and the Petitioner's family and household members;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>prohibiting the Respondent from contacting or communicating with the Petitioner directly or indirectly;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>removing and excluding Respondent from the Petitioner's residence, regardless of ownership;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>removing and excluding Respondent from the Petitioner's place of employment and other locations frequented by Petitioner; and</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>such other relief as the Court deems necessary to protect and provide for the safety of the Petitioner and any designated family or household member.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Emergency Order for Protection shall be served with the notice of hearing on the Respondent and shall expire at the time of the hearing.</text>
           </para>
         </para>
         <para>
-          <num>(3)</num>
-          <text>A protection order issued by a state or tribal court against one who has petitioned, filed a complaint, or otherwise filed a written pleading for protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if:</text>
+          <num>(7)</num>
+          <heading>Notice to Respondent &amp; Other Interested Parties.</heading>
           <para>
             <num>(A)</num>
-            <text>no cross or counter petition, complaint, or other written pleading was filed seeking such a protection order; or</text>
+            <text>Respondent shall be served a notice of hearing along with a copy of the Petition and a copy of any Emergency Order for Protection at least forty-eight hours prior to the time of the hearing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <heading>Hearing.</heading>
+          <para>
+            <num>(A)</num>
+            <text>The Court shall hold a hearing on the Petition for an Order for Protection within seven (7) days of the filing date of the Petition.</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>a cross or counter petition has been filed and the court did not make specific findings that each party was entitled to such an order.</text>
+            <text>The Court may extend the time for a hearing once for up to fourteen (14) days upon consent of the parties or upon finding that Respondent has not been timely served a notice of hearing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(9)</num>
+          <heading>Remedies Available in an Order for Protection.</heading>
+          <para>
+            <num>(A)</num>
+            <text>The Court may grant the following relief in an Order for Protection if requested by the Petitioner and after notice and hearing, whether or not the Respondent appears:</text>
+            <para>
+              <num>(i)</num>
+              <text>prohibit the Respondent from threatening to commit or committing acts of domestic or family violence against the Petitioner;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>prohibit the Respondent from harassing, telephoning, contacting, or otherwise communicating with the Petitioner directly or indirectly, or through others;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>remove and exclude Respondent from Petitioner's residence, or if Respondent owns or leases the residence and the Petitioner has no legal interest in the residence, then the Court may order the Respondent to avoid the residence for a reasonable length of time until the Petitioner relocates;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>remove and exclude Respondent from Petitioner's place of employment at any time Petitioner is present;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>remove and exclude Respondent from other specified locations frequented by Petitioner;</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>remove and exclude Respondent from specified public social events and activities;</text>
+            </para>
+            <para>
+              <num>(vii)</num>
+              <text>limit or prohibit contact with minor children of Respondent where necessary to protect the safety of the Petitioner or child;</text>
+            </para>
+            <para>
+              <num>(viii)</num>
+              <text>refer minors who are family or household members for assessments and services through the Indian Child Welfare office, mental health program, or other tribal program;</text>
+            </para>
+            <para>
+              <num>(ix)</num>
+              <text>require Respondent to participate in alcohol and other assessments and to participate in treatment where the treatment program meets the State of Wisconsin's batterer's treatment standards;</text>
+            </para>
+            <para>
+              <num>(x)</num>
+              <text>limit or prohibit Respondent from using or possessing a firearm or other weapon as specified by the Court;</text>
+            </para>
+            <para>
+              <num>(xi)</num>
+              <text>require Respondent to reimburse the Petitioner or any other person for any expenses associated with the domestic or family violence, including but not limited to medical expenses, counseling, shelter, legal fees, and repair or replacement of damaged property;</text>
+            </para>
+            <para>
+              <num>(xii)</num>
+              <text>require Respondent participate in community service, such as cutting wood or providing other services for elderly members of the Tribe;</text>
+            </para>
+            <para>
+              <num>(xiii)</num>
+              <text>require that notice of Respondent's act(s) of domestic and family violence be publicly posted; and</text>
+            </para>
+            <para>
+              <num>(xiv)</num>
+              <text>any other relief as the Court deems necessary to protect and provide for the safety of the Petitioner and any designated family or household member.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>An Order for Protection shall not contain any provisions which impose requirements on a victim of domestic and family violence. The Court may recommend services for the victim and shall verify that the victim is aware of locally available shelter facilities.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The Court shall cause the Order for Protection to be delivered for service of process; make reasonable efforts to ensure that the Order is understood by the Petitioner, and Respondent if present at the hearing; and transmit a copy of the Order for Protection to the local law enforcement agency or agencies within one business day after the Order is issued if requested by the Petitioner.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The Court shall not grant a mutual Order for Protection to opposing parties.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The Court shall not deny a Petitioner the relief requested solely because of a lapse of time between an act of domestic or family violence and the filing of the Petition.</text>
+          </para>
+        </para>
+        <para>
+          <num>(10)</num>
+          <heading>Duration, Extension, and Modification of Orders for Protection.</heading>
+          <para>
+            <num>(A)</num>
+            <text>An Order for Protection or a modification of an Order for Protection is effective until further order of the Court.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>An Order for Protection may be modified or withdrawn following notice and hearing, on the Court's own motion or upon the request of either Petitioner or Respondent if;</text>
+            <para>
+              <num>(i)</num>
+              <text>assessments or treatments ordered by the Court have been completed,</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Respondent demonstrates behavioral changes which eliminate the risk of a recurrence of acts of domestic and family violence as verified by treatment providers or other independent sources identified by the Court, or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>the Court determines the safety needs of the Petitioner and other family or household members are provided for by the Protection.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>If Respondent is excluded from Petitioner's residence or ordered to stay away from Petitioner, an invitation by the Petitioner to do so does not waive or nullify an Order for Protection.</text>
+          </para>
+        </para>
+        <para>
+          <num>(11)</num>
+          <heading>Enforcement and Penalties for Violation.</heading>
+          <text>Where Respondent has violated an Order for Protection, the Court may order additional and other remedies as provided in Section G., above and may impose such penalties as are deemed necessary by the Court given the severity of the violation of the Order. Penalties include, but are not limited to those available for contempt, fines, assessments of court costs and fees, and exclusion from tribal offices and businesses.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <heading>Full Faith and Credit.</heading>
+          <para>
+            <num>(A)</num>
+            <text>Any protection order that is consistent with <cite path="§64.3|(J)|(2)">Section 64.3 (J)(2)</cite> by the court of one state or Indian tribe (the issuing state or Indian tribe) shall be accorded full faith and credit by this Tribe and enforced as if it were the order of this Tribal Court.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>A protection order issued by a state or tribal court is consistent with this subsection if:</text>
+            <para>
+              <num>(i)</num>
+              <text>such court has jurisdiction over the parties and matter under the law of such state or tribe; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>reasonable notice and opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person's right to due process. In the case of ex parse orders, notice and opportunity to be heard must be provided within the time required by the issuing state's or tribe's law, and in any event within a reasonable time after the order is issued, sufficient to protect the respondent's due process rights.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>A protection order issued by a state or tribal court against one who has petitioned, filed a complaint, or otherwise filed a written pleading for protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if:</text>
+            <para>
+              <num>(i)</num>
+              <text>no cross or counter petition, complaint, or other written pleading was filed seeking such a protection order; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a cross or counter petition has been filed and the court did not make specific findings that each party was entitled to such an order.</text>
+            </para>
           </para>
         </para>
       </para>
       <annotation type="Prior Codifications">§DMR.04.03 was formerly codified as §64.3</annotation>
     </section>
     <section>
-      <heading>Intervention &amp; Referrals</heading>
+      <heading>Intervention And Referrals</heading>
       <num>DMR.04.04</num>
       <para>
         <num>(a)</num>
-        <text>
-          <strong>Confidentiality for Victims</strong>
-        </text>
+        <heading>Confidentiality for Victims.</heading>
         <para>
           <num>(1)</num>
           <text>A victim of domestic abuse may refuse to disclose and may prevent any volunteer or employee of a program for victims of domestic abuse from disclosing, the content of oral communication and written records and reports concerning the victim.</text>
@@ -1568,7 +1534,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>This privilege does not relieve a person from a duty imposed under State Law to report child abuse or neglect or from providing evidence about child abuse or neglect in State Court pursuant to proceedings under Wisconsin Statutes, Chapters <cite path="48">48</cite> and <cite path="938">938</cite> and in Tribal Court under the Youth Code.</text>
+          <text>This privilege does not relieve a person from a duty imposed under Wisconsin Law to report child abuse or neglect or from providing evidence about child abuse or neglect in State Court pursuant to proceedings under Chapters <cite path="48">48</cite> and <cite path="938">938</cite>, Wis. Stat., and in Tribal Court under the Youth Code.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -1577,9 +1543,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <strong>Intervention for Batterers</strong>
-        </text>
+        <heading>Intervention for Batterers.</heading>
         <para>
           <num>(1)</num>
           <text>Where services are provided for batterers pursuant to an Order for Protection, the batterer who is ordered into the program shall be required by the Court to sign the following releases:</text>
@@ -1599,6 +1563,7 @@
       </para>
       <para>
         <num>(c)</num>
+        <heading>Policies and Procedures.</heading>
         <text>Written policies and procedures developed pursuant to <cite path="64.4">this chapter</cite> may include requiring tribal programs and other entities within the jurisdiction of this Tribe to provide information about the rights of victims and about remedies and services available, may set standards for service providers concerning domestic and family violence, and may establish protocols for intervention and referrals for services for suspected victims or batterers, and their household and family members.</text>
       </para>
       <annotation type="Prior Codifications">§DMR.04.04 was formerly codified as §64.4</annotation>
@@ -1608,12 +1573,11 @@
       <num>DMR.04.05</num>
       <para>
         <num>(a)</num>
-        <text>
-          <strong>A Domestic Abuse Response Team is hereby created within the Tribe</strong>
-        </text>
+        <heading>Domestic Abuse Response Team.</heading>
+        <text>A Domestic Abuse Response Team is hereby created within the Tribe.</text>
         <para>
           <num>(1)</num>
-          <text>The Domestic Abuse Response Team is intended to coordinate and involve various agencies present in the community in order to;</text>
+          <text>The Domestic Abuse Response Team is intended to coordinate and involve various agencies present in the community in order to:</text>
           <para>
             <num>(A)</num>
             <text>eliminate barriers to meeting the safety and other needs of victims of family violence,</text>
@@ -1638,9 +1602,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <strong>Duties of the Domestic Abuse Response Team</strong>
-        </text>
+        <heading>Duties of the Domestic Abuse Response Team.</heading>
         <para>
           <num>(1)</num>
           <text>The duties of the Domestic Abuse Response Team shall include:</text>
@@ -1650,7 +1612,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>developing a long term plan to promote the Team's purpose as described in Section A. 1.;</text>
+            <text>developing a long term plan to promote the Team's purpose as described in <cite path="§64.5|(A)|(1)">Section 64.5 (A)(1)</cite>;</text>
           </para>
           <para>
             <num>(C)</num>
@@ -1666,11 +1628,11 @@
           </para>
           <para>
             <num>(F)</num>
-            <text>monitoring adherence to the long term plan;</text>
+            <text>monitoring adherence to the long term plan; and</text>
           </para>
           <para>
             <num>(G)</num>
-            <text>and promoting effective strategies for prevention and intervention.</text>
+            <text>promoting effective strategies for prevention and intervention.</text>
           </para>
         </para>
         <para>
@@ -1690,16 +1652,26 @@
         <para>
           <num>(2)</num>
           <text>This requirement applies to the following programs and organizations:</text>
-          <text>
-            <ul proof="needed">
-              <li>Human/Social Services,</li>
-              <li>Housing Health Care Providers,</li>
-              <li>Tribal Council Employment Assistance Program,</li>
-              <li>Tribal Court Domestic Abuse/Shelter Program,</li>
-              <li>Law Enforcement Schools and</li>
-              <li>Day Care</li>
-            </ul>
-          </text>
+          <para>
+            <num>(A)</num>
+            <text>Human/Social Services, Housing</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Health Care Providers, Tribal Council</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Employment Assistance Program, Tribal Court</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Domestic Abuse/Shelter Program, Law Enforcement</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Schools and Day Care</text>
+          </para>
         </para>
         <para>
           <num>(3)</num>
@@ -1712,21 +1684,30 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>
-          <strong>Continuing Education</strong>
-        </text>
+        <heading>Continuing Education.</heading>
         <para>
           <num>(1)</num>
           <text>The policies and procedures developed under the above section shall provide for continuing education of employees concerning domestic and family violence on the following topics:</text>
-          <text>
-            <ul proof="needed">
-              <li>the nature, extent, and causes of domestic and family violence;</li>
-              <li>practices designed to promote safety of the victim and other family and household members, including safety plans;</li>
-              <li>resources available to victims, perpetrators and families such as advocacy, health care, alcohol and mental health treatment, and shelter programs;</li>
-              <li>sensitivity to gender bias and cultural, racial, and sexual issues; and</li>
-              <li>the lethality of domestic and family violence.</li>
-            </ul>
-          </text>
+          <para>
+            <num>(A)</num>
+            <text>the nature, extent, and causes of domestic and family violence;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>practices designed to promote safety of the victim and other family and household members, including safety plans;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>resources available to victims, perpetrators and families such as advocacy, health care, alcohol and mental health treatment, and shelter programs;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>sensitivity to gender bias and cultural, racial, and sexual issues; and</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>the lethality of domestic and family violence.</text>
+          </para>
         </para>
       </para>
       <annotation type="Prior Codifications">§DMR.04.05 was formerly codified as §64.5</annotation>
@@ -1734,12 +1715,18 @@
     <section>
       <heading>Severability</heading>
       <num>DMR.04.06</num>
-      <text>If any part or parts, or the application of any part, of <cite path="64.6">this chapter</cite> is held invalid, such holding shall not affect the validity of the remaining parts of <cite path="64.6">this chapter</cite>. The Stockbridge-Munsee Community hereby declares that it would have passed the remaining parts of <cite path="64.6">this chapter</cite> even if it had known that such part or parts or the application of any part would be declared invalid.</text>
+      <para>
+        <num>(a)</num>
+        <text>If any part or parts, or the application of any part, of <cite path="64.6">this chapter</cite> is held invalid, such holding shall not affect the validity of the remaining parts of <cite path="64.6">this chapter</cite>. The Stockbridge-Munsee Community hereby declares that it would have passed the remaining parts of <cite path="64.6">this chapter</cite> even if it had known that such part or parts or the application of any part would be declared invalid.</text>
+      </para>
       <annotation type="Prior Codifications">§DMR.04.06 was formerly codified as §64.6</annotation>
     </section>
     <annotations>
       <annotation type="Legislative History">
-        <text>Adopted by the Stockbridge-Munsee Community Tribal Council by Resolution 245-97 on September 2, 1997. Transmitted to BIA Area Office on October 27, 1997.</text>
+        <para>
+          <num>1</num>
+          <text>Adopted by the Stockbridge-Munsee Community Tribal Council by Resolution 245-97 on September 2, 1997. Transmitted to BIA Area Office on October 27, 1997.</text>
+        </para>
       </annotation>
     </annotations>
   </container>
