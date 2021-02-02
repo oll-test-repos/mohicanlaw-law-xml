@@ -7,6 +7,10 @@
     <prefix>Chapter</prefix>
     <num>EMP.01</num>
     <heading>Employee Rights Ordinance</heading>
+    <text>
+      <strong>Preamble</strong>
+    </text>
+    <text>The Stockbridge-Munsee Tribe is firmly committed to the principal of tribal self-government. Consistent with federal policy, tribal government provides a wide range of public services, including general governmental services, the maintenance of peace and good order, and the promotion and regulation of economic activities within the sovereign jurisdiction of the tribe. Pursuant to the inherent sovereign powers of the Tribe and the powers expressly delegated to the Tribal Council by the tribal constitution, the tribal government recognizes the need for creating laws to govern and protect its employees, especially where state and federal laws do not apply.</text>
     <section>
       <num>EMP.01.01</num>
       <heading>Purpose</heading>
@@ -95,8 +99,8 @@
       <annotation type="Prior Codifications">§EMP.01.02 was formerly codified as Chapter 53, §53.2</annotation>
     </section>
     <section>
-      <heading>Guaranteed Employee Rights</heading>
       <num>EMP.01.03</num>
+      <heading>Guaranteed Employee Rights</heading>
       <text>The Stockbridge-Munsee Tribal Council ordains that all employees, exempt or nonexempt, are guaranteed basic employment rights as outlined in the following areas:</text>
       <para>
         <num>(a)</num>
@@ -229,8 +233,8 @@
       <annotation type="Prior Codifications">§EMP.01.03 was formerly codified as Chapter 53, §53.3</annotation>
     </section>
     <section>
-      <heading>Other Rights</heading>
       <num>EMP.01.04</num>
+      <heading>Other Rights</heading>
       <text>The rights under this section are listed as employee rights, but are not subject to grievances under <cite path="§EMP.01.05">Section EMP.01.05</cite>.</text>
       <para>
         <num>(a)</num>
@@ -251,8 +255,8 @@
       <annotation type="Prior Codifications">§EMP.01.04 was formerly codified as Chapter 53, §53.35</annotation>
     </section>
     <section>
-      <heading>Employee Appeals To Tribal Court</heading>
       <num>EMP.01.05</num>
+      <heading>Employee Appeals To Tribal Court</heading>
       <para>
         <num>(a)</num>
         <text>As a part of the Stockbridge-Munsee Community's commitment to protect the rights of its employees and promote a stable working environment, the following appeal process is made available to each employee:</text>
@@ -276,14 +280,14 @@
       <annotation type="Prior Codifications">§EMP.01.05 was formerly codified as Chapter 53, §53.4</annotation>
     </section>
     <section>
-      <heading>Statute Of Limitations</heading>
       <num>EMP.01.06</num>
+      <heading>Statute Of Limitations</heading>
       <text>The employee must initiate the court action within 30 calendar days of the event or events that gave rise to the employee's claim.  In cases where the employee initiates the internal dispute resolution process, the employee must initiate the court action within 30 calendar days of receiving the final written communication of the internal dispute resolution process.</text>
       <annotation type="Prior Codifications">§EMP.01.06 was formerly codified as Chapter 53, §53.45</annotation>
     </section>
     <section>
-      <heading>Court Procedures</heading>
       <num>EMP.01.07</num>
+      <heading>Court Procedures</heading>
       <para>
         <num>(a)</num>
         <text>The petition filed in tribal court under this Ordinance may be in any written format, but shall include at least the following information:</text>
@@ -347,8 +351,8 @@
       <annotation type="Prior Codifications">§EMP.01.07 was formerly codified as Chapter 53, §53.5</annotation>
     </section>
     <section>
-      <heading>Business Agents-Registration-Agreements-Enforcement-Jurisdiction</heading>
       <num>EMP.01.08</num>
+      <heading>Business Agents-Registration-Agreements-Enforcement-Jurisdiction</heading>
       <para>
         <num>(a)</num>
         <text>Any person desiring to act as a business agent on Stockbridge-Munsee Tribal lands shall first obtain and continue to be eligible to maintain a gaming license pursuant to the gaming license requirements, and in accordance with other gaming license provisions in <cite path="GMG|GMG.01">Chapter GMG.01</cite>.</text>
@@ -414,10 +418,6 @@
       <text>If any part, portion, or section of this Ordinance is found to be illegal or invalid by a court of competent jurisdiction, the remaining provisions of this Ordinance shall remain in full force and effect and shall remain unaffected.</text>
       <annotation type="Prior Codifications">§EMP.01.09 was formerly codified as Chapter 53, §53.7</annotation>
     </section>
-    <text>
-      <strong>Preamble</strong>
-    </text>
-    <text>The Stockbridge-Munsee Tribe is firmly committed to the principal of tribal self-government. Consistent with federal policy, tribal government provides a wide range of public services, including general governmental services, the maintenance of peace and good order, and the promotion and regulation of economic activities within the sovereign jurisdiction of the tribe. Pursuant to the inherent sovereign powers of the Tribe and the powers expressly delegated to the Tribal Council by the tribal constitution, the tribal government recognizes the need for creating laws to govern and protect its employees, especially where state and federal laws do not apply.</text>
     <annotations>
       <annotation type="Legislative History">
         <para>
@@ -451,6 +451,8 @@
     <prefix>Chapter</prefix>
     <num>EMP.02</num>
     <heading>Employee Preference Policy Ordinance</heading>
+    <text><strong>Purpose:  </strong>Optimum employment in the Stockbridge-Munsee Community for Tribal members, as well as those who live in the Community as spouses or direct descendants, is a critical element to building self-sufficiency, sovereignty and an economy that combats poverty and social ills, and assures that the Stockbridge-Munsee Community receives the maximum benefits generated by its entities and enterprises.</text>
+    <text>The purpose of this ordinance therefore is to provide maximum employment opportunity and preference in hiring and lay-offs, to the people of the Stockbridge-Munsee Community.</text>
     <section>
       <num>EMP.02.01</num>
       <heading>Definitions</heading>
@@ -489,8 +491,8 @@
       <annotation type="Prior Codifications">§EMP.02.01 was formerly codified as Chapter 54, §54.1</annotation>
     </section>
     <section>
-      <heading>Establishing Preference</heading>
       <num>EMP.02.02</num>
+      <heading>Establishing Preference</heading>
       <para>
         <num>(a)</num>
         <text>Preference shall be given according to Section 3 below when it is established that the employee or applicant meets qualifications as stated in the job description or the job announcement. If the person has the qualifications as stated, he or she is eligible for the position and shall not be denied if another person at a lower preference has higher qualifications than are necessary for the position. If more than one person at the same preference level meets qualifications the decision-makers shall have discretionary power. Accordingly, when preparing job descriptions or job announcements care should be taken to establish qualifications that fit the desired needs of the position.</text>
@@ -502,8 +504,8 @@
       <annotation type="Prior Codifications">§EMP.02.02 was formerly codified as Chapter 54, §54.2</annotation>
     </section>
     <section>
-      <heading>Order Of Preference</heading>
       <num>EMP.02.03</num>
+      <heading>Order Of Preference</heading>
       <para>
         <num>(a)</num>
         <text>The following order of preference shall be adhered to when hiring for employment positions or when involuntary layoffs occur:</text>
@@ -547,14 +549,14 @@
       <annotation type="Prior Codifications">§EMP.02.05 was formerly codified as Chapter 54, §54.5</annotation>
     </section>
     <section>
-      <heading>Effect Of Stockbridge-Munsee Employee Rights Ordinance</heading>
       <num>EMP.02.06</num>
+      <heading>Effect Of Stockbridge-Munsee Employee Rights Ordinance</heading>
       <text>When interpreting any section of this ordinance, this ordinance and the employee rights ordinance shall be read as working together to give the employee or applicant the maximum benefits of both ordinances.  Furthermore, if there is any dispute or conflict between the language and provisions of this ordinance and the employee rights' ordinance, those disputes shall be resolved in favor of the employee or applicant.</text>
       <annotation type="Prior Codifications">§EMP.02.06 was formerly codified as Chapter 54, §54.6</annotation>
     </section>
     <section>
-      <heading>Effective Date And Amendments</heading>
       <num>EMP.02.07</num>
+      <heading>Effective Date And Amendments</heading>
       <para>
         <num>(a)</num>
         <text>This ordinance shall be effective upon the approval of a resolution adopting same by the Stockbridge-Munsee Tribal Council.</text>
@@ -566,8 +568,8 @@
       <annotation type="Prior Codifications">§EMP.02.07 was formerly codified as Chapter 54, §54.7</annotation>
     </section>
     <section>
-      <heading>Remedies; Limited Waiver Of Sovereign Immunity For Purposes Of Enforcement</heading>
       <num>EMP.02.08</num>
+      <heading>Remedies; Limited Waiver Of Sovereign Immunity For Purposes Of Enforcement</heading>
       <para>
         <num>(a)</num>
         <text>In order to enforce the provisions of this ordinance, the Stockbridge-Munsee Community shall be subject to suit in the Stockbridge-Munsee Tribal Courts by employees or applicants in accordance with the limitations of this section.</text>
@@ -582,8 +584,6 @@
       </para>
       <annotation type="Prior Codifications">§EMP.02.08 was formerly codified as Chapter 54, §54.8</annotation>
     </section>
-    <text><strong>Purpose:  </strong>Optimum employment in the Stockbridge-Munsee Community for Tribal members, as well as those who live in the Community as spouses or direct descendants, is a critical element to building self-sufficiency, sovereignty and an economy that combats poverty and social ills, and assures that the Stockbridge-Munsee Community receives the maximum benefits generated by its entities and enterprises.</text>
-    <text>The purpose of this ordinance therefore is to provide maximum employment opportunity and preference in hiring and lay-offs, to the people of the Stockbridge-Munsee Community.</text>
     <annotations>
       <annotation type="Legislative History">
         <text>Ordinance to establish Employment Preference Policy adopted by Resolution #046-96 on July 9, 1996.</text>
@@ -723,8 +723,8 @@
       <annotation type="Prior Codifications">§EMP.03.04 was formerly codified as Chapter 55, §55.4</annotation>
     </section>
     <section>
-      <heading>Exempt Employees</heading>
       <num>EMP.03.05</num>
+      <heading>Exempt Employees</heading>
       <text>Exempt employees are defined as follows:</text>
       <para>
         <num>(a)</num>
@@ -749,8 +749,8 @@
       <annotation type="Prior Codifications">§EMP.03.05 was formerly codified as Chapter 55, §55.5</annotation>
     </section>
     <section>
-      <heading>Exempt Employees In Gaming Enterprise</heading>
       <num>EMP.03.06</num>
+      <heading>Exempt Employees In Gaming Enterprise</heading>
       <para>
         <num>(a)</num>
         <text>Due to the intense regulatory nature of an Indian gaming enterprise, an employer that is a gaming enterprise shall be permitted to suspend an exempt gaming employee, without pay, pending formal investigation of any allegations that the employee has violated the Stockbridge-Munsee Gaming Ordinance or other gaming laws. Under this section, such a suspension without pay shall not alter the employee's exempt status.</text>
@@ -758,20 +758,20 @@
       <annotation type="Prior Codifications">§EMP.03.06 was formerly codified as Chapter 55, §55.6</annotation>
     </section>
     <section>
-      <heading>Exempt Employees Managing 638 Contracts</heading>
       <num>EMP.03.07</num>
+      <heading>Exempt Employees Managing 638 Contracts</heading>
       <text>Due to the nature of tribal government programs funded by 638 contracts, and the need to insure against fraud and embezzlement of government funds, the employer shall be permitted to suspend a 638 exempt employee without pay pending formal investigation of any claims of fraud or embezzlement. Under this section, such a suspension without pay shall not alter the employee's exempt status.</text>
       <annotation type="Prior Codifications">§EMP.03.07 was formerly codified as Chapter 55, §55.7</annotation>
     </section>
     <section>
-      <heading>Minimum Wage</heading>
       <num>EMP.03.08</num>
+      <heading>Minimum Wage</heading>
       <text>The minimum wage will be set by resolution of the Tribal Council and shall not be less then the minimum wage as outlined by the Fair Labor Standards Act of 1938 as amended.</text>
       <annotation type="Prior Codifications">§EMP.03.08 was formerly codified as Chapter 55, §55.8</annotation>
     </section>
     <section>
-      <heading>Equal Pay</heading>
       <num>EMP.03.09</num>
+      <heading>Equal Pay</heading>
       <para>
         <num>(a)</num>
         <text>The Mohican Nation shall not discriminate between employees on the basis of sex by paying wages to employees at a rate less than the rate at which it pays wages to employees of the opposite sex for equal work on jobs the performance of which requires equal skill effort and responsibility and which are performed under similar working conditions EXCEPT where such payment is made pursuant to:</text>
@@ -795,14 +795,14 @@
       <annotation type="Prior Codifications">§EMP.03.09 was formerly codified as Chapter 55, §55.9</annotation>
     </section>
     <section>
-      <heading>Child Labor</heading>
       <num>EMP.03.10</num>
+      <heading>Child Labor</heading>
       <text>The Mohican Nation will not employ minors in oppressive labor.  In order to define oppressive labor, the federal Fair Labor Standards Act and any regulations created under it, may be used as a guide to establish a list of occupations, in which the employment of minors will not be permitted.</text>
       <annotation type="Prior Codifications">§EMP.03.10 was formerly codified as Chapter 55, §55.10</annotation>
     </section>
     <section>
-      <heading>Compensatory Time</heading>
       <num>EMP.03.11</num>
+      <heading>Compensatory Time</heading>
       <para>
         <num>(a)</num>
         <text>If the employee consents in writing, compensatory time will be awarded at a rate of one and one half hours compensatory time for each one hour of work in excess of 40 hours worked in a work week. Otherwise, employees shall receive overtime pay at a rate one and one-half times their regular rate of pay for all hours worked in excess of 40 hours worked in a work week.</text>
@@ -822,20 +822,20 @@
       <annotation type="Prior Codifications">§EMP.03.11 was formerly codified as Chapter 55, §55.11</annotation>
     </section>
     <section>
-      <heading>Law Enforcement Officers</heading>
       <num>EMP.03.12</num>
+      <heading>Law Enforcement Officers</heading>
       <text>Employees who are law enforcement officers will be paid at a rate one and one half times their regular rate of pay for any hours worked exceeding 45 hours of work in a work week.</text>
       <annotation type="Prior Codifications">§EMP.03.12 was formerly codified as Chapter 55, §55.12</annotation>
     </section>
     <section>
-      <heading>Determination Of Exempt / Hourly</heading>
       <num>EMP.03.13</num>
+      <heading>Determination Of Exempt / Hourly</heading>
       <text>Until such time that a Tribal FLSO Commission is established, the Department of Human Resources and Legal Department will determine whether an employee is an exempt employee or hourly employee.</text>
       <annotation type="Prior Codifications">§EMP.03.13 was formerly codified as Chapter 55, §55.13</annotation>
     </section>
     <section>
-      <heading>Compensatory Time For Exempt Employees</heading>
       <num>EMP.03.14</num>
+      <heading>Compensatory Time For Exempt Employees</heading>
       <text>Exempt employees will not earn overtime compensation, compensatory time or administrative credits.</text>
       <annotation type="Prior Codifications">§EMP.03.14 was formerly codified as Chapter 55, §55.14</annotation>
     </section>
@@ -913,8 +913,8 @@
       <annotation type="Prior Codifications">§EMP.03.15 was formerly codified as Chapter 55, §55.15</annotation>
     </section>
     <section>
-      <heading>Effective Date; Severability</heading>
       <num>EMP.03.16</num>
+      <heading>Effective Date; Severability</heading>
       <para>
         <num>(a)</num>
         <text>The provisions of this ordinance shall take effect on January 1, 1997.  All employees who have accrued compensatory time (also known as administrative credits) shall retain all hours accrued.</text>
@@ -1046,8 +1046,8 @@
       <annotation type="Prior Codifications">§EMP.04.02 was formerly codified as Chapter 52, §52.2</annotation>
     </section>
     <section>
-      <heading>Persons Eligible</heading>
       <num>EMP.04.03</num>
+      <heading>Persons Eligible</heading>
       <text>The following persons are eligible to apply for compensation under this Ordinance:</text>
       <para>
         <num>(a)</num>
@@ -1092,8 +1092,8 @@
       <annotation type="Prior Codifications">§EMP.04.03 was formerly codified as Chapter 52, §52.3</annotation>
     </section>
     <section>
-      <heading>Employer Liability</heading>
       <num>EMP.04.04</num>
+      <heading>Employer Liability</heading>
       <text>An employer is liable for worker's compensation to a worker when all of the following conditions concur:</text>
       <para>
         <num>(a)</num>
@@ -1138,8 +1138,8 @@
       <annotation type="Prior Codifications">§EMP.04.04 was formerly codified as Chapter 52, §52.4</annotation>
     </section>
     <section>
-      <heading>Reporting An Accident Or Diagnosis Of Cumulative Injury Or Occupational Disease</heading>
       <num>EMP.04.05</num>
+      <heading>Reporting An Accident Or Diagnosis Of Cumulative Injury Or Occupational Disease</heading>
       <para>
         <num>(a)</num>
         <text>Notice to Employer.</text>
@@ -1187,8 +1187,8 @@
       <annotation type="Prior Codifications">§EMP.04.05 was formerly codified as Chapter 52, §52.5</annotation>
     </section>
     <section>
-      <heading>Worker's Compensation Claims Procedure</heading>
       <num>EMP.04.06</num>
+      <heading>Worker's Compensation Claims Procedure</heading>
       <para proof="needed">
         <num>(a)</num>
         <heading>Claim.</heading>
@@ -1243,8 +1243,8 @@
       <annotation type="Prior Codifications">§EMP.04.06 was formerly codified as Chapter 52, §52.6</annotation>
     </section>
     <section>
-      <heading>Medical Care And Examination For Claims</heading>
       <num>EMP.04.07</num>
+      <heading>Medical Care And Examination For Claims</heading>
       <para proof="needed">
         <num>(a)</num>
         <heading>Employer Directed Medical.</heading>
@@ -1342,8 +1342,8 @@
       <annotation type="Prior Codifications">§EMP.04.07 was formerly codified as Chapter 52, §52.7</annotation>
     </section>
     <section>
-      <heading>Claim Closure</heading>
       <num>EMP.04.08</num>
+      <heading>Claim Closure</heading>
       <para>
         <num>(a)</num>
         <text>A worker's compensation claim shall be closed after payment of the worker's last medical treatment when the health care provider determines that the injured worker has reached the point where no further material improvement would reasonably be expected from medical treatment or the passage of time.</text>
@@ -1363,8 +1363,8 @@
       <annotation type="Prior Codifications">§EMP.04.08 was formerly codified as Chapter 52, §52.8</annotation>
     </section>
     <section>
-      <heading>Limitations On Recovery</heading>
       <num>EMP.04.09</num>
+      <heading>Limitations On Recovery</heading>
       <para>
         <num>(a)</num>
         <text>If the worker has a right to recover compensation under this Ordinance, such compensation shall be the exclusive remedy against the employer, any other worker of the same employer, and the insurer.</text>
@@ -1388,14 +1388,14 @@
       <annotation type="Prior Codifications">§EMP.04.09 was formerly codified as Chapter 52, §52.9</annotation>
     </section>
     <section>
-      <heading>Fraudulent Claims</heading>
       <num>EMP.04.10</num>
+      <heading>Fraudulent Claims</heading>
       <text>Nothing in this Ordinance shall be construed to prevent any party from pursuing criminal prosecution or from bringing a civil action for recovery, as appropriate.</text>
       <annotation type="Prior Codifications">§EMP.04.10 was formerly codified as Chapter 52, §52.10</annotation>
     </section>
     <section>
-      <heading>Dispute Resolution</heading>
       <num>EMP.04.11</num>
+      <heading>Dispute Resolution</heading>
       <para>
         <num>(a)</num>
         <text>Controversies between the worker, the employer, or the insurer over the compensation determination may be submitted for dispute resolution.</text>
@@ -1452,8 +1452,8 @@
       <annotation type="Prior Codifications">§EMP.04.12 was formerly codified as Chapter 52, §52.12</annotation>
     </section>
     <section>
-      <heading>Dispute Resolution Procedures</heading>
       <num>EMP.04.13</num>
+      <heading>Dispute Resolution Procedures</heading>
       <para proof="needed">
         <num>(a)</num>
         <heading>Application.</heading>
@@ -1595,8 +1595,8 @@
       <annotation type="Prior Codifications">§EMP.04.13 was formerly codified as Chapter 52, §52.13</annotation>
     </section>
     <section>
-      <heading>Findings, Orders And Awards</heading>
       <num>EMP.04.14</num>
+      <heading>Findings, Orders And Awards</heading>
       <para>
         <num>(a)</num>
         <text>All parties shall be afforded opportunity for a full, fair hearing, but disposition of the dispute may be done by settlement, stipulation, agreement, or default without a hearing.</text>
@@ -1624,8 +1624,8 @@
       <annotation type="Prior Codifications">§EMP.04.14 was formerly codified as Chapter 52, §52.14</annotation>
     </section>
     <section>
-      <heading>Review By The Alj</heading>
       <num>EMP.04.15</num>
+      <heading>Review By The Alj</heading>
       <para>
         <num>(a)</num>
         <text>On its own motion and for reasons that it deems sufficient, the ALJ may set aside its decision in a matter, upon the grounds of mistake or newly discovered evidence, within one year after the date of the decision.</text>
@@ -1641,14 +1641,14 @@
       <annotation type="Prior Codifications">§EMP.04.15 was formerly codified as Chapter 52, §52.15</annotation>
     </section>
     <section>
-      <heading>Judgment On Award</heading>
       <num>EMP.04.16</num>
+      <heading>Judgment On Award</heading>
       <text>If any party presents a certified copy of the award to the Stockbridge-Munsee Tribal Court, the Tribal Court shall, without notice, render judgment in accordance therewith.  A judgment rendered under this Section shall have the same effect as though rendered in an action tried and determined by the Tribal Court.</text>
       <annotation type="Prior Codifications">§EMP.04.16 was formerly codified as Chapter 52, §52.16</annotation>
     </section>
     <section>
-      <heading>Judicial Review</heading>
       <num>EMP.04.17</num>
+      <heading>Judicial Review</heading>
       <para>
         <num>(a)</num>
         <text>Decisions of the ALJ may be appealed for review by the Stockbridge-Munsee Tribal Court, which will act as a court of review, not a fact-finding court.</text>
@@ -1700,8 +1700,8 @@
       <annotation type="Prior Codifications">§EMP.04.17 was formerly codified as Chapter 52, §52.17</annotation>
     </section>
     <section>
-      <heading>Disability Benefits</heading>
       <num>EMP.04.18</num>
+      <heading>Disability Benefits</heading>
       <para proof="needed">
         <num>(a)</num>
         <heading>Definitions.</heading>
@@ -1889,8 +1889,8 @@
       <annotation type="Prior Codifications">§EMP.04.18 was formerly codified as Chapter 52, §52.18</annotation>
     </section>
     <section>
-      <heading>Limitations On Compensation</heading>
       <num>EMP.04.19</num>
+      <heading>Limitations On Compensation</heading>
       <para>
         <num>(a)</num>
         <text>In cases where it is determined that periodic benefits granted by the federal Social Security Act are paid to the worker because of disability, the benefits payable under this Ordinance shall be reduced as discussed in <strong><cite doc="Wis. Stat." path="§102.44">Wis. Stat. § 102.44</cite> (5)</strong>.</text>
@@ -1954,8 +1954,8 @@
       <annotation type="Prior Codifications">§EMP.04.19 was formerly codified as Chapter 52, §52.19</annotation>
     </section>
     <section>
-      <heading>Pre-Existing Medical Conditions</heading>
       <num>EMP.04.20</num>
+      <heading>Pre-Existing Medical Conditions</heading>
       <para>
         <num>(a)</num>
         <text>If the worker has a pre-existing medical condition when an injury arises and that condition delays or prevents complete recovery, it shall be ascertained, as nearly as possible:</text>
@@ -1975,8 +1975,8 @@
       <annotation type="Prior Codifications">§EMP.04.20 was formerly codified as Chapter 52, §52.20</annotation>
     </section>
     <section>
-      <heading>Recovery For Compensation In Error Or Due To Fraud</heading>
       <num>EMP.04.21</num>
+      <heading>Recovery For Compensation In Error Or Due To Fraud</heading>
       <para>
         <num>(a)</num>
         <text>The worker shall repay such compensation that the worker is not entitled to and is received because of a clerical error, mistaken identity, innocent misrepresentation mistakenly acted upon, or any other circumstance of a similar nature and not induced by fraud.</text>
@@ -2008,8 +2008,8 @@
       <annotation type="Prior Codifications">§EMP.04.21 was formerly codified as Chapter 52, §52.21</annotation>
     </section>
     <section>
-      <heading>Effect Of Other Laws</heading>
       <num>EMP.04.22</num>
+      <heading>Effect Of Other Laws</heading>
       <text>Wisconsin worker's compensation law and permanent partial disability schedules (Wis. Stat. Chap. 102 and regulations) shall be used to inform and interpret Stockbridge-Munsee tribal law regarding worker's compensation benefits.  This refers to the law in effect at the time this Ordinance is adopted and subsequent amendments to those statutes and regulations.</text>
       <annotation type="Prior Codifications">§EMP.04.22 was formerly codified as Chapter 52, §52.22</annotation>
     </section>
@@ -2084,8 +2084,8 @@
       <annotation type="Prior Codifications">§EMP.05.02 was formerly codified as Chapter 55-A, §55-A.2</annotation>
     </section>
     <section>
-      <heading>Payment Of Prevailing Wage Required</heading>
       <num>EMP.05.03</num>
+      <heading>Payment Of Prevailing Wage Required</heading>
       <para>
         <num>(a)</num>
         <text>At the first Tribal Council meeting of each fiscal year, Tribal Council shall consider changes to the established Prevailing Wage.  If Tribal Council desires to make any changes to the Prevailing Wage, the changes shall make the changes by motion.</text>
@@ -2113,8 +2113,8 @@
       <annotation type="Prior Codifications">§EMP.05.03 was formerly codified as Chapter 55-A, §55-A.3</annotation>
     </section>
     <section>
-      <heading>Determination Of Tribal Prevailing Wage</heading>
       <num>EMP.05.04</num>
+      <heading>Determination Of Tribal Prevailing Wage</heading>
       <para>
         <num>(a)</num>
         <text>At the first Tribal Council meeting of each fiscal year, Tribal Council shall consider changes to the established Prevailing Wage.  If Tribal Council desires to make any changes to the Prevailing Wage, the changes shall make the changes by motion.</text>
@@ -2142,8 +2142,8 @@
       <annotation type="Prior Codifications">§EMP.05.04 was formerly codified as Chapter 55-A, §55-A.3</annotation>
     </section>
     <section>
-      <heading>Employer Requirements</heading>
       <num>EMP.05.05</num>
+      <heading>Employer Requirements</heading>
       <para>
         <num>(a)</num>
         <text>Payment of Prevailing Wages.  Each contractor/employer, including the Tribe, when performing under an agreement pursuant to Acts or an agreement designated by Council, shall pay the established Prevailing Wage, and shall maintain payroll records reporting the hourly wages paid to each employee.</text>
@@ -2171,8 +2171,8 @@
       <annotation type="Prior Codifications">§EMP.05.05 was formerly codified as Chapter 55-A, §55-A.4</annotation>
     </section>
     <section>
-      <heading>Tribal Court Jurisdiction</heading>
       <num>EMP.05.06</num>
+      <heading>Tribal Court Jurisdiction</heading>
       <para>
         <num>(a)</num>
         <text>The Stockbridge-Munsee Tribal Court shall have jurisdiction to hear actions to enforce the provisions of this Ordinance.</text>
@@ -2236,8 +2236,8 @@
       <annotation type="Prior Codifications">§EMP.05.06 was formerly codified as Chapter 55-A, §55-A.5</annotation>
     </section>
     <section>
-      <heading>Sovereign Immunity</heading>
       <num>EMP.05.07</num>
+      <heading>Sovereign Immunity</heading>
       <text>Nothing in this Ordinance shall provide or be interpreted to provide a waiver of the Stockbridge-Munsee Community, or any of its governmental officers' and/or agents' and/or employees' sovereign immunity from suit.</text>
       <annotation type="Prior Codifications">§EMP.05.07 was formerly codified as Chapter 55-A, §55-A.6</annotation>
     </section>
@@ -2248,8 +2248,8 @@
       <annotation type="Prior Codifications">§EMP.05.08 was formerly codified as Chapter 55-A, §55-A.7</annotation>
     </section>
     <section>
-      <heading>Effective Date</heading>
       <num>EMP.05.09</num>
+      <heading>Effective Date</heading>
       <text>This Ordinance shall take effect ten days after Bureau of Indian Affairs approval.  This Ordinance applies only to projects that the Tribe has not yet accepted for bid.  In no way should this Ordinance apply to projects already where the Tribe has accepted bids or bids/projects that are currently in progress.</text>
       <annotation type="Prior Codifications">§EMP.05.09 was formerly codified as Chapter 55-A, §55-A.8</annotation>
     </section>

@@ -58,8 +58,8 @@
       <annotation type="Prior Codifications">§GOV.01.01 was formerly codified as Chapter 2, §2.1</annotation>
     </section>
     <section>
-      <heading>Enforcement; Waiver</heading>
       <num>GOV.01.02</num>
+      <heading>Enforcement; Waiver</heading>
       <para>
         <num>(a)</num>
         <text>In order to enforce the provisions of this Ordinance, the Tribe shall be subject to suit in law and equity for declaratory judgment and prospective injunctive relief in the Stockbridge-Munsee Tribal Court by persons subject to the jurisdiction of the Stockbridge-Munsee Tribal Court. No money damages shall be available in suits under this section.</text>
@@ -122,8 +122,8 @@
       <annotation type="Prior Codifications">§GOV.02.02 was formerly codified as Chapter 29, §29.2</annotation>
     </section>
     <section>
-      <heading>Sovereign Immunity</heading>
       <num>GOV.02.03</num>
+      <heading>Sovereign Immunity</heading>
       <para>
         <num>(a)</num>
         <text>The Stockbridge-Munsee Community is immune from suit except to the extent that the Tribal Council expressly waives sovereign immunity by resolution or by enactment of an ordinance.</text>
@@ -150,6 +150,7 @@
     <prefix>Chapter</prefix>
     <num>GOV.03</num>
     <heading>Election Ordinance</heading>
+    <text>In pursuit of impartial and equitable elections, the Stockbridge Munsee Community, pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="IV|6">Article IV, Section 6, of its Constitution</cite> and by-laws, hereby establishes the date and manner by which tribal elections shall be conducted.</text>
     <section>
       <num>GOV.03.01</num>
       <heading>Election Board</heading>
@@ -192,20 +193,20 @@
       <annotation type="Prior Codifications">§GOV.03.01 was formerly codified as Chapter 49, §49.1</annotation>
     </section>
     <section>
-      <heading>Duty Of Election Board</heading>
       <num>GOV.03.02</num>
+      <heading>Duty Of Election Board</heading>
       <text>It shall be the duty of the Election Board to conduct all required  elections during the annual election cycle and the caucus.  Disputes arising out of the election process, including the caucus, shall be resolved by the Election Board or Stockbridge-Munsee Tribal Court consistent with this Ordinance and the Tribe's goal of having impartial and equitable elections.  The Election Board has authority over all proceedings it administers and oversees, subject to the oversight of the Tribal Court consistent with this Ordinance.</text>
       <annotation type="Prior Codifications">§GOV.03.02 was formerly codified as Chapter 49, §49.2</annotation>
     </section>
     <section>
-      <heading>Tribal Caucus</heading>
       <num>GOV.03.03</num>
+      <heading>Tribal Caucus</heading>
       <text>On the third Saturday of August at 2:00 P.M., a caucus shall be held at one of the recognized and established meeting places for the community.  A notice of the caucus shall be posted by the council secretary at least ten (10) days prior to the caucus.  Copies of the notice shall be posted prominently within the community and the council secretary shall otherwise provide for its publication on the tribal website, in the tribal newspaper, and other newspapers as may be necessary.</text>
       <annotation type="Prior Codifications">§GOV.03.03 was formerly codified as Chapter 49, §49.3</annotation>
     </section>
     <section>
-      <heading>Nomination At The Caucus</heading>
       <num>GOV.03.04</num>
+      <heading>Nomination At The Caucus</heading>
       <text>The caucus shall be conducted by the Election Board as follows:</text>
       <para>
         <num>(a)</num>
@@ -234,8 +235,8 @@
       <annotation type="Prior Codifications">§GOV.03.04 was formerly codified as Chapter 49, §49.4</annotation>
     </section>
     <section>
-      <heading>Nomination Outside Of The Caucus And Close Of Nominations</heading>
       <num>GOV.03.05</num>
+      <heading>Nomination Outside Of The Caucus And Close Of Nominations</heading>
       <para>
         <num>(a)</num>
         <text>Any eligible tribal member shall have the privilege of running for tribal council if not nominated during the caucus provided that he/she presents to the Election Board a petition form bearing the name, enrollment number, date of birth and signature of at least fifteen (15) qualified tribal voters prior to the close of nominations.</text>
@@ -247,8 +248,8 @@
       <annotation type="Prior Codifications">§GOV.03.05 was formerly codified as Chapter 49, §49.5</annotation>
     </section>
     <section>
-      <heading>Certified Candidate List And Need For Primary Election</heading>
       <num>GOV.03.06</num>
+      <heading>Certified Candidate List And Need For Primary Election</heading>
       <para>
         <num>(a)</num>
         <text>Within five (5) days of the close of nominations, the Election Board shall meet to review and verify all acceptance/declination letters and petitions to prepare a certified list of all candidates for each office.</text>
@@ -304,8 +305,8 @@
       <annotation type="Prior Codifications">§GOV.03.06 was formerly codified as Chapter 49, §49.6</annotation>
     </section>
     <section>
-      <heading>Primary Election</heading>
       <num>GOV.03.07</num>
+      <heading>Primary Election</heading>
       <para>
         <num>(a)</num>
         <text>The purpose of a primary election is to reduce the number of candidates running for each office.</text>
@@ -333,14 +334,14 @@
       <annotation type="Prior Codifications">§GOV.03.07 was formerly codified as Chapter 49, §49.6.5</annotation>
     </section>
     <section>
-      <heading>General Election</heading>
       <num>GOV.03.08</num>
+      <heading>General Election</heading>
       <text>The annual general election shall take place on the second Saturday of October, and shall be held at the headquarters of the Stockbridge-Munsee Community.  The voting shall take place between the hours of 8:00 A.M. and 8:00 P.M., and voting shall be by secret ballot in booths provided for that purpose.</text>
       <annotation type="Prior Codifications">§GOV.03.08 was formerly codified as Chapter 49, §49.7</annotation>
     </section>
     <section>
-      <heading>Procedures For Conducting Elections</heading>
       <num>GOV.03.09</num>
+      <heading>Procedures For Conducting Elections</heading>
       <text>The Election Board having sole authority to conduct an election shall follow these procedures:</text>
       <para>
         <num>(a)</num>
@@ -473,8 +474,8 @@
       <annotation type="Prior Codifications">§GOV.03.09 was formerly codified as Chapter 49, §49.8</annotation>
     </section>
     <section>
-      <heading>Contested Ballots</heading>
       <num>GOV.03.10</num>
+      <heading>Contested Ballots</heading>
       <para>
         <num>(a)</num>
         <text>Should a voter's eligibility to vote be challenged, the voter will be permitted to vote except that the ballot shall not be counted.  Instead, the vote shall be recorded using the following process.</text>
@@ -538,8 +539,8 @@
       <annotation type="Prior Codifications">§GOV.03.10 was formerly codified as Chapter 49, §49.8.5</annotation>
     </section>
     <section>
-      <heading>Vote Tally</heading>
       <num>GOV.03.11</num>
+      <heading>Vote Tally</heading>
       <para>
         <num>(a)</num>
         <text>Immediately after the closing of the polls and the counting of any contested ballots, the Election Board Judge shall insert the Ender Card into the vote counting machine, and retrieve the paper Election Zero Report and the Election Results Report in full view of the Election Board.</text>
@@ -563,8 +564,8 @@
       <annotation type="Prior Codifications">§GOV.03.11 was formerly codified as Chapter 49, §49.9</annotation>
     </section>
     <section>
-      <heading>Spoiled And/Or Uncounted Ballots</heading>
       <num>GOV.03.12</num>
+      <heading>Spoiled And/Or Uncounted Ballots</heading>
       <para>
         <num>(a)</num>
         <text>In cases where individual write-in ballots contain more votes than are required, or are marked in such a way as to make determination of how the vote was cast, then such ballots shall not be counted, but recorded as a spoiled ballot.</text>
@@ -576,8 +577,8 @@
       <annotation type="Prior Codifications">§GOV.03.12 was formerly codified as Chapter 49, §49.10</annotation>
     </section>
     <section>
-      <heading>Certification Of Election Results</heading>
       <num>GOV.03.13</num>
+      <heading>Certification Of Election Results</heading>
       <para>
         <num>(a)</num>
         <text>Upon the completion of the final vote count, the Election Board shall fill out the certification forms, showing the number of votes cast for each candidate, the total number of votes cast, the number of spoiled ballots, and the number of contested ballots.</text>
@@ -605,8 +606,8 @@
       <annotation type="Prior Codifications">§GOV.03.13 was formerly codified as Chapter 49, §49.11</annotation>
     </section>
     <section>
-      <heading>Vote Recount</heading>
       <num>GOV.03.14</num>
+      <heading>Vote Recount</heading>
       <para>
         <num>(a)</num>
         <text>Candidates may request a recount of the election results in relation to the office for which they had run, if a written request is submitted to the Election Board judge within three (3) working days of the election.</text>
@@ -642,8 +643,8 @@
       <annotation type="Prior Codifications">§GOV.03.14 was formerly codified as Chapter 49, §49.11.5</annotation>
     </section>
     <section>
-      <heading>Tied Vote In General Election And Run-Off Election</heading>
       <num>GOV.03.15</num>
+      <heading>Tied Vote In General Election And Run-Off Election</heading>
       <para>
         <num>(a)</num>
         <text>The Election Board shall hold a run-off election when there is a tied vote for a seat on Tribal Council after a general election.  The winner of the run-off election will be seated and the other candidate will not take office.</text>
@@ -659,8 +660,8 @@
       <annotation type="Prior Codifications">§GOV.03.15 was formerly codified as Chapter 49, §49.11.7</annotation>
     </section>
     <section>
-      <heading>Election Board Authority</heading>
       <num>GOV.03.16</num>
+      <heading>Election Board Authority</heading>
       <para>
         <num>(a)</num>
         <text>The Election Board shall:</text>
@@ -749,8 +750,8 @@
       <annotation type="Prior Codifications">§GOV.03.16 was formerly codified as Chapter 49, §49.12</annotation>
     </section>
     <section>
-      <heading>Tribal Court Authority To Hear Appeals</heading>
       <num>GOV.03.17</num>
+      <heading>Tribal Court Authority To Hear Appeals</heading>
       <para>
         <num>(a)</num>
         <text>The Stockbridge-Munsee Tribal Court shall have the authority to directly hear any election challenges that exceed the Election Board's authority to hear procedural challenges under <cite path="§GOV.03.16">Section GOV.03.16</cite>.  Any direct action to the Tribal Court shall follow the procedure outlined under this Section.</text>
@@ -814,26 +815,26 @@
       <annotation type="Prior Codifications">§GOV.03.17 was formerly codified as Chapter 49, §49.12.5</annotation>
     </section>
     <section>
-      <heading>Compensation For Election Board</heading>
       <num>GOV.03.18</num>
+      <heading>Compensation For Election Board</heading>
       <text>The Election Board shall have the right to receive proper compensation for the performance of its duties. The amount of which shall be determined by the Tribal Council which shall cause the same to be paid in a timely manner.</text>
       <annotation type="Prior Codifications">§GOV.03.18 was formerly codified as Chapter 49, §49.13</annotation>
     </section>
     <section>
-      <heading>Tribal Council Obligation To Election Board</heading>
       <num>GOV.03.19</num>
+      <heading>Tribal Council Obligation To Election Board</heading>
       <text>The Stockbridge-Munsee Tribal Council shall provide to the Election Board all materials that it deems necessary to conduct such election and shall provide for adequate security to protect both the people and the premises where the election is held.</text>
       <annotation type="Prior Codifications">§GOV.03.19 was formerly codified as Chapter 49, §49.14</annotation>
     </section>
     <section>
-      <heading>Effective Date And Previous Ordinances Superseded</heading>
       <num>GOV.03.20</num>
+      <heading>Effective Date And Previous Ordinances Superseded</heading>
       <text>Amendments to this Election Ordinance shall be effective upon Bureau of Indian Affairs approval.  This Election Ordinance, as amended, shall supersede any and all previous election ordinances governing the conduct of holding elections.</text>
       <annotation type="Prior Codifications">§GOV.03.20 was formerly codified as Chapter 49, §49.15</annotation>
     </section>
     <section>
-      <heading>Elected Office</heading>
       <num>GOV.03.21</num>
+      <heading>Elected Office</heading>
       <para>
         <num>(a)</num>
         <text>Persons newly-elected to office will be required to swear or affirm an oath of office.</text>
@@ -853,8 +854,8 @@
       <annotation type="Prior Codifications">§GOV.03.21 was formerly codified as Chapter 49, §49.16</annotation>
     </section>
     <section>
-      <heading>Prohibited Acts</heading>
       <num>GOV.03.22</num>
+      <heading>Prohibited Acts</heading>
       <text>No person shall engage in acts or omissions in an attempt to impede or influence the voting or election.  Persons who disrupt the voting process or who are not authorized to be present at the polling place will be removed from the premises.  Violations of law may be forwarded for prosecution as appropriate.</text>
       <annotation type="Prior Codifications">§GOV.03.22 was formerly codified as Chapter 49, §49.17</annotation>
     </section>
@@ -865,8 +866,8 @@
       <annotation type="Prior Codifications">§GOV.03.23 was formerly codified as Chapter 49, §49.18</annotation>
     </section>
     <section>
-      <heading>Recall Election</heading>
       <num>GOV.03.24</num>
+      <heading>Recall Election</heading>
       <para>
         <num>(a)</num>
         <text>Recall elections for the removal of a Tribal Council member are conducted in accordance with the procedures outlined under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="V|2">Article V, Section 2 of the Stockbridge-Munsee Constitution</cite>.</text>
@@ -877,7 +878,7 @@
       </para>
       <annotation type="Prior Codifications">§GOV.03.24 was formerly codified as Chapter 49, §49.19</annotation>
     </section>
-    <text>In pursuit of impartial and equitable elections, the Stockbridge Munsee Community, pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="IV|6">Article IV, Section 6, of its Constitution</cite> and by-laws, hereby establishes the date and manner by which tribal elections shall be conducted.</text>
+
     <annotations>
       <annotation type="Legislative History">8. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 025-18">Resolution No. 025-18</cite>, adopted March 6, 2018, approved by BIA on July 10, 2018.</annotation>
       <annotation type="Legislative History">7. On October 14, 2017, the Tribe held an advisory referendum on whether to add a primary election to the annual election cycle. The majority of tribal members voting in the referendum supported adding the primary election.</annotation>

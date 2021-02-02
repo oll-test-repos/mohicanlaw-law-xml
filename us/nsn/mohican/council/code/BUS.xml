@@ -7,6 +7,10 @@
     <prefix>Chapter</prefix>
     <num>BUS.01</num>
     <heading>Liquor Control Ordinance</heading>
+    <text>WHEREAS, Public Law 277, 83<sup>rd</sup> Congress, 1<sup>st</sup> Session, approved August 15, 1953 and codified at sec. 1161 of Title 18, United States Code, provides that Sections 1154, 1156, 3113, 3488, 3618 of Title 18 of the United States Code shall not apply within any area that is not Indian Country, nor to any act or transaction within any area of Indian Country, provided such act or transaction is in conformity both with the laws of the State in which such act or transaction occurs and with an ordinance duly adopted by the Tribe having jurisdiction over such area of Indian Country, certified by the Secretary of the Interior, and published in the Federal Register; and</text>
+    <text>WHEREAS, it is the desire of the Tribal Council of the Stockbridge-Munsee Community of Wisconsin to adopt a liquor control ordinance in the Indian Country that lies within the jurisdiction of the Community; and</text>
+    <text>WHEREAS, the Tribal Council of the Stockbridge-Munsee Community of Wisconsin has the authority to adopt ordinances regulating liquor in the Indian Country that lies within the jurisdiction of the Community, by virtue of the provisions of Article VII, sections 11(a), (e) and (h) of the Constitution of the Stockbridge-Munsee Community of Wisconsin, adopted October 30, 1937;</text>
+    <text>NOW THEREFORE BE IT RESOLVED that the Tribal Council of the Stockbridge-Munsee Community of Wisconsin authorizes the issuance of licenses for sale of alcohol beverages within the Indian Country that lies within the jurisdiction of the Community, provided:</text>
     <section>
       <num>BUS.01.01</num>
       <heading>Licenses</heading>
@@ -91,8 +95,8 @@
       <annotation type="Prior Codifications">§BUS.01.02 was formerly codified as Chapter 31, §31.2</annotation>
     </section>
     <section>
-      <heading>Authority Of The Tribal Council</heading>
       <num>BUS.01.03</num>
+      <heading>Authority Of The Tribal Council</heading>
       <para>
         <num>(a)</num>
         <text>The Tribal Council, or any individual member thereof or any person acting with prior written authorization of the Tribal Council may enter any premises licensed under this ordinance at any time to observe the activities taking place.</text>
@@ -108,112 +112,159 @@
       <annotation type="Prior Codifications">§BUS.01.03 was formerly codified as Chapter 31, §31.3</annotation>
     </section>
     <section>
-      <heading>Separate Licenses For Each Facility</heading>
       <num>BUS.01.04</num>
+      <heading>Separate Licenses For Each Facility</heading>
       <text>Each Tribally owned entity licensed under this Ordinance shall be required to file a separate application and hold a separate license for each facility it operates.</text>
       <annotation type="Prior Codifications">§BUS.01.04 was formerly codified as Chapter 31, §31.4</annotation>
     </section>
     <section>
-      <heading>Transfer Of Licenses Prohibited</heading>
       <num>BUS.01.05</num>
+      <heading>Transfer Of Licenses Prohibited</heading>
       <text>No license issued under this Ordinance may be transferred to any other entity or person.</text>
       <annotation type="Prior Codifications">§BUS.01.05 was formerly codified as Chapter 31, §31.5</annotation>
     </section>
     <section>
-      <heading>State Law Applicable</heading>
       <num>BUS.01.06</num>
+      <heading>State Law Applicable</heading>
       <text>The Stockbridge-Munsee Community recognizes the applicability of general State law governing the sales of alcohol beverages.</text>
       <annotation type="Prior Codifications">§BUS.01.06 was formerly codified as Chapter 31, §31.6</annotation>
     </section>
     <section>
-      <heading>State Law Adopted</heading>
       <num>BUS.01.07</num>
+      <heading>State Law Adopted</heading>
       <text>The Stockbridge-Munsee Community hereby adopts for purposes of Tribal enforcement against any entity licensed by the Tribe under this ordinance the following provisions, as modified, of <cite path="125">Chapter 125</cite> of the Wisconsin Statutes:</text>
-      <text><cite path="§125.02">125.02</cite>Definitions. Except as otherwise provided, in this ordinance:</text>
-      <text><cite path="§125.02|(1)">125.02 (1)</cite> "Alcohol beverages" means fermented malt beverages, wine and intoxicating liquor as defined below.</text>
-      <text><cite path="§125.02|(6)">125.02 (6)</cite> "Fermented malt beverage" means any beverage made by the alcohol fermentation  of an infusion in potable water of barley malt and hops, with or without unmalted grains or decorticated and degerminated grains or sugar containing <cite path="§0.5">0.5</cite>% or more alcohol by volume.</text>
-      <text><cite path="§125.02|(8)">125.02 (8)</cite> "Intoxicating liquor" means all ardent, spirituous, distilled or vinous liquors, liquids or compounds, whether medicated, proprietary, patented or not, and by whatever named called, containing <cite path="§0.5">0.5</cite>% or more of alcohol by volume, which are beverages, but does not include "fermented malt beverages".</text>
-      <text><cite path="§125.02|(22)">125.02 (22)</cite> "Wine" means products obtained from the normal alcohol fermentation of the juice or must of sound, ripe grapes, other fruits or other agricultural products, imitation wine, compounds sold as wine, vermouth, cider, perry, mead and sake, if such products contain <cite path="§0.5">0.5</cite>% or more of alcohol by volume.</text>
-      <text><cite path="§125.02|(8m)">125.02 (8m)</cite> "Legal drinking age" means 21 years of age.</text>
-      <text><cite path="§125.02|(14)">125.02 (14)</cite> "Person" means a natural person, sole proprietorship, partnership, corporation or association.</text>
-      <text><cite path="§125.02|(14m)">125.02 (14m)</cite> "Premises" means the area described in a license issued by the Tribal Council.</text>
-      <text><cite path="§125.02|(17)">125.02 (17)</cite> "Regulation" means any rule or ordinance adopted by the Tribal Council.</text>
-      <text><cite path="§125.02|(20)">125.02 (20)</cite> "Sell", "sold", "sale" or "selling" means any transfer of alcohol beverages with consideration or any transfer without consideration if knowingly made for purposes of evading the law relating to the sale of alcohol beverages or a device, scheme or transaction for obtaining alcohol beverages, including the solicitation of orders for, or the sale for future delivery of, alcohol beverages.</text>
-      <text><cite path="§125.02|(20)">125.02 (20)</cite> "Underage person" means a person who has not attained the legal drinking age.</text>
-      <text><cite path="§125.04|(1)">125.04 (1)</cite> General licensing requirement. No person may sell, manufacture, rectify, or brew any alcoholic beverage, or engage in any other activity for which this ordinance provides a license without holding the appropriate license.</text>
-      <text><cite path="§125.04|(2)">125.04 (2)</cite> No license to be issued in violation of this ordinance. No license may be issued to any person except as provided in this ordinance. Any license issued in violation of this ordinance is void.</text>
-      <text><cite path="§125.04|(10)">125.04 (10)</cite> License to be framed and posted.</text>
-      <para proof="needed">
-        <num>(a)</num>
-        <heading>Frame.</heading>
-        <text>Licenses for the sale of alcohol beverages shall be enclosed in frame having a transparent front which allows the license to be clearly read.</text>
-      </para>
-      <para proof="needed">
-        <num>(b)</num>
-        <heading>Display.</heading>
-        <text>Licenses  shall be conspicuously displayed for public inspection at all times in the room or place where the sale of alcohol beverages is carried on.</text>
-      </para>
-      <aftertext>
-        <ul proof="needed">
-          <li>Underage and intoxicated persons; presence on licensed premises; possession; penalties.</li>
-        </ul>
-      </aftertext>
-      <para>
-        <num>(c)</num>
-        <text>Alcohol beverages; Restrictions relating to underage persons.</text>
-        <para>
-          <num>(1)</num>
-          <text>.  No person may procure for, sell, dispense or give away any  alcohol beverages to any underage person not accompanied by his or her parent, guardian or spouse who has attained the legal drinking age.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>No licensee may sell, vend, deal or traffic in alcohol beverages to or with any underage person not accompanied by his or her parent, guardian or spouse who has attained the legal drinking age.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>No adult may knowingly permit or fail to take action to prevent the illegal consumption of alcohol beverages by an underage person on premises  under the adult's control.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>No adult may intentionally encourage or contribute to a violation of this section.</text>
-        </para>
-      </para>
-      <aftertext>125.07 (2) (b)  Sales of alcohol to intoxicated persons.</aftertext>
-      <para>
-        <num>(d)</num>
-        <text>No person may procure for, sell, dispense or give away alcohol beverages to a person who is intoxicated.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>No licensee may sell, vend, deal or traffic in alcohol beverages to or with a person who is intoxicated.</text>
-      </para>
-      <aftertext>
-        <ul proof="needed">
-          <li>Any Tribal entity selling alcohol beverages shall require the proof of age specified by this section.</li>
-        </ul>
-      </aftertext>
-      <para proof="needed">
-        <num>(f)</num>
-        <heading>Definition.</heading>
-        <text>In this section, "official identification card" means a valid operator's license issued under <cite path="343">chapter 343</cite> of the Wisconsin Statutes that contains the photograph of the holder, an identification card issued under <cite path="§343.50">section 343.50</cite> of the Wisconsin Statutes or an identification card issued under <cite path="§125.08">section 125.08</cite> of the Wisconsin Statutes.</text>
-      </para>
-      <para proof="needed">
-        <num>(g)</num>
-        <heading>Use.</heading>
-        <text>No card other than the identification card authorized under this section may be recognized as an official identification card by the Tribe for purposes of obtaining alcohol beverages at any Tribally licensed entity.</text>
-      </para>
+      <include>
+        <section>
+          <num>125.02</num>
+          <heading>Definitions.</heading>
+          <text>Except as otherwise provided, in this ordinance:</text>
+          <para>
+            <num>(1)</num>
+            <text>"Alcohol beverages" means fermented malt beverages, wine and intoxicating liquor as defined below.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>"Fermented malt beverage" means any beverage made by the alcohol fermentation  of an infusion in potable water of barley malt and hops, with or without unmalted grains or decorticated and degerminated grains or sugar containing 0.5% or more alcohol by volume.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>"Intoxicating liquor" means all ardent, spirituous, distilled or vinous liquors, liquids or compounds, whether medicated, proprietary, patented or not, and by whatever named called, containing 0.5% or more of alcohol by volume, which are beverages, but does not include "fermented malt beverages".</text>
+          </para>
+          <para>
+            <num>(22)</num>
+            <text>"Wine" means products obtained from the normal alcohol fermentation of the juice or must of sound, ripe grapes, other fruits or other agricultural products, imitation wine, compounds sold as wine, vermouth, cider, perry, mead and sake, if such products contain 0.5% or more of alcohol by volume.</text>
+          </para>
+          <para>
+            <num>(8m)</num>
+            <text>"Legal drinking age" means 21 years of age.</text>
+          </para>
+          <para>
+            <num>(14)</num>
+            <text>"Person" means a natural person, sole proprietorship, partnership, corporation or association.</text>
+          </para>
+          <para>
+            <num>(14m)</num>
+            <text>"Premises" means the area described in a license issued by the Tribal Council.</text>
+          </para>
+          <para>
+            <num>(17)</num>
+            <text>"Regulation" means any rule or ordinance adopted by the Tribal Council.</text>
+          </para>
+          <para>
+            <num>(20)</num>
+            <text>"Sell", "sold", "sale" or "selling" means any transfer of alcohol beverages with consideration or any transfer without consideration if knowingly made for purposes of evading the law relating to the sale of alcohol beverages or a device, scheme or transaction for obtaining alcohol beverages, including the solicitation of orders for, or the sale for future delivery of, alcohol beverages.</text>
+          </para>
+          <para>
+            <num>(20m)</num>
+            <text>"Underage person" means a person who has not attained the legal drinking age.</text>
+          </para>
+        </section>
+        <section>
+          <num>125.04</num>
+          <para>
+            <num>(1)</num>
+            <heading>General licensing requirement.</heading>
+            <text>No person may sell, manufacture, rectify, or brew any alcoholic beverage, or engage in any other activity for which this ordinance provides a license without holding the appropriate license.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>No license to be issued in violation of this ordinance.</heading>
+            <text>No license may be issued to any person except as provided in this ordinance. Any license issued in violation of this ordinance is void.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <heading>License to be framed and posted.</heading>
+            <para>
+              <num>(a)</num>
+              <heading>Frame.</heading>
+              <text>Licenses for the sale of alcohol beverages shall be enclosed in frame having a transparent front which allows the license to be clearly read.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <heading>Display.</heading>
+              <text>Licenses  shall be conspicuously displayed for public inspection at all times in the room or place where the sale of alcohol beverages is carried on.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>125.07</num>
+          <heading>Underage and intoxicated persons; presence on licensed premises; possession; penalties.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Alcohol beverages; Restrictions relating to underage persons.</heading>
+            <para>
+              <num>(1)</num>
+              <text>No person may procure for, sell, dispense or give away any  alcohol beverages to any underage person not accompanied by his or her parent, guardian or spouse who has attained the legal drinking age.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>No licensee may sell, vend, deal or traffic in alcohol beverages to or with any underage person not accompanied by his or her parent, guardian or spouse who has attained the legal drinking age.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>No adult may knowingly permit or fail to take action to prevent the illegal consumption of alcohol beverages by an underage person on premises  under the adult's control.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>No adult may intentionally encourage or contribute to a violation of this section.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Sales of alcohol to intoxicated persons.</heading>
+            <para>
+              <num>(1)</num>
+              <text>No person may procure for, sell, dispense or give away alcohol beverages to a person who is intoxicated.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>No licensee may sell, vend, deal or traffic in alcohol beverages to or with a person who is intoxicated.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>125.85</num>
+          <text>Any Tribal entity selling alcohol beverages shall require the proof of age specified by this section.</text>
+          <para>
+            <num>(a)</num>
+            <heading>Definition.</heading>
+            <text>In this section, "official identification card" means a valid operator's license issued under <cite path="343">chapter 343</cite> of the Wisconsin Statutes that contains the photograph of the holder, an identification card issued under <cite path="§343.50">section 343.50</cite> of the Wisconsin Statutes or an identification card issued under <cite path="§125.08">section 125.08</cite> of the Wisconsin Statutes.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Use.</heading>
+            <text>No card other than the identification card authorized under this section may be recognized as an official identification card by the Tribe for purposes of obtaining alcohol beverages at any Tribally licensed entity.</text>
+          </para>
+        </section>
+      </include>
       <annotation type="Prior Codifications">§BUS.01.07 was formerly codified as Chapter 31, §31.7</annotation>
     </section>
     <section>
-      <heading>Closing Hours</heading>
       <num>BUS.01.08</num>
+      <heading>Closing Hours</heading>
       <text>Every entity licensed by the Stockbridge-Munsee Community shall observe the closing hours established by Wisconsin Statutes governing Class B Retail State licenses. Failure to do shall the basis for the revocation of licenses issued by the Tribal Council.</text>
       <annotation type="Prior Codifications">§BUS.01.08 was formerly codified as Chapter 31, §31.8</annotation>
     </section>
-    <text>WHEREAS, Public Law 277, 83<sup>rd</sup> Congress, 1<sup>st</sup> Session, approved August 15, 1953 and codified at sec. 1161 of Title 18, United States Code, provides that Sections 1154, 1156, 3113, 3488, 3618 of Title 18 of the United States Code shall not apply within any area that is not Indian Country, nor to any act or transaction within any area of Indian Country, provided such act or transaction is in conformity both with the laws of the State in which such act or transaction occurs and with an ordinance duly adopted by the Tribe having jurisdiction over such area of Indian Country, certified by the Secretary of the Interior, and published in the Federal Register; and</text>
-    <text>WHEREAS, it is the desire of the Tribal Council of the Stockbridge-Munsee Community of Wisconsin to adopt a liquor control ordinance in the Indian Country that lies within the jurisdiction of the Community; and</text>
-    <text>WHEREAS, the Tribal Council of the Stockbridge-Munsee Community of Wisconsin has the authority to adopt ordinances regulating liquor in the Indian Country that lies within the jurisdiction of the Community, by virtue of the provisions of Article VII, sections 11(a), (e) and (h) of the Constitution of the Stockbridge-Munsee Community of Wisconsin, adopted October 30, 1937;</text>
-    <text>NOW THEREFORE BE IT RESOLVED that the Tribal Council of the Stockbridge-Munsee Community of Wisconsin authorizes the issuance of licenses for sale of alcohol beverages within the Indian Country that lies within the jurisdiction of the Community, provided:</text>
     <annotations>
       <annotation type="Legislative History">
         <text>Approved by Council May 22, 1992, Resolution No. 1317.  This ordinance necessary to sell liquor in casino facility.</text>
@@ -275,8 +326,8 @@
       <annotation type="Prior Codifications">§BUS.02.01 was formerly codified as Chapter 32, §32.1</annotation>
     </section>
     <section>
-      <heading>Exclusive Distributor And Applicability</heading>
       <num>BUS.02.02</num>
+      <heading>Exclusive Distributor And Applicability</heading>
       <para>
         <num>(a)</num>
         <text>The Tribe shall be the exclusive vendor of cigarettes and tobacco products for retail sales.</text>
@@ -288,8 +339,8 @@
       <annotation type="Prior Codifications">§BUS.02.02 was formerly codified as Chapter 32, §32.2</annotation>
     </section>
     <section>
-      <heading>License Application</heading>
       <num>BUS.02.03</num>
+      <heading>License Application</heading>
       <para>
         <num>(a)</num>
         <text>For the privilege of retailing cigarettes or tobacco products each and every retailer shall first secure and maintain a Tribal Retailer's Cigarette License from the Tribal Treasurer.</text>
@@ -317,8 +368,8 @@
       <annotation type="Prior Codifications">§BUS.02.03 was formerly codified as Chapter 32, §32.3</annotation>
     </section>
     <section>
-      <heading>Cigarette Distribution</heading>
       <num>BUS.02.04</num>
+      <heading>Cigarette Distribution</heading>
       <para>
         <num>(a)</num>
         <text>All cigarette and tobacco products offered for sale shall be acquired through the Tribe.  The Tribe shall order all cigarettes and tobacco products for all licensed retailers.</text>
@@ -342,8 +393,8 @@
       <annotation type="Prior Codifications">§BUS.02.04 was formerly codified as Chapter 32, §32.4</annotation>
     </section>
     <section>
-      <heading>Violations And Enforcement</heading>
       <num>BUS.02.05</num>
+      <heading>Violations And Enforcement</heading>
       <para>
         <num>(a)</num>
         <text>The Tribal Treasurer has the right to inspect retailer's records, inventory, or facilities in order to enforce this Ordinance.</text>
@@ -371,8 +422,8 @@
       <annotation type="Prior Codifications">§BUS.02.05 was formerly codified as Chapter 32, §32.5</annotation>
     </section>
     <section>
-      <heading>Effective Date; Severability</heading>
       <num>BUS.02.06</num>
+      <heading>Effective Date; Severability</heading>
       <para>
         <num>(a)</num>
         <text>The provisions of this Ordinance shall take effect 15 calendar days after approval from the Bureau of Indian Affairs.</text>
@@ -486,14 +537,14 @@
       <annotation type="Prior Codifications">§BUS.03.03 was formerly codified as Chapter 36, §36.3</annotation>
     </section>
     <section>
-      <heading>Effective Date</heading>
       <num>BUS.03.04</num>
+      <heading>Effective Date</heading>
       <text>This ordinance shall take effect upon its adoption by resolution by the Tribal Council.</text>
       <annotation type="Prior Codifications">§BUS.03.04 was formerly codified as Chapter 36, §36.4</annotation>
     </section>
     <section>
-      <heading>Severability And Non-Liability</heading>
       <num>BUS.03.05</num>
+      <heading>Severability And Non-Liability</heading>
       <para>
         <num>(a)</num>
         <text>If any section, provision or portion of this ordinance is adjudged to be unconstitutional or invalid by a court of competent jurisdiction, the remainder of this ordinance shall not be effected thereby.</text>
@@ -505,8 +556,8 @@
       <annotation type="Prior Codifications">§BUS.03.05 was formerly codified as Chapter 36, §36.5</annotation>
     </section>
     <section>
-      <heading>Implied Consent</heading>
       <num>BUS.03.06</num>
+      <heading>Implied Consent</heading>
       <para>
         <num>(a)</num>
         <text>Entry upon Indian Land without permission of the Tribe is prohibited.  Such permission when given is expressly conditioned upon the consent of the person entering such land to the jurisdiction of the Tribe for purposes of enforcing this ordinance.</text>
@@ -572,8 +623,8 @@
       <annotation type="Prior Codifications">§BUS.03.06 was formerly codified as Chapter 36, §36.6</annotation>
     </section>
     <section>
-      <heading>Use Of Fireworks</heading>
       <num>BUS.03.07</num>
+      <heading>Use Of Fireworks</heading>
       <text>Any and all classes and types of fireworks may be purchased, possessed and used by any of the following provided the permitting process has been followed:</text>
       <para>
         <num>(a)</num>
@@ -606,14 +657,14 @@
       <annotation type="Prior Codifications">§BUS.03.07 was formerly codified as Chapter 36, §36.7</annotation>
     </section>
     <section>
-      <heading>Fireworks Display</heading>
       <num>BUS.03.08</num>
+      <heading>Fireworks Display</heading>
       <text>No entity shall advertise or undertake to engage in a display of fireworks open to members of the public without obtaining prior thereto, and at a minimum of 48 hours in advance thereof, a fireworks display permit issued by the Tribe. The permit processing fee is $<cite path="§5.00">5.00</cite>.</text>
       <annotation type="Prior Codifications">§BUS.03.08 was formerly codified as Chapter 36, §36.8</annotation>
     </section>
     <section>
-      <heading>Display Permit And Application</heading>
       <num>BUS.03.09</num>
+      <heading>Display Permit And Application</heading>
       <text>Any entity for which a display permit is required under this ordinance shall make written application therefor to the Stockbridge-Munsee Tribal Council, on a form provided for said purposes, and shall specify:</text>
       <para>
         <num>(a)</num>
@@ -634,26 +685,26 @@
       <annotation type="Prior Codifications">§BUS.03.09 was formerly codified as Chapter 36, §36.9</annotation>
     </section>
     <section>
-      <heading>Restrictions On Use Of Fireworks</heading>
       <num>BUS.03.10</num>
+      <heading>Restrictions On Use Of Fireworks</heading>
       <text>No person under the age of 18 years shall purchase or use any Class C fireworks on Indian Land.</text>
       <annotation type="Prior Codifications">§BUS.03.10 was formerly codified as Chapter 36, §36.10</annotation>
     </section>
     <section>
-      <heading>Notice To Non-Residents</heading>
       <num>BUS.03.11</num>
+      <heading>Notice To Non-Residents</heading>
       <text>Any individual authorized to sell fireworks pursuant to Section 201 and 202 shall display a written warning to non-residents of the Stockbridge Munsee  Community that purchase and off-reservation possession of certain types of fireworks without local government permits may be in violation of Wisconsin State Statutes.</text>
       <annotation type="Prior Codifications">§BUS.03.11 was formerly codified as Chapter 36, §36.11</annotation>
     </section>
     <section>
-      <heading>Parental Liability</heading>
       <num>BUS.03.12</num>
+      <heading>Parental Liability</heading>
       <text>A parent or legal guardian of a tribal child who consents to the use of fireworks by said child is liable for damages caused by the child's use of fireworks.</text>
       <annotation type="Prior Codifications">§BUS.03.12 was formerly codified as Chapter 36, §36.12</annotation>
     </section>
     <section>
-      <heading>Penalties For Non-Compliance</heading>
       <num>BUS.03.13</num>
+      <heading>Penalties For Non-Compliance</heading>
       <text>Any person who violates the provisions of this ordinance shall be subject to the following penalties:</text>
       <para>
         <num>(a)</num>
@@ -674,20 +725,20 @@
       <annotation type="Prior Codifications">§BUS.03.13 was formerly codified as Chapter 36, §36.13</annotation>
     </section>
     <section>
-      <heading>Other Penalties Authorized</heading>
       <num>BUS.03.14</num>
+      <heading>Other Penalties Authorized</heading>
       <text>Use of fireworks by any person may also subject said person to liability or legal action for violation of the laws of the Tribe of the State of Wisconsin concerning curfew, public disturbances, and damage to persons or property.</text>
       <annotation type="Prior Codifications">§BUS.03.14 was formerly codified as Chapter 36, §36.14</annotation>
     </section>
     <section>
-      <heading>Court Codes</heading>
       <num>BUS.03.15</num>
+      <heading>Court Codes</heading>
       <text>Any person adjudicated by the Tribal Court as have violated this ordinance shall be liable for court costs in the amount of $<cite path="§10.00">10.00</cite>.</text>
       <annotation type="Prior Codifications">§BUS.03.15 was formerly codified as Chapter 36, §36.15</annotation>
     </section>
     <section>
-      <heading>Parties To A Violation</heading>
       <num>BUS.03.16</num>
+      <heading>Parties To A Violation</heading>
       <text>Whoever is concerned in the commission of a violation of  this ordinance is a principal and may be charged with a violation although he or she did not directly commit it, and although the person who directly committed has not been convicted of a violation.  A person is concerned in the commission of a violation if the person:</text>
       <para>
         <num>(a)</num>
@@ -704,8 +755,8 @@
       <annotation type="Prior Codifications">§BUS.03.16 was formerly codified as Chapter 36, §36.16</annotation>
     </section>
     <section>
-      <heading>Enforcement Officers</heading>
       <num>BUS.03.17</num>
+      <heading>Enforcement Officers</heading>
       <text>Any tribal law enforcement officer or Shawano Co. Deputy, consistent with the Tribal Law Enforcement agreement may enforce the provisions of this ordinance.</text>
       <annotation type="Prior Codifications">§BUS.03.17 was formerly codified as Chapter 36, §36.17</annotation>
     </section>
@@ -856,8 +907,8 @@
       <annotation type="Prior Codifications">§BUS.04.04 was formerly codified as Chapter 18, §18.4</annotation>
     </section>
     <section>
-      <heading>Opening Disclosures</heading>
       <num>BUS.04.05</num>
+      <heading>Opening Disclosures</heading>
       <para>
         <num>(a)</num>
         <text>In a face-to-face solicitation, a seller shall disclose all of the following to the consumer:</text>
@@ -897,8 +948,8 @@
       <annotation type="Prior Codifications">§BUS.04.05 was formerly codified as Chapter 18, §18.5</annotation>
     </section>
     <section>
-      <heading>Disclosures Prior To Sale</heading>
       <num>BUS.04.06</num>
+      <heading>Disclosures Prior To Sale</heading>
       <para>
         <num>(a)</num>
         <text>In a face-to-face transaction, a seller shall disclose all of the following to a consumer before the consumer enters into any purchase contract, and before the seller takes the consumer's credit card number or accepts any payment from the consumer:</text>
@@ -942,14 +993,14 @@
       <annotation type="Prior Codifications">§BUS.04.06 was formerly codified as Chapter 18, §18.6</annotation>
     </section>
     <section>
-      <heading>Unauthorized Payment</heading>
       <num>BUS.04.07</num>
+      <heading>Unauthorized Payment</heading>
       <text>No seller in a face-to-face transaction may obtain or submit for payment any check, draft or other negotiable instrument drawn on a consumer's account without the consumer's express authorization.  Express written authorization may include the consumer's signature on the check, draft or other negotiable instrument.</text>
       <annotation type="Prior Codifications">§BUS.04.07 was formerly codified as Chapter 18, §18.7</annotation>
     </section>
     <section>
-      <heading>Misrepresentations Prohibited</heading>
       <num>BUS.04.08</num>
+      <heading>Misrepresentations Prohibited</heading>
       <para>
         <num>(a)</num>
         <text>No seller may do any of the following, directly or by implication, in a face-to-face transaction:</text>
@@ -1029,8 +1080,8 @@
       <annotation type="Prior Codifications">§BUS.04.08 was formerly codified as Chapter 18, §18.8</annotation>
     </section>
     <section>
-      <heading>Prohibited Practices</heading>
       <num>BUS.04.09</num>
+      <heading>Prohibited Practices</heading>
       <para>
         <num>(a)</num>
         <text>No seller may do any of the following in a face-to face transaction:</text>
@@ -1058,8 +1109,8 @@
       <annotation type="Prior Codifications">§BUS.04.09 was formerly codified as Chapter 18, §18.9</annotation>
     </section>
     <section>
-      <heading>Remedies And Jurisdiction</heading>
       <num>BUS.04.10</num>
+      <heading>Remedies And Jurisdiction</heading>
       <para>
         <num>(a)</num>
         <text>Sellers who perform direct marketing and/or solicitation within <cite path="§BUS.04.04">Section BUS.04.04</cite> consent to the jurisdiction of the Stockbridge-Munsee Community and the Stockbridge-Munsee Tribal Court.</text>
@@ -1093,8 +1144,8 @@
       <annotation type="Prior Codifications">§BUS.04.11 was formerly codified as Chapter 18, §18.11</annotation>
     </section>
     <section>
-      <heading>Effective Date</heading>
       <num>BUS.04.12</num>
+      <heading>Effective Date</heading>
       <text>This Ordinance shall take effect 5 calendar days after Bureau of Indian Affairs approval.</text>
       <annotation type="Prior Codifications">§BUS.04.12 was formerly codified as Chapter 18, §18.12</annotation>
     </section>
@@ -1163,26 +1214,26 @@
       <annotation type="Prior Codifications">§BUS.05.01 was formerly codified as Chapter 59, §59.1</annotation>
     </section>
     <section>
-      <heading>Applicability To Prior Transactions</heading>
       <num>BUS.05.02</num>
+      <heading>Applicability To Prior Transactions</heading>
       <text>The provisions of the Ordinance shall be applicable to all security interests subject to the jurisdiction of the Tribe prior to enactment of this Ordinance, unless such application would be inconsistent with rights vested in any party other than the Tribe by operation of the provisions of any existing contract between the Tribe and such party.</text>
       <annotation type="Prior Codifications">§BUS.05.02 was formerly codified as Chapter 59, §59.2</annotation>
     </section>
     <section>
-      <heading>Severability.</heading>
       <num>BUS.05.03</num>
+      <heading>Severability.</heading>
       <text>If any section, or any part thereof, of this Ordinance shall be held invalid for any reason whatsoever by a court of competent jurisdiction, the remainder of the section, or part of this Ordinance shall not be affected thereby and shall remain in full force and effect as though no section, or part thereof, has been declared to be invalid.</text>
       <annotation type="Prior Codifications">§BUS.05.03 was formerly codified as Chapter 59, §59.3</annotation>
     </section>
     <section>
-      <heading>No Waiver Of Sovereign Immunity.</heading>
       <num>BUS.05.04</num>
+      <heading>No Waiver Of Sovereign Immunity.</heading>
       <text>Nothing in this Ordinance shall provide or be interpreted to provide a waiver of the Stockbridge-Munsee Community or any of its governmental officers' and/or agents' sovereign immunity from suit.</text>
       <annotation type="Prior Codifications">§BUS.05.04 was formerly codified as Chapter 59, §59.4</annotation>
     </section>
     <section>
-      <heading>Future Amendments</heading>
       <num>BUS.05.05</num>
+      <heading>Future Amendments</heading>
       <text>This Ordinance, and any section, part, and word thereof, may be amended by Tribal Council in accordance with the provisions of the Stockbridge-Munsee Tribal Constitution, and without Bureau of Indian Affairs approval.</text>
       <annotation type="Prior Codifications">§BUS.05.05 was formerly codified as Chapter 59, §59.5</annotation>
     </section>
