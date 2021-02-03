@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 011-20">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 011-20">
   <num>011-20</num>
   <heading/>
   <meta>
     <ordinance>Civil Procedure</ordinance>
-    <effective/>
+    <effective>2021-01-28</effective>
     <history>
-      <adopted/>
+      <adopted>2019-11-05</adopted>
     </history>
     <citations>
       <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 011-20</citation>
@@ -35,7 +35,49 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
-      <text>the Stockbridge-Munsee Tribal Council hereby approves changes to Chapter 5 that amend <cite doc="Stockbridge-Munsee Tribal Code" path="5.2|(A)|(3)" proof="needed">Section 5.2 (A)(3)</cite> to add a cross-reference to Chapter 5-A and delete <cite doc="Stockbridge-Munsee Tribal Code" path="5.22" proof="needed">Section 5.22</cite>, which previously addressed appellate procedure.</text>
+      <text>the Stockbridge-Munsee Tribal Council hereby approves changes to Chapter 5 that amend <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.02.02|(a)|(3)">Section 5.2 (A)(3)</cite> to add a cross-reference to Chapter 5-A and delete <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.02.22">Section 5.22</cite>, which previously addressed appellate procedure.</text>
     </recital>
   </recitals>
+  <codify:replace path="TCT.02.02|(a)|(3)">
+    <para>
+      <num>(3)</num>
+      <text>To establish a set of procedural rules to govern civil litigation in the Tribal Court System, except to the extent the Court of Appeals has its own procedural rules applying to appeals before it as established under <cite path="TCT.02">Chapter TCT.02</cite>; and</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="TCT.02.22">
+    <section>
+      <num>TCT.02.22</num>
+      <heading>Appellate Procedure</heading>
+      <para>
+        <codify:insert doc="Stockbridge-Munsee Tribal Code" path="TCT.02.22|(a)"/>
+        <num>(a)</num>
+        <heading>Commencement of Appeal.</heading>
+        <text>An appeal is commenced by filing a Notice of Appeal within 45 days of the entry of a judgment.  An appellant shall serve the Notice of Appeal on the Respondent pursuant to <cite path="§TCT.02.04|(c)|(7)">Section TCT.02.04(c)(7)</cite>.</text>
+      </para>
+      <para>
+        <codify:insert doc="Stockbridge-Munsee Tribal Code" path="TCT.02.22|(b)"/>
+        <num>(b)</num>
+        <heading>Briefing.</heading>
+        <text>The Appellant shall file a written brief, not to exceed 20 pages in length, within 30 days of the commencement of an appeal. The Respondent shall file a written response brief, not to exceed 25 pages in length, within 30 days of receiving the Appellant's brief.  The Appellant may file a written reply brief, not to exceed 5 pages in length, within 15 days of receiving the Respondent's brief.</text>
+      </para>
+      <para>
+        <codify:insert doc="Stockbridge-Munsee Tribal Code" path="TCT.02.22|(c)"/>
+        <num>(c)</num>
+        <heading>Oral Argument.</heading>
+        <text>If the Court of Appeals deems that oral argument is necessary, the Court of Appeals shall schedule such oral argument within 30 days of the filing of the last brief filed in an appeal.</text>
+      </para>
+      <para>
+        <codify:insert doc="Stockbridge-Munsee Tribal Code" path="TCT.02.22|(d)"/>
+        <num>(d)</num>
+        <heading>Decision.</heading>
+        <text>The Court of Appeals shall issue a written decision either affirming, in whole or in part, or reversing, in whole or in part, the decision of the Trial Court. The Court of Appeals may also issue a written decision to remand the case to the Trial Court for further proceedings. The Court of Appeals shall issue all written decisions within 60 days after the conclusion of the oral argument, if any, or the expiration of time to file a response brief or reply brief, whichever is later.  The Clerk of Court shall enter and mail or deliver a copy of the entered decision to the parties within 3 days of entry.</text>
+      </para>
+      <para>
+        <codify:insert doc="Stockbridge-Munsee Tribal Code" path="TCT.02.22|(e)"/>
+        <num>(e)</num>
+        <heading>Post Judgment Motions for Relief.</heading>
+        <text>A party shall file a motion for relief from a decision within 10 days of entry of the decision or the motion will be barred.</text>
+      </para>
+    </section>
+  </codify:replace>
 </document>
