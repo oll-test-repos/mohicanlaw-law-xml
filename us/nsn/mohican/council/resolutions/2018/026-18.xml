@@ -4,7 +4,6 @@
   <heading/>
   <meta>
     <ordinance>Tax</ordinance>
-    <stub/>
     <effective>2021-01-28</effective>
     <history>
       <adopted>2018-03-06</adopted>
@@ -13,6 +12,46 @@
       <citation type="res" url="./adopted/026-18.pdf">Stockbridge-Munsee Tribal Council Res. No. 026-18</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite>, the Construction Sales Tax Ordinance, was adopted in 1990 by Tribal Council resolution and has not been amended since; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text> <cite doc="Stockbridge-Munsee Tribal Code" path="57-A">Chapter 57-A</cite>, the Room Tax Ordinance, was adopted in 2010 by Tribal Council Resolution and has not been amended since; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The proposed revisions to <cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite> have been posted for public comment for thirty (30) days and no comments were submitted; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The authority to enact a sales tax is vested in the Stockbridge-Munsee Community by its Constitution and By-Laws, and particularly by Article VII, Powers; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The revised <cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite> Tax Ordinance establishes a comprehensive tribal tax regime that incorporates both a sales tax and a hotel occupancy tax, as well as the related administrative process.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to Chapter <cite doc="Stockbridge-Munsee Tribal Code" path="57">57</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="57-A">57-A</cite> which include the following changes:</text>
+    </recital>
+    <text>
+      <ul>
+        <li>Rescind Existing <cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite> Construction Sales and <cite doc="Stockbridge-Munsee Tribal Code" path="57-A">Chapter 57-A</cite> Room Tax Ordinance and replace with comprehensive <cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite> Tax Ordinance; and</li>
+        <li>Addition and incorporation of an Occupancy Tax, Sales Tax and administrative process into revised <cite doc="Stockbridge-Munsee Tribal Code" path="57">Chapter 57</cite>.</li>
+      </ul>
+    </text>
+  </recitals>
   <codify:repeal path="TAX.02"/>
   <codify:find-replace path="TAX.01" count="1">
     <find>Construction Sales Tax Ordinance</find>
