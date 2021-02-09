@@ -39,6 +39,9 @@
     <xi:include href="./us/nsn/mohican/council/resolutions/1999/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/1998/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/1995/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1993/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1985/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1981/index.xml"/>
   </collection>
   <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
 </library>
