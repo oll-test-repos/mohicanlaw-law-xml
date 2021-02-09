@@ -249,14 +249,8 @@
     <text>(SEAL)</text>
     <text>WASHINGTON, D.C., November 18, 1937</text>
   </procedural-data>
-  <subheading>LEGISLATIVE HISTORY</subheading>
-  <text/>
-  <para>
-    <num>1</num>
-    <text>RATIFICATION: Stockbridge Munsee Tribal Constitution adopted by the vote of the people on October 30, 1937. Approved by Assistant Secretary of the Interior November 18, 1937.</text>
-  </para>
-  <para>
-    <num>2</num>
-    <text>Amendment No. 1 adopted by the Stockbridge Munsee people on November 14, 1995. This amendment revises Article V Removal, providing in Section 1 that accused shall be given a written statement of the charges at least 5 days before charges are heard; adding sections empowering members of the community to recall; and requiring a special election for a vacancy with more than 90 days remaining in the term.</text>
-  </para>
+  <annotations>
+    <annotation type="Legislative History">2. Amendment No. 1 adopted by the Stockbridge Munsee people on November 14, 1995. This amendment revises Article V Removal, providing in Section 1 that accused shall be given a written statement of the charges at least 5 days before charges are heard; adding sections empowering members of the community to recall; and requiring a special election for a vacancy with more than 90 days remaining in the term.</annotation>
+    <annotation type="Legislative History">1. RATIFICATION: Stockbridge Munsee Tribal Constitution adopted by the vote of the people on October 30, 1937. Approved by Assistant Secretary of the Interior November 18, 1937.</annotation>
+  </annotations>
 </document>
