@@ -86,7 +86,7 @@
         <text>Recognizing that there is a need to protect and preserve the sovereign immunity of the Stockbridge-Munsee Community, the Stockbridge-Munsee Tribal Council finds:</text>
         <para>
           <num>(1)</num>
-          <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|l(f)">Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution and By-Laws</cite> (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community and establishing proper agencies for law enforcement of the Community,"</text>
+          <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution and By-Laws</cite> (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community and establishing proper agencies for law enforcement of the Community,"</text>
           <text>and this provision authorizes the Tribal Council to create an ordinance regarding protection of the sovereign immunity of the Stockbridge-Munsee Community; and</text>
         </para>
         <para>
@@ -152,8 +152,9 @@
     <heading>Election Ordinance</heading>
     <section>
       <num>GOV.03.01</num>
-      <heading>Duty Of Election Board</heading>
+      <heading>Introduction</heading>
       <text>In pursuit of impartial and equitable elections, the Stockbridge Munsee Community, pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="IV|6">Article IV, Section 6, of its Constitution</cite> and by-laws, hereby establishes the date and manner by which tribal elections shall be conducted.</text>
+      <annotation type="Prior Codifications">§GOV.03.01 was formerly codified as an unnumbered introduction in Chapter 49</annotation>
     </section>
     <section>
       <num>GOV.03.02</num>
