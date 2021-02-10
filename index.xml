@@ -33,15 +33,20 @@
     <xi:include href="./us/nsn/mohican/council/resolutions/2007/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2006/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2005/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2004/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2003/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2002/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2001/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2000/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/1999/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/1998/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1997/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/1995/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/1993/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1988/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/1985/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/1981/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/resolutions/1971/index.xml"/>
   </collection>
   <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
 </library>

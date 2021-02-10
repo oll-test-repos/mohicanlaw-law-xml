@@ -12,7 +12,7 @@
       <heading>Authority, Purpose, Jurisdiction And Definitions</heading>
       <para>
         <num>(a)</num>
-        <text>BE IT ENACTED, by the Stockbridge-Munsee Tribal Council in regular meeting assembled on November 21, 1939, pursuant to Section 11 (H), Article VII, of the Tribal Constitution that, the procedures of the Council, and of the committees and other offices of the Council, shall be regulated by the following provisions, as amended.</text>
+        <text>BE IT ENACTED, by the Stockbridge-Munsee Tribal Council in regular meeting assembled on November 21, 1939, pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(h)">Section 11 (H), Article VII, of the Tribal Constitution</cite> that, the procedures of the Council, and of the committees and other offices of the Council, shall be regulated by the following provisions, as amended.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -154,7 +154,7 @@
       <heading>Semi-Annual Meetings And Membership Meetings</heading>
       <para>
         <num>(a)</num>
-        <text>Semi-Annual Meeting.</text>
+        <heading>Semi-Annual Meeting.</heading>
         <para>
           <num>(1)</num>
           <text>It shall be the duty of the Council at semi-annual meetings with members of the Community to report on the progress of programs during the half year proceeding, and to present its definite program proposed for the ensuing half-year.</text>
@@ -170,7 +170,8 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Membership Meeting.  The Council may call membership meetings as appropriate to discuss issues of interest to the Community; however, the Council is not in session at such meeting and no official action can be taken.</text>
+        <heading>Membership Meeting.</heading>
+        <text>The Council may call membership meetings as appropriate to discuss issues of interest to the Community; however, the Council is not in session at such meeting and no official action can be taken.</text>
       </para>
       <annotation type="Prior Codifications">§ADM.01.06 was formerly codified as Chapter 50, §50.5</annotation>
     </section>
@@ -195,7 +196,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Electronic record.</text>
+        <heading>Electronic record.</heading>
         <para>
           <num>(1)</num>
           <text>The Tribal Secretary shall ensure that an audio and/or visual recording is made of the open session portion of in-session Council meetings and shall be the custodian of such recording(s).</text>
@@ -232,7 +233,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>All Council meetings and Semi-Annual meetings shall be held at the established headquarters of the Community, except as provided under subsections (D), (E) and (F).</text>
+        <text>All Council meetings and Semi-Annual meetings shall be held at the established headquarters of the Community, except as provided under subsections <cite path="§ADM.01.08|(d)">(d)</cite>, <cite path="§ADM.01.08|(e)">(e)</cite> and <cite path="§ADM.01.08|(f)">(f)</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -257,7 +258,7 @@
       <heading>Persons Authorized To Speak For The Community</heading>
       <para>
         <num>(a)</num>
-        <text>It shall be the policy of the Council, pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII">Article VII of the Tribal Constitution</cite>, to conduct all negotiations on behalf of the Community with outside persons or agencies or to identify the parties authorized to conduct such negotiations.</text>
+        <text>It shall be the policy of the Council, pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII">Article VII of the Tribal Constitution</cite>, to conduct all negotiations on behalf of the Community with outside persons or agencies or to identify the parties authorized to conduct such negotiations.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -316,7 +317,7 @@
           </para>
           <para>
             <num>(D)</num>
-            <text>Notwithstanding any other provision or law, quorum for a Special Council meeting under this subsection (D)(3) on split agendas is five Council members.</text>
+            <text>Notwithstanding any other provision or law, quorum for a Special Council meeting under this subsection <cite path="§ADM.01.10|(d)|(3)">(d)(3)</cite> on split agendas is five Council members.</text>
           </para>
         </para>
       </para>
@@ -422,7 +423,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Agenda items offered by Council members shall be placed on the agenda as requested by the presenting Council members, except as provided for under subsection (F).</text>
+        <text>Agenda items offered by Council members shall be placed on the agenda as requested by the presenting Council members, except as provided for under subsection <cite path="§ADM.01.14|(f)">(f)</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -566,21 +567,9 @@
       <annotation type="Prior Codifications">§ADM.01.17 was formerly codified as Chapter 50, §50.16</annotation>
     </section>
     <annotations>
-      <annotation type="Legislative History">
-        <para>
-          <num>8</num>
-          <text>On February 3, 2016, the Tribal Council by Resolution No. 023-16 authorized changes to update the ordinance as well as codify tribal practice and prior Council actions regulating the conduct of tribal meetings and operation of the Council and committees.  These changes are as follows:</text>
-          <text>• Creating section titles;</text>
-          <text>• Standardizing the formatting and terminology throughout the ordinance;</text>
-          <text>• Numbering the introductory provisions of the ordinance to create a new <cite path="§ADM.01.01">Section ADM.01.01</cite> and to renumber what had been <cite path="§ADM.01.01">Section ADM.01.01</cite> as <cite path="§ADM.01.01">Section ADM.01.01</cite>.5;</text>
-          <text>• Establishing new sections: <cite path="§ADM.01.13">Section ADM.01.13</cite>, <cite path="§ADM.01.14">Section ADM.01.14</cite>, <cite path="§ADM.01.15">Section ADM.01.15</cite>, <cite path="§ADM.01.16">Section ADM.01.16</cite>;</text>
-          <text>• Establishing new subsections: <cite path="§ADM.01.01|(b)">Section ADM.01.01(b)</cite>-(D), <cite path="§ADM.01.03|(c)">Section ADM.01.03(c)</cite>-(G), <cite path="§ADM.01.05|(c)">Section ADM.01.05(c)</cite>-(E), <cite path="§ADM.01.06|(a)|(3)">Section ADM.01.06(a)(3)</cite>, <cite path="§ADM.01.06|(b)">Section ADM.01.06(b)</cite>, <cite path="§ADM.01.07|(a)">Section ADM.01.07(a)</cite>, <cite path="§ADM.01.07|(c)">Section ADM.01.07(c)</cite>-(G), <cite path="§ADM.01.08|(a)">Section ADM.01.08(a)</cite>, <cite path="§ADM.01.08|(d)">Section ADM.01.08(d)</cite>-(F), <cite path="§ADM.01.17|(b)">Section ADM.01.17(b)</cite>; and</text>
-          <text>• Amending subsections: <cite path="§ADM.01.03|(a)">Section ADM.01.03(a)</cite>-(B), <cite path="§ADM.01.04">Section ADM.01.04</cite>, <cite path="§ADM.01.05|(a)|(3)">Section ADM.01.05(a)(3)</cite>, <cite path="§ADM.01.05|(b)">Section ADM.01.05(b)</cite>, <cite path="§ADM.01.07|(b)">Section ADM.01.07(b)</cite>, <cite path="§ADM.01.08|(b)">Section ADM.01.08(b)</cite>, <cite path="§ADM.01.09">Section ADM.01.09</cite>, <cite path="§ADM.01.10|(a)">Section ADM.01.10(a)</cite>, <cite path="§ADM.01.10|(c)">Section ADM.01.10(c)</cite>, <cite path="§ADM.01.11|(a)">Section ADM.01.11(a)</cite>, <cite path="§ADM.01.12|(a)">Section ADM.01.12(a)</cite>, <cite path="§ADM.01.17|(a)">Section ADM.01.17(a)</cite>.</text>
-          <text>These amendments were approved by the BIA on February 22, 2016.</text>
-        </para>
-      </annotation>
-      <annotation type="Legislative History">7. On June 19, 2007, Tribal Council, by Resolution No. 046-07 amends <cite path="§ADM.01.07">Section ADM.01.07</cite> and <cite path="§ADM.01.13">Section ADM.01.13</cite> and creates <cite path="§ADM.01.10|(d)">Section ADM.01.10(d)</cite>.  BIA approved the amended ordinance, except for <cite path="§ADM.01.13">Section ADM.01.13</cite>, on April 16, 2012.  <cite path="§ADM.01.13">Section ADM.01.13</cite>, regarding the need for BIA approval of future amendments, was deleted.</annotation>
-      <annotation type="Legislative History">6. Sections <cite path="§ADM.01.08">Section ADM.01.08</cite> amended to make clear that phone participation is not permitted and <cite path="§ADM.01.12|(d)">Section ADM.01.12(d)</cite>, which previously allowed for phone participation for emergency meetings, repealed, and <cite path="§50.11|(E)">Section 50.11(E)</cite> re-designated to <cite path="§ADM.01.12|(d)">Section ADM.01.12(d)</cite> on October 1, 2002 by Tribal Council Resolution No. 056-02.  Amendments approved by BIA on October 18, 2002.</annotation>
+      <annotation type="Legislative History">8. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 023-16">Resolution No. 023-16</cite>, adopted February 3, 2016, approved by BIA February 22, 2016.</annotation>
+      <annotation type="Legislative History">7. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 046-07">Resolution No. 046-07</cite>, adopted June 19, 2007.</annotation>
+      <annotation type="Legislative History">6. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 056-02">Resolution No. 056-02</cite>, adopted October 1, 2002, approved by BIA October 18, 2002.</annotation>
       <annotation type="Legislative History">5. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 59-99">Resolution No. 59-99</cite>, adopted September 7, 1999, approved by BIA November 1, 1999.</annotation>
       <annotation type="Legislative History">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1401-93">Resolution No. 1401-93</cite>, adopted September 7, 1993.</annotation>
       <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 0917">Resolution No. 0917</cite>, adopted Feburary 8, 1985.</annotation>
@@ -592,9 +581,14 @@
     <prefix>Chapter</prefix>
     <num>ADM.02</num>
     <heading>Code Of Conduct</heading>
-    <text>This Code of Conduct is established by the Stockbridge-Munsee Tribal Council and shall govern the performance of all officers, employees or agents of the Stockbridge-Munsee Tribe engaged in the award and administration of all procurement or contracts.  For the purposes of this Code, the term "officer" shall include members of the Tribal Council.</text>
     <section>
       <num>ADM.02.01</num>
+      <heading>Introduction</heading>
+      <text>This Code of Conduct is established by the Stockbridge-Munsee Tribal Council and shall govern the performance of all officers, employees or agents of the Stockbridge-Munsee Tribe engaged in the award and administration of all procurement or contracts.  For the purposes of this Code, the term "officer" shall include members of the Tribal Council.</text>
+      <annotation type="Prior Codifications">§ADM.02.01 was formerly codified as an unnumbered introduction in Chapter 51</annotation>
+    </section>
+    <section>
+      <num>ADM.02.02</num>
       <heading>Conflict Of Interest</heading>
       <text>No officer, employee or agent of the Stockbridge-Munsee Tribe shall participate in the selection, or in the award or administration of a procurement or contract if a conflict of interest, real or apparent, would be involved.  Such a conflict would arise when:</text>
       <para>
@@ -613,50 +607,38 @@
         <num>(d)</num>
         <text>An organization which employs, or is about to employ any of the above, has a financial or other interest in the firm selected for award.</text>
       </para>
-      <annotation type="Prior Codifications">§ADM.02.01 was formerly codified as Chapter 51, §51.1</annotation>
-    </section>
-    <section>
-      <num>ADM.02.02</num>
-      <heading>Gratuities</heading>
-      <text>No officer, employee or agent of the Stockbridge-Munsee Tribe shall either solicit or accept gratuities, favors or anything of monetary value from firms or contractors, potential firms or contractors, or parties to subcontracts.</text>
-      <annotation type="Prior Codifications">§ADM.02.02 was formerly codified as Chapter 51, §51.2</annotation>
+      <annotation type="Prior Codifications">§ADM.02.02 was formerly codified as Chapter 51, §51.1</annotation>
     </section>
     <section>
       <num>ADM.02.03</num>
-      <heading>Acceptance Of Gifts</heading>
-      <text>An officer, employee or agent may accept a gift from a firm or contractor if such is unsolicited and of nominal value (not to exceed $<cite path="§10.00">10.00</cite>).  Acceptance of such gifts will be limited to items used as advertising by firms or contractors.  Acceptance of any other gift shall constitute a violation of this Code.  The Stockbridge-Munsee Tribal Council may receive such other gifts as offered by a firm or contractor, which if accepted will be retained by the Tribe in remembrance of a program or project.  In addition to the limitation on gifts, also in violation of this Code would be the acceptance of excessive or unusual entertainment, loans or other favors (valued in excess of fifty dollars [$<cite path="§50.00">50.00</cite>]).</text>
-      <annotation type="Prior Codifications">§ADM.02.03 was formerly codified as Chapter 51, §51.3</annotation>
+      <heading>Gratuities</heading>
+      <text>No officer, employee or agent of the Stockbridge-Munsee Tribe shall either solicit or accept gratuities, favors or anything of monetary value from firms or contractors, potential firms or contractors, or parties to subcontracts.</text>
+      <annotation type="Prior Codifications">§ADM.02.03 was formerly codified as Chapter 51, §51.2</annotation>
     </section>
     <section>
       <num>ADM.02.04</num>
+      <heading>Acceptance Of Gifts</heading>
+      <text>An officer, employee or agent may accept a gift from a firm or contractor if such is unsolicited and of nominal value (not to exceed $10.00).  Acceptance of such gifts will be limited to items used as advertising by firms or contractors. Acceptance of any other gift shall constitute a violation of this Code.  The Stockbridge-Munsee Tribal Council may receive such other gifts as offered by a firm or contractor, which if accepted will be retained by the Tribe in remembrance of a program or project. In addition to the limitation on gifts, also in violation of this Code would be the acceptance of excessive or unusual entertainment, loans or other favors (valued in excess of fifty dollars [$50.00]).</text>
+      <annotation type="Prior Codifications">§ADM.02.04 was formerly codified as Chapter 51, §51.3</annotation>
+    </section>
+    <section>
+      <num>ADM.02.05</num>
       <heading>Violations</heading>
       <text>Violation of this Code of Conduct shall be prosecuted as follows:</text>
       <para>
         <num>(a)</num>
-        <text>Any violation of this Code of Conduct by an officer of the Stockbridge-Munsee Community shall be handled by the Stockbridge-Munsee Tribal Council.  The Tribal Council will review the violation and take such action against the officer(s)</text>
-        <text>involved as is allowable under the Constitution and By-Laws of the Stockbridge-Munsee Community, including possible removal from the Tribal Council according to the terms of the Constitution, in the event that the "officer" is a member of the Tribal Council.</text>
+        <text>Any violation of this Code of Conduct by an officer of the Stockbridge-Munsee Community shall be handled by the Stockbridge-Munsee Tribal Council.  The Tribal Council will review the violation and take such action against the officer(s) involved as is allowable under the Constitution and By-Laws of the Stockbridge-Munsee Community, including possible removal from the Tribal Council according to the terms of the Constitution, in the event that the "officer" is a member of the Tribal Council.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Any violation of this Code of Conduct by an employee of the Stockbridge-Munsee Community will be handled in accordance with the Information Handbook for Employees of Mohican Nation ("the Green Book"), Sections 4, 6 and 7.   Discipline, reprimand, suspension, or termination may result with respect to the seriousness of the violation.</text>
+        <text>Any violation of this Code of Conduct by an employee of the Stockbridge-Munsee Community will be handled in accordance with the Information Handbook for Employees of Mohican Nation ("the Green Book"), Sections 4, 6 and 7. Discipline, reprimand, suspension, or termination may result with respect to the seriousness of the violation.</text>
       </para>
-      <annotation type="Prior Codifications">§ADM.02.04 was formerly codified as Chapter 51, §51.4</annotation>
+      <annotation type="Prior Codifications">§ADM.02.05 was formerly codified as Chapter 51, §51.4</annotation>
     </section>
     <annotations>
-      <annotation type="Legislative History">
-        <para>
-          <num>1</num>
-          <text>Approved 11/19/85.</text>
-        </para>
-        <para>
-          <num>2</num>
-          <text>Proposed Amendments submitted to Tribal Council 11/24/98.</text>
-        </para>
-        <para>
-          <num>3</num>
-          <text>Amendments approved by Tribal Council on November 17, 1998 by Resolution No. 074-98.</text>
-        </para>
-      </annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 074-98">Resolution No. 074-98</cite>, adopted November 17, 1998.</annotation>
+      <annotation type="Legislative History">2. Proposed Amendments submitted to Tribal Council November 24, 1985.</annotation>
+      <annotation type="Legislative History">1. Approved November 19, 1985.</annotation>
     </annotations>
   </container>
 </container>

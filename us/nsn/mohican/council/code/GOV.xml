@@ -176,7 +176,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The Election Board for a recall election under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="V|2">Article V, Section 2, of the Stockbridge-Munsee Constitution</cite> is not appointed by the Tribal Council, but rather is formed by the petitioners per the Constitution.</text>
+          <text>The Election Board for a recall election under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|V|2">Article V, Section 2, of the Stockbridge-Munsee Constitution</cite> is not appointed by the Tribal Council, but rather is formed by the petitioners per the Constitution.</text>
         </para>
       </para>
       <para>
@@ -382,7 +382,7 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>One Election Clerk shall record the name of each person that casts a ballot.  Each person may only cast one (1) ballot per election, not including ballots destroyed per subsection (m) herein.</text>
+        <text>One Election Clerk shall record the name of each person that casts a ballot.  Each person may only cast one (1) ballot per election, not including ballots destroyed per subsection <cite path="§GOV.03.10|(m)">(m)</cite> herein.</text>
       </para>
       <para>
         <num>(j)</num>
@@ -408,7 +408,7 @@
           <text>If the voter determines that there has been an over-vote, the voter may request a new ballot.</text>
           <para>
             <num>(A)</num>
-            <text>If a new ballot is requested, the Election Board Judge shall destroy the over-vote ballot, and the voter shall be issued a new ballot and the voter shall complete steps (k), (l), and (m).</text>
+            <text>If a new ballot is requested, the Election Board Judge shall destroy the over-vote ballot, and the voter shall be issued a new ballot and the voter shall complete steps <cite path="§GOV.03.10|(k)">(k)</cite>, <cite path="§GOV.03.10|(l)">(l)</cite>, and <cite path="§GOV.03.10|(m)">(m)</cite>.</text>
           </para>
           <para>
             <num>(B)</num>

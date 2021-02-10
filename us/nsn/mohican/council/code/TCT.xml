@@ -15,7 +15,7 @@
         <text>Recognizing that tribal self-sufficiency cannot be fully realized without first exerting control over such matters as may be vital to tribal interests, the Stockbridge-Munsee Tribal Council finds:</text>
         <para>
           <num>(1)</num>
-          <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="const|VII|1">Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution and By-Laws</cite> (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community....and establishing proper agencies for law enforcement of the Community," and this provision authorizes the Tribal Council to create a tribal court system and adopt a comprehensive code of law; and</text>
+          <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1">Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution and By-Laws</cite> (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community....and establishing proper agencies for law enforcement of the Community," and this provision authorizes the Tribal Council to create a tribal court system and adopt a comprehensive code of law; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1026,69 +1026,17 @@
       <annotation type="Prior Codifications">§TCT.01.16 was formerly codified as Chapter 1, §1.16</annotation>
     </section>
     <annotations>
-      <annotation type="Legislative History">
-        <para>
-          <num>1</num>
-          <text>Council approved Court Code October 4, 1988 by Resolution No. 1109. A list of S-M Ordinances on file at Great Lake Agency, BIA, includes Court Code. Resolution No. 1489-95 dated April 25, 1995, affirms Court Code of 1988.</text>
-        </para>
-        <para>
-          <num>2</num>
-          <text>Resolution No. 1490-95 dated April 25, 1995 amends Court Code in section 1.03(B) by adding "For purposes of initial establishment of the Tribal Court, the first judges to the tribal court may be appointed by the Tribal Council to serve two-year terms. When the two-year terms are expired, or as soon thereafter as the general tribal election is held, the tribal judges will thereafter be elected positions."</text>
-        </para>
-        <para>
-          <num>3</num>
-          <text>Resolution No. 1551-95 dated November 7, 1995, adopts the Mohican Judiciary Act containing revised Court Code, revised General Citation Ordinance, and the Stockbridge-Munsee Bill of Rights. Mohican Judiciary Act forwarded to BIA for their review and approval on December 15, 1995. Comments from BIA on July 5, 1996. Approval letter from BIA on July 18, 1996.</text>
-        </para>
-        <para>
-          <num>4</num>
-          <text>On September 2, 1997, Tribal Council amended <cite path="§TCT.01.06">Section TCT.01.06</cite>, through Resolution No. 0246-97.</text>
-        </para>
-        <para>
-          <num>5</num>
-          <text>On November 19, 2002, Tribal Council amended by adding <cite path="§1.10|(D)">Section 1.10(D)</cite> [notice to Tribe], Resolution No. 070-02.  Approval by BIA on December 27, 2002.</text>
-        </para>
-        <para>
-          <num>6</num>
-          <text>On March 4, 2004, Tribal Council amended by creating <cite path="§1.13|(G)">Section 1.13(G)</cite> [Harassment Temporary Restraining Orders and Injunctions], Resolution No. 06-04.  Approval by BIA on March 29, 2004.</text>
-        </para>
-        <para>
-          <num>7</num>
-          <text>On October 11, 2006, Tribal Council amended by deleting <cite path="§TCT.01.02|(b)">Section TCT.01.02(b)</cite>; amends <cite path="§1.13|(G)|(5)|(C)">Section 1.13(G)(5)(C)</cite> and <cite path="§1.33|(E)">Section 1.33(E)</cite>, Resolution No. 07-001.  Approved by BIA on April 9, 2007.</text>
-        </para>
-        <para>
-          <num>8</num>
-          <text>Tribal Council amended on June 2, 2009, by Resolution No. 058-09, making the following changes.  Creating new Sections <cite path="§TCT.01.04|(b)">Section TCT.01.04(b)</cite>, <cite path="§TCT.01.05|(i)">Section TCT.01.05(i)</cite>, <cite path="§1.6|(DD)">1.6(DD)</cite>, <cite path="§1.6|(L)|(1)">1.6(L)(1)</cite>-(6), <cite path="§1.6|(N)">1.6(N)</cite>, <cite path="§TCT.01.06">Section TCT.01.06</cite>.5, <cite path="§1.8|(J)">1.8(J)</cite>, <cite path="§TCT.01.09|(d)">Section TCT.01.09(d)</cite>, <cite path="§1.31">1.31</cite>.5, <cite path="§1.33|(F)">1.33(F)</cite>, <cite path="§1.33|(G)">1.33(G)</cite>, and <cite path="§1.34|(F)">1.34(F)</cite>.  Amending Sections <cite path="§TCT.01.04|(a)">Section TCT.01.04(a)</cite>, <cite path="§TCT.01.05|(a)">Section TCT.01.05(a)</cite>, <cite path="§TCT.01.05|(b)">Section TCT.01.05(b)</cite>, <cite path="§TCT.01.05|(h)">Section TCT.01.05(h)</cite>, <cite path="§TCT.01.06|(c)|(1)">Section TCT.01.06(c)(1)</cite>, <cite path="§1.6|(E)">1.6(E)</cite>, <cite path="§1.6|(F)">1.6(F)</cite>, <cite path="§1.6|(H)">1.6(H)</cite>, <cite path="§1.6|(I)">1.6(I)</cite>, <cite path="§1.6|(M)">1.6(M)</cite>, <cite path="§1.6|(N)">1.6(N)</cite>, <cite path="§1.8|(H)">1.8(H)</cite>, <cite path="§1.8|(I)">1.8(I)</cite>, <cite path="§TCT.01.09|(a)">Section TCT.01.09(a)</cite>, <cite path="§TCT.01.10|(b)|(3)">Section TCT.01.10(b)(3)</cite>, <cite path="§TCT.01.12">Section TCT.01.12</cite>, <cite path="§1.22|(A)|(1)">1.22(A)(1)</cite>, <cite path="§1.22|(B)">1.22(B)</cite>, and <cite path="§1.22|(C)">1.22(C)</cite>.  Making technical changes to Sections <cite path="§1.6|(C)|(5)">1.6(C)(5)</cite>-(6), <cite path="§TCT.01.15">Section TCT.01.15</cite>, <cite path="§1.22|(D)">1.22(D)</cite> and the Legislative History.  Approved by the BIA, Great Lakes Agency, on June 16, 2009 (no comments from Minneapolis Regional Office during 90-day comment period).</text>
-        </para>
-        <para>
-          <num>9</num>
-          <text>Tribal Council, on March 17, 2015, posted for comment whole-scale revisions amending <cite path="TCT|TCT.01">Chapter TCT.01</cite> by adding a new <cite path="§TCT.01.07">Section TCT.01.07</cite> to creating an elected Judiciary Commission responsible for selection of judges and judiciary oversight; removing Sections <cite path="§TCT.01.06">Section TCT.01.06</cite>.5, <cite path="§TCT.01.07">Section TCT.01.07</cite>, <cite path="§TCT.01.10">Section TCT.01.10</cite>, <cite path="§TCT.01.11">Section TCT.01.11</cite>, <cite path="§TCT.01.13">Section TCT.01.13</cite>. <cite path="§TCT.01.14">Section TCT.01.14</cite>, <cite path="§TCT.01.15">Section TCT.01.15</cite>, <cite path="§TCT.01.16">Section TCT.01.16</cite>, <cite path="§1.17">1.17</cite>, <cite path="§1.18">1.18</cite>, <cite path="§1.19">1.19</cite>, <cite path="§1.20">1.20</cite>, <cite path="§1.29">1.29</cite>, <cite path="§TCT.01.03">Section TCT.01.03</cite>, <cite path="§1.31">1.31</cite>.5, <cite path="§1.32">1.32</cite>, <cite path="§1.33">1.33</cite> and <cite path="§1.34">1.34</cite> to be addressed in a new civil procedure ordinance; as well as amending and renumbering the remaining sections.</text>
-          <text>Following review of comments, the Tribal Council made additional amendments to provide for a process for the direct election of the Chief Judge, clarifying revised requirements for judicial office and court personnel (including implementation of such requirements), providing due process when the Judiciary Commission disciplines judges, addresses court funding and fees, and clarifying contempt of court.  These additional amendments were posted for comment on January 19, 2016.</text>
-          <text>On March 15, 2016, the Tribal Council by Resolution No. 037-16 adopted amendments to <cite path="TCT|TCT.01">Chapter TCT.01</cite>, Court Code, that made the following whole-scale changes:</text>
-          <text>
-            <ul proof="needed">
-              <li>Repealed the existing headings and sections of the ordinance other than Sections <cite path="§TCT.01.01">Section TCT.01.01</cite>, <cite path="§TCT.01.03">Section TCT.01.03</cite>, <cite path="§TCT.01.12">Section TCT.01.12</cite>, <cite path="§1.21">1.21</cite>, <cite path="§1.23">1.23</cite>, <cite path="§1.24">1.24</cite>, <cite path="§1.28">1.28</cite> and <cite path="§1.35">1.35</cite>.</li>
-              <li>Removed Sections <cite path="§TCT.01.06">Section TCT.01.06</cite>.5, <cite path="§TCT.01.07">Section TCT.01.07</cite>, <cite path="§TCT.01.10">Section TCT.01.10</cite>, <cite path="§TCT.01.11">Section TCT.01.11</cite>, <cite path="§TCT.01.13">Section TCT.01.13</cite>. <cite path="§TCT.01.14">Section TCT.01.14</cite>, <cite path="§TCT.01.15">Section TCT.01.15</cite>, <cite path="§TCT.01.16">Section TCT.01.16</cite>, <cite path="§1.17">1.17</cite>, <cite path="§1.18">1.18</cite>, <cite path="§1.19">1.19</cite>, <cite path="§1.20">1.20</cite>, <cite path="§1.29">1.29</cite>, <cite path="§TCT.01.03">Section TCT.01.03</cite>, <cite path="§1.31">1.31</cite>.5, <cite path="§1.32">1.32</cite>, <cite path="§1.33">1.33</cite> and <cite path="§1.34">1.34</cite> to be addressed in <cite path="TCT|TCT.02">Chapter TCT.02</cite>, Civil Procedure Ordinance.</li>
-              <li>Renumbered sections and updated terminology throughout entire document.</li>
-              <li>Adopted new Sections <cite path="§TCT.01.03">Section TCT.01.03</cite>, <cite path="§TCT.01.04">Section TCT.01.04</cite>, <cite path="§TCT.01.05">Section TCT.01.05</cite>, <cite path="§TCT.01.06">Section TCT.01.06</cite>, <cite path="§TCT.01.09">Section TCT.01.09</cite>, <cite path="§TCT.01.11">Section TCT.01.11</cite>, <cite path="§TCT.01.14">Section TCT.01.14</cite> and <cite path="§TCT.01.15">Section TCT.01.15</cite> that are amended versions of prior court code language.</li>
-              <li>Adopted new <cite path="§TCT.01.07">Section TCT.01.07</cite> establishing an elected Judiciary Commission, who is responsible for selection of Judges (other than Chief Judge) and judiciary oversight.</li>
-              <li>Adopted new <cite path="§TCT.01.08">Section TCT.01.08</cite> providing for direct election of a Chief Judge.</li>
-              <li>Adopted new <cite path="§TCT.01.10">Section TCT.01.10</cite> outlining judicial duties and responsibilities.</li>
-              <li>Adopted new <cite path="§TCT.01.13">Section TCT.01.13</cite> addressing contempt of court authority.</li>
-              <li>Adopted new subsections <cite path="§TCT.01.16|(a)|(1)|(A)">Section TCT.01.16(a)(1)(A)</cite>-(b) addressing implementation of the amendments.</li>
-            </ul>
-          </text>
-          <text>Per <cite path="§TCT.01.16|(a)">Section TCT.01.16(a)</cite>, which was retained and was <cite path="§1.35|(A)">Section 1.35(A)</cite> prior to renumbering, this ordinance is effective upon enactment by the Stockbridge-Munsee Community without further review by the Secretary of Interior.</text>
-          <text>Posting of revised ordinance withheld pending approval of a new <cite path="TCT|TCT.02">Chapter TCT.02</cite>, Civil Procedure Ordinance, that moved civil procedure sections to new ordinance.  New <cite path="TCT|TCT.02">Chapter TCT.02</cite> approved by the BIA on August 3, 2017.</text>
-        </para>
-        <para>
-          <num>10</num>
-          <text>On August 7, 2017, added Legislative Note correcting typo in <cite path="§TCT.01.11|(c)|(1)">Section TCT.01.11(c)(1)</cite>.</text>
-        </para>
-        <para>
-          <num>11</num>
-          <text>On March 6, 2018, the Tribal Council adopted Resolution 027-18, adopted amendments to <cite path="§TCT.01.09">Section TCT.01.09</cite> that establishes the Court of Appeals as a 3-judge appellate panel appointed by the Tribal Council for 3-year terms with the Chief Justice of the Court of Appeals rotating each year.  The amendments also created a new process for appeals where the Chief Judge of the panel solely presides over appeals unless there is a request for a 3-judge panel.  Per <cite path="§TCT.01.16|(a)">Section TCT.01.16(a)</cite>, this ordinance is effective upon enactment of the Tribal Council.</text>
-        </para>
-      </annotation>
+      <annotation type="Legislative History">11. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 027-18">Resolution No. 027-18</cite>, adopted March 6, 2018.</annotation>
+      <annotation type="Legislative History">10. On August 7, 2017, added Legislative Note correcting typo in <cite path="§TCT.01.11|(c)|(1)">Section TCT.01.11(c)(1)</cite>.</annotation>
+      <annotation type="Legislative History">9. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 037-16">Resolution No. 037-16</cite>, adopted March 15, 2016, approved by BIA August 3, 2017.</annotation>
+      <annotation type="Legislative History">8. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 058-09">Resolution No. 058-09</cite>, adopted June 2, 2009, approved by BIA June 16, 2009.</annotation>
+      <annotation type="Legislative History">7. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 07-001">Resolution No. 07-001</cite>, adopted October 11, 2006, approved by BIA April 9, 2007.</annotation>
+      <annotation type="Legislative History">6. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 06-04">Resolution No. 06-04</cite>, adopted March 4, 2004, approved by BIA March 29, 2004.</annotation>
+      <annotation type="Legislative History">5. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 070-02">Resolution No. 070-02</cite>, adopted November 19, 2002, approved by BIA December 27, 2002.</annotation>
+      <annotation type="Legislative History">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 0246-97">Resolution No. 0246-97</cite>, adopted September 2, 1997.</annotation>
+      <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1551-95">Resolution No. 1551-95</cite>, adopted November 7, 1995, approved by BIA July 18, 1996.</annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1490-95">Resolution No. 1490-95</cite>, adopted April 25, 1995.</annotation>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1109">Resolution No. 1109</cite>, adopted October 4, 1988.</annotation>
     </annotations>
   </container>
   <container>
@@ -1810,21 +1758,8 @@
       <annotation type="Prior Codifications">§TCT.02.23 was formerly codified as Chapter 5, §5.23</annotation>
     </section>
     <annotations>
-      <annotation type="Legislative History">
-        <para>
-          <num>1</num>
-          <text>Adopted by Resolution #1560-95 on December 27, 1995 by Tribal Council</text>
-        </para>
-        <para>
-          <num>2</num>
-          <text>On March 17, 2015, the Tribal Council posted a new Civil Procedure Ordinance for comment.  This document repealed and replaced <cite path="TCT|TCT.02">Chapter TCT.02</cite>, Administrative Appeals, with a new ordinance addressing civil procedures for practice before the Stockbridge-Munsee Tribal Court System.  It included provisions addressing civil procedures that had previously been addressed in <cite path="TCT|TCT.01">Chapter TCT.01</cite>, new rules of procedure, as well as procedures relating to administrative appeals.</text>
-          <text>The Tribal Council reviewed comments received on the posting.  Proposed revisions were posted for additional comment on January 19, 2016.  On March 15, 2016, the Tribal Council, by Resolution No. 038-16, repealed the existing <cite path="TCT|TCT.02">Chapter TCT.02</cite> and replaced it with the new Civil Procedure Ordinance.  The ordinance was approved by the BIA on August 3, 2017.</text>
-        </para>
-        <para>
-          <num>3</num>
-          <text>On November 5, 2019, the Tribal Council adopted amendments to address a new Appellate Procedure ordinance (<cite path="5-A">Chapter 5-A</cite>) by Resolution 011-20.  More specifically, <cite path="§TCT.02.02|(a)|(3)">Section TCT.02.02(a)(3)</cite> was amended to add a cross-reference to <cite path="5-A">Chapter 5-A</cite> and <cite path="§TCT.02.22">Section TCT.02.22</cite>, which previously addressed appellate procedure, was deleted.  The amendments were approved by the BIA on _____________.</text>
-        </para>
-      </annotation>
+      <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 038-16">Resolution No. 038-16</cite>, adopted March 15, 2016, approved by BIA August 3, 2017.</annotation>
+      <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 1560-95">Resolution No. 1560-95</cite>, adopted December 27, 1995.</annotation>
     </annotations>
   </container>
   <container>
@@ -2263,7 +2198,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>In accordance with <cite path="GMG|GMG.02">Chapter GMG.02</cite>.9, the Stockbridge-Munsee Court shall not have jurisdiction to hear any matters relating to or affecting per capita payments, as defined in <cite path="GMG|GMG.02">Chapter GMG.02</cite>.7(A), except as provided in <cite path="GMG|GMG.02">Chapter GMG.02</cite>.7(F) and <cite path="§GMG.02.07|(g)">Section GMG.02.07(g)</cite>.</text>
+        <text>In accordance with <cite path="§GMG.02.09">Section GMG.02.09</cite>, the Stockbridge-Munsee Court shall not have jurisdiction to hear any matters relating to or affecting per capita payments, as defined in <cite path="§GMG.02.07|(a)">Section GMG.02.07(a)</cite>, except as provided in <cite path="§GMG.02.07|(f)">Section GMG.02.07(f)</cite> and <cite path="§GMG.02.07|(g)">Section GMG.02.07(g)</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§TCT.05.01 was formerly codified as Chapter 17, §17.1</annotation>
     </section>
@@ -2544,27 +2479,27 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Execution:</text>
+        <heading>Execution:</heading>
         <para>
           <num>(1)</num>
           <text>The judgment creditor may seek a Writ of Execution upon any specific personal property of the judgment debtor when such property is in the possession of the judgment debtor and is found within the jurisdiction of the Stockbridge-Munsee Tribal Court.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The Writ shall specify the property to be seized and the amount owing to the judgment creditor.  Such property is to be seized by a duly authorized enforcement officer and sold in order to satisfy all or part of the judgment.</text>
+          <text>The Writ shall specify the property to be seized and the amount owing to the judgment creditor. Such property is to be seized by a duly authorized enforcement officer and sold in order to satisfy all or part of the judgment.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>A notice of sale shall be mailed to the judgment debtor and shall be posted at two public places within the reservation for ten (10) days prior to the sale by the Court.  The sale shall be conducted by the Court Clerk or a duly authorized law enforcement officer who shall issue a bill of sale for the property to the highest bidder in return for a cash amount but not for less than the appraised value of the property.</text>
+          <text>A notice of sale shall be mailed to the judgment debtor and shall be posted at two public places within the reservation for ten (10) days prior to the sale by the Court. The sale shall be conducted by the Court Clerk or a duly authorized law enforcement officer who shall issue a bill of sale for the property to the highest bidder in return for a cash amount but not for less than the appraised value of the property.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Proceeds of the sale shall first go to satisfy the cost of the sale, second to any unpaid court costs, next to satisfy any portion of the judgment still owing.  Any amount remaining after the above has been paid shall be paid over to the defendant.</text>
+          <text>Proceeds of the sale shall first go to satisfy the cost of the sale, second to any unpaid court costs, next to satisfy any portion of the judgment still owing. Any amount remaining after the above has been paid shall be paid over to the defendant.</text>
         </para>
       </para>
       <para>
         <num>(c)</num>
-        <text>Garnishment:</text>
+        <heading>Garnishment:</heading>
         <para>
           <num>(1)</num>
           <text>The judgment creditor may seek a Writ of Garnishment upon any specific personal property of credits, including wages or salary owed by another to the judgment debtor which is in the possession of a third party and is found within the jurisdiction of the Stockbridge-Munsee Tribal Court.</text>
@@ -2588,7 +2523,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Writ of Recovery:</text>
+        <heading>Writ of Recovery:</heading>
         <para>
           <num>(1)</num>
           <text>Whenever the Court has issued a judgment ordering the party to deliver possession of real or personal property to another party and such deliver has not taken place within the time limit prescribed in the judgment, the aggrieved party may seek a writ of recovery for such property.</text>
@@ -2685,7 +2620,7 @@
         <text>The Stockbridge-Munsee Tribal Court shall not recognize and enforce any foreign judgment unless the proponent of the foreign judgment;</text>
         <para>
           <num>(1)</num>
-          <text>Complies with the procedure set forth in <cite path="§TCT.05.22">Section TCT.05.22</cite> of this Code:</text>
+          <text>Complies with the procedure set forth in <cite path="§TCT.05.23">Section TCT.05.23</cite> of this Code:</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2839,7 +2774,7 @@
     <section>
       <num>TCT.06.05</num>
       <heading>Fees.</heading>
-      <text>The filing fee for a petition for a change of name shall be ten (10) dollars.</text>
+      <text>The filing fee for a petition for a change of name shall be ten dollars ($10).</text>
       <annotation type="Prior Codifications">§TCT.06.05 was formerly codified as Chapter 60, §60.5</annotation>
     </section>
     <annotations>
