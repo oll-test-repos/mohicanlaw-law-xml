@@ -1553,7 +1553,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>SAF.04</num>
-    <heading>Communi54Cable Disease, Vaccination, And Quarantine Ordinance</heading>
+    <heading>Communicable Disease, Vaccination, And Quarantine Ordinance</heading>
     <section>
       <num>SAF.04.01</num>
       <heading>Council Findings And Authority</heading>
@@ -1709,67 +1709,75 @@
       <text>In the event that any provision of this ordinance is ruled illegal by a court of competent jurisdiction, the remaining provisions of this ordinance shall remain unaffected.</text>
       <annotation type="Prior Codifications">§SAF.04.06 was formerly codified as Chapter 26A, §26A.6</annotation>
     </section>
+    <section>
+      <num>SAF.04.07</num>
+      <heading>Non-Quarantinable Diseases</heading>
+    <text class="center">
+      <strong></strong>
+    </text>
+    <text>
+      <ul>
+        <li>Acquired Immunodeficiency Syndrome (AIDS) Immunodeficiency Virus (HIV) Infection Amebiasis</li>
+        <li>Anthrax</li>
+        <li>Blastomycosis</li>
+        <li>Botulism</li>
+        <li>Botulism, Infant</li>
+        <li>Brucellosis</li>
+        <li>Campylobacteriosis</li>
+        <li>Chancroid</li>
+        <li>Chlamydia</li>
+        <li>Cholera</li>
+        <li>Cryptosporidiosis</li>
+        <li>Ehrlichiosis</li>
+        <li>Encephalitis, Arboviral</li>
+        <li>Encephalitis, Viral</li>
+        <li>Escherichia Coli 0157:H7</li>
+        <li>Foodborne Disease Outbreak</li>
+        <li>Genital Herpes</li>
+        <li>Giardiasis</li>
+        <li>Gonorrhea</li>
+        <li>Haemophilus Influenza</li>
+        <li>Hemolytic Uremic Syndrome (HUS) Hepatitis A</li>
+        <li>Hepatitis B</li>
+        <li>Hepatitis C/non-A, non-B</li>
+        <li>Hepatitis D (Delta)</li>
+        <li>Histoplasmosis</li>
+        <li>Kawasaki Syndrome</li>
+        <li>Legionellosis (Legionnaires Disease)</li>
+        <li>Leprosy (Hansen's Disease)</li>
+        <li>Leptospirosis 11</li>
+        <li>Listeriosis</li>
+        <li>Lyme Disease</li>
+        <li>Meningitis, Aseptic</li>
+        <li>Meningitis, Bacterial.</li>
+        <li>Meningococcal Disease</li>
+        <li>Nontuberculous Mycobacterial Disease</li>
+        <li>Pelvic Inflammatory Disease</li>
+        <li>Pertussis</li>
+        <li>Poliomyelitis</li>
+        <li>Psittacosis</li>
+        <li>Rabies (Animal)</li>
+        <li>Rabies (Human)</li>
+        <li>Reye Syndrome</li>
+        <li>Rheumatic Fever</li>
+        <li>Rocky Mountain Spotted Fever Rubella</li>
+        <li>Rubella, Congenital Syndrome Salmonellosis</li>
+        <li>Syphilis</li>
+        <li>Tetanus</li>
+        <li>Toxic-Shock Syndrome Toxoplasmosis</li>
+        <li>Trichinosis</li>
+        <li>Trichomoniasis</li>
+        <li>Tularemia</li>
+        <li>Typhoid Fever</li>
+        <li>Typhus Fever, Flea-Borne Waterborne Outbreak</li>
+        <li>Yellow Fever</li>
+        <li>Yersiniosis</li>
+      </ul>
+    </text>
+    </section>
     <annotations>
       <annotation type="Legislative History">
         <text>Adopted by Tribal Council on August 21, 2007, Resolution No. 059-07.   BIA approved the ordinance, except for <cite path="§26A.7">Section 26A.7</cite>, on April 16, 2012.  <cite path="§26A.7">Section 26A.7</cite>, regarding the need for BIA approval of future amendments, was deleted.</text>
-        <text class="center">
-          <strong>NON-QUARANTINABLE DISEASES</strong>
-        </text>
-        <text>Acquired Immunodeficiency Syndrome (AIDS) Immunodeficiency Virus (HIV) Infection Amebiasis</text>
-        <text>Anthrax</text>
-        <text>Blastomycosis</text>
-        <text>Botulism</text>
-        <text>Botulism, Infant</text>
-        <text>Brucellosis</text>
-        <text>Campylobacteriosis</text>
-        <text>Chancroid</text>
-        <text>Chlamydia</text>
-        <text>Cholera</text>
-        <text>Cryptosporidiosis</text>
-        <text>Ehrlichiosis</text>
-        <text>Encephalitis, Arboviral</text>
-        <text>Encephalitis, Viral</text>
-        <text>Escherichia Coli 0157:H7</text>
-        <text>Foodborne Disease Outbreak</text>
-        <text>Genital Herpes</text>
-        <text>Giardiasis</text>
-        <text>Gonorrhea</text>
-        <text>Haemophilus Influenza</text>
-        <text>Hemolytic Uremic Syndrome (HUS) Hepatitis A</text>
-        <text>Hepatitis B</text>
-        <text>Hepatitis C/non-A, non-B</text>
-        <text>Hepatitis D (Delta)</text>
-        <text>Histoplasmosis</text>
-        <text>Kawasaki Syndrome</text>
-        <text>Legionellosis (Legionnaires Disease)</text>
-        <text>Leprosy (Hansen's Disease)</text>
-        <text>Leptospirosis 11</text>
-        <text>Listeriosis</text>
-        <text>Lyme Disease</text>
-        <text>Meningitis, Aseptic</text>
-        <text>Meningitis, Bacterial.</text>
-        <text>Meningococcal Disease</text>
-        <text>Nontuberculous Mycobacterial Disease</text>
-        <text>Pelvic Inflammatory Disease</text>
-        <text>Pertussis</text>
-        <text>Poliomyelitis</text>
-        <text>Psittacosis</text>
-        <text>Rabies (Animal)</text>
-        <text>Rabies (Human)</text>
-        <text>Reye Syndrome</text>
-        <text>Rheumatic Fever</text>
-        <text>Rocky Mountain Spotted Fever Rubella</text>
-        <text>Rubella, Congenital Syndrome Salmonellosis</text>
-        <text>Syphilis</text>
-        <text>Tetanus</text>
-        <text>Toxic-Shock Syndrome Toxoplasmosis</text>
-        <text>Trichinosis</text>
-        <text>Trichomoniasis</text>
-        <text>Tularemia</text>
-        <text>Typhoid Fever</text>
-        <text>Typhus Fever, Flea-Borne Waterborne Outbreak</text>
-        <text>Yellow Fever</text>
-        <text>Yersiniosis</text>
       </annotation>
     </annotations>
   </container>
@@ -1977,336 +1985,6 @@
       <annotation type="Legislative History">
         <text>Originally approved August 3, 1993 by Resolution of Tribal Council, to be effective Jan. 1, 1994.  Revised and amended August 17, 2005.  All drafts were developed and recommended by Indian Health Service.</text>
         <text>On March 21, 2006, Tribal Council, by Resolution No.027-06 created sections <cite path="§56.1|(C)">56.1(C)</cite>,(D),(E); <cite path="§SAF.05.02|(b)|(2)">Section SAF.05.02(b)(2)</cite>; <cite path="§SAF.05.05">Section SAF.05.05</cite>; Appendix A, and amended sections <cite path="§SAF.05.03">Section SAF.05.03</cite> and <cite path="§SAF.05.04">Section SAF.05.04</cite>.  Approved by BIA on April 10, 2006.</text>
-        <text>
-          <strong>TEMPORARY FOOD SERVICE GUIDELINES</strong>
-        </text>
-        <text>Stockbridge-Munsee Health and Wellness Center</text>
-        <text>W12802 County Highway A</text>
-        <text>Bowler, WI  54416</text>
-        <text>PH. 715/793-4144</text>
-        <text>A temporary food service means a facility that operates at a fixed location in conjunction with a single event such as a pow wow, fair, carnival, or other celebration.</text>
-        <para>
-          <num>I</num>
-          <text>
-            <strong>LOCATION</strong>
-          </text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>Temporary food stands must not be less than 100 feet from building housing animals or other sources of odors, flies or insect infestations.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Toilet facilities must be located within 400 feet.</text>
-        </para>
-        <para>
-          <num>II</num>
-          <text>
-            <strong>CONSTRUCTION</strong>
-          </text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>Each facility must have a roof made of wood, canvas, or other approved material that protects the interior of the establishment from splash, dust, and inclement weather.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Barrels and other containers which have been used for the storage of toxic products shall not be used as a cooking device.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>All means of cooking at counters, grills, barbecue pits and other types of cooking must be in an enclosed area effectively separated, so as not to be accessible to the public, by using fence, rope or similar means.</text>
-        </para>
-        <para>
-          <num>III</num>
-          <text>
-            <strong>WATER SUPPLY</strong>
-          </text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>A potable water supply from an approved source must be provided on the premises for use in food preparation, utensil-washing and employee hand washing.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Temporary restaurants which do not have water under pressure are required to provide food grade water containers which are smooth, easily cleanable and have a tight fitting cover.  Containers must be cleaned and sanitized in an approved manner each day prior to commencement of operations.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>An electric or gas heating device is required to heat water for hand washing and utensil washing.</text>
-        </para>
-        <para>
-          <num>(D)</num>
-          <text>Water hoses must be of food grade material, i.e., clear plastic or of nontoxic materials approved by the USDA, FDA and NSF.  Water supplies that are connected to hoses shall be protected by an approved backflow prevention device.</text>
-        </para>
-        <para>
-          <num>IV</num>
-          <text>
-            <strong>UTENSIL CLEANING</strong>
-          </text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>Only single-service cups, dishes, and implements shall be used for serving food and drink.  These utensils shall be fully protected from contamination, and shall be used only once.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>All single-service utensils shall be stored in the original closed container or effectively protected from dust, insects and other contamination and be stored a minimum of 6 inches off the floor. Single-service straws, knives, forks, spoons and toothpicks which are stored in a container that is self-service to the customer, shall be individually wrapped unless served through an approved dispenser or dispensed individually by a food service employee to the customer.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>Dishes and utensils must be washed after each use in the following manner: 1) pre-wash (scrape and soak), 2) wash in a good detergent, 3) rinse in clean water, 4) immerse in a 100-ppm bleach solution or other approved sanitizer for two minutes, and 5) air dry. (100 ppm bleach solution = 1/4 ounce bleach per gallon of water.)</text>
-        </para>
-        <para>
-          <num>V</num>
-          <text>
-            <strong>WASTEWATER DISPOSAL</strong>
-          </text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>Liquid waste should be emptied into an approved sewage collection system when such system is available.  When not available, liquid waste must be stored in a sealed container.  This waste shall be disposed of at a location that will not create a fly, odor, or nuisance problem.</text>
-        </para>
-        <para>
-          <num>VI</num>
-          <text>
-            <strong>HAND WASHING</strong>
-          </text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>Hot water or tempered water must be provided for hand washing.  If potable water is under pressure at the facility, a single compartment stainless steel or porcelain handwash sink with proper liquid waste disposal must be used.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Where potable water is not under pressure, a minimum of two pans or basins for hand washing and rinsing is required (a single basin with two compartments is acceptable).  Hand washing basins shall be kept in a clean and sanitary condition.  Disposable towels, soap and a waste receptacle shall be provided in the area of the hand washing basins.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>An alternative method for hand washing when potable water is not under pressure is as follows: Hot or tempered water in a suitable clean container with a spigot is encouraged for washing and rinsing hands. Water from the spigot will run over the hands while they are being washed and rinsed and the wastewater collected for proper disposal such as in a bucket or pan.</text>
-        </para>
-        <para>
-          <num>(D)</num>
-          <text>All food service workers shall wash their hands frequently while preparing and serving food.  Employees must wash their hands immediately after using the toilet.</text>
-        </para>
-        <para>
-          <num>VII</num>
-          <text>
-            <strong>PERSONAL HYGIENE</strong>
-          </text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>All persons working in concessions will wear clean clothing and caps or hairnets.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>No person who has any disease, in a communicable form or is a carrier of such disease shall work in any temporary food service, and no facility shall employ any such person or persons suspected of having any communicable disease or being a carrier of such disease.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>Tobacco products, in any form, shall not be used in the food preparation or serving areas.  Employees of the facility shall wash their hands immediately after using any tobacco products.</text>
-        </para>
-        <para>
-          <num>(D)</num>
-          <text>Unauthorized access to the food preparation area should be prohibited. Only food service workers should be present in the facility.</text>
-        </para>
-        <para>
-          <num>E)</num>
-          <text>No children under the age of 15 years shall work in a temporary food service facility.</text>
-        </para>
-        <para>
-          <num>VIII</num>
-          <text>
-            <strong>FOOD PROTECTION</strong>
-          </text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>Potentially hazardous food, such as cream-filled pastries, custards, and similar products, and meat, poultry and fish in the form of salads shall not be served, e.g., potato, chicken and egg salads.  No home canned products shall be served.  Foods must be from approved sources.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Potentially hazardous foods such as hamburger, salads, eggs, milk, etc., shall be kept refrigerated at a temperature of less than 45 degrees F when not being served.  Potentially hazardous hot foods, such as Indian Taco meat or soup, shall be kept hot at 140 degrees F or higher.  Frozen foods shall be thawed out at temperatures below 45 degrees F or during the cooking process.  No thawing of frozen foods at outdoor temperatures will be allowed.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>An accurate and visible thermometer must be located in each refrigeration unit.</text>
-        </para>
-        <para>
-          <num>(D)</num>
-          <text>An accurate metal stem thermometer must be provided for checking internal temperatures of cold and hot potentially hazardous foods.</text>
-        </para>
-        <para>
-          <num>(E)</num>
-          <text>All foods and drinks are to be covered at all times to prevent contamination from flies, dust, sneezing, etc.  If cloth coverings are used, they shall be used for no other purpose and shall be replaced by clean cloths daily.</text>
-        </para>
-        <para>
-          <num>(F)</num>
-          <text>Ice, which will be consumed or will come in contact with food, shall be obtained from an approved source in chipped, crushed or cubed form. Such ice shall be obtained in single service closed containers, and shall be held therein or in sanitary covered containers until used. Dippers or scoops shall be used for dispensing ice.</text>
-        </para>
-        <para>
-          <num>(G)</num>
-          <text>All nonperishable food must be stored in its original container a minimum of 6 inches above the floor of the temporary restaurant.</text>
-        </para>
-        <para>
-          <num>(H)</num>
-          <text>Nonperishable food which is not stored in its original container must be stored in an approved food grade covered container, and if the food item is not readily recognizable, must be labeled for content.</text>
-        </para>
-        <para>
-          <num>(I)</num>
-          <text>Sugar, cream, mustard, ketchup and similar products shall be served from individual packages or approved dispensers unless they are served by food service employees.</text>
-        </para>
-        <para>
-          <num>(J)</num>
-          <text>Items such as pickles, onions and relish shall be served by food service employees unless individually packaged.</text>
-        </para>
-        <para>
-          <num>(K)</num>
-          <text>Plastic squeeze bottles, pumps and similar types of dispensers must be fabricated so as to be smooth, easily cleanable and capable of being completely disassembled for washing, rinsing and sanitizing.</text>
-        </para>
-        <para>
-          <num>(L)</num>
-          <text>Live animals shall be excluded from the operational area of the food service facility.</text>
-        </para>
-        <para>
-          <num>IX</num>
-          <text>
-            <strong>REFUSE</strong>
-          </text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>Garbage and refuse shall be routinely removed from the immediate area around the facility to prevent the attraction of flies and the creation of odor and nuisance problems.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Durable waste containers of sufficient size and number lined with plastic bags and provided with tight-fitting lids will be provided by the operator of the facility.  These containers must be covered at all times.  The containers will be emptied as often as necessary to avoid creating a nuisance.  When dumpsters are used for daily storage, plastic bags shall be used and tightly closed prior to storage in dumpsters.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>Grease will be disposed of in a grease disposal dumpster if one is available.  If one is not available then the grease must be disposed of by the vendor in an acceptable manner (allow it to harden or place in a sealable container and dispose of it in a regular waste dumpster).  Grease shall not be dumped on the ground, in the storm sewer, in the porta-johns, or in any way that could cause damage to the environment or public health.</text>
-        </para>
-        <para>
-          <num>X</num>
-          <text>
-            <strong>WASHING AND CLEANING AIDS</strong>
-          </text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>All washing aids such as brushes, dish mops and dish cloths used in dishwashing shall be maintained in a clean and sanitary condition. Counter cloths must be stored in an approved sanitizing solution, i.e., 100-ppm chlorine bleach solution (1/4 ounce bleach per gallon of water).</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>An approved test kit must be used for measuring the level of sanitizer in solution.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>Floor cleaning aids such as mops, brooms and buckets should not be stored in food preparation areas.</text>
-        </para>
-        <para>
-          <num>XI</num>
-          <text>
-            <strong>TOXIC PRODUCT USE</strong>
-          </text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>Toxic products must not be used in a way that contaminates food, equipment or utensils or in a way that constitutes a hazard to employees or other persons or in a way other than in full compliance with the manufacturer's label.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Toxic products shall not be stored above food, food equipment, utensils or single-service articles.</text>
-          <text class="center">
-            <strong>APPENDIX A Examination Criteria</strong>
-          </text>
-          <text>Criteria for DEPARTMENT approval of a written examination on FOOD protection practices may include the following:</text>
-        </para>
-        <para>
-          <num>(A)</num>
-          <text>The testing service is:</text>
-          <para>
-            <num>(1)</num>
-            <text>Experienced in examination development and administration on a statewide or multi–state basis;</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Experienced in the development of an examination pertaining to FOOD service protection practices; and</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Qualified in examination development, administration and measurement.</text>
-          </para>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>The examination is currently being use by a trade or regulatory organizations;</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>The examination is accepted by public health officials and has been administered on a statewide basis;</text>
-        </para>
-        <para>
-          <num>(D)</num>
-          <text>The questions and answers are consistent with the examination requirements of <cite path="SAF|SAF.05">Chapter SAF.05</cite>;</text>
-        </para>
-        <para>
-          <num>(E)</num>
-          <text>Security procedures are in place which protect the examination from compromise in preparation, printing and transportation of the examination;</text>
-        </para>
-        <para>
-          <num>(F)</num>
-          <text>The examination will be administered by a person certified by the testing service to administer the examination, to ensure that the examination taker and the applicant are the same person;</text>
-        </para>
-        <para>
-          <num>(G)</num>
-          <text>General analyses of examination results will be available annually;</text>
-        </para>
-        <para>
-          <num>(H)</num>
-          <text>The examination is available and may be taken at location geographically accessible to persons who want to take it;</text>
-        </para>
-        <para>
-          <num>(I)</num>
-          <text>There is advance notice of examination dates available;</text>
-        </para>
-        <para>
-          <num>(J)</num>
-          <text>An examination that is given under contract with a testing service for a specified period of time is subject to review by the DEPARTMENT upon renewal;</text>
-        </para>
-        <para>
-          <num>(K)</num>
-          <text>A designated examination coordinator or contact person is available;</text>
-        </para>
-        <para>
-          <num>(L)</num>
-          <text>The needs of special populations for accommodation to be able to take the examination are addressed by the testing service;</text>
-        </para>
-        <para>
-          <num>(M)</num>
-          <text>A study guide and list of resources is available to persons who are preparing to take the examination;</text>
-        </para>
-        <para>
-          <num>(N)</num>
-          <text>The proposed examination is consistent with already APPROVED examination in regard to rigor and types of questions; and</text>
-          <text>Examples of the courses that offer exams are:</text>
-          <text>Serve – Safe</text>
-          <text>National Environmental Health Association Certified Food Professional</text>
-          <text>Culinary Arts School Training <br/>TEMPORARY FOOD SERVICE PERMIT APPLICATION</text>
-          <text>STOCKBRIDGE-MUNSEE INDIAN RESERVATION</text>
-          <text>Applicant Name:   ______________________________________________________</text>
-          <text>Address:     _____________________________________________________</text>
-          <text>_____________________________________________________</text>
-          <text>_____________________________________________________</text>
-          <text>Phone Number:    _____________________________________________________</text>
-          <text>All food handlers will have a current food handlers card.</text>
-          <text>Period of Food Service Operation:  _______________________________________________</text>
-          <text>As the owner/operator of this Temporary Food Service Facility, I hereby apply for a permit from the Stockbridge-Munsee Band of Mohican Indians to operate my business on the Stockbridge-Munsee Indian Reservation.  I have reviewed the requirements of the TEMPORARY FOOD SERVICE GUIDELINES of the Stockbridge Munsee Band of Mohican Indians and agree to comply with said guidelines.</text>
-          <text>I understand that failure to comply with any of the requirements of these Guidelines will result in the revocation of my Temporary Food Service Permit.</text>
-          <text>_________________________________		     _____________________</text>
-          <text>Owner/Operator  							Date</text>
-        </para>
       </annotation>
     </annotations>
   </container>

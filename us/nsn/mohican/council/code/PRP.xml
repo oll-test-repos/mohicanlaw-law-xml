@@ -12,11 +12,11 @@
       <heading>Authority</heading>
       <para>
         <num>(a)</num>
-        <text>The Stockbridge-Munsee Community has jurisdiction and authority over tribal lands as established under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="II">Article II of its Constitution</cite> as well as its inherent authority as a tribal government and under federal law.</text>
+        <text>The Stockbridge-Munsee Community has jurisdiction and authority over tribal lands as established under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|II">Article II of its Constitution</cite> as well as its inherent authority as a tribal government and under federal law.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>The Stockbridge-Munsee Tribal Council has authority to establish ordinances regulating tribal lands, including the making, holding and revoking of tribal land assignments, under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|(f)">Article VII (f) of its Constitution</cite>.</text>
+        <text>The Stockbridge-Munsee Tribal Council has authority to establish ordinances regulating tribal lands, including the making, holding and revoking of tribal land assignments, under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII (f) of its Constitution</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§PRP.01.01 was formerly codified as Chapter 40, §40.1</annotation>
     </section>
@@ -120,12 +120,12 @@
     <section>
       <num>PRP.01.05</num>
       <heading>Land Committee</heading>
-      <para proof="needed">
+      <para>
         <num>(a)</num>
         <heading>Committee.</heading>
         <para>
           <num>(1)</num>
-          <text>As authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="IV|3">Article IV, Section 3 of the Stockbridge-Munsee Constitution</cite>, the Tribal Council establishes a five member Land Committee from among the enrolled members.</text>
+          <text>As authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|IV|3">Article IV, Section 3 of the Stockbridge-Munsee Constitution</cite>, the Tribal Council establishes a five member Land Committee from among the enrolled members.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -146,7 +146,7 @@
         <text>Subject to the general responsibilities of all Stockbridge-Munsee Tribal Committees as defined by the policy enacted September 6, 2005, as amended, and any properly adopted Land Committee By-laws, the Land Committee shall exercise the following powers and responsibilities:</text>
         <para>
           <num>(1)</num>
-          <text>Accept land applications, voluntary relinquishments, and requests for permits of temporary use.  Investigate and review all applicable resources and information to determine the suitability of the request,</text>
+          <text>Accept land applications, voluntary relinquishments, and requests for permits of temporary use.  Investigate and review all applicable resources and information to determine the suitability of the request.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -216,15 +216,14 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Recreational assignments are not authorized to be places of residence for the grantee and no grantee may construct or maintain a dwelling on a recreational assignment.  Examples of authorized recreational uses include camping and picnicking.</text>
+        <text>Recreational assignments are not authorized to be places of residence for the grantee and no grantee may construct or maintain a dwelling on a recreational assignment. Examples of authorized recreational uses include camping and picnicking.</text>
         <para>
           <num>(1)</num>
           <text>Recreational assignments are only available in areas with commercial forest or multi-purpose designations as defined in <cite path="PRP|PRP.02">Chapter PRP.02</cite>, the Land Use Code.  The Tribe shall not grant a recreational assignment in areas that are identified for residential development.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Recreational assignments shall not be used to circumvent other provisions of</text>
-          <text>Tribal law.</text>
+          <text>Recreational assignments shall not be used to circumvent other provisions of Tribal law.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -340,7 +339,7 @@
       <heading>General Standards Applicable To Land Assignments</heading>
       <para>
         <num>(a)</num>
-        <text>Grantees are responsible for maintaining their land assignments and improvements on the land assignment in good condition in accordance with all applicable laws, including Chapters <cite path="PRP|PRP.02">Chapter PRP.02</cite> and <cite path="SAF|SAF.02">Chapter SAF.02</cite>.</text>
+        <text>Grantees are responsible for maintaining their land assignments and improvements on the land assignment in good condition in accordance with all applicable laws, including <cite path="PRP|PRP.02">Chapter PRP.02</cite> and <cite path="SAF|SAF.02">Chapter SAF.02</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -921,7 +920,7 @@
     <section>
       <num>PRP.02.02</num>
       <heading>Authority</heading>
-      <text>The Mohican Land Use Code is enacted by the Stockbridge-Munsee Band of Mohicans Tribal Council pursuant to its general duty and authority under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII">Article VII of the Constitution</cite>, as an exercise of its governmental powers to govern the use, management and administration of lands on the Stockbridge-Munsee Indian Reservation.</text>
+      <text>The Mohican Land Use Code is enacted by the Stockbridge-Munsee Band of Mohicans Tribal Council pursuant to its general duty and authority under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII">Article VII of the Constitution</cite>, as an exercise of its governmental powers to govern the use, management and administration of lands on the Stockbridge-Munsee Indian Reservation.</text>
       <annotation type="Prior Codifications">§PRP.02.02 was formerly codified as Chapter 43, §43.2</annotation>
     </section>
     <section>
@@ -937,8 +936,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The Tribal Council's intent in adopting <cite path="43.3">this Chapter</cite> is to preserve and protect</text>
-        <text>the political integrity and the economic survival of the people of the Stockbridge-Munsee Community by exercising the Tribe's inherent powers of self-government, and as a means of regulating and directing the overall impact of reservation land development.</text>
+        <text>The Tribal Council's intent in adopting <cite path="43.3">this Chapter</cite> is to preserve and protect the political integrity and the economic survival of the people of the Stockbridge-Munsee Community by exercising the Tribe's inherent powers of self-government, and as a means of regulating and directing the overall impact of reservation land development.</text>
       </para>
       <annotation type="Prior Codifications">§PRP.02.03 was formerly codified as Chapter 43, §43.3</annotation>
     </section>
@@ -985,7 +983,7 @@
       <text>Structure: anything constructed or erected that requires location on the ground or attached to a location on the ground, but not including fences.</text>
       <text>Tribal Council: the governing body of the Stockbridge-Munsee Community, Band of Mohican Indians.</text>
       <text>Travel Trailer: a structure built on a chassis with or without a complete kitchen or toilet, and designed to be used for temporary habitation for travel or recreation.</text>
-      <text>Uniform Dwelling Code:  Notwithstanding any other law, Uniform Dwelling Code means Wisconsin Comm Chapters <cite path="SAF|SAF.02">Chapter SAF.02</cite>, <cite path="20">20</cite>, <cite path="ENV|ENV.01">Chapter ENV.01</cite>, <cite path="ENV|ENV.02">Chapter ENV.02</cite>, <cite path="23">23</cite>, <cite path="24">24</cite>, <cite path="GMG|GMG.02">Chapter GMG.02</cite>, <cite path="82">82</cite>, <cite path="83">83</cite>, <cite path="84">84</cite>, <cite path="85">85</cite>, and <cite path="86">86</cite> (electrical, plumbing, manufactured homes, septic, and building codes) including future amendments to the Wisconsin Administrative Code Commerce Chapters, except the Stockbridge-Munsee Community retains exclusive jurisdiction regarding all permits, inspection and other enforcement.</text>
+      <text>Uniform Dwelling Code:  Notwithstanding any other law, Uniform Dwelling Code means Wisconsin Comm Chapters 16, 20, 21, 22, 23, 24, 27, 82, 83, 84, 85, and 86 (electrical, plumbing, manufactured homes, septic, and building codes) including future amendments to the Wisconsin Administrative Code Commerce Chapters, except the Stockbridge-Munsee Community retains exclusive jurisdiction regarding all permits, inspection and other enforcement.</text>
       <text>Unnecessary hardship: any circumstances which were not self-created and which affect a particular land assignment or lot, making strict adherence to the requirements of this code as to area, density setbacks, or frontage burdensome or unreasonable.</text>
       <text>Variance: An exception or waiving of the provisions of this Code for standards for yard setbacks, minimum lot requirements, or density requirements where it would cause unnecessary hardship to adhere to the Code.</text>
       <text>Yard: an open space on the same lot with a building and unoccupied by structures.</text>
@@ -1003,68 +1001,81 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Newly acquired lands:  After seeking input from the Core Planning Committee, the Land Management Department will make a recommendation to the Land Use Review Board regarding designations of newly acquired lands.  The Land Use Review Board, following a 30-day posting and public hearing, will make a recommendation to the Tribal Council, for approval.</text>
-        <text>All reservation lands are divided into designated areas as follows:</text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td>
-                  <u>Designation</u>
-                </td>
-                <td>
-                  <u>Abbreviation</u>
-                </td>
-              </tr>
-              <tr>
-                <td><cite path="§PRP.02.07">Section PRP.02.07</cite>.A      Housing/Residential</td>
-                <td>H/R</td>
-              </tr>
-              <tr>
-                <td><cite path="§PRP.02.07">Section PRP.02.07</cite>.B      Commercial/Enterprise</td>
-                <td>C/E</td>
-              </tr>
-              <tr>
-                <td><cite path="§PRP.02.07">Section PRP.02.07</cite>.C      Industrial/Manufacturing</td>
-                <td>I/M</td>
-              </tr>
-              <tr>
-                <td><cite path="§PRP.02.07">Section PRP.02.07</cite>.D      Government Facilities/Public Use</td>
-                <td>G/P</td>
-              </tr>
-              <tr>
-                <td><cite path="§PRP.02.07">Section PRP.02.07</cite>.E      Commercial Forest</td>
-                <td>CF</td>
-              </tr>
-              <tr>
-                <td><cite path="§PRP.02.07">Section PRP.02.07</cite>.F      Reserve</td>
-                <td>R</td>
-              </tr>
-              <tr>
-                <td><cite path="§PRP.02.07">Section PRP.02.07</cite>.G      Parks and Recreation</td>
-                <td>PR</td>
-              </tr>
-              <tr>
-                <td><cite path="§PRP.02.07">Section PRP.02.07</cite>.H      Utilities/Infrastructure/Transportation</td>
-                <td>U/T</td>
-              </tr>
-              <tr>
-                <td><cite path="§PRP.02.07">Section PRP.02.07</cite>.I        Historic/Cultural</td>
-                <td>H/C</td>
-              </tr>
-              <tr>
-                <td><cite path="§PRP.02.07">Section PRP.02.07</cite>.J       Agricultural</td>
-                <td>A</td>
-              </tr>
-              <tr>
-                <td><cite path="§PRP.02.07">Section PRP.02.07</cite>.K      Multi-purpose/Mixed Use</td>
-                <td>M/M</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>The requirements set for each designation shall be minimum requirements and shall apply uniformly to each except as provided by the procedures set forth in <cite path="43.6">this chapter</cite>.</text>
-        <text>A map of land use designations on tribal lands and entitled "Mohican Land Designation Map" is incorporated as a part of this Code and is adopted by reference and declared to be a part of this Code. No changes of any nature shall be made to the Map, Land Use Plan, or Forest Management Plan except by Tribal Council Resolution.  The most recent map shall be identified by the signature of the Tribal President together with the date of adoption of said map.</text>
+        <heading>Newly Acquired Lands</heading>
+        <para>
+          <num>(1)</num>
+          <text>After seeking input from the Core Planning Committee, the Land Management Department will make a recommendation to the Land Use Review Board regarding designations of newly acquired lands. The Land Use Review Board, following a 30-day posting and public hearing, will make a recommendation to the Tribal Council, for approval.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>All reservation lands are divided into designated areas as follows:</text>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td>
+                    <u>Designation</u>
+                  </td>
+                  <td>
+                    <u>Abbreviation</u>
+                  </td>
+                </tr>
+                <tr>
+                  <td><cite path="§PRP.02.07|(a)">Section PRP.02.07(a)</cite>      Housing/Residential</td>
+                  <td>H/R</td>
+                </tr>
+                <tr>
+                  <td><cite path="§PRP.02.07|(b)">Section PRP.02.07(b)</cite>      Commercial/Enterprise</td>
+                  <td>C/E</td>
+                </tr>
+                <tr>
+                  <td><cite path="§PRP.02.07|(c)">Section PRP.02.07(c)</cite>      Industrial/Manufacturing</td>
+                  <td>I/M</td>
+                </tr>
+                <tr>
+                  <td><cite path="§PRP.02.07|(d)">Section PRP.02.07(d)</cite>      Government Facilities/Public Use</td>
+                  <td>G/P</td>
+                </tr>
+                <tr>
+                  <td><cite path="§PRP.02.07|(e)">Section PRP.02.07(e)</cite>      Commercial Forest</td>
+                  <td>CF</td>
+                </tr>
+                <tr>
+                  <td><cite path="§PRP.02.07|(f)">Section PRP.02.07(f)</cite>      Reserve</td>
+                  <td>R</td>
+                </tr>
+                <tr>
+                  <td><cite path="§PRP.02.07|(g)">Section PRP.02.07(g)</cite>      Parks and Recreation</td>
+                  <td>PR</td>
+                </tr>
+                <tr>
+                  <td><cite path="§PRP.02.07|(h)">Section PRP.02.07(h)</cite>      Utilities/Infrastructure/Transportation</td>
+                  <td>U/T</td>
+                </tr>
+                <tr>
+                  <td><cite path="§PRP.02.07|(i)">Section PRP.02.07(i)</cite>        Historic/Cultural</td>
+                  <td>H/C</td>
+                </tr>
+                <tr>
+                  <td><cite path="§PRP.02.07|(j)">Section PRP.02.07(j)</cite>       Agricultural</td>
+                  <td>A</td>
+                </tr>
+                <tr>
+                  <td><cite path="§PRP.02.07|(k)">Section PRP.02.07(k)</cite>      Multi-purpose/Mixed Use</td>
+                  <td>M/M</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The requirements set for each designation shall be minimum requirements and shall apply uniformly to each except as provided by the procedures set forth in <cite path="43.6">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A map of land use designations on tribal lands and entitled "Mohican Land Designation Map" is incorporated as a part of this Code and is adopted by reference and declared to be a part of this Code. No changes of any nature shall be made to the Map, Land Use Plan, or Forest Management Plan except by Tribal Council Resolution.  The most recent map shall be identified by the signature of the Tribal President together with the date of adoption of said map.</text>
+        </para>
       </para>
       <annotation type="Prior Codifications">§PRP.02.06 was formerly codified as Chapter 43, §43.6</annotation>
     </section>
@@ -1074,7 +1085,7 @@
       <text>The following sections specify the purpose, intent, and permitted uses for each class of land use designation identified under <cite path="§PRP.02.06">Section PRP.02.06</cite> of this Code.</text>
       <para>
         <num>(a)</num>
-        <text>HOUSING/RESIDENTIAL</text>
+        <heading>HOUSING/RESIDENTIAL.</heading>
         <text>This designation is intended to provide lands for low to medium single-family dwellings for human habitation, and for certain private and public facilities or services that are compatible with neighborhood surroundings.</text>
         <para proof="needed">
           <num>(1)</num>
@@ -1220,7 +1231,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Commercial/Enterprise</text>
+        <heading>COMMERCIAL/ENTERPRISE.</heading>
         <text>This designation is intended to provide lands for the location of businesses with good access to major roadways.</text>
         <para proof="needed">
           <num>(1)</num>
@@ -1344,7 +1355,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Industrial/Manufacturing</text>
+        <heading>INDUSTRIAL/MANUFACTURING.</heading>
         <text>This area is intended to provide for light manufacturing where all or nearly all activity is contained within a single building, does not require extensive loading and unloading facilities or outside storage, and whose effects such as smoke, noise, light, heat, and odors cannot be detected outside property boundaries; and heavy manufacturing where more than one building is involved, where there is a great deal of activity with storage outside of buildings, and effects such as noise, smoke, dust, heat, light, and odors can be detected beyond property lines.  These areas shall be located on roads suitable for industrial traffic and compatible with nearby land uses.</text>
         <para proof="needed">
           <num>(1)</num>
@@ -1505,7 +1516,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Government Facilities/Public Use</text>
+        <heading>GOVERNMENT FACILITIES/PUBLIC USE.</heading>
         <text>This designation is intended to provide land for Tribal governmental services.</text>
         <para>
           <num>(1)</num>
@@ -1592,7 +1603,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Commercial Forest</text>
+        <heading>COMMERCIAL FOREST.</heading>
         <text>This designation is intended to identify that portion of the forests which shall be managed by the Tribe pursuant to <cite path="ENV|ENV.02">Chapter ENV.02</cite>, to produce quality saw timber and pulpwood for sale.</text>
         <para proof="needed">
           <num>(1)</num>
@@ -1656,8 +1667,8 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Reserve</text>
-        <text>This designation   prohibits any development but is to remain open for  low impact recreation and for hunting subject to the permitted uses below and applicable ordinances, including Chapters <cite path="ENV|ENV.01">Chapter ENV.01</cite> and <cite path="ENV|ENV.02">Chapter ENV.02</cite>..</text>
+        <heading>RESERVE.</heading>
+        <text>This designation prohibits any development but is to remain open for low impact recreation and for hunting subject to the permitted uses below and applicable ordinances, including <cite path="ENV|ENV.01">Chapter ENV.01</cite> and <cite path="ENV|ENV.02">Chapter ENV.02</cite>.</text>
         <para proof="needed">
           <num>(1)</num>
           <heading>Permitted Principal Uses.</heading>
@@ -1724,7 +1735,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Parks/Recreation</text>
+        <heading>PARKS/RECREATION.</heading>
         <text>This designation is intended to provide lands for outdoor enjoyment of the environment.</text>
         <para>
           <num>(1)</num>
@@ -1791,7 +1802,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Utilities/Infrastructure/Transportation</text>
+        <heading>UTILITIES/INFRASTRUCTURE/TRANSPORTATION.</heading>
         <text>This designation is intended to set aside the necessary lands that provide services to the community such as water and sanitation systems, and to specify which lands are suitable for transportation links.</text>
         <para proof="needed">
           <num>(1)</num>
@@ -1834,7 +1845,7 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>Historic/Cultural</text>
+        <heading>HISTORIC/CULTURAL.</heading>
         <text>This designation is intended to set aside lands that shall enable historic and cultural traditions to be practiced.</text>
         <para proof="needed">
           <num>(1)</num>
@@ -1897,7 +1908,7 @@
       </para>
       <para>
         <num>(j)</num>
-        <text>Agricultural</text>
+        <heading>AGRICULTURAL.</heading>
         <text>This designation is intended to set-aside lands that are suited for purposes of farming, animal range, orchards, gardens and related activities.</text>
         <para proof="needed">
           <num>(1)</num>
@@ -1977,7 +1988,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>Multi-purpose/Mixed Use</text>
+        <heading>MULTI-PURPOSE/MIXED USE.</heading>
         <text>This designation is set aside for more than one purpose or to be used in the future for one of several purposes.  In order to regulate the effects of differing land uses and assure compatibility, any use desired in this designation shall be allowed only under a Conditional Use Permit.</text>
         <text>Any of the uses listed in this Code under the following designations is allowed in accordance with requirements for and upon the issuance of a conditional use permit:</text>
         <para>
@@ -2088,7 +2099,7 @@
     <section>
       <num>PRP.02.10</num>
       <heading>Conformance With Other Laws</heading>
-      <text>Uses of land under this ordinance shall comply with all applicable Tribal laws and policies, including but not limited to, Chapters <cite path="SAF|SAF.02">Chapter SAF.02</cite>, <cite path="20">20</cite>, <cite path="ENV|ENV.01">Chapter ENV.01</cite>, <cite path="ENV|ENV.02">Chapter ENV.02</cite>, <cite path="ENV|ENV.03">Chapter ENV.03</cite>, <cite path="ENV|ENV.04">Chapter ENV.04</cite>, <cite path="ENV|ENV.05">Chapter ENV.05</cite>, <cite path="ENV|ENV.06">Chapter ENV.06</cite>, <cite path="PRP|PRP.01">Chapter PRP.01</cite>.</text>
+      <text>Uses of land under this ordinance shall comply with all applicable Tribal laws and policies, including but not limited to, <cite path="SAF|SAF.02">Chapter SAF.02</cite>, <cite path="20">20</cite>, <cite path="ENV|ENV.01">Chapter ENV.01</cite>, <cite path="ENV|ENV.02">Chapter ENV.02</cite>, <cite path="ENV|ENV.03">Chapter ENV.03</cite>, <cite path="ENV|ENV.04">Chapter ENV.04</cite>, <cite path="ENV|ENV.05">Chapter ENV.05</cite>, <cite path="ENV|ENV.06">Chapter ENV.06</cite>, <cite path="PRP|PRP.01">Chapter PRP.01</cite>.</text>
       <annotation type="Prior Codifications">§PRP.02.10 was formerly codified as Chapter 43, §43.10</annotation>
     </section>
     <section>
@@ -2197,8 +2208,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>The Land Use Impact Review requires that all departments and committees or boards with land-use related responsibilities review any proposed action to utilize or disturb tribal land in any way. This is to assure that all interested entities are aware of all proposed uses of tribal lands so that planning is integrated, and conflicts are avoided.  These departments are:</text>
-            <text>Environment, Enterprises, Assets, Land/Enrollment, Land Management, Roads, Forestry, Land Committee, Housing/Utilities, Repatriation, and Legal/Tribal Council.</text>
+            <text>The Land Use Impact Review requires that all departments and committees or boards with land-use related responsibilities review any proposed action to utilize or disturb tribal land in any way. This is to assure that all interested entities are aware of all proposed uses of tribal lands so that planning is integrated, and conflicts are avoided.  These departments are: Environment, Enterprises, Assets, Land/Enrollment, Land Management, Roads, Forestry, Land Committee, Housing/Utilities, Repatriation, and Legal/Tribal Council.</text>
           </para>
           <para>
             <num>(C)</num>
@@ -2216,9 +2226,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <u>Land Use Review Board Action</u>
-        </text>
+        <heading>>Land Use Review Board Action.</heading>
         <para>
           <num>(1)</num>
           <text>Conditional Use Permits. The Land Use Review Board shall determine whether the application complies with applicable requirements of this Code, and whether the use shall significantly adversely affect the environment, cultural resources, or endanger public health or safety.</text>
@@ -2319,8 +2327,7 @@
           <text>The Land Management Specialist shall be responsible for the following duties in the administration and enforcement of this Code:</text>
           <para>
             <num>(A)</num>
-            <text>Receive and review all applications for permits and variances required</text>
-            <text>under <cite path="43.18">this Chapter</cite>, except those permits issued by the Forestry Department, including providing assistance to all persons in preparation of their applications.</text>
+            <text>Receive and review all applications for permits and variances required under <cite path="43.18">this Chapter</cite>, except those permits issued by the Forestry Department, including providing assistance to all persons in preparation of their applications.</text>
           </para>
           <para>
             <num>(B)</num>
@@ -2449,9 +2456,7 @@
       <heading>Enforcement And Penalties</heading>
       <para>
         <num>(a)</num>
-        <text>
-          <u>Investigation of Compliance, Reporting Violations</u>
-        </text>
+        <heading>Investigation of Compliance, Reporting Violations.</heading>
         <para>
           <num>(1)</num>
           <text>The Land Management Department is responsible for the necessary inspection and investigation to assure compliance with this Code and is responsible for documenting the presence of violations and issuing citations for these violations.</text>
@@ -2511,9 +2516,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <u>Penalties</u>
-        </text>
+        <heading>Penalties.</heading>
         <para>
           <num>(1)</num>
           <text>Any act constituting a violation of the provisions of this Code or a failure to comply with any of its requirements, including commencing actions for which permits are required without first having obtained a permit, and including violations of any conditions and safeguards established in connection with the grants of variances, Conditional or Special Use Permits, shall subject the offender to a civil penalty of  up to $<cite path="§100.00">100.00</cite>  per day.</text>
@@ -2534,7 +2537,7 @@
       <heading>Appeals</heading>
       <para>
         <num>(a)</num>
-        <text>An applicant may appeal a denial of a permit by the Land Management Department to the Land Use Review Board. An appeal is initiated by filing with the Land Management Department and the Review Board a written Notice of Appeal specifying the grounds of the appeal.  A Notice of Appeal shall be considered filed when delivered to the Land Management Department, and the date and time of filing shall be entered on the Notice by the staff</text>
+        <text>An applicant may appeal a denial of a permit by the Land Management Department to the Land Use Review Board. An appeal is initiated by filing with the Land Management Department and the Review Board a written Notice of Appeal specifying the grounds of the appeal. A Notice of Appeal shall be considered filed when delivered to the Land Management Department, and the date and time of filing shall be entered on the Notice by the staff.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3045,14 +3048,38 @@
       <para>
         <num>(aa)</num>
         <text><strong>"Real property"</strong> means all interest in land or in buildings or improvement permanently attached to land.</text>
-        <text>(AB) <strong>"Renounce"</strong> means to make an affirmative declaration of abandonment. A waiver of rights.</text>
-        <text>(AC) <strong>"Reservation"</strong> means the Stockbridge-Munsee Reservation in Wisconsin.</text>
-        <text>(AD) <strong>"Residue"</strong> means the surplus or left over part of a testator's estate remaining after all the debts and distributions have been completed.</text>
-        <text>(AE) "<strong>Take by Representation</strong>" means the principle upon which the issue of a decedent take or inherit the share of an estate which their immediate ancestor would have taken or inherited, if living.</text>
-        <text>(AF) <strong>"Testator"</strong> means a decedent who dies leaving a valid will.</text>
-        <text>(AG) <strong>"Tribal Court"</strong> means the Tribal Court of the Stockbridge-Munsee Community Band of Mohican Indians.</text>
-        <text>(AH) <strong>"Tribe"</strong> means the Stockbridge-Munsee Community Band of Mohicans.</text>
-        <text>(AI) <strong>"Trust Property"</strong> means real or personal property title to which is in the United States for the benefit of an Indian or Indian Tribe.</text>
+      </para>
+      <para>
+        <num>(ab)</num>
+        <text><strong>"Renounce"</strong> means to make an affirmative declaration of abandonment. A waiver of rights.</text>
+      </para>
+      <para>
+        <num>(ac)</num>
+        <text><strong>"Reservation"</strong> means the Stockbridge-Munsee Reservation in Wisconsin.</text>
+      </para>
+      <para>
+        <num>(ad)</num>
+        <text><strong>"Residue"</strong> means the surplus or left over part of a testator's estate remaining after all the debts and distributions have been completed.</text>
+      </para>
+      <para>
+        <num>(ae)</num>
+        <text>"<strong>Take by Representation</strong>" means the principle upon which the issue of a decedent take or inherit the share of an estate which their immediate ancestor would have taken or inherited, if living.</text>
+      </para>
+      <para>
+        <num>(af)</num>
+        <text><strong>"Testator"</strong> means a decedent who dies leaving a valid will.</text>
+      </para>
+      <para>
+        <num>(ag)</num>
+        <text><strong>"Tribal Court"</strong> means the Tribal Court of the Stockbridge-Munsee Community Band of Mohican Indians.</text>
+      </para>
+      <para>
+        <num>(ah)</num>
+        <text><strong>"Tribe"</strong> means the Stockbridge-Munsee Community Band of Mohicans.</text>
+      </para>
+      <para>
+        <num>(ai)</num>
+        <text><strong>"Trust Property"</strong> means real or personal property title to which is in the United States for the benefit of an Indian or Indian Tribe.</text>
       </para>
       <annotation type="Prior Codifications">§PRP.04.02 was formerly codified as Chapter 6, §6.1.2</annotation>
     </section>
@@ -3272,13 +3299,13 @@
     <section>
       <num>PRP.04.19</num>
       <heading>Execution</heading>
-      <text>Except as otherwise provided for oral wills (<cite path="§PRP.04.57">Section PRP.04.57</cite>.4) or holographic wills (<cite path="§PRP.04.57">Section PRP.04.57</cite>.3), every will shall be put in writing and signed by the testator, or in the testator's presence and at the testator's direction signed by another person, and shall be signed by at least two persons each of whom either witnessed the signing by the testator of the will or the testator's acknowledgment of the signature and direction to do so.</text>
+      <text>Except as otherwise provided for oral wills (<cite path="§PRP.04.21">Section PRP.04.21</cite>) or holographic wills (<cite path="§PRP.04.20">Section PRP.04.20</cite>), every will shall be put in writing and signed by the testator, or in the testator's presence and at the testator's direction signed by another person, and shall be signed by at least two persons each of whom either witnessed the signing by the testator of the will or the testator's acknowledgment of the signature and direction to do so.</text>
       <annotation type="Prior Codifications">§PRP.04.19 was formerly codified as Chapter 6, §6.2.2</annotation>
     </section>
     <section>
       <num>PRP.04.20</num>
       <heading>Holographic Will</heading>
-      <text>A will which does not comply with <cite path="§PRP.04.57">Section PRP.04.57</cite>.2 of this Probate Code is valid as a holographic will, whether or not witnessed, if the signature and the material provisions are in the handwriting of the testator.</text>
+      <text>A will which does not comply with <cite path="§PRP.04.19">Section PRP.04.19</cite> of this Probate Code is valid as a holographic will, whether or not witnessed, if the signature and the material provisions are in the handwriting of the testator.</text>
       <annotation type="Prior Codifications">§PRP.04.20 was formerly codified as Chapter 6, §6.2.3</annotation>
     </section>
     <section>
@@ -3286,7 +3313,7 @@
       <heading>Oral Will</heading>
       <para>
         <num>(a)</num>
-        <text>A will which does not comply with <cite path="§PRP.04.57">Section PRP.04.57</cite>.2 of this Probate code is valid as an oral will under custom if all children, whether residing in testator's home or not, and testator's spouse, if alive, are present at the announcement of the oral will and agree that the testator orally made known the testator's last will before them.</text>
+        <text>A will which does not comply with <cite path="§PRP.04.19">Section PRP.04.19</cite> of this Probate code is valid as an oral will under custom if all children, whether residing in testator's home or not, and testator's spouse, if alive, are present at the announcement of the oral will and agree that the testator orally made known the testator's last will before them.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3301,12 +3328,10 @@
     <section>
       <num>PRP.04.22</num>
       <heading>Self-Proved Will-Form</heading>
+      <text>An attested will may, at the time of its existence or at any subsequent date, be made self- proved, by the acknowledgment thereof by the testator and the affidavits of the witnesses, each made before a notary public or a judge, under official seal, attached or annexed to the will in form and content and substantially as follows:</text>
       <text>
         <table class="layout-table">
           <tbody>
-            <tr>
-              <td colspan="3">An attested will may, at the time of its existence or at any subsequent date, be made self- proved, by the acknowledgment thereof by the testator and the affidavits of the witnesses, each made before a notary public or a judge, under official seal, attached or annexed to the will in form and content and substantially as follows:</td>
-            </tr>
             <tr>
               <td class="text-indent-5">State of _______________</td>
               <td/>
@@ -3614,11 +3639,11 @@
       <heading>Duty Of Court To Advise</heading>
       <para>
         <num>(a)</num>
-        <text>If a surviving spouse has a right to election under <cite path="§6.4">§ 6.4</cite>.1 of this Probate Code, then at any time after the filing of an inventory and not more than three months after admission to probate, the Court shall advise the surviving spouse of his/her right to election and shall explain fully the right and that in the event of the failure to exercise the right of election the will shall govern and control the distribution of the estate.</text>
+        <text>If a surviving spouse has a right to election under <cite path="§PRP.04.40">Section PRP.04.40</cite> of this Probate Code, then at any time after the filing of an inventory and not more than three months after admission to probate, the Court shall advise the surviving spouse of his/her right to election and shall explain fully the right and that in the event of the failure to exercise the right of election the will shall govern and control the distribution of the estate.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>If the surviving spouse dies or becomes incompetent before being advised of the right of election under <cite path="§6.4">§ 6.4</cite>.1 of this Probate Code and has not filed a waiver or renunciation of the right of election, the Court shall advise the personal representative or guardian of the estate of the deceased or incompetent surviving spouse of the right of election as provided in <cite path="§6.4">§ 6.4</cite>.4 (a).</text>
+        <text>If the surviving spouse dies or becomes incompetent before being advised of the right of election under <cite path="§PRP.04.40">Section PRP.04.40</cite> of this Probate Code and has not filed a waiver or renunciation of the right of election, the Court shall advise the personal representative or guardian of the estate of the deceased or incompetent surviving spouse of the right of election as provided in <cite path="§PRP.04.43|(a)">Section PRP.04.43(a)</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§PRP.04.43 was formerly codified as Chapter 6, §6.4.4</annotation>
     </section>
@@ -3673,11 +3698,11 @@
       <heading>Omitted Spouse</heading>
       <para>
         <num>(a)</num>
-        <text>Notwithstanding the provisions of <cite path="§6.4">§ 6.4</cite>.1 of this Probate Code, if a testator fails to provide by will for their surviving spouse who married the testator after the execution of the will, the omitted spouse shall receive the same share of the estate they would have received if the decedent left no will unless it appears from the will that the omission was intentional or the testator provided for the spouse by transfer outside the will and the intent that the transfer be in lieu of a testamentary provision is shown by statements of the testator or from the amount of the transfer or other evidence.</text>
+        <text>Notwithstanding the provisions of <cite path="§PRP.04.40">Section PRP.04.40</cite> of this Probate Code, if a testator fails to provide by will for their surviving spouse who married the testator after the execution of the will, the omitted spouse shall receive the same share of the estate they would have received if the decedent left no will unless it appears from the will that the omission was intentional or the testator provided for the spouse by transfer outside the will and the intent that the transfer be in lieu of a testamentary provision is shown by statements of the testator or from the amount of the transfer or other evidence.</text>
       </para>
-      <para>
+      <para>PRP.04.76
         <num>(b)</num>
-        <text>In satisfying a share provided in this section, the devises made by the will abate as provided in <cite path="§6.7">§ 6.7</cite>.10 of this Probate Code, which concerns "abatement".</text>
+        <text>In satisfying a share provided in this section, the devises made by the will abate as provided in <cite path="§PRP.04.76">Section PRP.04.76</cite> of this Probate Code, which concerns "abatement".</text>
       </para>
       <annotation type="Prior Codifications">§PRP.04.46 was formerly codified as Chapter 6, §6.4.7</annotation>
     </section>
@@ -3706,7 +3731,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>In satisfying a share provided by this section, the devises made by the will abate as provided in <cite path="§6.7">Section 6.7</cite>.10 of this Probate Code, which concerns "abatement".</text>
+        <text>In satisfying a share provided by this section, the devises made by the will abate as provided in <cite path="§PRP.04.76">Section PRP.04.76</cite>.10 of this Probate Code, which concerns "abatement".</text>
       </para>
       <annotation type="Prior Codifications">§PRP.04.47 was formerly codified as Chapter 6, §6.4.8</annotation>
     </section>
@@ -4131,7 +4156,7 @@
       <heading>Distribution: Order In Which Assets Appropriated; Abatement</heading>
       <para>
         <num>(a)</num>
-        <text>Except as provided in sub<cite path="§6.7">section 6.7</cite>.10 (b), and except as provided in connection with the share of the surviving spouse who elects to take an elective share, shares of distributees abate, without any preference or priority as between real and personal property, in the following order:</text>
+        <text>Except as provided in <cite path="§PRP.04.76|(b)">section PRP.04.76(b)</cite>, and except as provided in connection with the share of the surviving spouse who elects to take an elective share, shares of distributees abate, without any preference or priority as between real and personal property, in the following order:</text>
         <para>
           <num>(1)</num>
           <text>Property not disposed of by the will;</text>
@@ -4152,7 +4177,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>If the will expresses an order of abatement, or if the testamentary plan or the express or implied purpose of the devise would be defeated by the order of abatement stated in sub<cite path="§6.7">section 6.7</cite>.10 (a), the shares of the distributees abate as may be found necessary to give effect to the intention of the testator.</text>
+        <text>If the will expresses an order of abatement, or if the testamentary plan or the express or implied purpose of the devise would be defeated by the order of abatement stated in <cite path="§PRP.04.76|(a)">section PRP.04.76(a)</cite>, the shares of the distributees abate as may be found necessary to give effect to the intention of the testator.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -4166,7 +4191,7 @@
       <text>An estate may be reopened whenever necessary to dispose of a decedent's property discovered after their estate has been closed. The Court shall order distribution of the property to the person or persons entitled thereto after making whatever orders appear necessary to assure a just participation of the after discovered property in the expenses of the estate.</text>
       <annotation type="Prior Codifications">§PRP.04.77 was formerly codified as Chapter 6, §6.7.11</annotation>
     </section>
-    <subheading>GUARDIANSHIP</subheading>
+    <subheading>Guardianship</subheading>
     <section>
       <num>PRP.04.78</num>
       <heading>Definition Of Guardian</heading>
