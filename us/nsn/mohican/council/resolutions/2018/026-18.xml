@@ -111,8 +111,8 @@
   </codify:replace>
   <codify:replace path="TAX.01.02">
     <section>
-      <heading>Definitions</heading>
       <num>TAX.01.02</num>
+      <heading>Definitions</heading>
       <para>
         <num>(a)</num>
         <text>Unless otherwise defined in this Tax Ordinance, capitalized terms shall have the meaning given them in the Tax Regulations. Terms not defined in this Tax Ordinance or in the Tax Regulations shall have the meaning given them in the Internal Revenue Code of 1986, as amended. The definitions provided in this Tax Ordinance and the Tax Regulations are provided for the sole purpose of proper interpretation of this Tax Ordinance and shall be determinative unless a contrary meaning is clear from the context.</text>
@@ -261,36 +261,36 @@
   </codify:replace>
   <codify:replace path="TAX.01.03">
     <section>
-      <heading>Liability For Taxes</heading>
       <num>TAX.01.03</num>
+      <heading>Liability For Taxes</heading>
       <text>Taxes assessed under this Tax Ordinance are the liability of the Taxpayers.</text>
     </section>
   </codify:replace>
   <codify:replace path="TAX.01.04">
     <section>
-      <heading>Authority To Abate</heading>
       <num>TAX.01.04</num>
+      <heading>Authority To Abate</heading>
       <text>The Tax Commission may abate any part of an assessment which it determines was incorrectly, erroneously, or illegally made, as long as such abatement is: (i) in response to a written request before any court acquires jurisdiction in the matter; and (ii) made after an original assessment is found to be incorrect.</text>
     </section>
   </codify:replace>
   <codify:replace path="TAX.01.05">
     <section>
-      <heading>Closing Agreements</heading>
       <num>TAX.01.05</num>
+      <heading>Closing Agreements</heading>
       <text>If at any time after a final assessment of Taxes, the Tax Commission in good faith is in doubt of the liability of the Taxpayer for the payment thereof, it may compromise the liability by entering into a written closing agreement with the Taxpayer that adequately protects the interest of the Tribe, provided that the agreement will be subject to final approval by the Tribal Council. Any such agreement shall preserve the sovereign immunity of the Tribe and the jurisdiction of the Tribal court, and be subject to all of the laws of the Tribe.</text>
     </section>
   </codify:replace>
   <codify:replace path="TAX.01.06">
     <section>
-      <heading>Confidentiality Rule</heading>
       <num>TAX.01.06</num>
+      <heading>Confidentiality Rule</heading>
       <text>Information received by the Tax Commission is confidential and protected under the disclosure rules set forth in the Tax Regulations.</text>
     </section>
   </codify:replace>
   <codify:replace path="TAX.01.07">
     <section>
-      <heading>Examination And Audits</heading>
       <num>TAX.01.07</num>
+      <heading>Examination And Audits</heading>
       <para>
         <num>(a)</num>
         <text>The Tax Commission may make an inquiry and/or proceed with an examination under summons, including the taking of testimony as set forth in the Tax Regulations in the following circumstances:</text>
@@ -319,32 +319,32 @@
   </codify:replace>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Notice Deemed Effective</heading>
       <num>TAX.01.08</num>
+      <heading>Notice Deemed Effective</heading>
       <text>The Tax Commission's required notice may be effectively given to a Person by mailing the notice to the last address designated by the Person. The foregoing is not intended to exclude the use of other methods of providing notice, including publication in the tribal or local newspapers.</text>
       <annotation type="Prior Codifications">§TAX.01.08 was formerly codified as Chapter 57, §57.8</annotation>
     </section>
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Enforcement</heading>
       <num>TAX.01.09</num>
+      <heading>Enforcement</heading>
       <text>Jurisdiction over enforcement of the provisions of the Tax Ordinance is conferred upon the Tribe's Tribal Court. The Court shall apply <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.23">Section TCT.02.23</cite> Administrative Appeals to an appeal to the Court under this Tax Ordinance.</text>
       <annotation type="Prior Codifications">§TAX.01.09 was formerly codified as Chapter 57, §57.9</annotation>
     </section>
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Record Keeping</heading>
       <num>TAX.01.10</num>
+      <heading>Record Keeping</heading>
       <text>Every Taxpayer shall keep full and true records of any Tax, any interest, penalty or cost imposed or assessed under this or any subsequent Tax Ordinance of the Tribe. Record keeping shall be in compliance with any applicable Tax Commission Rules, regulations or procedures and such records shall be available upon request to the Tax Commission. Records required to be kept under <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.11">Section TAX.01.11</cite> shall be preserved for seven years beyond the time a Tax is paid or if no payment is due, seven years beyond the end of the period to which the records relate.</text>
       <annotation type="Prior Codifications">§TAX.01.10 was formerly codified as Chapter 57, §57.10</annotation>
     </section>
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Tax Commission Regulations And Filing Procedures</heading>
       <num>TAX.01.11</num>
+      <heading>Tax Commission Regulations And Filing Procedures</heading>
       <para>
         <num>(a)</num>
         <heading>Tax Commission Established.</heading>
@@ -400,8 +400,8 @@
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Assessments And Noncompliance Penalties</heading>
       <num>TAX.01.12</num>
+      <heading>Assessments And Noncompliance Penalties</heading>
       <para>
         <num>(a)</num>
         <heading>Failure To File Or Pay.</heading>
@@ -437,8 +437,8 @@
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Collection And Appeals</heading>
       <num>TAX.01.13</num>
+      <heading>Collection And Appeals</heading>
       <para>
         <num>(a)</num>
         <heading>Collection Powers.</heading>
@@ -520,8 +520,8 @@
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Tax Receipts</heading>
       <num>TAX.01.14</num>
+      <heading>Tax Receipts</heading>
       <para>
         <num>(a)</num>
         <heading>Tax Receipts And Disbursements.</heading>
@@ -537,16 +537,16 @@
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Sales Tax Code: Purpose</heading>
       <num>TAX.01.15</num>
+      <heading>Sales Tax Code: Purpose</heading>
       <text>The purpose of this Sales Tax Code is to provide a revenue-generating income source to strengthen tribal self-government, and to assure security for the future of the health, welfare, and general well-being of Tribal members. The revenue generated hereunder shall be deposited into the Tribal Tax Fund and used for governmental purposes of the Tribe, as determined at the discretion of the Tribal Council.</text>
       <annotation type="Prior Codifications">§TAX.01.15 was formerly codified as Chapter 57, §57.15</annotation>
     </section>
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Imposition Of Sales Tax</heading>
       <num>TAX.01.16</num>
+      <heading>Imposition Of Sales Tax</heading>
       <para>
         <num>(a)</num>
         <heading>Imposition Of Sales Tax On Sale Of Personal Property.</heading>
@@ -567,8 +567,8 @@
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Exemptions, Returns, And Payments</heading>
       <num>TAX.01.17</num>
+      <heading>Exemptions, Returns, And Payments</heading>
       <para>
         <num>(a)</num>
         <heading>Exemptions From Sales Tax.</heading>
@@ -620,31 +620,31 @@
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Administrative Procedures</heading>
       <num>TAX.01.18</num>
+      <heading>Administrative Procedures</heading>
       <text>The Tax Commission shall establish within the Tax Regulations such administrative procedures deemed reasonable and appropriate for the administration of this Sales Tax Code and in furtherance of the purposes stated herein.</text>
       <annotation type="Prior Codifications">§TAX.01.18 was formerly codified as Chapter 57, §57.18</annotation>
     </section>
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Reserved</heading>
       <num>TAX.01.19</num>
+      <heading>Reserved</heading>
       <annotation type="Prior Codifications">§TAX.01.19 was formerly codified as Chapter 57, §57.19</annotation>
     </section>
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Occupancy Tax Code:  Purpose</heading>
       <num>TAX.01.20</num>
+      <heading>Occupancy Tax Code:  Purpose</heading>
       <text>The purpose of <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.20">Section TAX.01.20</cite> through <cite doc="Stockbridge-Munsee Tribal Code" path="§TAX.01.23">Section TAX.01.23</cite> is to provide a revenue-generating income source to strengthen tribal self-government, and assure security for the future health, welfare, and general well-being of its members.</text>
       <annotation type="Prior Codifications">§TAX.01.20 was formerly codified as Chapter 57, §57.20</annotation>
     </section>
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Imposition Of Tax</heading>
       <num>TAX.01.21</num>
+      <heading>Imposition Of Tax</heading>
       <para>
         <num>(a)</num>
         <heading>Imposition Of Tax.</heading>
@@ -665,8 +665,8 @@
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Exemptions, Returns And Payments</heading>
       <num>TAX.01.22</num>
+      <heading>Exemptions, Returns And Payments</heading>
       <para>
         <num>(a)</num>
         <heading>Exemptions From Occupancy Tax.</heading>
@@ -692,24 +692,24 @@
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Administrative Regulations</heading>
       <num>TAX.01.23</num>
+      <heading>Administrative Regulations</heading>
       <text>The Tax Commission shall establish within the Tax Regulations such administrative procedures deemed reasonable and appropriate for the administration of this Hotel Occupancy Tax Code and in furtherance of the purposes stated therein.</text>
       <annotation type="Prior Codifications">§TAX.01.23 was formerly codified as Chapter 57, §57.23</annotation>
     </section>
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Effective Date</heading>
       <num>TAX.01.24</num>
+      <heading>Effective Date</heading>
       <text>This Tax Ordinance shall take effect upon ratification by the Tribal Council and subsequent BIA approval or such date as is fixed by action of the Tax Commission, and the provisions of this Tax Ordinance shall apply (except as otherwise provided) to all assessment dates and Periods beginning on or after the effective dates of the respective parts of the Tax Ordinance.</text>
       <annotation type="Prior Codifications">§TAX.01.24 was formerly codified as Chapter 57, §57.24</annotation>
     </section>
   </codify:insert>
   <codify:insert path="TAX.01">
     <section>
-      <heading>Severability</heading>
       <num>TAX.01.25</num>
+      <heading>Severability</heading>
       <text>If a court of competent jurisdiction finds any portion of this Ordinance illegal, then the remaining portions of this Ordinance shall not be affected and shall continue to be in force.</text>
       <annotation type="Prior Codifications">§TAX.01.25 was formerly codified as Chapter 57, §57.25</annotation>
     </section>

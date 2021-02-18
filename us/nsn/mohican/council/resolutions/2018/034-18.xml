@@ -140,8 +140,8 @@
   </codify:replace>
   <codify:replace path="SAF.05.02">
     <section>
-      <heading>Definitions</heading>
       <num>SAF.05.02</num>
+      <heading>Definitions</heading>
       <para>
         <num>(a)</num>
         <text>"Cottage Foods" refers to homemade foods that are offered for sale consistent with this ordinance.  This does not include home-grown, but unprocessed, foods such as fresh vegetables and fruits.</text>
@@ -214,8 +214,8 @@
   </codify:replace>
   <codify:replace path="SAF.05.03">
     <section>
-      <heading>Food Access</heading>
       <num>SAF.05.03</num>
+      <heading>Food Access</heading>
       <para>
         <num>(a)</num>
         <heading>Healthy Foods.</heading>
@@ -287,8 +287,8 @@
   </codify:replace>
   <codify:replace path="SAF.05.04">
     <section>
-      <heading>Promotion Of Traditional, Healthy, And Local Foods In Tribal Programs</heading>
       <num>SAF.05.04</num>
+      <heading>Promotion Of Traditional, Healthy, And Local Foods In Tribal Programs</heading>
       <para>
         <num>(a)</num>
         <heading>Tribal Preference.</heading>
@@ -318,8 +318,8 @@
   </codify:replace>
   <codify:replace path="SAF.05.05">
     <section>
-      <heading>Food Code</heading>
       <num>SAF.05.05</num>
+      <heading>Food Code</heading>
       <para>
         <num>(a)</num>
         <text>To the extent that a topic is not addressed under this Ordinance or other tribal law, the federal Food Code (as updated) is adopted by reference to provide guidelines to ensure the safety of food within the Tribe's jurisdiction, as well as to provide consistency with national food regulatory policy.</text>
@@ -332,8 +332,8 @@
   </codify:replace>
   <codify:replace path="SAF.05.06">
     <section>
-      <heading>Cottage Foods</heading>
       <num>SAF.05.06</num>
+      <heading>Cottage Foods</heading>
       <para>
         <num>(a)</num>
         <text>The Tribe permits the sale of cottage foods consistent with this ordinance.</text>
@@ -485,8 +485,8 @@
   </codify:replace>
   <codify:insert path="SAF.05">
     <section>
-      <heading>Food Service Permit</heading>
       <num>SAF.05.07</num>
+      <heading>Food Service Permit</heading>
       <para>
         <num>(a)</num>
         <text>No person shall operate a food service establishment on Tribal land who does not have a valid FOOD SERVICE PERMIT issued under this Ordinance.</text>
@@ -556,8 +556,8 @@
   </codify:insert>
   <codify:insert path="SAF.05">
     <section>
-      <heading>Temporary Food Service Permit</heading>
       <num>SAF.05.08</num>
+      <heading>Temporary Food Service Permit</heading>
       <para>
         <num>(a)</num>
         <text>No person shall operate a temporary food service establishment without a valid TEMPORARY FOOD SERVICE PERMIT issued under this Ordinance</text>
@@ -611,8 +611,8 @@
   </codify:insert>
   <codify:insert path="SAF.05">
     <section>
-      <heading>Food Handler Card</heading>
       <num>SAF.05.09</num>
+      <heading>Food Handler Card</heading>
       <para>
         <num>(a)</num>
         <text>All temporary food service establishment employees, except employees only handling money or selling pre-packaged food or drink, and vendors of cottage foods will be required to obtain and possess a current FOOD HANDLER CARD.</text>
@@ -638,8 +638,8 @@
   </codify:insert>
   <codify:insert path="SAF.05">
     <section>
-      <heading>Inspections</heading>
       <num>SAF.05.10</num>
+      <heading>Inspections</heading>
       <para>
         <num>(a)</num>
         <text>The Stockbridge-Munsee Tribal Council delegates inspection authority of all food service establishments on tribal trust and fee land to the Health Director, or designee, and the Environmental Health Advisor.</text>
@@ -673,8 +673,8 @@
   </codify:insert>
   <codify:insert path="SAF.05">
     <section>
-      <heading>Termination Of Permits</heading>
       <num>SAF.05.11</num>
+      <heading>Termination Of Permits</heading>
       <para>
         <num>(a)</num>
         <text>If any individual or party, subject to the Tribe's jurisdiction, who also operates a food service establishment required to possess a FOOD SERVICE PERMIT or TEMPORARY FOOD SERVICE PERMIT, violates this Ordinance, such violation shall constitute grounds for termination of that person's or entity's permit by the Health Director.</text>
@@ -688,8 +688,8 @@
   </codify:insert>
   <codify:insert path="SAF.05">
     <section>
-      <heading>Records And Enforcement</heading>
       <num>SAF.05.12</num>
+      <heading>Records And Enforcement</heading>
       <para>
         <num>(a)</num>
         <text>Copies of all FOOD SERVICE PERMITS, TEMPORARY FOOD SERVICE PERMITS, and FOOD HANDLER CARDS will be maintained by the Health Director, or his/her designee.</text>
@@ -703,8 +703,8 @@
   </codify:insert>
   <codify:insert path="SAF.05">
     <section>
-      <heading>Effective Period Of Ordinance</heading>
       <num>SAF.05.13</num>
+      <heading>Effective Period Of Ordinance</heading>
       <para>
         <num>(a)</num>
         <text>This ordinance shall be in full force and effect beginning January 1, 1994, and at that time all ordinances and parts of ordinances in conflict with this ordinance are hereby repealed.</text>

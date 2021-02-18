@@ -68,8 +68,8 @@
   </codify:replace>
   <codify:replace path="EMP.02.02">
     <section>
-      <heading>Definitions</heading>
       <num>EMP.02.02</num>
+      <heading>Definitions</heading>
       <para>
         <num>(a)</num>
         <text>"Employee" means any person paid wages, salary, or stipend by the Stockbridge-Munsee Community or any of its entities and enterprises.</text>
@@ -119,8 +119,8 @@
   </codify:replace>
   <codify:replace path="EMP.02.03">
     <section>
-      <heading>Establishing Preference</heading>
       <num>EMP.02.03</num>
+      <heading>Establishing Preference</heading>
       <para>
         <num>(a)</num>
         <text>Preference shall be given according to <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.02.04">Section EMP.02.04</cite> below when it is established that the employee or applicant meets minimum qualifications as stated in the job description or the job announcement.</text>
@@ -146,8 +146,8 @@
   </codify:replace>
   <codify:replace path="EMP.02.04">
     <section>
-      <heading>Order Of Preference</heading>
       <num>EMP.02.04</num>
+      <heading>Order Of Preference</heading>
       <para>
         <num>(a)</num>
         <text>The Tribe recognizes employment benefits the family, not just an individual.  It therefore exercises the following orders of preference to maximize benefits in the tribal community.</text>
@@ -193,16 +193,16 @@
   </codify:replace>
   <codify:replace path="EMP.02.05">
     <section>
-      <heading>Coverage</heading>
       <num>EMP.02.05</num>
+      <heading>Coverage</heading>
       <text>This ordinance shall be binding on all entities, enterprises, and organizations operating under the Stockbridge-Munsee Community, and shall supersede all previous actions and policies regarding Indian preference in employment.</text>
       <annotation type="Prior Codifications">§EMP.02.05 was formerly codified as Chapter 54, §54.4</annotation>
     </section>
   </codify:replace>
   <codify:replace path="EMP.02.06">
     <section>
-      <heading>Enforcement</heading>
       <num>EMP.02.06</num>
+      <heading>Enforcement</heading>
       <para>
         <num>(a)</num>
         <text>The Tribe's Human Resources Departments shall have the responsibility and authority to assure that the provisions of this ordinance are implemented and enforced.</text>
@@ -220,16 +220,16 @@
   </codify:replace>
   <codify:replace path="EMP.02.07">
     <section>
-      <heading>Effect Of Stockbridge-Munsee Employee Rights Ordinance</heading>
       <num>EMP.02.07</num>
+      <heading>Effect Of Stockbridge-Munsee Employee Rights Ordinance</heading>
       <text>When interpreting any section of this ordinance, this ordinance and the employee rights ordinance shall be read as working together to give the employee or applicant the maximum benefits of both ordinances.  Furthermore, if there is any dispute or conflict between the language and provisions of this ordinance and the employee rights' ordinance, those disputes shall be resolved in favor of the employee or applicant.</text>
       <annotation type="Prior Codifications">§EMP.02.07 was formerly codified as Chapter 54, §54.6</annotation>
     </section>
   </codify:replace>
   <codify:replace path="EMP.02.08">
     <section>
-      <heading>Effective Date And Amendments</heading>
       <num>EMP.02.08</num>
+      <heading>Effective Date And Amendments</heading>
       <para>
         <num>(a)</num>
         <text>This ordinance shall be effective upon the approval of a resolution adopting same by the Stockbridge-Munsee Tribal Council.</text>
@@ -243,8 +243,8 @@
   </codify:replace>
   <codify:insert path="EMP.02">
     <section>
-      <heading>Remedies; Limited Waiver Of Sovereign Immunity For Purposes Of Enforcement</heading>
       <num>EMP.02.09</num>
+      <heading>Remedies; Limited Waiver Of Sovereign Immunity For Purposes Of Enforcement</heading>
       <para>
         <num>(a)</num>
         <text>In order to enforce the provisions of this ordinance, the Stockbridge-Munsee Community shall be subject to suit in the Stockbridge-Munsee Tribal Courts by employees or applicants in accordance with the limitations of this section.</text>

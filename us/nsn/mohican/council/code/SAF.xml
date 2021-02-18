@@ -1712,68 +1712,65 @@
     <section>
       <num>SAF.04.07</num>
       <heading>Non-Quarantinable Diseases</heading>
-    <text class="center">
-      <strong></strong>
-    </text>
-    <text>
-      <ul>
-        <li>Acquired Immunodeficiency Syndrome (AIDS) Immunodeficiency Virus (HIV) Infection Amebiasis</li>
-        <li>Anthrax</li>
-        <li>Blastomycosis</li>
-        <li>Botulism</li>
-        <li>Botulism, Infant</li>
-        <li>Brucellosis</li>
-        <li>Campylobacteriosis</li>
-        <li>Chancroid</li>
-        <li>Chlamydia</li>
-        <li>Cholera</li>
-        <li>Cryptosporidiosis</li>
-        <li>Ehrlichiosis</li>
-        <li>Encephalitis, Arboviral</li>
-        <li>Encephalitis, Viral</li>
-        <li>Escherichia Coli 0157:H7</li>
-        <li>Foodborne Disease Outbreak</li>
-        <li>Genital Herpes</li>
-        <li>Giardiasis</li>
-        <li>Gonorrhea</li>
-        <li>Haemophilus Influenza</li>
-        <li>Hemolytic Uremic Syndrome (HUS) Hepatitis A</li>
-        <li>Hepatitis B</li>
-        <li>Hepatitis C/non-A, non-B</li>
-        <li>Hepatitis D (Delta)</li>
-        <li>Histoplasmosis</li>
-        <li>Kawasaki Syndrome</li>
-        <li>Legionellosis (Legionnaires Disease)</li>
-        <li>Leprosy (Hansen's Disease)</li>
-        <li>Leptospirosis 11</li>
-        <li>Listeriosis</li>
-        <li>Lyme Disease</li>
-        <li>Meningitis, Aseptic</li>
-        <li>Meningitis, Bacterial.</li>
-        <li>Meningococcal Disease</li>
-        <li>Nontuberculous Mycobacterial Disease</li>
-        <li>Pelvic Inflammatory Disease</li>
-        <li>Pertussis</li>
-        <li>Poliomyelitis</li>
-        <li>Psittacosis</li>
-        <li>Rabies (Animal)</li>
-        <li>Rabies (Human)</li>
-        <li>Reye Syndrome</li>
-        <li>Rheumatic Fever</li>
-        <li>Rocky Mountain Spotted Fever Rubella</li>
-        <li>Rubella, Congenital Syndrome Salmonellosis</li>
-        <li>Syphilis</li>
-        <li>Tetanus</li>
-        <li>Toxic-Shock Syndrome Toxoplasmosis</li>
-        <li>Trichinosis</li>
-        <li>Trichomoniasis</li>
-        <li>Tularemia</li>
-        <li>Typhoid Fever</li>
-        <li>Typhus Fever, Flea-Borne Waterborne Outbreak</li>
-        <li>Yellow Fever</li>
-        <li>Yersiniosis</li>
-      </ul>
-    </text>
+      <text>
+        <ul>
+          <li>Acquired Immunodeficiency Syndrome (AIDS) Immunodeficiency Virus (HIV) Infection Amebiasis</li>
+          <li>Anthrax</li>
+          <li>Blastomycosis</li>
+          <li>Botulism</li>
+          <li>Botulism, Infant</li>
+          <li>Brucellosis</li>
+          <li>Campylobacteriosis</li>
+          <li>Chancroid</li>
+          <li>Chlamydia</li>
+          <li>Cholera</li>
+          <li>Cryptosporidiosis</li>
+          <li>Ehrlichiosis</li>
+          <li>Encephalitis, Arboviral</li>
+          <li>Encephalitis, Viral</li>
+          <li>Escherichia Coli 0157:H7</li>
+          <li>Foodborne Disease Outbreak</li>
+          <li>Genital Herpes</li>
+          <li>Giardiasis</li>
+          <li>Gonorrhea</li>
+          <li>Haemophilus Influenza</li>
+          <li>Hemolytic Uremic Syndrome (HUS) Hepatitis A</li>
+          <li>Hepatitis B</li>
+          <li>Hepatitis C/non-A, non-B</li>
+          <li>Hepatitis D (Delta)</li>
+          <li>Histoplasmosis</li>
+          <li>Kawasaki Syndrome</li>
+          <li>Legionellosis (Legionnaires Disease)</li>
+          <li>Leprosy (Hansen's Disease)</li>
+          <li>Leptospirosis 11</li>
+          <li>Listeriosis</li>
+          <li>Lyme Disease</li>
+          <li>Meningitis, Aseptic</li>
+          <li>Meningitis, Bacterial.</li>
+          <li>Meningococcal Disease</li>
+          <li>Nontuberculous Mycobacterial Disease</li>
+          <li>Pelvic Inflammatory Disease</li>
+          <li>Pertussis</li>
+          <li>Poliomyelitis</li>
+          <li>Psittacosis</li>
+          <li>Rabies (Animal)</li>
+          <li>Rabies (Human)</li>
+          <li>Reye Syndrome</li>
+          <li>Rheumatic Fever</li>
+          <li>Rocky Mountain Spotted Fever Rubella</li>
+          <li>Rubella, Congenital Syndrome Salmonellosis</li>
+          <li>Syphilis</li>
+          <li>Tetanus</li>
+          <li>Toxic-Shock Syndrome Toxoplasmosis</li>
+          <li>Trichinosis</li>
+          <li>Trichomoniasis</li>
+          <li>Tularemia</li>
+          <li>Typhoid Fever</li>
+          <li>Typhus Fever, Flea-Borne Waterborne Outbreak</li>
+          <li>Yellow Fever</li>
+          <li>Yersiniosis</li>
+        </ul>
+      </text>
     </section>
     <annotations>
       <annotation type="Legislative History">

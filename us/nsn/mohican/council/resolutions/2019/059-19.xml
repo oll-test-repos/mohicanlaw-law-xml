@@ -55,22 +55,22 @@
   </codify:replace>
   <codify:replace path="EDU.02.03">
     <section>
-      <heading>Omitted</heading>
       <num>EDU.02.03</num>
+      <heading>Omitted</heading>
       <text>This section is intentionally omitted.</text>
     </section>
   </codify:replace>
   <codify:replace path="EDU.02.04">
     <section>
-      <heading>Interpretation</heading>
       <num>EDU.02.04</num>
+      <heading>Interpretation</heading>
       <text>This Ordinance shall be liberally construed to effectuate the purpose stated in <cite doc="Stockbridge-Munsee Tribal Code" path="§EDU.02.01">Section EDU.02.01</cite>.</text>
     </section>
   </codify:replace>
   <codify:replace path="EDU.02.05">
     <section>
-      <heading>Applicability</heading>
       <num>EDU.02.05</num>
+      <heading>Applicability</heading>
       <para>
         <num>(a)</num>
         <text>This code shall apply to all families domiciled on Stockbridge-Munsee Community trust lands when either:</text>
@@ -87,8 +87,8 @@
   </codify:replace>
   <codify:replace path="EDU.02.06">
     <section>
-      <heading>Definitions</heading>
       <num>EDU.02.06</num>
+      <heading>Definitions</heading>
       <text>For the purpose of this code the following terms shall have the meaning ascribed below:</text>
       <para>
         <num>(a)</num>
@@ -154,22 +154,22 @@
   </codify:replace>
   <codify:replace path="EDU.02.07">
     <section>
-      <heading>School Enrollment Required</heading>
       <num>EDU.02.07</num>
+      <heading>School Enrollment Required</heading>
       <text>Except as excused under the state compulsory attendance law (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec. 118.15</cite>), any person having under their control a school age child shall enroll the child in school.</text>
     </section>
   </codify:replace>
   <codify:replace path="EDU.02.08">
     <section>
-      <heading>Requirement To Attend School</heading>
       <num>EDU.02.08</num>
+      <heading>Requirement To Attend School</heading>
       <text>Except as excused under the state compulsory attendance law (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec. 118.15</cite>), or under a school policy governing school attendance, any person having under their control a school age child shall cause the child to attend the school in which the school age child is or should be enrolled.</text>
     </section>
   </codify:replace>
   <codify:replace path="EDU.02.09">
     <section>
-      <heading>Truancy Prohibited.</heading>
       <num>EDU.02.09</num>
+      <heading>Truancy Prohibited.</heading>
       <para>
         <num>(a)</num>
         <text>Truancy is prohibited.</text>
@@ -182,8 +182,8 @@
   </codify:replace>
   <codify:replace path="EDU.02.10">
     <section>
-      <heading>Persons Responsible For Enforcement</heading>
       <num>EDU.02.10</num>
+      <heading>Persons Responsible For Enforcement</heading>
       <para>
         <num>(a)</num>
         <text>The Indian Child Welfare Worker, Tribal Social Worker, or Tribal Law Enforcement Officer may enforce the provisions of this code.</text>
@@ -200,8 +200,8 @@
   </codify:replace>
   <codify:replace path="EDU.02.11">
     <section>
-      <heading>Enforcement</heading>
       <num>EDU.02.11</num>
+      <heading>Enforcement</heading>
       <para>
         <num>(a)</num>
         <text>The school must document the following steps before law enforcement is contacted to issue a citation for truancy.</text>
@@ -230,15 +230,15 @@
   </codify:replace>
   <codify:replace path="EDU.02.12">
       <section>
-        <heading>Unit Of Prosecution</heading>
         <num>EDU.02.12</num>
+        <heading>Unit Of Prosecution</heading>
         <text>Regardless of the number of incidents of truancy in a single day, a child may not be prosecuted for more than one truancy violation per school day.</text>
       </section>
   </codify:replace>
   <codify:replace path="EDU.02.13">
     <section>
-      <heading>Penalties</heading>
       <num>EDU.02.13</num>
+      <heading>Penalties</heading>
       <para>
         <num>(a)</num>
         <text>Any school age child convicted of truancy under this Code shall be subject to a minimum penalty of community services hours equal to the number of hours truant and a maximum civil monetary penalty of $25.00 per incident of truancy.</text>
@@ -263,8 +263,8 @@
   </codify:replace>
   <codify:replace path="EDU.02.14">
     <section>
-      <heading>Referral For Review As Youth In Need Of Care</heading>
       <num>EDU.02.14</num>
+      <heading>Referral For Review As Youth In Need Of Care</heading>
       <para>
         <num>(a)</num>
         <text>If the Tribal Court determines a child is habitually truant, the court may order the appropriate tribal agency to initiate an in-depth investigation into the child's background to determine if a Youth-in-Need-of-Care petition should be filed under Chapter 8 of Stockbridge-Munsee Tribal Law.</text>
@@ -277,15 +277,15 @@
   </codify:replace>
   <codify:replace path="EDU.02.15">
     <section>
-      <heading>Omitted</heading>
       <num>EDU.02.15</num>
+      <heading>Omitted</heading>
       <text>This section is intentionally omitted.</text>
     </section>
   </codify:replace>
   <codify:replace path="EDU.02.16">
     <section>
-      <heading>Tribal Court Jurisdiction</heading>
       <num>EDU.02.16</num>
+      <heading>Tribal Court Jurisdiction</heading>
       <text>The Tribal Court shall have jurisdiction over cases brought to enforce this code.  Proceedings shall be conducted in accordance with applicable Stockbridge-Munsee Tribal laws.</text>
     </section>
   </codify:replace>
