@@ -3,6 +3,12 @@
   <heading>Stockbridge-Munsee Tribal Code</heading>
   <meta>
     <effective>0001-01-02</effective>
+    <print>
+      <volumes>
+        <volume start="GOV"/>
+        <volume start="PRP"/>
+      </volumes>
+    </print>
   </meta>
   <xi:include href="./GOV.xml"/>
   <xi:include href="./ADM.xml"/>
