@@ -9,7 +9,7 @@
     <canonical-urls>
       <xml-bulk>https://github.com/mohicanlaw/law-xml</xml-bulk>
       <html-bulk>https://github.com/mohicanlaw/law-html</html-bulk>
-      <html>https://mohican.nsn.us.demos.open.law/</html>
+      <html>https://law.mohican.com</html>
       <static-assets>https://github.com/mohicanlaw/law-static-assets</static-assets>
     </canonical-urls>
     <history-start>2018-03-06</history-start>
