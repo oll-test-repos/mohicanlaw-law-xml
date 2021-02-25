@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Constitution and By-laws">
-  <heading>Constitution and By Laws of the Stockbridge-Munsee Community</heading>
+  <heading>Constitution and By-Laws of the Stockbridge-Munsee Community</heading>
   <meta>
     <effective>1937-11-18</effective>
     <citations>
       <citation type="const" url="./constitution/adopted/const.pdf">1938 Publication of Stockbridge-Munsee Constitution and By-Laws</citation>
-      <citation type="const" url="./constitution/notices/election_notice_1995.pdf">1995 Amendment - Election Results</citation>
       <citation type="const" url="./constitution/amendments/amendment_I.pdf">1995 Amendment</citation>
+      <citation type="const" url="./constitution/notices/election_notice_1995.pdf">1995 Amendment - Election Results</citation>
     </citations>
   </meta>
-  <container id="preamble">
-    <prefix>PREAMBLE</prefix>
-    <text>We, the people of the Stockbridge Munsee Band of Mohican Indians, grateful to the Great Spirit for his fostering care, in order to re establish our tribal organization, to conserve and develop our common resources and to protect the welfare of ourselves and our descendants, do ordain and establish this Constitution and By laws.</text>
-  </container>
   <container id="const">
-    <heading>CONSTITUTION OF THE STOCKBRIDGE MUNSEE COMMUNITY</heading>
+    <heading>CONSTITUTION OF THE STOCKBRIDGE-MUNSEE COMMUNITY</heading>
+    <container id="preamble">
+      <prefix>PREAMBLE</prefix>
+      <text>We, the people of the Stockbridge Munsee Band of Mohican Indians, grateful to the Great Spirit for his fostering care, in order to re establish our tribal organization, to conserve and develop our common resources and to protect the welfare of ourselves and our descendants, do ordain and establish this Constitution and By laws.</text>
+    </container>
     <container>
       <prefix>ARTICLE</prefix>
       <num>I</num>
