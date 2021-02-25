@@ -9,7 +9,7 @@
     <canonical-urls>
       <xml-bulk>https://github.com/mohicanlaw/law-xml</xml-bulk>
       <html-bulk>https://github.com/mohicanlaw/law-html</html-bulk>
-      <html>https://law.mohican.com</html>
+      <html>https://mohican.nsn.us.demos.dev.openlawlibrary.us</html>
       <static-assets>https://github.com/mohicanlaw/law-static-assets</static-assets>
     </canonical-urls>
     <history-start>2021-01-28</history-start>
@@ -19,6 +19,7 @@
   <collection name="us/nsn/mohican/council/resolutions">
     <heading>Tribal Council Ordinance Resolutions.</heading>
     <text>Resolutions impacting the Stockbridge-Munsee Tribal Code are provided for reference and the convenience of Stockbridge-Munsee Tribal Law Library users. The list of resolutions for changes prior to codification in 2021 may be incomplete.</text>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2021/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2020/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2019/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2018/index.xml"/>
