@@ -5837,174 +5837,176 @@
       <num>PRP.05.53</num>
       <heading>Sample Residential Home Buyer Lease</heading>
       <text>Home ownership leases under the auspices of an applicable federal agency program or made in conjunction with a loan from a private lender shall be made substantially in this form.</text>
-      <text>
-        <strong>LEASE OF LAND</strong>
-      </text>
-      <text><strong>THIS LEASE</strong> is entered into this ______ day of ____________________, ______, between the Stockbridge-Munsee Tribe ("Lessor"), with offices at P.O. Box 70, Bowler, WI  54416 and</text>
-      <text>__________________________________________________, ("Lessee(s)"), of _______________, Wisconsin, whose mailing address upon completion of improvements to be financed with the loan referred to herein will be ____________________________________</text>
-      <text>__________________________.</text>
-      <para>
-        <num>(a)</num>
-        <heading>Description of Property.</heading>
-        <text>The Lessor hereby leases to the Lessee the following described property, located in Shawano County, State of Wisconsin:</text>
-        <text>together with all buildings and improvements thereon not already belonging to Lessee and all rights thereto appertaining.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <heading>Term of Lease.</heading>
-        <text>The term of this Lease shall be __________ years (not to exceed twenty-five years) from the date of the closing of a loan with a federal lending agency or a private lender ("Lender"), provided the date is within one year from the date of Secretarial  approval of this Lease.  If a loan made or guaranteed by a Lender is outstanding at the expiration of the lease term, then this Lease shall automatically be extended for a period of ___________ years (time sufficient to cover the loan period).  If no such loan is outstanding at the expiration of the Lease term, then this Lease may be extended for an additional term of ______________ years, with the mutual consent of the parties.  The effective beginning date of this Lease shall be noted in this Lease by attachment of a copy of the promissory note which by reference is made a part hereof.<strong>  If a loan is not closed within the one year, this Lease will not take effect and will be null and void</strong>.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <heading>Rental Rate.</heading>
-        <text>The Lessee will pay annually to the Treasurer of the Stockbridge-Munsee Tribal Council an annual sum for the rent of the leased premises in the amount of $__________, said rent to be paid prior to delivery of this Lease to the said Lessee and on or before each anniversary date thereafter, unless said rent shall exceed $__________ in which case said rent shall be paid in ______ equal installments.  The amount of the rent will be reviewed at five (5) year intervals by the Lessor for purposes of determining if the rent is fair, equitable and reasonable based on economic conditions of the Lessor and the Lessee.  Adjustments in rent must have prior written approval of Lender.  It is understood and agreed between the parties hereto that, if any installment of rental is not paid within thirty (30) days after becoming due, interest at the rate of eight (8) percent per annum will become due and will run until said rent is paid.  Lessor shall provide Lessee of notice of default within the thirty (30) day period.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <heading>Conditions:</heading>
+      <include>
+        <text>
+          <strong>LEASE OF LAND</strong>
+        </text>
+        <text><strong>THIS LEASE</strong> is entered into this ______ day of ____________________, ______, between the Stockbridge-Munsee Tribe ("Lessor"), with offices at P.O. Box 70, Bowler, WI  54416 and</text>
+        <text>__________________________________________________, ("Lessee(s)"), of _______________, Wisconsin, whose mailing address upon completion of improvements to be financed with the loan referred to herein will be ____________________________________</text>
+        <text>__________________________.</text>
         <para>
-          <num>(1)</num>
-          <text>It is mutually agreed by the Lessor and the Lessee that the express purpose of this Lease is to enable the Lessee to obtain a loan from a federal agency agreed upon by the Lessee or from a private lender for renovation, new construction or purchase of a home.</text>
+          <num>1.</num>
+          <heading>Description of Property.</heading>
+          <text>The Lessor hereby leases to the Lessee the following described property, located in Shawano County, State of Wisconsin:</text>
+          <text>together with all buildings and improvements thereon not already belonging to Lessee and all rights thereto appertaining.</text>
         </para>
         <para>
-          <num>(2)</num>
-          <text>The Lessor, in consideration of the granting of such loan by the Mortgagee to the Lessee, hereby consents thereto and grants permission to the Lessee to execute and deliver to the Mortgagee a Real Estate Mortgage covering the Lessee's leasehold interest in and to the property above described including improvements now existing thereon or which may be constructed thereon.</text>
+          <num>2.</num>
+          <heading>Term of Lease.</heading>
+          <text>The term of this Lease shall be __________ years (not to exceed twenty-five years) from the date of the closing of a loan with a federal lending agency or a private lender ("Lender"), provided the date is within one year from the date of Secretarial  approval of this Lease.  If a loan made or guaranteed by a Lender is outstanding at the expiration of the lease term, then this Lease shall automatically be extended for a period of ___________ years (time sufficient to cover the loan period).  If no such loan is outstanding at the expiration of the Lease term, then this Lease may be extended for an additional term of ______________ years, with the mutual consent of the parties.  The effective beginning date of this Lease shall be noted in this Lease by attachment of a copy of the promissory note which by reference is made a part hereof.<strong>  If a loan is not closed within the one year, this Lease will not take effect and will be null and void</strong>.</text>
         </para>
         <para>
-          <num>(3)</num>
-          <text>The Lessor agrees that this Lease may not be terminated for any reason without the written consent of the Mortgagee as long as any of the indebtedness secured by the mortgage remains unpaid.  This provision shall apply to any attempted termination by surrender of the leasehold interest.  Upon the Lessor obtaining the Mortgagee's consent or after termination of the Mortgagee's interest in the leased premises, the Lessee agrees that if the Lessee shall fail to comply with, or shall violate any of the provisions of this Lease, the Lessor or his authorized representative may declare the Lease forfeited after giving sixty (60) days written notice, and may thereupon take such action to repossess the premises and such other action as may be necessary to protect the interest of the Lessor as provided for by law, but such forfeiture shall not release the Lessee from paying all rents and other obligations contracted for or from damages for such failure or violation; PROVIDED, however, that in the event of such declared forfeiture, the Lessee's liability for rent contracted for shall extend only for the duration of that particular annual rental period for which said Lessee, pursuant to the provisions stated herein, would have paid in advance and not for the entire unexpired term of said Lease, whatever said unexpired term may be at the time of said declared forfeiture.  After the termination of the Mortgagee's interest in the leased premises, this Lease may be terminated upon the failure of the Tenant to comply with any of the provisions of this Lease.</text>
+          <num>3.</num>
+          <heading>Rental Rate.</heading>
+          <text>The Lessee will pay annually to the Treasurer of the Stockbridge-Munsee Tribal Council an annual sum for the rent of the leased premises in the amount of $__________, said rent to be paid prior to delivery of this Lease to the said Lessee and on or before each anniversary date thereafter, unless said rent shall exceed $__________ in which case said rent shall be paid in ______ equal installments.  The amount of the rent will be reviewed at five (5) year intervals by the Lessor for purposes of determining if the rent is fair, equitable and reasonable based on economic conditions of the Lessor and the Lessee.  Adjustments in rent must have prior written approval of Lender.  It is understood and agreed between the parties hereto that, if any installment of rental is not paid within thirty (30) days after becoming due, interest at the rate of eight (8) percent per annum will become due and will run until said rent is paid.  Lessor shall provide Lessee of notice of default within the thirty (30) day period.</text>
         </para>
         <para>
-          <num>(4)</num>
-          <text>Lessee understands and agrees that any and all use rights heretofore held by Lessee(s) in the premises, are extinguished through the signing of this Lease and that the Lessee shall hereafter hold rights only by virtue of this Lease.</text>
+          <num>4.</num>
+          <heading>Conditions:</heading>
+          <para>
+            <num>A.</num>
+            <text>It is mutually agreed by the Lessor and the Lessee that the express purpose of this Lease is to enable the Lessee to obtain a loan from a federal agency agreed upon by the Lessee or from a private lender for renovation, new construction or purchase of a home.</text>
+          </para>
+          <para>
+            <num>B.</num>
+            <text>The Lessor, in consideration of the granting of such loan by the Mortgagee to the Lessee, hereby consents thereto and grants permission to the Lessee to execute and deliver to the Mortgagee a Real Estate Mortgage covering the Lessee's leasehold interest in and to the property above described including improvements now existing thereon or which may be constructed thereon.</text>
+          </para>
+          <para>
+            <num>C.</num>
+            <text>The Lessor agrees that this Lease may not be terminated for any reason without the written consent of the Mortgagee as long as any of the indebtedness secured by the mortgage remains unpaid.  This provision shall apply to any attempted termination by surrender of the leasehold interest.  Upon the Lessor obtaining the Mortgagee's consent or after termination of the Mortgagee's interest in the leased premises, the Lessee agrees that if the Lessee shall fail to comply with, or shall violate any of the provisions of this Lease, the Lessor or his authorized representative may declare the Lease forfeited after giving sixty (60) days written notice, and may thereupon take such action to repossess the premises and such other action as may be necessary to protect the interest of the Lessor as provided for by law, but such forfeiture shall not release the Lessee from paying all rents and other obligations contracted for or from damages for such failure or violation; PROVIDED, however, that in the event of such declared forfeiture, the Lessee's liability for rent contracted for shall extend only for the duration of that particular annual rental period for which said Lessee, pursuant to the provisions stated herein, would have paid in advance and not for the entire unexpired term of said Lease, whatever said unexpired term may be at the time of said declared forfeiture.  After the termination of the Mortgagee's interest in the leased premises, this Lease may be terminated upon the failure of the Tenant to comply with any of the provisions of this Lease.</text>
+          </para>
+          <para>
+            <num>D.</num>
+            <text>Lessee understands and agrees that any and all use rights heretofore held by Lessee(s) in the premises, are extinguished through the signing of this Lease and that the Lessee shall hereafter hold rights only by virtue of this Lease.</text>
+          </para>
+          <para>
+            <num>E.</num>
+            <text>Upon expiration of this Lease, or upon its termination in accordance with terms hereof, unless such termination is due to default upon the part of the Lessee(s), Lessee(s) or any successors in interest shall be entitled to full enjoyment of the premises and Lessee(s) shall have the right to reassume their land assignment and all rights thereunder.  If not so eligible, Lessee(s) and any successors in interest shall, upon demand, surrender to Lessor upon expiration or other termination of this Lease complete and peaceable possession of the premises and any or all improvements thereon, which shall be the property of the Tribe.  Personal property shall remain the Lessee's property.  Lessee hereby agrees that in the event this Lease is not renewed or extended and the land assignment is not reassumed, the Lessee shall have the right to remove the improvements placed on the leased premises with the loan obtained under section 4(a) within thirty (30) days of the said termination date.  In the event the Lessee removes said improvements, Lessee shall be responsible for the costs of renovation of the premises, which renovation shall include removal of foundations, sanitary septic systems, sidewalks, fences, and the filling, leveling and seeding of the ground to restore the original condition as may be determined in writing by the Lessor as being in the best interests of the Lessor.  At Lessor's option, a bond may be required to assure compliance with such restorations prior to the removal of improvements in an amount sufficient to assure such restoration.</text>
+          </para>
+          <para>
+            <num>F.</num>
+            <text>The Lessee will keep the buildings, fences and other improvements on the premises in good repair and condition, excepting ordinary wear and tear, loss by fire, or unavoidable depreciation for destruction. The Lessee shall properly conceal all legal refuse areas.  The Lessee shall be responsible for construction and maintaining all improvements which may be required by applicable law and Lessee shall indemnify and save harmless the Lessor against all action, claims and damages by reason of the Lessee's failure to keep and maintain said premises and the improvements thereon as provided hereinabove or by reason of Lessee's non-observance of any applicable laws, ordinances or regulations.  The Lessor shall not be liable for any loss, damage or injury of any kind whatsoever to the person or property of the Lessee or sublessee or any of the Lessee's or sublessee's employees, guests, or invitees, or of any other person whatsoever, caused by any use of the leased premises, or by any defect in any building, structure, or other improvement erected thereon, or arising from any accident on said premises or any fire or other casualty thereon, or occasioned by the failure on the part of the Lessee's or sublessee's employees, guests, or invitee or arising from any other cause whatsoever; and the Lessees, as a material part of the consideration of this Lease, hereby waives, on Lessee's behalf, all claims and demands against the Lessor and agrees to indemnify and save Lessor free and harmless from liability for all claims and demands for any such loss, damage, or injury, together with all costs and expenses arising therefrom and in connection therewith.</text>
+          </para>
+          <para>
+            <num>G.</num>
+            <text>If the Lessor shall sell or otherwise transfer title to the premises, he will do so subject to the provision of this Lease.</text>
+          </para>
+          <para>
+            <num>H.</num>
+            <text>The terms of this Lease shall be binding upon the heirs, executors, and administrators, and successors and assigns of both Lessor and Lessee in like manner as upon the original parties.</text>
+          </para>
+          <para>
+            <num>I.</num>
+            <text>The Lessor warrants that he has the right to lease the premises and will defend the Lessee's possession against any and all persons whomsoever.</text>
+          </para>
+          <para>
+            <num>J.</num>
+            <text>No member of, or delegate to Congress shall be admitted to any share or part of this contract or to any benefit that may arise here from, but this provision shall not be construed to extend to this contract if made with a corporation or company for its general benefit.</text>
+          </para>
+          <para>
+            <num>K.</num>
+            <text>The Lessee agrees that he will not use or cause to be used any part of said premises for any unlawful purpose.</text>
+          </para>
+          <para>
+            <num>L.</num>
+            <text>The Lessee or his successors in interest shall pay, if any, if and when the same become due and payable, all taxes, general and special assessments and other like charges including any and all license fees or charges properly assessed which may be levied, assessed or imposed during the term of this Lease upon or against the leased land and all interest therein and improvements and other property thereon for which either the Lessee or Lessor may become liable in relation thereto and Lessee shall hold harmless the Lessor from any such taxes and claims, or sale or other proceedings to enforce payment thereof.  Should Lessee fail to pay any such taxes, liens or claims when due,  Lessor may at its option, upon written notice to Lessee, settle or discharge any such taxes, claims, etc., and demand reimbursement by the Lessee together with interest thereon at the current local commercial bank rate.  Failure to make such payment within thirty (30) days of Lessor's demand shall constitute a breach of this Lease, and the Lessor may declare this Lease immediately ended with Lessee forfeiting the rent paid for that year, subject to the nontermination provision of section 4(C) and subject to the appeal procedures in 25 C.F.R. Part 2.  This provision shall not prohibit Lessor from pursuing its remedies at law to recover the amount it paid.  In addition to the rents, taxes and other charges herein provided, Lessee shall pay all charges for water, sewer, gas, oil, electricity, telephone and any other utility services applied for and used on said premises.</text>
+          </para>
+          <para>
+            <num>M.</num>
+            <text>Merchantable timber within the leased area shall remain the property of the Lessor and there shall be no removal of any trees except with the written approval of the Lessor's Forestry  Department.</text>
+          </para>
+          <para>
+            <num>N.</num>
+            <text>It is understood and agreed that this lease, or any amendment thereto, or encumbrance thereunder shall be valid only after approval by the Secretary of Interior or his authorized representative, delegate or successor.  Approval of this Lease will not constitute an approval of a mortgage secured in the loan from or guaranteed by Lender.  Subsequent mortgages, loans, or other encumbrances require separate approval from the Secretary.  No assent, express or implied, to any breach of any of the Lessee's covenants shall be deemed to be a waiver of any succeeding breach of any covenants.</text>
+          </para>
+          <para>
+            <num>O.</num>
+            <text>The Lessor shall justly compensate the Lessee for any impairment of Lessee's rights under this Lease or of Lessee's unobstructed use of the leased premises resulting from any condemnation of the land subject to this Lease or from the Lessor's grant of any easement or rights-of-way concerning said land.  Lessor shall not voluntarily grant any right of use to the subject premises that would materially interfere with the Lessee's rights to or use of the premises without the written permission of the Lessee and the Mortgagee, if the indebtedness remains outstanding.  Unless the mortgage interest has been terminated, any payment resulting from condemnation, or the Lessor's voluntary grant, shall be made jointly payable to the Lessor and the Mortgagee.</text>
+          </para>
+          <para>
+            <num>P.</num>
+            <text>The Lessee, his heirs, successors, executors, administrators and assigns, shall be required to comply with all applicable laws and regulations covering sanitation, plumbing, electrical, building, and other relevant codes.  Lessee agrees to pay the prevailing fee in Shawano County for a building inspection, if required by the Lessor.  Lessor may require that the inspection be done by the Shawano County Building Inspector, however Shawano County shall not have jurisdiction to enforce their codes.  Lessor has primary jurisdiction for adoption and enforcing such codes.  Lessor may, however, base its codes on Shawano County's codes.  The Lessee shall comply with all applicable Federal and Tribal regulations regarding leasing.  After the termination of the Mortgagee's interest in the leased premises; the Lessee must obtain the prior approval of the Lessor before any improvements of any kind are constructed on the leased premises.</text>
+          </para>
+          <para>
+            <num>Q.</num>
+            <text>The Lessor and its authorized representatives shall have the right, at any reasonable time during the term of this Lease, to enter upon the leased premises, or any part thereof, to inspect the same and all buildings and other improvements erected and placed thereon.  After the termination of the Mortgagee's interest in the leased premises, this Lease or any right to or interest in this Lease or any of the improvements on the leased premises may not be encumbered without the prior written approval of the Lessor, and no such encumbrance shall be valid without said approval.  The Lessor reserves the right to require any terms and condition before any encumbrances may be made as to the leased premises as it feels will best protect the Lessor's interest in the leased premises.</text>
+          </para>
+          <para>
+            <num>R.</num>
+            <text>Any notice required by or sent pursuant to any provision of this Lease shall be sufficient if it is sent by first-class certified mail.  In the case of the Lessee, to the lessee's last known mailing address stated above and in the case of the Lessor to the Lessor at the Lessor's mailing address stated above.  Notice to Mortgagee shall be mailed to address provided to Lessor by Mortgagee or other lender.  The Lessee agrees to pay and discharge all reasonable costs, attorney's fees and expenses that shall be made and incurred by the Lessor in enforcing the covenants and agreements of this Lease.</text>
+          </para>
+          <para>
+            <num>S.</num>
+            <text>While the leased premises are in trust or restricted status, all of the Lessee's obligations under this Lease, and the obligation of his sureties, are to the United States as well as to the equitable owner of the land.</text>
+          </para>
+          <para>
+            <num>T.</num>
+            <text>Nothing contained in this Lease shall operate to delay or prevent a termination of Federal trust responsibilities with respect to the land by the issuance of a fee patent or otherwise during the term of the Lease; however, such termination shall not serve to abrogate the Lease.  The equitable owners of the land and the Lessee and his surety or sureties shall be notified of any such change in the status of the land.</text>
+          </para>
         </para>
         <para>
-          <num>(5)</num>
-          <text>Upon expiration of this Lease, or upon its termination in accordance with terms hereof, unless such termination is due to default upon the part of the Lessee(s), Lessee(s) or any successors in interest shall be entitled to full enjoyment of the premises and Lessee(s) shall have the right to reassume their land assignment and all rights thereunder.  If not so eligible, Lessee(s) and any successors in interest shall, upon demand, surrender to Lessor upon expiration or other termination of this Lease complete and peaceable possession of the premises and any or all improvements thereon, which shall be the property of the Tribe.  Personal property shall remain the Lessee's property.  Lessee hereby agrees that in the event this Lease is not renewed or extended and the land assignment is not reassumed, the Lessee shall have the right to remove the improvements placed on the leased premises with the loan obtained under section 4(a) within thirty (30) days of the said termination date.  In the event the Lessee removes said improvements, Lessee shall be responsible for the costs of renovation of the premises, which renovation shall include removal of foundations, sanitary septic systems, sidewalks, fences, and the filling, leveling and seeding of the ground to restore the original condition as may be determined in writing by the Lessor as being in the best interests of the Lessor.  At Lessor's option, a bond may be required to assure compliance with such restorations prior to the removal of improvements in an amount sufficient to assure such restoration.</text>
+          <num>5.</num>
+          <heading>Sovereign Immunity.</heading>
+          <text>Lessor acknowledges and agrees that upon the occurrence of a breach of any of its obligations under this Lease, the Lessee and/or any Mortgagee or Lender, or its successors or assigns, may protect and enforce its rights by appropriate judicial proceedings against Lessor to be held exclusively within the courts of the Tribe.  Such rights shall include, without limitation, the right to pursue any applicable Stockbridge-Munsee Tribal law to enforce the terms of this Lease.  This waiver of immunity is not intended, nor shall it be construed to, by implication or otherwise, waive the immunity of the Tribe from suit in any way to any issue not directly arising under this Lease.</text>
         </para>
         <para>
-          <num>(6)</num>
-          <text>The Lessee will keep the buildings, fences and other improvements on the premises in good repair and condition, excepting ordinary wear and tear, loss by fire, or unavoidable depreciation for destruction. The Lessee shall properly conceal all legal refuse areas.  The Lessee shall be responsible for construction and maintaining all improvements which may be required by applicable law and Lessee shall indemnify and save harmless the Lessor against all action, claims and damages by reason of the Lessee's failure to keep and maintain said premises and the improvements thereon as provided hereinabove or by reason of Lessee's non-observance of any applicable laws, ordinances or regulations.  The Lessor shall not be liable for any loss, damage or injury of any kind whatsoever to the person or property of the Lessee or sublessee or any of the Lessee's or sublessee's employees, guests, or invitees, or of any other person whatsoever, caused by any use of the leased premises, or by any defect in any building, structure, or other improvement erected thereon, or arising from any accident on said premises or any fire or other casualty thereon, or occasioned by the failure on the part of the Lessee's or sublessee's employees, guests, or invitee or arising from any other cause whatsoever; and the Lessees, as a material part of the consideration of this Lease, hereby waives, on Lessee's behalf, all claims and demands against the Lessor and agrees to indemnify and save Lessor free and harmless from liability for all claims and demands for any such loss, damage, or injury, together with all costs and expenses arising therefrom and in connection therewith.</text>
+          <num>6.</num>
+          <heading>Assignment.</heading>
+          <text>The Lessee shall not assign the Leasehold Estate without prior written  consent of the Lessor.  Nothing in the Lease shall prevent the Lessee, with the Lessor's and Secretary's consent, from executing and recording a mortgage, declaration of trust and/or other security instrument as may be necessary or appropriate to obtain financing.  In the event of default on any mortgage or other loan agreement by the Lessee on the Leasehold Estate, the lender may commence foreclosure proceedings by the terms of this Ordinance.</text>
         </para>
         <para>
-          <num>(7)</num>
-          <text>If the Lessor shall sell or otherwise transfer title to the premises, he will do so subject to the provision of this Lease.</text>
+          <num>7.</num>
+          <heading>Right of First Refusal.</heading>
+          <text>Subsequent to Lessee's breach of any covenant or agreement under a mortgage or security instrument for which the Lease or any improvements on the Leasehold Estate are pledged as security, and upon the expiration of any applicable cure period provided Lessee therein, the Lessor shall have the right of first refusal to acquire the Lessee's Leasehold Estate (subject to all valid liens and encumbrances) upon either payment in full of all sums secured by the mortgage or assumption of the loan evidenced by the note and mortgage and execution of an assumption agreement acceptable in all respects to the Lender.  This right of first refusal may be exercised at any time within thirty (30) days of the date of the Lender's written notice to the Lessor of the Lessee's failure to cure the default in accordance with the terms of the Lender's written notice to the Lessor of the Lessee's failure to cure the default in accordance with the terms of the Lender's acceleration notice to the Lessee under the mortgage or other security instrument requiring  the Lessor to pay all sums secured by the mortgage, which  notice shall be given before the Lender or successor invokes any other remedies provided under the mortgage or by law.  This right of first refusal shall be exercised by notice in writing from the Lessor to the Lessee and the Lender.  The Lessor's right of first refusal to acquire the Lessee's interest in the Leasehold Estate, such right of first refusal shall be subject to any right the Lessee may have under the mortgage or by law to reinstatement after the acceleration, and right to bring a court action to assert the non-existence of a default or any other defense to acceleration and sale foreclosure.</text>
+          <text>The estate acquired by the Lessor through exercise of the right of first refusal shall not merge with any other estate or title held by the Lessor as long as the Leasehold Estate and/or any improvements on the Leasehold Estate, or any interest therein, are mortgaged or otherwise pledged as security for any loan, and the Leasehold Estate shall remain subject to any valid and subsisting mortgage or other security instrument.</text>
         </para>
         <para>
-          <num>(8)</num>
-          <text>The terms of this Lease shall be binding upon the heirs, executors, and administrators, and successors and assigns of both Lessor and Lessee in like manner as upon the original parties.</text>
+          <num>8.</num>
+          <heading>Foreclosure.</heading>
+          <text>In the event the Lender acquires the Leasehold Estate by foreclosure of the mortgage, declaration of trust and/or other security instrument or assignment of the Leasehold Estate in lieu of foreclosure (for which foreclosure or assignment in lieu of foreclosure shall not require approval of the Lessor or the Secretary) then:</text>
+          <para>
+            <num>(a)</num>
+            <text>The Lender will notify the Lessor in writing of the availability of the Leasehold Estate and the Improvements for sale, the sales price and any other terms of sale;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If a purchaser is found who is an enrolled member of the Tribe, the Lease will be transferred by the appropriate federal agency or private lender to the purchaser, with the written consent and approval of the Tribe.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>If a purchaser cannot be found, the appropriate federal agency or private lender shall be entitled to sublease the leased premises to any enrolled member of the Tribe wishing to sublease the same.  The term of the initial sublease period and any succeeding periods shall not exceed one year each.  A purchaser approved by the Tribe must wait, where the leased premises are sublet, until the expiration of any current sublease before occupying the premises.</text>
+            <text><strong>IN WITNESS WHEREOF, </strong>the parties have signed and sealed the Lease on the date first above written.</text>
+          </para>
+          <aftertext>
+            <strong>STATE OF WISCONSIN  )</strong>
+          </aftertext>
+          <aftertext>
+            <strong>) SS</strong>
+          </aftertext>
+          <aftertext>
+            <strong>COUNTY OF SHAWANO)</strong>
+          </aftertext>
+          <aftertext>I, ____________________, Lessee(s) of the property described herein depose and say the I am leasing the land herein described above for my own use and benefit and not directly or indirectly for the benefit of any other person or corporation, that I, Lessee have no agreement, arrangement or understanding with any corporation whereby the said land or any part thereof, shall or may be used, enjoined or occupied by or for the benefit of any person or corporation other than myself.</aftertext>
+          <aftertext>
+            <strong>LESSOR:						LESSEE:</strong>
+          </aftertext>
+          <aftertext>
+            <strong>__________________________			_________________________________</strong>
+          </aftertext>
+          <aftertext>
+            <strong>DATE:  __________________			DATE:  ___________________</strong>
+          </aftertext>
+          <aftertext>Subscribed and sworn before me this __________ day of _____________, 19____, the above named ___________________, to me known to be the person who signed and executed the foregoing instrument.</aftertext>
+          <aftertext>___________________________</aftertext>
+          <aftertext>Notary Public State of Wisconsin</aftertext>
+          <aftertext>County of Shawano</aftertext>
+          <aftertext>My Commission Expires:</aftertext>
+          <aftertext>Approved By:</aftertext>
+          <aftertext>____________________________			_____________________________</aftertext>
+          <aftertext>Stockbridge-Munsee Tribal Council			Bureau of Indian Affairs</aftertext>
+          <aftertext>Date:  _________________				Date:  __________________</aftertext>
         </para>
-        <para>
-          <num>(9)</num>
-          <text>The Lessor warrants that he has the right to lease the premises and will defend the Lessee's possession against any and all persons whomsoever.</text>
-        </para>
-        <para>
-          <num>(10)</num>
-          <text>No member of, or delegate to Congress shall be admitted to any share or part of this contract or to any benefit that may arise here from, but this provision shall not be construed to extend to this contract if made with a corporation or company for its general benefit.</text>
-        </para>
-        <para>
-          <num>(11)</num>
-          <text>The Lessee agrees that he will not use or cause to be used any part of said premises for any unlawful purpose.</text>
-        </para>
-        <para>
-          <num>(12)</num>
-          <text>The Lessee or his successors in interest shall pay, if any, if and when the same become due and payable, all taxes, general and special assessments and other like charges including any and all license fees or charges properly assessed which may be levied, assessed or imposed during the term of this Lease upon or against the leased land and all interest therein and improvements and other property thereon for which either the Lessee or Lessor may become liable in relation thereto and Lessee shall hold harmless the Lessor from any such taxes and claims, or sale or other proceedings to enforce payment thereof.  Should Lessee fail to pay any such taxes, liens or claims when due,  Lessor may at its option, upon written notice to Lessee, settle or discharge any such taxes, claims, etc., and demand reimbursement by the Lessee together with interest thereon at the current local commercial bank rate.  Failure to make such payment within thirty (30) days of Lessor's demand shall constitute a breach of this Lease, and the Lessor may declare this Lease immediately ended with Lessee forfeiting the rent paid for that year, subject to the nontermination provision of section 4(C) and subject to the appeal procedures in 25 C.F.R. Part 2.  This provision shall not prohibit Lessor from pursuing its remedies at law to recover the amount it paid.  In addition to the rents, taxes and other charges herein provided, Lessee shall pay all charges for water, sewer, gas, oil, electricity, telephone and any other utility services applied for and used on said premises.</text>
-        </para>
-        <para>
-          <num>(13)</num>
-          <text>Merchantable timber within the leased area shall remain the property of the Lessor and there shall be no removal of any trees except with the written approval of the Lessor's Forestry  Department.</text>
-        </para>
-        <para>
-          <num>(14)</num>
-          <text>It is understood and agreed that this lease, or any amendment thereto, or encumbrance thereunder shall be valid only after approval by the Secretary of Interior or his authorized representative, delegate or successor.  Approval of this Lease will not constitute an approval of a mortgage secured in the loan from or guaranteed by Lender.  Subsequent mortgages, loans, or other encumbrances require separate approval from the Secretary.  No assent, express or implied, to any breach of any of the Lessee's covenants shall be deemed to be a waiver of any succeeding breach of any covenants.</text>
-        </para>
-        <para>
-          <num>(15)</num>
-          <text>The Lessor shall justly compensate the Lessee for any impairment of Lessee's rights under this Lease or of Lessee's unobstructed use of the leased premises resulting from any condemnation of the land subject to this Lease or from the Lessor's grant of any easement or rights-of-way concerning said land.  Lessor shall not voluntarily grant any right of use to the subject premises that would materially interfere with the Lessee's rights to or use of the premises without the written permission of the Lessee and the Mortgagee, if the indebtedness remains outstanding.  Unless the mortgage interest has been terminated, any payment resulting from condemnation, or the Lessor's voluntary grant, shall be made jointly payable to the Lessor and the Mortgagee.</text>
-        </para>
-        <para>
-          <num>(16)</num>
-          <text>The Lessee, his heirs, successors, executors, administrators and assigns, shall be required to comply with all applicable laws and regulations covering sanitation, plumbing, electrical, building, and other relevant codes.  Lessee agrees to pay the prevailing fee in Shawano County for a building inspection, if required by the Lessor.  Lessor may require that the inspection be done by the Shawano County Building Inspector, however Shawano County shall not have jurisdiction to enforce their codes.  Lessor has primary jurisdiction for adoption and enforcing such codes.  Lessor may, however, base its codes on Shawano County's codes.  The Lessee shall comply with all applicable Federal and Tribal regulations regarding leasing.  After the termination of the Mortgagee's interest in the leased premises; the Lessee must obtain the prior approval of the Lessor before any improvements of any kind are constructed on the leased premises.</text>
-        </para>
-        <para>
-          <num>(17)</num>
-          <text>The Lessor and its authorized representatives shall have the right, at any reasonable time during the term of this Lease, to enter upon the leased premises, or any part thereof, to inspect the same and all buildings and other improvements erected and placed thereon.  After the termination of the Mortgagee's interest in the leased premises, this Lease or any right to or interest in this Lease or any of the improvements on the leased premises may not be encumbered without the prior written approval of the Lessor, and no such encumbrance shall be valid without said approval.  The Lessor reserves the right to require any terms and condition before any encumbrances may be made as to the leased premises as it feels will best protect the Lessor's interest in the leased premises.</text>
-        </para>
-        <para>
-          <num>(18)</num>
-          <text>Any notice required by or sent pursuant to any provision of this Lease shall be sufficient if it is sent by first-class certified mail.  In the case of the Lessee, to the lessee's last known mailing address stated above and in the case of the Lessor to the Lessor at the Lessor's mailing address stated above.  Notice to Mortgagee shall be mailed to address provided to Lessor by Mortgagee or other lender.  The Lessee agrees to pay and discharge all reasonable costs, attorney's fees and expenses that shall be made and incurred by the Lessor in enforcing the covenants and agreements of this Lease.</text>
-        </para>
-        <para>
-          <num>(19)</num>
-          <text>While the leased premises are in trust or restricted status, all of the Lessee's obligations under this Lease, and the obligation of his sureties, are to the United States as well as to the equitable owner of the land.</text>
-        </para>
-        <para>
-          <num>(20)</num>
-          <text>Nothing contained in this Lease shall operate to delay or prevent a termination of Federal trust responsibilities with respect to the land by the issuance of a fee patent or otherwise during the term of the Lease; however, such termination shall not serve to abrogate the Lease.  The equitable owners of the land and the Lessee and his surety or sureties shall be notified of any such change in the status of the land.</text>
-        </para>
-      </para>
-      <para>
-        <num>(e)</num>
-        <heading>Sovereign Immunity.</heading>
-        <text>Lessor acknowledges and agrees that upon the occurrence of a breach of any of its obligations under this Lease, the Lessee and/or any Mortgagee or Lender, or its successors or assigns, may protect and enforce its rights by appropriate judicial proceedings against Lessor to be held exclusively within the courts of the Tribe.  Such rights shall include, without limitation, the right to pursue any applicable Stockbridge-Munsee Tribal law to enforce the terms of this Lease.  This waiver of immunity is not intended, nor shall it be construed to, by implication or otherwise, waive the immunity of the Tribe from suit in any way to any issue not directly arising under this Lease.</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <heading>Assignment.</heading>
-        <text>The Lessee shall not assign the Leasehold Estate without prior written  consent of the Lessor.  Nothing in the Lease shall prevent the Lessee, with the Lessor's and Secretary's consent, from executing and recording a mortgage, declaration of trust and/or other security instrument as may be necessary or appropriate to obtain financing.  In the event of default on any mortgage or other loan agreement by the Lessee on the Leasehold Estate, the lender may commence foreclosure proceedings by the terms of this Ordinance.</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <heading>Right of First Refusal.</heading>
-        <text>Subsequent to Lessee's breach of any covenant or agreement under a mortgage or security instrument for which the Lease or any improvements on the Leasehold Estate are pledged as security, and upon the expiration of any applicable cure period provided Lessee therein, the Lessor shall have the right of first refusal to acquire the Lessee's Leasehold Estate (subject to all valid liens and encumbrances) upon either payment in full of all sums secured by the mortgage or assumption of the loan evidenced by the note and mortgage and execution of an assumption agreement acceptable in all respects to the Lender.  This right of first refusal may be exercised at any time within thirty (30) days of the date of the Lender's written notice to the Lessor of the Lessee's failure to cure the default in accordance with the terms of the Lender's written notice to the Lessor of the Lessee's failure to cure the default in accordance with the terms of the Lender's acceleration notice to the Lessee under the mortgage or other security instrument requiring  the Lessor to pay all sums secured by the mortgage, which  notice shall be given before the Lender or successor invokes any other remedies provided under the mortgage or by law.  This right of first refusal shall be exercised by notice in writing from the Lessor to the Lessee and the Lender.  The Lessor's right of first refusal to acquire the Lessee's interest in the Leasehold Estate, such right of first refusal shall be subject to any right the Lessee may have under the mortgage or by law to reinstatement after the acceleration, and right to bring a court action to assert the non-existence of a default or any other defense to acceleration and sale foreclosure.</text>
-        <text>The estate acquired by the Lessor through exercise of the right of first refusal shall not merge with any other estate or title held by the Lessor as long as the Leasehold Estate and/or any improvements on the Leasehold Estate, or any interest therein, are mortgaged or otherwise pledged as security for any loan, and the Leasehold Estate shall remain subject to any valid and subsisting mortgage or other security instrument.</text>
-      </para>
-      <para>
-        <num>(h)</num>
-        <heading>Foreclosure.</heading>
-        <text>In the event the Lender acquires the Leasehold Estate by foreclosure of the mortgage, declaration of trust and/or other security instrument or assignment of the Leasehold Estate in lieu of foreclosure (for which foreclosure or assignment in lieu of foreclosure shall not require approval of the Lessor or the Secretary) then:</text>
-        <para>
-          <num>(1)</num>
-          <text>The Lender will notify the Lessor in writing of the availability of the Leasehold Estate and the Improvements for sale, the sales price and any other terms of sale;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>If a purchaser is found who is an enrolled member of the Tribe, the Lease will be transferred by the appropriate federal agency or private lender to the purchaser, with the written consent and approval of the Tribe.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>If a purchaser cannot be found, the appropriate federal agency or private lender shall be entitled to sublease the leased premises to any enrolled member of the Tribe wishing to sublease the same.  The term of the initial sublease period and any succeeding periods shall not exceed one year each.  A purchaser approved by the Tribe must wait, where the leased premises are sublet, until the expiration of any current sublease before occupying the premises.</text>
-          <text><strong>IN WITNESS WHEREOF, </strong>the parties have signed and sealed the Lease on the date first above written.</text>
-        </para>
-        <aftertext>
-          <strong>STATE OF WISCONSIN  )</strong>
-        </aftertext>
-        <aftertext>
-          <strong>) SS</strong>
-        </aftertext>
-        <aftertext>
-          <strong>COUNTY OF SHAWANO)</strong>
-        </aftertext>
-        <aftertext>I, ____________________, Lessee(s) of the property described herein depose and say the I am leasing the land herein described above for my own use and benefit and not directly or indirectly for the benefit of any other person or corporation, that I, Lessee have no agreement, arrangement or understanding with any corporation whereby the said land or any part thereof, shall or may be used, enjoined or occupied by or for the benefit of any person or corporation other than myself.</aftertext>
-        <aftertext>
-          <strong>LESSOR:						LESSEE:</strong>
-        </aftertext>
-        <aftertext>
-          <strong>__________________________			_________________________________</strong>
-        </aftertext>
-        <aftertext>
-          <strong>DATE:  __________________			DATE:  ___________________</strong>
-        </aftertext>
-        <aftertext>Subscribed and sworn before me this __________ day of _____________, 19____, the above named ___________________, to me known to be the person who signed and executed the foregoing instrument.</aftertext>
-        <aftertext>___________________________</aftertext>
-        <aftertext>Notary Public State of Wisconsin</aftertext>
-        <aftertext>County of Shawano</aftertext>
-        <aftertext>My Commission Expires:</aftertext>
-        <aftertext>Approved By:</aftertext>
-        <aftertext>____________________________			_____________________________</aftertext>
-        <aftertext>Stockbridge-Munsee Tribal Council			Bureau of Indian Affairs</aftertext>
-        <aftertext>Date:  _________________				Date:  __________________</aftertext>
-      </para>
+      </include>
       <annotation type="Prior Codifications">§PRP.05.53 was formerly codified as Chapter 46, §46.7-16</annotation>
     </section>
     <annotations>
