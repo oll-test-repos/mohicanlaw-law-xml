@@ -35,10 +35,10 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
-      <text>the Stockbridge-Munsee Tribal Council hereby approves changes to Chapter 5 that amend <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.02.02|(a)|(3)">Section 5.2 (A)(3)</cite> to add a cross-reference to Chapter 5-A and delete <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.02.22">Section 5.22</cite>, which previously addressed appellate procedure.</text>
+      <text>the Stockbridge-Munsee Tribal Council hereby approves changes to Chapter 5 that amend <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.02|(a)|(3)">Section 5.2 (A)(3)</cite> to add a cross-reference to Chapter 5-A and delete <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.22">Section 5.22</cite>, which previously addressed appellate procedure.</text>
     </recital>
   </recitals>
-  <codify:replace path="TCT.02.02|(a)|(3)">
+  <codify:replace path="§TCT.02.02|(a)|(3)">
     <para>
       <num>(3)</num>
       <text>To establish a set of procedural rules to govern civil litigation in the Tribal Court System, except to the extent the Court of Appeals has its own procedural rules applying to appeals before it as established under <cite doc="Stockbridge-Munsee Tribal Code" path="TCT|TCT.03">Chapter TCT.03</cite>; and</text>
