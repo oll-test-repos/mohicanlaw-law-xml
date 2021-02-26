@@ -22,7 +22,7 @@
     <section>
       <num>DMR.01.03</num>
       <heading>Authority</heading>
-      <text>The Tribal Council enacts this Code pursuant to the duties under Article VII, Section 3.</text>
+      <text>The Tribal Council enacts this Code pursuant to the duties under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|3">Article VII, Section 3</cite>.</text>
       <annotation type="Prior Codifications">§DMR.01.03 was formerly codified as Chapter 61, §61.3</annotation>
     </section>
     <section>
@@ -74,7 +74,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>"Council" or "Tribal Council" means the elected governing body of the Stockbridge-Munsee Tribe established under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="IV">Article IV of the Constitution</cite>.</text>
+        <text>"Council" or "Tribal Council" means the elected governing body of the Stockbridge-Munsee Tribe established under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|IV">Article IV of the Constitution</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -425,7 +425,7 @@
           </para>
           <para>
             <num>(C)</num>
-            <text>The division of property made under (E);</text>
+            <text>The division of property made under <cite path="§DMR.02.07|(d)|(1)|(E)">(E)</cite>;</text>
           </para>
           <para>
             <num>(D)</num>
@@ -473,7 +473,7 @@
           </para>
           <para>
             <num>(C)</num>
-            <text>With funds acquired in a manner under (a) or (b).</text>
+            <text>With funds acquired in a manner under <cite path="§DMR.02.07|(e)|(1)|(A)">(A)</cite> or <cite path="§DMR.02.07|(e)|(1)|(B)">(B)</cite>.</text>
           </para>
           <para>
             <num>(D)</num>
@@ -530,7 +530,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>For the purposes of <cite path="62.7">this chapter</cite>, a land assignment issued by the Stockbridge-Munsee Community is not the real or personal property of the individual.  Land assignments shall not be subject to the Court's division of property between the parties. The Court may not alter a person's right to his or her land assignment in any way EXCEPT in accordance with the following:</text>
+          <text>For the purposes of <cite path="DMR|DMR.02">this chapter</cite>, a land assignment issued by the Stockbridge-Munsee Community is not the real or personal property of the individual.  Land assignments shall not be subject to the Court's division of property between the parties. The Court may not alter a person's right to his or her land assignment in any way EXCEPT in accordance with the following:</text>
           <para>
             <num>(A)</num>
             <text>In a divorce where both parties are Stockbridge-Munsee tribal members, the Court may, if it deems in the best interest of the children and after consideration of all factors listed in (2), award a party's land assignment to the other party where the second party has physical placement of the minor children for the greater period of time.</text>
@@ -570,7 +570,7 @@
         <num>(b)</num>
         <para>
           <num>(1)</num>
-          <text>Subject to (2), based on the best interest of the child and after considering the factors under (e), the court may give joint legal custody or sole legal custody of a minor child.</text>
+          <text>Subject to <cite path="§DMR.02.08|(b)|(2)">subsection (2)</cite>, based on the best interest of the child and after considering the factors under <cite path="§DMR.02.08|(b)|(2)|(e)">subsection (e)</cite>, the court may give joint legal custody or sole legal custody of a minor child.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -601,7 +601,7 @@
         <num>(c)</num>
         <para>
           <num>(1)</num>
-          <text>Except as provided under (2), if the court orders sole or joint legal custody under (B), the court shall allocate periods of physical placement between the parties in accordance with this section. In determining the allocation of periods of physical placement, the court shall consider each case on the basis of the factors listed in (D).</text>
+          <text>Except as provided under <cite path="§DMR.02.08|(c)|(2)">subsection (2)</cite>, if the court orders sole or joint legal custody under <cite path="§DMR.02.08|(b)">subsection (b)</cite>, the court shall allocate periods of physical placement between the parties in accordance with this section. In determining the allocation of periods of physical placement, the court shall consider each case on the basis of the factors listed in <cite path="§DMR.02.08|(d)">subsection (d)</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -860,7 +860,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>A violation of <cite doc="Wis. Stat." path="§940.225|(1)">Sec. 940.225 (1)</cite>, (2) or (3) of the Wisconsin state statutes.</text>
+          <text>A violation of <cite doc="Wis. Stat." path="§940.225|(1)">Sec. 940.225 (1)</cite>, <cite doc="Wis. Stat." path="§940.225|(2)">(2)</cite> or <cite doc="Wis. Stat." path="§940.225|(3)">(3)</cite> of the Wisconsin state statutes.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -900,7 +900,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>Minor children of a person in a relationship that is described in paragraphs (A) through (G)</text>
+          <text>Minor children of a person in a relationship that is described in paragraphs (1) through (7)</text>
         </para>
         <para>
           <num>(9)</num>
@@ -926,7 +926,7 @@
       <heading>Commencement Of Action And Response</heading>
       <para>
         <num>(a)</num>
-        <text>No action under this section may be commenced by complaint and summons.  An action under this section may be commenced only by a petition described under <cite path="§DMR.03.07|(a)">Section DMR.03.07(a)</cite>.  The action commences with service of the petition upon the respondent if a copy of the petition is filed before service or promptly after service.  If the judge or family court commissioner extends the time for a hearing under <cite path="§DMR.03.04|(c)">Section DMR.03.04(c)</cite> and the petitioner files an affidavit with the court stating that personal service by a Stockbridge-Munsee law enforcement officer or a private server under Section 19 of the Stockbridge-Munsee rules of procedure was unsuccessful because the respondent is avoiding service by concealment or otherwise, the petitioner may serve the respondent by publication of the petition in the tribal newspaper and by mailing if the respondent's post-office address is known or can with due diligence be ascertained. The mailing may be omitted if the post-office address cannot be ascertained with due diligence.</text>
+        <text>No action under this section may be commenced by complaint and summons.  An action under this section may be commenced only by a petition described under <cite path="§DMR.03.07|(a)">Section DMR.03.07(a)</cite>.  The action commences with service of the petition upon the respondent if a copy of the petition is filed before service or promptly after service.  If the judge or family court commissioner extends the time for a hearing under <cite path="§DMR.03.04">Section DMR.03.04(c)</cite> and the petitioner files an affidavit with the court stating that personal service by a Stockbridge-Munsee law enforcement officer or a private server under Section 19 of the Stockbridge-Munsee rules of procedure was unsuccessful because the respondent is avoiding service by concealment or otherwise, the petitioner may serve the respondent by publication of the petition in the tribal newspaper and by mailing if the respondent's post-office address is known or can with due diligence be ascertained. The mailing may be omitted if the post-office address cannot be ascertained with due diligence.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -945,7 +945,7 @@
       <heading>Temporary Restraining Order.</heading>
       <para>
         <num>(a)</num>
-        <text>A judge or family court commissioner shall issue a temporary restraining order ordering the respondent to refrain from committing acts of domestic abuse against the petitioner, to avoid the petitioner's residence, except as provided in subsection (B), or any premises temporarily occupied by the petitioner or both, or to avoid contacting or causing any person other than a party's attorney to contact the petitioner unless the petitioner consents in writing, or any combination of these remedies requested in the petition, if all of the following occur:</text>
+        <text>A judge or family court commissioner shall issue a temporary restraining order ordering the respondent to refrain from committing acts of domestic abuse against the petitioner, to avoid the petitioner's residence, except as provided in <cite path="§DMR.03.05|(b)">subsection (b)</cite>, or any premises temporarily occupied by the petitioner or both, or to avoid contacting or causing any person other than a party's attorney to contact the petitioner unless the petitioner consents in writing, or any combination of these remedies requested in the petition, if all of the following occur:</text>
         <para>
           <num>(1)</num>
           <text>The petitioner submits to the judge or family court commissioner a petition alleging the elements set forth under <cite path="§DMR.03.07|(a)">Section DMR.03.07(a)</cite>.</text>
@@ -978,7 +978,7 @@
       <heading>Injunction.</heading>
       <para>
         <num>(a)</num>
-        <text>A judge or family court commissioner may grant an injunction ordering the respondent to refrain from committing acts of domestic abuse against the petitioner, to avoid the petitioner's residence, except as provided in subsection (B), or any premises temporarily occupied by the petitioner or both, or to avoid contacting or causing any person other than a party's attorney to contact the petitioner unless the petitioner consents to that contact in writing, or any combination of these remedies requested in the petition, if all of the following occur:</text>
+        <text>A judge or family court commissioner may grant an injunction ordering the respondent to refrain from committing acts of domestic abuse against the petitioner, to avoid the petitioner's residence, except as provided in <cite path="§DMR.03.06|(b)">subsection (b)</cite>, or any premises temporarily occupied by the petitioner or both, or to avoid contacting or causing any person other than a party's attorney to contact the petitioner unless the petitioner consents to that contact in writing, or any combination of these remedies requested in the petition, if all of the following occur:</text>
         <para>
           <num>(1)</num>
           <text>The petitioner files a petition alleging the elements set forth under <cite path="§DMR.03.07|(a)">Section DMR.03.07(a)</cite>.</text>
@@ -1080,7 +1080,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The deposit for any citation issued under (B) shall be $<cite path="§200.00">200.00</cite>.</text>
+        <text>The deposit for any citation issued under <cite path="§DMR.03.09|(b)">(b)</cite> shall be $200.00.</text>
       </para>
       <annotation type="Prior Codifications">§DMR.03.09 was formerly codified as Chapter 63, §63.9</annotation>
     </section>
@@ -1121,28 +1121,30 @@
       <para>
         <num>(a)</num>
         <text>The Tribal clerk of court is authorized to certify and authenticate any copy of an order or injunction issued pursuant to this ordinance by attesting to the authenticity of the document and stamping the document as follows:</text>
-        <text>
-          <table class="layout-table">
-            <tbody>
-              <tr>
-                <td class="text-indent-5">I, [name of tribal court clerk], Clerk of the Stockbridge-Munsee Tribal Court, do hereby certify that the foregoing is a true, correct and complete copy of the instrument herewith set out as appears on the file and of record in my said office.</td>
-              </tr>
-              <tr>
-                <td class="text-indent-5">Dated this ____ day of _________, 19__.</td>
-              </tr>
-              <tr>
-                <td class="text-indent-9">/s/</td>
-              </tr>
-              <tr>
-                <td class="text-indent-5">Clerk, Stockbridge-Munsee Tribal Court</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
+        <include>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td>I, [name of tribal court clerk], Clerk of the Stockbridge-Munsee Tribal Court, do hereby certify that the foregoing is a true, correct and complete copy of the instrument herewith set out as appears on the file and of record in my said office.</td>
+                </tr>
+                <tr>
+                  <td>Dated this ____ day of _________, _____.</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-9">/s/</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-4">Clerk, Stockbridge-Munsee Tribal Court</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </include>
       </para>
       <para>
         <num>(b)</num>
-        <text>A copy of a tribal court injunction or order issued pursuant to this ordinance is considered authenticated when the procedures in subsection (A) have been followed and completed.</text>
+        <text>A copy of a tribal court injunction or order issued pursuant to this ordinance is considered authenticated when the procedures in <cite path="§DMR.03.12">subsection (a)</cite> have been followed and completed.</text>
       </para>
       <annotation type="Prior Codifications">§DMR.03.12 was formerly codified as Chapter 63, §63.12</annotation>
     </section>
@@ -1503,14 +1505,14 @@
         <para>
           <num>(11)</num>
           <heading>Enforcement and Penalties for Violation.</heading>
-          <text>Where Respondent has violated an Order for Protection, the Court may order additional and other remedies as provided in Section G., above and may impose such penalties as are deemed necessary by the Court given the severity of the violation of the Order. Penalties include, but are not limited to those available for contempt, fines, assessments of court costs and fees, and exclusion from tribal offices and businesses.</text>
+          <text>Where Respondent has violated an Order for Protection, the Court may order additional and other remedies as provided in <cite path="§DMR.04.03|(a)|(9)">Section DMR.04.03(a)(9)</cite>, above and may impose such penalties as are deemed necessary by the Court given the severity of the violation of the Order. Penalties include, but are not limited to those available for contempt, fines, assessments of court costs and fees, and exclusion from tribal offices and businesses.</text>
         </para>
         <para>
           <num>(12)</num>
           <heading>Full Faith and Credit.</heading>
           <para>
             <num>(A)</num>
-            <text>Any protection order that is consistent with <cite path="§64.3|(J)|(2)">Section 64.3 (J)(2)</cite> by the court of one state or Indian tribe (the issuing state or Indian tribe) shall be accorded full faith and credit by this Tribe and enforced as if it were the order of this Tribal Court.</text>
+            <text>Any protection order that is consistent with <cite path="§DMR.04.03|(a)|(12)|(B)">Section DMR.04.03(a)(12)(B)</cite> by the court of one state or Indian tribe (the issuing state or Indian tribe) shall be accorded full faith and credit by this Tribe and enforced as if it were the order of this Tribal Court.</text>
           </para>
           <para>
             <num>(B)</num>
@@ -1634,7 +1636,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>developing a long term plan to promote the Team's purpose as described in <cite path="§64.5|(A)|(1)">Section 64.5 (A)(1)</cite>;</text>
+            <text>developing a long term plan to promote the Team's purpose as described in <cite path="§DMR.04.05|(a)|(1)">Section DMR.04.05(a)(1)</cite>;</text>
           </para>
           <para>
             <num>(C)</num>

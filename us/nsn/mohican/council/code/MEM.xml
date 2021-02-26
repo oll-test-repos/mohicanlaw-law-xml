@@ -52,7 +52,7 @@
     </section>
     <section>
       <num>MEM.01.05</num>
-      <text>Descendants of persons who are enrollees under the definition of Section 4 of this Ordinance shall be eligible for adoption into the Community, provided such descendants present acceptable evidence of being of one quarter (1/4) or more degree Stockbridge Munsee Indian blood.</text>
+      <text>Descendants of persons who are enrollees under the definition of <cite path="§MEM.01.04">Section MEM.01.04</cite> of this Ordinance shall be eligible for adoption into the Community, provided such descendants present acceptable evidence of being of one quarter (1/4) or more degree Stockbridge Munsee Indian blood.</text>
       <annotation type="Prior Codifications">§MEM.01.05 was formerly codified as Chapter 44, §44.5</annotation>
     </section>
     <section>
@@ -134,84 +134,86 @@
           <para>
             <num>(B)</num>
             <text>The notification shall state the following:</text>
-            <text>
-              <table class="layout-table">
-                <tbody>
-                  <tr>
-                    <td>"At the ___________(date) regular Tribal Council meeting, Tribal</td>
-                  </tr>
-                  <tr>
-                    <td>Council made a motion of its intent to deny membership to</td>
-                  </tr>
-                  <tr>
-                    <td>___________ (applicant's name).  Tribal Council based its decision on</td>
-                  </tr>
-                  <tr>
-                    <td>____________________________________________________________</td>
-                  </tr>
-                  <tr>
-                    <td>___________________________________________________________.</td>
-                  </tr>
-                  <tr>
-                    <td><strong>You have thirty calendar days to respond if you wish to challenge</strong></td>
-                  </tr>
-                  <tr>
-                    <td><strong>Tribal Council's intent to deny membership.</strong> If you do not respond</td>
-                  </tr>
-                  <tr>
-                    <td>within thirty calendar days, Tribal Council may deny membership to the</td>
-                  </tr>
-                  <tr>
-                    <td>applicant at its next Regular Tribal Council meeting.</td>
-                  </tr>
-                  <tr>
-                    <td><br/></td>
-                  </tr>
-                  <tr>
-                    <td>If you chose to contest Tribal Council's intent to deny membership,</td>
-                  </tr>
-                  <tr>
-                    <td>the applicant, its parent(s), its guardian, or representative must respond in</td>
-                  </tr>
-                  <tr>
-                    <td>writing to the Tribal Secretary.  Your response must be received within</td>
-                  </tr>
-                  <tr>
-                    <td>thirty calendar days of you receiving this notice.  If you are contesting</td>
-                  </tr>
-                  <tr>
-                    <td>Tribal Council's intent to deny membership, the applicant, its parent(s), its</td>
-                  </tr>
-                  <tr>
-                    <td>guardian, or representative will have the opportunity to review the copies</td>
-                  </tr>
-                  <tr>
-                    <td>of the documents that Tribal Council is relying on.</td>
-                  </tr>
-                  <tr>
-                    <td><br/></td>
-                  </tr>
-                  <tr>
-                    <td>If you are contesting Tribal Council's intent to deny membership, the</td>
-                  </tr>
-                  <tr>
-                    <td>Tribal Council Secretary will then contact the applicant in order to</td>
-                  </tr>
-                  <tr>
-                    <td>schedule the membership issue on an upcoming regular Tribal Council</td>
-                  </tr>
-                  <tr>
-                    <td>meeting agenda. The Tribal Council Secretary will also provide you with</td>
-                  </tr>
-                  <tr>
-                    <td>the copies of relevant documents that Tribal Council relied on for its intent</td>
-                  </tr>
-                  <tr>
-                    <td>to deny membership decision."</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
+            <include>
+              <text>
+                <table class="layout-table">
+                  <tbody>
+                    <tr>
+                      <td>"At the ___________(date) regular Tribal Council meeting, Tribal</td>
+                    </tr>
+                    <tr>
+                      <td>Council made a motion of its intent to deny membership to</td>
+                    </tr>
+                    <tr>
+                      <td>___________ (applicant's name).  Tribal Council based its decision on</td>
+                    </tr>
+                    <tr>
+                      <td>____________________________________________________________</td>
+                    </tr>
+                    <tr>
+                      <td>___________________________________________________________.</td>
+                    </tr>
+                    <tr>
+                      <td><strong>You have thirty calendar days to respond if you wish to challenge</strong></td>
+                    </tr>
+                    <tr>
+                      <td><strong>Tribal Council's intent to deny membership.</strong> If you do not respond</td>
+                    </tr>
+                    <tr>
+                      <td>within thirty calendar days, Tribal Council may deny membership to the</td>
+                    </tr>
+                    <tr>
+                      <td>applicant at its next Regular Tribal Council meeting.</td>
+                    </tr>
+                    <tr>
+                      <td><br/></td>
+                    </tr>
+                    <tr>
+                      <td>If you chose to contest Tribal Council's intent to deny membership,</td>
+                    </tr>
+                    <tr>
+                      <td>the applicant, its parent(s), its guardian, or representative must respond in</td>
+                    </tr>
+                    <tr>
+                      <td>writing to the Tribal Secretary.  Your response must be received within</td>
+                    </tr>
+                    <tr>
+                      <td>thirty calendar days of you receiving this notice.  If you are contesting</td>
+                    </tr>
+                    <tr>
+                      <td>Tribal Council's intent to deny membership, the applicant, its parent(s), its</td>
+                    </tr>
+                    <tr>
+                      <td>guardian, or representative will have the opportunity to review the copies</td>
+                    </tr>
+                    <tr>
+                      <td>of the documents that Tribal Council is relying on.</td>
+                    </tr>
+                    <tr>
+                      <td><br/></td>
+                    </tr>
+                    <tr>
+                      <td>If you are contesting Tribal Council's intent to deny membership, the</td>
+                    </tr>
+                    <tr>
+                      <td>Tribal Council Secretary will then contact the applicant in order to</td>
+                    </tr>
+                    <tr>
+                      <td>schedule the membership issue on an upcoming regular Tribal Council</td>
+                    </tr>
+                    <tr>
+                      <td>meeting agenda. The Tribal Council Secretary will also provide you with</td>
+                    </tr>
+                    <tr>
+                      <td>the copies of relevant documents that Tribal Council relied on for its intent</td>
+                    </tr>
+                    <tr>
+                      <td>to deny membership decision."</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </include>
           </para>
         </para>
         <para>
@@ -263,8 +265,6 @@
       <annotation type="Prior Codifications">§MEM.01.09 was formerly codified as Chapter 44, §44.9</annotation>
     </section>
     <annotations>
-      <annotation type="Legislative History">11. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 18-20">Resolution No. 18-20</cite>, adopted December 3, 2019.</annotation>
-      <annotation type="Legislative History">10. A referendum question asking whether tribal members supported changing the Membership Ordinance to use 1940 as a baseline to establish blood quantum for adoption of new members was on the ballot of the October 12, 2019 general election. The vote was 313 in support and 157 in opposition to the change.</annotation>
       <annotation type="Legislative History">9. On October 5, 2010, Tribal Council made an administrative correction to necessitate their original intent by adding the words "take action on the final decision to deny membership as outlined in Sections 44.6 (C) (4) and (5) above" to Section 44.6 (D).</annotation>
       <annotation type="Legislative History">8. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 055-10">Resolution No. 055-10</cite>, adopted July 20, 2010, approved by BIA August 13, 2010.</annotation>
       <annotation type="Legislative History">7. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 045-04">Resolution No. 045-04</cite>, adopted September 7, 2004, approved by BIA November 8, 2004.</annotation>

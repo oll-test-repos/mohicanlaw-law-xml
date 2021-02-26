@@ -7,12 +7,17 @@
     <prefix>Chapter</prefix>
     <num>BUS.01</num>
     <heading>Liquor Control Ordinance</heading>
-    <text>WHEREAS, Public Law 277, 83<sup>rd</sup> Congress, 1<sup>st</sup> Session, approved August 15, 1953 and codified at sec. 1161 of Title 18, United States Code, provides that Sections 1154, 1156, 3113, 3488, 3618 of Title 18 of the United States Code shall not apply within any area that is not Indian Country, nor to any act or transaction within any area of Indian Country, provided such act or transaction is in conformity both with the laws of the State in which such act or transaction occurs and with an ordinance duly adopted by the Tribe having jurisdiction over such area of Indian Country, certified by the Secretary of the Interior, and published in the Federal Register; and</text>
-    <text>WHEREAS, it is the desire of the Tribal Council of the Stockbridge-Munsee Community of Wisconsin to adopt a liquor control ordinance in the Indian Country that lies within the jurisdiction of the Community; and</text>
-    <text>WHEREAS, the Tribal Council of the Stockbridge-Munsee Community of Wisconsin has the authority to adopt ordinances regulating liquor in the Indian Country that lies within the jurisdiction of the Community, by virtue of the provisions of Article VII, sections 11(a), (e) and (h) of the Constitution of the Stockbridge-Munsee Community of Wisconsin, adopted October 30, 1937;</text>
-    <text>NOW THEREFORE BE IT RESOLVED that the Tribal Council of the Stockbridge-Munsee Community of Wisconsin authorizes the issuance of licenses for sale of alcohol beverages within the Indian Country that lies within the jurisdiction of the Community, provided:</text>
     <section>
       <num>BUS.01.01</num>
+      <heading>Introduction</heading>
+      <text>WHEREAS, Public Law 277, 83<sup>rd</sup> Congress, 1<sup>st</sup> Session, approved August 15, 1953 and codified at sec. 1161 of Title 18, United States Code, provides that Sections 1154, 1156, 3113, 3488, 3618 of Title 18 of the United States Code shall not apply within any area that is not Indian Country, nor to any act or transaction within any area of Indian Country, provided such act or transaction is in conformity both with the laws of the State in which such act or transaction occurs and with an ordinance duly adopted by the Tribe having jurisdiction over such area of Indian Country, certified by the Secretary of the Interior, and published in the Federal Register; and</text>
+      <text>WHEREAS, it is the desire of the Tribal Council of the Stockbridge-Munsee Community of Wisconsin to adopt a liquor control ordinance in the Indian Country that lies within the jurisdiction of the Community; and</text>
+      <text>WHEREAS, the Tribal Council of the Stockbridge-Munsee Community of Wisconsin has the authority to adopt ordinances regulating liquor in the Indian Country that lies within the jurisdiction of the Community, by virtue of the provisions of <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(a)">Article VII, sections 11(a)</cite>, <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(e)">(e)</cite> and <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(h)">(h)</cite> of the Constitution of the Stockbridge-Munsee Community of Wisconsin, adopted October 30, 1937;</text>
+      <text>NOW THEREFORE BE IT RESOLVED that the Tribal Council of the Stockbridge-Munsee Community of Wisconsin authorizes the issuance of licenses for sale of alcohol beverages within the Indian Country that lies within the jurisdiction of the Community, provided:</text>
+      <annotation type="Prior Codifications">§BUS.01.01 was formerly codified as an unnumbered introduction in Chapter 31</annotation>
+    </section>
+    <section>
+      <num>BUS.01.02</num>
       <heading>Licenses</heading>
       <para>
         <num>(a)</num>
@@ -86,16 +91,16 @@
         <num>(g)</num>
         <text>The Tribal Council of the Stockbridge-Munsee Community may reject any application for a license, or for a renewal of a license, under this Ordinance, if the applicant previously has committed acts which have resulted in the suspension or revocation of a license under this Ordinance.</text>
       </para>
-      <annotation type="Prior Codifications">§BUS.01.01 was formerly codified as Chapter 31, §31.1</annotation>
-    </section>
-    <section>
-      <num>BUS.01.02</num>
-      <heading>Agent</heading>
-      <text>Any tribally owned entity licensed under this Ordinance shall appoint, subject to the approval and confirmation of the Tribal Council, an agent who shall have full authority and control of the premises and of the conduct of all business on the premises relative to alcohol beverages. This person shall also be the person designated by Wis. Stats. <cite path="§125.04|(6)">sec. 125.04(6)</cite> requiring the appointment of agents.</text>
-      <annotation type="Prior Codifications">§BUS.01.02 was formerly codified as Chapter 31, §31.2</annotation>
+      <annotation type="Prior Codifications">§BUS.01.02 was formerly codified as Chapter 31, §31.1</annotation>
     </section>
     <section>
       <num>BUS.01.03</num>
+      <heading>Agent</heading>
+      <text>Any tribally owned entity licensed under this Ordinance shall appoint, subject to the approval and confirmation of the Tribal Council, an agent who shall have full authority and control of the premises and of the conduct of all business on the premises relative to alcohol beverages. This person shall also be the person designated by <cite doc="Wis. Stat." path="§125.04|(6)">Wis. Stats. sec. 125.04(6)</cite> requiring the appointment of agents.</text>
+      <annotation type="Prior Codifications">§BUS.01.03 was formerly codified as Chapter 31, §31.2</annotation>
+    </section>
+    <section>
+      <num>BUS.01.04</num>
       <heading>Authority Of The Tribal Council</heading>
       <para>
         <num>(a)</num>
@@ -109,30 +114,30 @@
         <num>(c)</num>
         <text>Tribal Council members do not need such written authorization and may enter any Tribally licensed facility at any time upon identifying themselves if such admission is sought during normal closed hours.</text>
       </para>
-      <annotation type="Prior Codifications">§BUS.01.03 was formerly codified as Chapter 31, §31.3</annotation>
-    </section>
-    <section>
-      <num>BUS.01.04</num>
-      <heading>Separate Licenses For Each Facility</heading>
-      <text>Each Tribally owned entity licensed under this Ordinance shall be required to file a separate application and hold a separate license for each facility it operates.</text>
-      <annotation type="Prior Codifications">§BUS.01.04 was formerly codified as Chapter 31, §31.4</annotation>
+      <annotation type="Prior Codifications">§BUS.01.04 was formerly codified as Chapter 31, §31.3</annotation>
     </section>
     <section>
       <num>BUS.01.05</num>
-      <heading>Transfer Of Licenses Prohibited</heading>
-      <text>No license issued under this Ordinance may be transferred to any other entity or person.</text>
-      <annotation type="Prior Codifications">§BUS.01.05 was formerly codified as Chapter 31, §31.5</annotation>
+      <heading>Separate Licenses For Each Facility</heading>
+      <text>Each Tribally owned entity licensed under this Ordinance shall be required to file a separate application and hold a separate license for each facility it operates.</text>
+      <annotation type="Prior Codifications">§BUS.01.05 was formerly codified as Chapter 31, §31.4</annotation>
     </section>
     <section>
       <num>BUS.01.06</num>
-      <heading>State Law Applicable</heading>
-      <text>The Stockbridge-Munsee Community recognizes the applicability of general State law governing the sales of alcohol beverages.</text>
-      <annotation type="Prior Codifications">§BUS.01.06 was formerly codified as Chapter 31, §31.6</annotation>
+      <heading>Transfer Of Licenses Prohibited</heading>
+      <text>No license issued under this Ordinance may be transferred to any other entity or person.</text>
+      <annotation type="Prior Codifications">§BUS.01.06 was formerly codified as Chapter 31, §31.5</annotation>
     </section>
     <section>
       <num>BUS.01.07</num>
+      <heading>State Law Applicable</heading>
+      <text>The Stockbridge-Munsee Community recognizes the applicability of general State law governing the sales of alcohol beverages.</text>
+      <annotation type="Prior Codifications">§BUS.01.07 was formerly codified as Chapter 31, §31.6</annotation>
+    </section>
+    <section>
+      <num>BUS.01.08</num>
       <heading>State Law Adopted</heading>
-      <text>The Stockbridge-Munsee Community hereby adopts for purposes of Tribal enforcement against any entity licensed by the Tribe under this ordinance the following provisions, as modified, of <cite path="125">Chapter 125</cite> of the Wisconsin Statutes:</text>
+      <text>The Stockbridge-Munsee Community hereby adopts for purposes of Tribal enforcement against any entity licensed by the Tribe under this ordinance the following provisions, as modified, of <cite doc="Wis. Stat." path="§125.1">Chapter 125</cite> of the Wisconsin Statutes:</text>
       <include>
         <section>
           <num>125.02</num>
@@ -248,7 +253,7 @@
           <para>
             <num>(a)</num>
             <heading>Definition.</heading>
-            <text>In this section, "official identification card" means a valid operator's license issued under <cite path="343">chapter 343</cite> of the Wisconsin Statutes that contains the photograph of the holder, an identification card issued under <cite path="§343.50">section 343.50</cite> of the Wisconsin Statutes or an identification card issued under <cite path="§125.08">section 125.08</cite> of the Wisconsin Statutes.</text>
+            <text>In this section, "official identification card" means a valid operator's license issued under <cite doc="Wis. Stat." path="§343.1">chapter 343</cite> of the Wisconsin Statutes that contains the photograph of the holder, an identification card issued under <cite doc="Wis. Stat." path="§343.50">section 343.50</cite> of the Wisconsin Statutes or an identification card issued under <cite doc="Wis. Stat." path="§125.08">section 125.08</cite> of the Wisconsin Statutes.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -257,13 +262,13 @@
           </para>
         </section>
       </include>
-      <annotation type="Prior Codifications">§BUS.01.07 was formerly codified as Chapter 31, §31.7</annotation>
+      <annotation type="Prior Codifications">§BUS.01.08 was formerly codified as Chapter 31, §31.7</annotation>
     </section>
     <section>
-      <num>BUS.01.08</num>
+      <num>BUS.01.09</num>
       <heading>Closing Hours</heading>
       <text>Every entity licensed by the Stockbridge-Munsee Community shall observe the closing hours established by Wisconsin Statutes governing Class B Retail State licenses. Failure to do shall the basis for the revocation of licenses issued by the Tribal Council.</text>
-      <annotation type="Prior Codifications">§BUS.01.08 was formerly codified as Chapter 31, §31.8</annotation>
+      <annotation type="Prior Codifications">§BUS.01.09 was formerly codified as Chapter 31, §31.8</annotation>
     </section>
     <annotations>
       <annotation type="Legislative History">
@@ -409,14 +414,14 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Penalties for violations of this Ordinance shall include a fine up to $<cite path="§100.00">100.00</cite> per day, suspension of cigarette and tobacco product deliver, and/or suspension or revocation of cigarette license.</text>
+        <text>Penalties for violations of this Ordinance shall include a fine up to $100.00 per day, suspension of cigarette and tobacco product deliver, and/or suspension or revocation of cigarette license.</text>
       </para>
       <para>
         <num>(c)</num>
         <text>The Court shall have jurisdiction over all violations of this Ordinance.</text>
         <para>
           <num>(1)</num>
-          <text>In addition to the penalties described in <cite path="§BUS.02.06|(b)">Section BUS.02.06(b)</cite>, the Court may grant such other relief as is necessary to enforce this Ordinance.</text>
+          <text>In addition to the penalties described in <cite path="§BUS.02.05|(b)">Section BUS.02.05(b)</cite>, the Court may grant such other relief as is necessary to enforce this Ordinance.</text>
         </para>
       </para>
       <annotation type="Prior Codifications">§BUS.02.05 was formerly codified as Chapter 32, §32.5</annotation>
@@ -442,7 +447,7 @@
         <text>Approval rescinded by BIA November 3, 1982, due to "confusion over terms which may cause practical problems in attempting to implement the ordinance."</text>
         <text>Adopted by Tribal Council on January 20, 2000, Resolution No. 04-2000.</text>
         <text>BIA approval, February 2, 2000.</text>
-        <text>Amended <cite path="§BUS.02.03|(a)|(1)">Section BUS.02.03(a)(1)</cite> to reduce application fee from $<cite path="§30.00">30.00</cite> to $<cite path="§10.00">10.00</cite> by Tribal Council on April 18, 2000, Resolution No. 022-2000.</text>
+        <text>Amended <cite path="§BUS.02.03|(a)|(1)">Section BUS.02.03(a)(1)</cite> to reduce application fee from $30.00 to $10.00 by Tribal Council on April 18, 2000, Resolution No. 022-2000.</text>
         <text>Amendment approved by BIA April 27, 2000.</text>
       </annotation>
     </annotations>
@@ -492,7 +497,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>A sparkler on a wire or wood stick not exceeding 36 inches in length or <cite path="§0.25">0.25</cite> inches in outside diameter which does not contain magnesium, chlorate or perchlorate;</text>
+          <text>A sparkler on a wire or wood stick not exceeding 36 inches in length or 0.25 inches in outside diameter which does not contain magnesium, chlorate or perchlorate;</text>
         </para>
         <para>
           <num>(10)</num>
@@ -533,7 +538,7 @@
     <section>
       <num>BUS.03.03</num>
       <heading>Authority</heading>
-      <text>This ordinance is adopted pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII">Article VII of the Tribal Constitution</cite>.</text>
+      <text>This ordinance is adopted pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII">Article VII of the Tribal Constitution</cite>.</text>
       <annotation type="Prior Codifications">§BUS.03.03 was formerly codified as Chapter 36, §36.3</annotation>
     </section>
     <section>
@@ -832,7 +837,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>" Purchase" means to buy or lease consumer goods or services.</text>
+        <text>"Purchase" means to buy or lease consumer goods or services.</text>
       </para>
       <para>
         <num>(i)</num>
@@ -914,7 +919,7 @@
         <text>In a face-to-face solicitation, a seller shall disclose all of the following to the consumer:</text>
         <para>
           <num>(1)</num>
-          <text>The name of the principle seller.</text>
+          <text>The name of the principal seller.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -967,7 +972,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The name, mailing address and telephone number of the principle seller.</text>
+          <text>The name, mailing address and telephone number of the principal seller.</text>
         </para>
         <para>
           <num>(5)</num>
