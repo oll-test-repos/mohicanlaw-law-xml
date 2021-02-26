@@ -142,7 +142,7 @@
     <section>
       <num>EDU.02.02</num>
       <heading>Authority</heading>
-      <text>This Code is enacted pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|1(f)">Article VII, Section 1 (f) of the Constitution</cite> of the Stockbridge-Munsee Community.</text>
+      <text>This Code is enacted pursuant to <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII, Section 1 (f) of the Constitution</cite> of the Stockbridge-Munsee Community.</text>
       <annotation type="Prior Codifications">§EDU.02.02 was formerly codified as Chapter 13, §13.2</annotation>
     </section>
     <section>
@@ -302,15 +302,15 @@
       <heading>Penalties</heading>
       <para>
         <num>(a)</num>
-        <text>Any child convicted of truancy under <cite path="§EDU.02.10|(a)">Section EDU.02.10(a)</cite> shall be subject to a minimum  penalty of community services hours equal to the number of school hours truant, with a maximum civil money penalty of $<cite path="§25.00">25.00</cite> and/or seven (7) community services hours per incident of truancy.</text>
+        <text>Any child convicted of truancy under <cite path="§EDU.02.10|(a)">Section EDU.02.10(a)</cite> shall be subject to a minimum  penalty of community services hours equal to the number of school hours truant, with a maximum civil money penalty of $25.00 and/or seven (7) community services hours per incident of truancy.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Any child who is convicted of aiding another child's truancy shall be subject to a minimum penalty of community service hours equal to the number of school hours the other child was truant, with a maximum civil money penalty of not more than $<cite path="§50.00">50.00</cite> and/or fourteen (14) community service hours.</text>
+        <text>Any child who is convicted of aiding another child's truancy shall be subject to a minimum penalty of community service hours equal to the number of school hours the other child was truant, with a maximum civil money penalty of not more than $50.00 and/or fourteen (14) community service hours.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Any adult who is convicted of aiding a child's truancy shall be subject to a penalty not less than $<cite path="§50.00">50.00</cite>, but not to exceed $<cite path="§500.00">500.00</cite>.  The presiding judge is authorized to order community service in his/her discretion.</text>
+        <text>Any adult who is convicted of aiding a child's truancy shall be subject to a penalty not less than $50.00, but not to exceed $500.00. The presiding judge is authorized to order community service in his/her discretion.</text>
       </para>
       <para>
         <num>(d)</num>
