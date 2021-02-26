@@ -3330,73 +3330,75 @@
       <num>PRP.04.22</num>
       <heading>Self-Proved Will-Form</heading>
       <text>An attested will may, at the time of its existence or at any subsequent date, be made self- proved, by the acknowledgment thereof by the testator and the affidavits of the witnesses, each made before a notary public or a judge, under official seal, attached or annexed to the will in form and content and substantially as follows:</text>
-      <text>
-        <table class="layout-table">
-          <tbody>
-            <tr>
-              <td class="text-indent-5">State of _______________</td>
-              <td/>
-              <td/>
-            </tr>
-            <tr>
-              <td class="text-indent-5">County of _____________</td>
-              <td/>
-              <td/>
-            </tr>
-            <tr>
-              <td colspan="3">We, ____, ____, and ____, the testator and the witnesses, respectively, whose names are signed to the attached and foregoing instrument, being first duly sworn, do hereby declare to the foregoing authority that the testator signed and executed the instrument as the testator's last will and that the testator signed willingly or directed another to sign for the testator, and that the testator executed the instrument as their free and voluntary act for the purposes therein expressed; and that each of the witnesses, in the presence and hearing of the testator, signed the will as witness and that to the best of their knowledge the testator was at the time 18 years or more of age, of sound mind and under no constraint or undue influence.</td>
-            </tr>
-            <tr>
-              <td/>
-              <td/>
-              <td>___________________________</td>
-            </tr>
-            <tr>
-              <td/>
-              <td/>
-              <td>TESTATOR</td>
-            </tr>
-            <tr>
-              <td>______________________________</td>
-              <td/>
-              <td>____________________________</td>
-            </tr>
-            <tr>
-              <td>WITNESS</td>
-              <td/>
-              <td>Address</td>
-            </tr>
-            <tr>
-              <td>Date:</td>
-              <td/>
-              <td/>
-            </tr>
-            <tr>
-              <td>______________________________</td>
-              <td/>
-              <td>____________________________</td>
-            </tr>
-            <tr>
-              <td>WITNESS</td>
-              <td/>
-              <td>Address</td>
-            </tr>
-            <tr>
-              <td>Date:</td>
-              <td/>
-              <td/>
-            </tr>
-            <tr>
-              <td colspan="3">Subscribed, sworn to and acknowledged before me by _____________ the testator, and subscribed and sworn to before me by ____________________ and __________________ witnesses, this ____ day of_______________, ______.</td>
-            </tr>
-            <tr>
-              <td/>
-              <td/>
-              <td>SIGNED BY JUDGE OR NOTARY</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
+      <include>
+        <text>
+          <table class="layout-table">
+            <tbody>
+              <tr>
+                <td class="text-indent-5">State of _______________</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td class="text-indent-5">County of _____________</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td colspan="3">We, ____, ____, and ____, the testator and the witnesses, respectively, whose names are signed to the attached and foregoing instrument, being first duly sworn, do hereby declare to the foregoing authority that the testator signed and executed the instrument as the testator's last will and that the testator signed willingly or directed another to sign for the testator, and that the testator executed the instrument as their free and voluntary act for the purposes therein expressed; and that each of the witnesses, in the presence and hearing of the testator, signed the will as witness and that to the best of their knowledge the testator was at the time 18 years or more of age, of sound mind and under no constraint or undue influence.</td>
+              </tr>
+              <tr>
+                <td/>
+                <td/>
+                <td>___________________________</td>
+              </tr>
+              <tr>
+                <td/>
+                <td/>
+                <td>TESTATOR</td>
+              </tr>
+              <tr>
+                <td>______________________________</td>
+                <td/>
+                <td>____________________________</td>
+              </tr>
+              <tr>
+                <td>WITNESS</td>
+                <td/>
+                <td>Address</td>
+              </tr>
+              <tr>
+                <td>Date:</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>______________________________</td>
+                <td/>
+                <td>____________________________</td>
+              </tr>
+              <tr>
+                <td>WITNESS</td>
+                <td/>
+                <td>Address</td>
+              </tr>
+              <tr>
+                <td>Date:</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td colspan="3">Subscribed, sworn to and acknowledged before me by _____________ the testator, and subscribed and sworn to before me by ____________________ and __________________ witnesses, this ____ day of_______________, ______.</td>
+              </tr>
+              <tr>
+                <td/>
+                <td/>
+                <td>SIGNED BY JUDGE OR NOTARY</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </include>
       <annotation type="Prior Codifications">§PRP.04.22 was formerly codified as Chapter 6, §6.2.5</annotation>
     </section>
     <section>

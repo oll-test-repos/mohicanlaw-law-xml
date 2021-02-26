@@ -1121,24 +1121,26 @@
       <para>
         <num>(a)</num>
         <text>The Tribal clerk of court is authorized to certify and authenticate any copy of an order or injunction issued pursuant to this ordinance by attesting to the authenticity of the document and stamping the document as follows:</text>
-        <text>
-          <table class="layout-table">
-            <tbody>
-              <tr>
-                <td class="text-indent-5">I, [name of tribal court clerk], Clerk of the Stockbridge-Munsee Tribal Court, do hereby certify that the foregoing is a true, correct and complete copy of the instrument herewith set out as appears on the file and of record in my said office.</td>
-              </tr>
-              <tr>
-                <td class="text-indent-5">Dated this ____ day of _________, ____.</td>
-              </tr>
-              <tr>
-                <td class="text-indent-9">/s/</td>
-              </tr>
-              <tr>
-                <td class="text-indent-5">Clerk, Stockbridge-Munsee Tribal Court</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
+        <include>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td>I, [name of tribal court clerk], Clerk of the Stockbridge-Munsee Tribal Court, do hereby certify that the foregoing is a true, correct and complete copy of the instrument herewith set out as appears on the file and of record in my said office.</td>
+                </tr>
+                <tr>
+                  <td>Dated this ____ day of _________, _____.</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-9">/s/</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-4">Clerk, Stockbridge-Munsee Tribal Court</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </include>
       </para>
       <para>
         <num>(b)</num>

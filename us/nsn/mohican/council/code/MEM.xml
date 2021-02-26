@@ -134,84 +134,86 @@
           <para>
             <num>(B)</num>
             <text>The notification shall state the following:</text>
-            <text>
-              <table class="layout-table">
-                <tbody>
-                  <tr>
-                    <td>"At the ___________(date) regular Tribal Council meeting, Tribal</td>
-                  </tr>
-                  <tr>
-                    <td>Council made a motion of its intent to deny membership to</td>
-                  </tr>
-                  <tr>
-                    <td>___________ (applicant's name).  Tribal Council based its decision on</td>
-                  </tr>
-                  <tr>
-                    <td>____________________________________________________________</td>
-                  </tr>
-                  <tr>
-                    <td>___________________________________________________________.</td>
-                  </tr>
-                  <tr>
-                    <td><strong>You have thirty calendar days to respond if you wish to challenge</strong></td>
-                  </tr>
-                  <tr>
-                    <td><strong>Tribal Council's intent to deny membership.</strong> If you do not respond</td>
-                  </tr>
-                  <tr>
-                    <td>within thirty calendar days, Tribal Council may deny membership to the</td>
-                  </tr>
-                  <tr>
-                    <td>applicant at its next Regular Tribal Council meeting.</td>
-                  </tr>
-                  <tr>
-                    <td><br/></td>
-                  </tr>
-                  <tr>
-                    <td>If you chose to contest Tribal Council's intent to deny membership,</td>
-                  </tr>
-                  <tr>
-                    <td>the applicant, its parent(s), its guardian, or representative must respond in</td>
-                  </tr>
-                  <tr>
-                    <td>writing to the Tribal Secretary.  Your response must be received within</td>
-                  </tr>
-                  <tr>
-                    <td>thirty calendar days of you receiving this notice.  If you are contesting</td>
-                  </tr>
-                  <tr>
-                    <td>Tribal Council's intent to deny membership, the applicant, its parent(s), its</td>
-                  </tr>
-                  <tr>
-                    <td>guardian, or representative will have the opportunity to review the copies</td>
-                  </tr>
-                  <tr>
-                    <td>of the documents that Tribal Council is relying on.</td>
-                  </tr>
-                  <tr>
-                    <td><br/></td>
-                  </tr>
-                  <tr>
-                    <td>If you are contesting Tribal Council's intent to deny membership, the</td>
-                  </tr>
-                  <tr>
-                    <td>Tribal Council Secretary will then contact the applicant in order to</td>
-                  </tr>
-                  <tr>
-                    <td>schedule the membership issue on an upcoming regular Tribal Council</td>
-                  </tr>
-                  <tr>
-                    <td>meeting agenda. The Tribal Council Secretary will also provide you with</td>
-                  </tr>
-                  <tr>
-                    <td>the copies of relevant documents that Tribal Council relied on for its intent</td>
-                  </tr>
-                  <tr>
-                    <td>to deny membership decision."</td>
-                  </tr>
-                </tbody>
-              </table>
-            </text>
+            <include>
+              <text>
+                <table class="layout-table">
+                  <tbody>
+                    <tr>
+                      <td>"At the ___________(date) regular Tribal Council meeting, Tribal</td>
+                    </tr>
+                    <tr>
+                      <td>Council made a motion of its intent to deny membership to</td>
+                    </tr>
+                    <tr>
+                      <td>___________ (applicant's name).  Tribal Council based its decision on</td>
+                    </tr>
+                    <tr>
+                      <td>____________________________________________________________</td>
+                    </tr>
+                    <tr>
+                      <td>___________________________________________________________.</td>
+                    </tr>
+                    <tr>
+                      <td><strong>You have thirty calendar days to respond if you wish to challenge</strong></td>
+                    </tr>
+                    <tr>
+                      <td><strong>Tribal Council's intent to deny membership.</strong> If you do not respond</td>
+                    </tr>
+                    <tr>
+                      <td>within thirty calendar days, Tribal Council may deny membership to the</td>
+                    </tr>
+                    <tr>
+                      <td>applicant at its next Regular Tribal Council meeting.</td>
+                    </tr>
+                    <tr>
+                      <td><br/></td>
+                    </tr>
+                    <tr>
+                      <td>If you chose to contest Tribal Council's intent to deny membership,</td>
+                    </tr>
+                    <tr>
+                      <td>the applicant, its parent(s), its guardian, or representative must respond in</td>
+                    </tr>
+                    <tr>
+                      <td>writing to the Tribal Secretary.  Your response must be received within</td>
+                    </tr>
+                    <tr>
+                      <td>thirty calendar days of you receiving this notice.  If you are contesting</td>
+                    </tr>
+                    <tr>
+                      <td>Tribal Council's intent to deny membership, the applicant, its parent(s), its</td>
+                    </tr>
+                    <tr>
+                      <td>guardian, or representative will have the opportunity to review the copies</td>
+                    </tr>
+                    <tr>
+                      <td>of the documents that Tribal Council is relying on.</td>
+                    </tr>
+                    <tr>
+                      <td><br/></td>
+                    </tr>
+                    <tr>
+                      <td>If you are contesting Tribal Council's intent to deny membership, the</td>
+                    </tr>
+                    <tr>
+                      <td>Tribal Council Secretary will then contact the applicant in order to</td>
+                    </tr>
+                    <tr>
+                      <td>schedule the membership issue on an upcoming regular Tribal Council</td>
+                    </tr>
+                    <tr>
+                      <td>meeting agenda. The Tribal Council Secretary will also provide you with</td>
+                    </tr>
+                    <tr>
+                      <td>the copies of relevant documents that Tribal Council relied on for its intent</td>
+                    </tr>
+                    <tr>
+                      <td>to deny membership decision."</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </include>
           </para>
         </para>
         <para>
