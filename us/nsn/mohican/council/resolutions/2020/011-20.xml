@@ -41,7 +41,7 @@
   <codify:replace path="TCT.02.02|(a)|(3)">
     <para>
       <num>(3)</num>
-      <text>To establish a set of procedural rules to govern civil litigation in the Tribal Court System, except to the extent the Court of Appeals has its own procedural rules applying to appeals before it as established under <cite path="TCT|TCT.03">Chapter TCT.03</cite>; and</text>
+      <text>To establish a set of procedural rules to govern civil litigation in the Tribal Court System, except to the extent the Court of Appeals has its own procedural rules applying to appeals before it as established under <cite doc="Stockbridge-Munsee Tribal Code" path="TCT|TCT.03">Chapter TCT.03</cite>; and</text>
     </para>
   </codify:replace>
   <codify:replace path="TCT.02.22">

@@ -50,12 +50,12 @@
         <para>
           <num>(b)</num>
           <heading>Citation.</heading>
-          <text>These rules may be cited as <strong>"S-M Rules App."</strong> with a citation to a specific rule number, which corresponds to the section of the Ordinance where it is found [<em><u>E.g.</u></em><em>,</em> S-M Rules App. 1(B) is found at <cite path="§5A.1|(B)">Section 5-A.1(B)</cite> and is the name of the appellate division of the Stockbridge-Munsee Tribal Court].</text>
+          <text>These rules may be cited as <strong>"S-M Rules App."</strong> with a citation to a specific rule number, which corresponds to the section of the Ordinance where it is found [<em><u>E.g.</u></em><em>,</em> S-M Rules App. 1(B) is found at <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.03.02|(b)">Section TCT.03.02(b)</cite> and is the name of the appellate division of the Stockbridge-Munsee Tribal Court].</text>
         </para>
         <para>
           <num>(c)</num>
           <heading>Authority.</heading>
-          <text>The Tribal Council of the Stockbridge-Munsee Community has the authority to adopt ordinances, including an ordinance establishing a system of appellate procedure under Article VII, Sections 1(f) and 3 of the Stockbridge-Munsee Constitution.</text>
+          <text>The Tribal Council of the Stockbridge-Munsee Community has the authority to adopt ordinances, including an ordinance establishing a system of appellate procedure under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII, Sections 1(f)</cite> and <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|3">3 of the Stockbridge-Munsee Constitution</cite>.</text>
         </para>
         <annotation type="Prior Codifications">§TCT.03.01 was formerly codified as Chapter 5-A, §5-A.05</annotation>
       </section>
@@ -143,7 +143,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>The Stockbridge-Munsee Community may declare an ordinance of the Stockbridge-Munsee Community unconstitutional if said ordinance violates either the Stockbridge-Munsee Constitution or the Stockbridge-Munsee Bill or Rights, <cite path="GOV|GOV.01">Chapter GOV.01</cite>.</text>
+            <text>The Stockbridge-Munsee Community may declare an ordinance of the Stockbridge-Munsee Community unconstitutional if said ordinance violates either the Stockbridge-Munsee Constitution or the Stockbridge-Munsee Bill or Rights, <cite doc="Stockbridge-Munsee Tribal Code" path="GOV|GOV.01">Chapter GOV.01</cite>.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -153,7 +153,7 @@
         <para>
           <num>(b)</num>
           <heading>Internal Rule Making Authority.</heading>
-          <text>The Stockbridge-Munsee Court of Appeals may modify the S-M Rules App. by application for an ordinance modification in accordance with the process in <cite path="ADM|ADM.01">Chapter ADM.01</cite> – Procedures or as permitted under <cite path="§TCT.01.12">Section TCT.01.12</cite>.</text>
+          <text>The Stockbridge-Munsee Court of Appeals may modify the S-M Rules App. by application for an ordinance modification in accordance with the process in <cite doc="Stockbridge-Munsee Tribal Code" path="ADM|ADM.01">Chapter ADM.01</cite> – Procedures or as permitted under <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.01.12">Section TCT.01.12</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -586,10 +586,7 @@
       </section>
       <annotations>
         <annotation type="Legislative History">
-          <para>
-            <num>1</num>
-            <text>On November 6, 2019, <cite path="TCT|TCT.03">Chapter TCT.03</cite>, Appellate Procedure, was adopted by the Tribal Council through Resolution No. 012-20.  This is a new ordinance to codify Rules of Procedure adopted by the Stockbridge-Munsee Court of Appeals and the section numbering retains the same numbering.  Approved by BIA on ______________.</text>
-          </para>
+          <text>1. On November 6, 2019, Chapter 5-A, Appellate Procedure, was adopted by the Tribal Council through Resolution No. 012-20. This is a new ordinance to codify Rules of Procedure adopted by the Stockbridge-Munsee Court of Appeals and the section numbering retains the same numbering. The Tribe affirmed its adoption of the ordinance on January 21, 2021 in Resolution #017-21 after the BIA declined to act for timeliness. The new Appellate Procedure Ordinance was approved by the BIA on January 28, 2021</text>
         </annotation>
       </annotations>
     </container>

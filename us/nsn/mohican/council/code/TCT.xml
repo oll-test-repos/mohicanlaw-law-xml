@@ -15,7 +15,7 @@
         <text>Recognizing that tribal self-sufficiency cannot be fully realized without first exerting control over such matters as may be vital to tribal interests, the Stockbridge-Munsee Tribal Council finds:</text>
         <para>
           <num>(1)</num>
-          <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1">Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution and By-Laws</cite> (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community....and establishing proper agencies for law enforcement of the Community," and this provision authorizes the Tribal Council to create a tribal court system and adopt a comprehensive code of law; and</text>
+          <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution and By-Laws</cite> (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community....and establishing proper agencies for law enforcement of the Community," and this provision authorizes the Tribal Council to create a tribal court system and adopt a comprehensive code of law; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -250,7 +250,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text><cite path="EMP|EMP.02">Chapter EMP.02</cite> shall apply to the hiring of any Judge.</text>
+          <text>The Employee Preference Policy Ordinance (<cite path="EMP|EMP.02">Chapter EMP.02</cite>) shall apply to the hiring of any Judge.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -270,7 +270,7 @@
       <para proof="needed">
         <num>(a)</num>
         <heading>Establishment.</heading>
-        <text>As authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="IV|3">Article IV, Section 3 of the Stockbridge-Munsee Constitution</cite>, the Tribal Council establishes a Judiciary Commission.</text>
+        <text>As authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|IV|3">Article IV, Section 3 of the Stockbridge-Munsee Constitution</cite>, the Tribal Council establishes a Judiciary Commission.</text>
       </para>
       <para proof="needed">
         <num>(b)</num>
@@ -416,7 +416,7 @@
         <para proof="needed">
           <num>(3)</num>
           <heading>Administer Judicial Qualification Exam.</heading>
-          <text>The Judiciary Commission shall offer the judicial qualification exam provided for under <cite path="§1.6|(C)|(a)|(2)">Section 1.6(C)(a)(2)</cite> at least annually.  The Judiciary Commission shall be responsible to ensure that the examination is proctored appropriately and is graded by someone who is competent to do so.</text>
+          <text>The Judiciary Commission shall offer the judicial qualification exam provided for under <cite path="§TCT.01.06|(C)|(1)|(B)">Section TCT.01.06(C)(1)(B)</cite> at least annually.  The Judiciary Commission shall be responsible to ensure that the examination is proctored appropriately and is graded by someone who is competent to do so.</text>
         </para>
         <para proof="needed">
           <num>(4)</num>
@@ -576,7 +576,7 @@
         <heading>Appeal Types.</heading>
         <para>
           <num>(1)</num>
-          <text>Presiding Appellate Judge. When an appeal is submitted pursuant to <cite path="TCT|TCT.02">Chapter TCT.02</cite> <cite path="§TCT.02.22">Section TCT.02.22</cite>, the Chief Justice of the Appellate Panel shall solely preside over that appeal, unless there is a conflict in which case the Chief Justice shall be responsible for assigning the appeal to another member of the Appellate Panel.</text>
+          <text>Presiding Appellate Judge. When an appeal is submitted pursuant to <cite path="§TCT.02.22">Section TCT.02.22</cite>, the Chief Justice of the Appellate Panel shall solely preside over that appeal, unless there is a conflict in which case the Chief Justice shall be responsible for assigning the appeal to another member of the Appellate Panel.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -587,7 +587,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>Once an appeal is decided by the presiding Appellate Judge, a party to an appeal has the right to request a final appeal be heard by an en banc panel of the three Appellate Justices pursuant to <cite path="§5.22|(A)">Section 5.22(A)</cite>. The Court has discretion as to whether to grant the request.  The Court's determination is final.</text>
+            <text>Once an appeal is decided by the presiding Appellate Judge, a party to an appeal has the right to request a final appeal be heard by an en banc panel of the three Appellate Justices pursuant to <cite path="§TCT.02.22">Section TCT.02.22(a)</cite>. The Court has discretion as to whether to grant the request.  The Court's determination is final.</text>
           </para>
         </para>
         <para>
@@ -634,7 +634,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>In addition to the duties described in Subsection (A) above, a Chief Judge shall:</text>
+        <text>In addition to the duties described in <cite path="§TCT.01.10|(a)">Subsection (a)</cite> above, a Chief Judge shall:</text>
         <para>
           <num>(1)</num>
           <text>Manage the Tribal Court System budget.</text>
@@ -741,7 +741,7 @@
         <text>The Clerk of Court shall maintain a list of all individuals approved by the Tribal Court System to act as guardian ad litem and lay advocate.  In order to serve as guardian ad litem or lay advocate, an individual must be approved by the Chief Judge and must meet the following qualifications:</text>
         <para>
           <num>(1)</num>
-          <text>A Guardian ad Litem must hold an elder youth license pursuant to tribal law, and a lay advocate must hold an elder-youth license prior to representing any client in a case involving Chapters <cite path="YAE|YAE.01">Chapter YAE.01</cite>, <cite path="YAE|YAE.02">Chapter YAE.02</cite>, <cite path="YAE|YAE.04">Chapter YAE.04</cite>, <cite path="YAE|YAE.06">Chapter YAE.06</cite>, <cite path="EDU|EDU.02">Chapter EDU.02</cite>, <cite path="YAE|YAE.07">Chapter YAE.07</cite>, <cite path="YAE|YAE.08">Chapter YAE.08</cite>, or <cite path="YAE|YAE.11">Chapter YAE.11</cite> of Stockbridge-Munsee tribal law;</text>
+          <text>A Guardian ad Litem must hold an elder youth license pursuant to tribal law, and a lay advocate must hold an elder-youth license prior to representing any client in a case involving <cite path="YAE|YAE.01">Chapter YAE.01</cite>, <cite path="YAE|YAE.02">Chapter YAE.02</cite>, <cite path="YAE|YAE.04">Chapter YAE.04</cite>, <cite path="YAE|YAE.06">Chapter YAE.06</cite>, <cite path="EDU|EDU.02">Chapter EDU.02</cite>, <cite path="YAE|YAE.07">Chapter YAE.07</cite>, <cite path="YAE|YAE.08">Chapter YAE.08</cite>, or <cite path="YAE|YAE.11">Chapter YAE.11</cite> of Stockbridge-Munsee tribal law;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -909,7 +909,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>Any judge in the Tribal Court System disqualified by the terms of <cite path="§TCT.01.14|(e)">Section TCT.01.14(e)</cite> (9)(c) or (d) above may, instead of withdrawing from the proceeding, disclose on the record the basis of his or her disqualification. If, based on such disclosure, the parties and lawyers all agree on the record and in writing that participation by the judge is not prejudicial or that the judge is no longer disqualified and may participate in the proceeding. The agreement, signed by all parties and lawyers, shall be incorporated in the record of the proceeding.</text>
+          <text>Any judge in the Tribal Court System disqualified by the terms of <cite path="§TCT.01.14|(e)|(9)|(C)">Section TCT.01.14(e)(9)(C)</cite> or <cite path="§TCT.01.14|(e)|(9)|(D)">(D)</cite> above may, instead of withdrawing from the proceeding, disclose on the record the basis of his or her disqualification. If, based on such disclosure, the parties and lawyers all agree on the record and in writing that participation by the judge is not prejudicial or that the judge is no longer disqualified and may participate in the proceeding. The agreement, signed by all parties and lawyers, shall be incorporated in the record of the proceeding.</text>
         </para>
       </para>
       <para proof="needed">
@@ -1051,7 +1051,7 @@
         <text>Recognizing that tribal self-sufficiency cannot be fully realized without first exerting control over such matters as may be vital to tribal interests, the Stockbridge-Munsee Tribal Council finds:</text>
         <para>
           <num>(1)</num>
-          <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="VII|l(f)">Article VII, Section l (f) of the Stockbridge-Munsee Community Constitution</cite> and By-Laws (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community....and establishing proper agencies for law enforcement of the Community," and this provision authorizes the Tribal Council to create a system to govern civil procedure in the tribal court system; and</text>
+          <text>That <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII, Section 1 (f) of the Stockbridge-Munsee Community Constitution</cite> and By-Laws (approved November 18, 1937), as amended, provides in part that the Tribal Council has the power: "To promulgate and enforce ordinances, subject to the approval of the Secretary of the Interior, governing the conduct of members of the Community....and establishing proper agencies for law enforcement of the Community," and this provision authorizes the Tribal Council to create a system to govern civil procedure in the tribal court system; and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1088,7 +1088,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>To ensure that all matters shall be conducted in a manner so as to afford all persons who appear before the Stockbridge-Munsee Tribal Court all rights guaranteed by the Stockbridge-Munsee Bill of Rights; and</text>
+          <text>To ensure that all matters shall be conducted in a manner so as to afford all persons who appear before the Stockbridge-Munsee Tribal Court all rights guaranteed by the <cite path="GOV|GOV.01">Stockbridge-Munsee Bill of Rights</cite>; and</text>
         </para>
         <para>
           <num>(5)</num>
@@ -1110,7 +1110,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Reference herein to the Tribal Court System shall mean the system established by Chapter One, the Stockbridge-Munsee Tribal Court Code, consisting of a Trial Court and Court of Appeals.</text>
+        <text>Reference herein to the Tribal Court System shall mean the system established by <cite path="TCT|TCT.01">Chapter TCT.01</cite>, the Stockbridge-Munsee Tribal Court Code, consisting of a Trial Court and Court of Appeals.</text>
       </para>
       <annotation type="Prior Codifications">§TCT.02.03 was formerly codified as Chapter 5, §5.3</annotation>
     </section>
@@ -1503,7 +1503,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>In all other situations other than those listed in (B), when the Tribe petitions to be joined as a party, the Court shall decide whether the Tribe has a significant interest in the case.</text>
+        <text>In all other situations other than those listed in <cite path="§TCT.02.17|(b)">(b)</cite>, when the Tribe petitions to be joined as a party, the Court shall decide whether the Tribe has a significant interest in the case.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1791,7 +1791,7 @@
     <prefix>Chapter</prefix>
     <num>TCT.04</num>
     <heading>Peacemaker Ordinance</heading>
-    <subheading>General Provisions</subheading>
+    <subheading>Part I - General Provisions</subheading>
     <section>
       <num>TCT.04.01</num>
       <heading>Purpose &amp; Construction</heading>
@@ -1856,7 +1856,7 @@
       </para>
       <annotation type="Prior Codifications">§TCT.04.03 was formerly codified as Chapter 4, §4.12</annotation>
     </section>
-    <subheading>Peacemakers</subheading>
+    <subheading>Part II - Peacemakers</subheading>
     <section>
       <num>TCT.04.04</num>
       <heading>Appointment And Qualifications</heading>
@@ -1918,7 +1918,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Use any reasonable means, in accordance with the Peacemaker Guiding Principles as stated in this ordinance, to obtain the peaceful, cooperative and voluntary resolution of a dispute subject to peacemaking.  No force, violence or the violation of rights secured to individuals by the Stockbridge-Munsee Bill of Rights or Tribal law or custom will be permitted.</text>
+          <text>Use any reasonable means, in accordance with the Peacemaker Guiding Principles as stated in this ordinance, to obtain the peaceful, cooperative and voluntary resolution of a dispute subject to peacemaking.  No force, violence or the violation of rights secured to individuals by the <cite path="GOV|GOV.01">Stockbridge-Munsee Bill of Rights</cite> or Tribal law or custom will be permitted.</text>
         </para>
       </para>
       <annotation type="Prior Codifications">§TCT.04.05 was formerly codified as Chapter 4, §4.21</annotation>
@@ -1941,7 +1941,7 @@
       <text>Where the Peacemaking sessions were pursuant to a referral from Tribal Court, either at the conclusion of the peacemaking or at such time as the Peacemaker finds there can be no resolution of the matter, the Peacemaker must report the results of his or her efforts to the Court.  The reports may be informal but must be reduced to writing, either by the Peacemaker or the Tribal Court.  This written record shall be maintained in the Court file.</text>
       <annotation type="Prior Codifications">§TCT.04.08 was formerly codified as Chapter 4, §4.24</annotation>
     </section>
-    <subheading>Procedure</subheading>
+    <subheading>Part III - Procedure</subheading>
     <section>
       <num>TCT.04.09</num>
       <heading>Request For Peacemaking.</heading>
@@ -2013,7 +2013,7 @@
       <text>A fee of $10 will be charged for any protective order sought with respect to Peacemaker System proceedings.</text>
       <annotation type="Prior Codifications">§TCT.04.16 was formerly codified as Chapter 4, §4.37</annotation>
     </section>
-    <subheading>Actions By The Tribal Court.</subheading>
+    <subheading>Part IV - Actions By The Tribal Court.</subheading>
     <section>
       <num>TCT.04.17</num>
       <heading>Protective Orders</heading>
@@ -2106,7 +2106,7 @@
       <text>A judgment of the Tribal Court upon Peacemaker System proceedings may be enforced as any other judgement of the Tribal Court may be enforced.</text>
       <annotation type="Prior Codifications">§TCT.04.22 was formerly codified as Chapter 4, §4.45</annotation>
     </section>
-    <subheading>Conduct Of Peacemakers</subheading>
+    <subheading>Part V - Conduct Of Peacemakers</subheading>
     <section>
       <num>TCT.04.23</num>
       <heading>General Standards</heading>
@@ -2125,7 +2125,7 @@
       <text>Upon finding that a Peacemaker has violated an ethical standard, the Tribal Council may, by majority vote, suspend the name of the individual from the Peacemaker rolls.  Where criminal activity is involved, the Tribal Council may refer the matter to the Tribal Prosecutor or other authority for possible prosecution.  The Tribal Council shall notify in writing any Peacemaker who has been suspended from the rolls and the reason(s) therefore within 10 days.  The Peacemaker shall have 14 days to appeal such suspension to the Tribal Appellate Court.  Such appeals shall thereafter proceed pursuant to tribal appellate laws.</text>
       <annotation type="Prior Codifications">§TCT.04.25 was formerly codified as Chapter 4, §4.52</annotation>
     </section>
-    <subheading>Transfer Of Cases From Tribal Court To Peacemaker System.</subheading>
+    <subheading>Part VI - Transfer Of Cases From Tribal Court To Peacemaker System.</subheading>
     <section>
       <num>TCT.04.26</num>
       <heading>General Policy</heading>
@@ -2160,13 +2160,13 @@
     <section>
       <num>TCT.04.28</num>
       <heading>Civil Matters.</heading>
-      <text>Civil actions falling within the provision of <cite path="§4.1.3" proof="needed">Section 4.1.3</cite> may be referred to Peacemaker System with the written stipulation of all the parties to the action.</text>
+      <text>Civil actions falling within the provision of <cite path="TCT|TCT.01">Chapter TCT.01</cite> may be referred to Peacemaker System with the written stipulation of all the parties to the action.</text>
       <annotation type="Prior Codifications">§TCT.04.28 was formerly codified as Chapter 4, §4.62</annotation>
     </section>
     <section>
       <num>TCT.04.29</num>
       <heading>Criminal Matters.</heading>
-      <text>Any criminal matter within the provisions of <cite path="§4.1.3" proof="needed">Section 4.1.3</cite> may be transferred to the Peacemaker System, upon consent of the parties, where:</text>
+      <text>Any criminal matter within the provisions of <cite path="TCT|TCT.01">Chapter TCT.01</cite> may be transferred to the Peacemaker System, upon consent of the parties, where:</text>
       <para>
         <num>(a)</num>
         <text>The case does not involve injury to person or property; or</text>
@@ -2190,7 +2190,7 @@
     <section>
       <num>TCT.04.31</num>
       <heading>Mandatory Referral To Peacemaker System</heading>
-      <text>Notwithstanding the consent provisions of Sections <cite path="§4.6.1" proof="needed">4.6.1</cite> and <cite path="§4.6.2" proof="needed">4.6.2</cite>, if the Trial Judge assigned to any civil case decides that the parties would benefit from a session with a Peacemaker, the judge may order that the parties spend at least one (1) hour in a Peacemaking session to see if the parties can resolve their case.</text>
+      <text>Notwithstanding the consent provisions of Sections <cite path="§TCT.04.27">Section TCT.04.27</cite> and <cite path="§TCT.04.28">Section TCT.04.28</cite>, if the Trial Judge assigned to any civil case decides that the parties would benefit from a session with a Peacemaker, the judge may order that the parties spend at least one (1) hour in a Peacemaking session to see if the parties can resolve their case.</text>
       <annotation type="Prior Codifications">§TCT.04.31 was formerly codified as Chapter 4, §4.65</annotation>
     </section>
   </container>
