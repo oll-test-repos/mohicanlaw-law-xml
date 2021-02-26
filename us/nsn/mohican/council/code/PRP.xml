@@ -1739,7 +1739,8 @@
         <text>This designation is intended to provide lands for outdoor enjoyment of the environment.</text>
         <para>
           <num>(1)</num>
-          <text><u>Permitted Principal Uses</u> The following principal uses are permitted under this designation.</text>
+          <heading>Permitted Principal Uses.</heading>
+          <text>The following principal uses are permitted under this designation.</text>
           <para>
             <num>(A)</num>
             <text>Outdoor recreational activities such as baseball, softball, football, basketball, soccer, volleyball.</text>
@@ -2099,7 +2100,7 @@
     <section>
       <num>PRP.02.10</num>
       <heading>Conformance With Other Laws</heading>
-      <text>Uses of land under this ordinance shall comply with all applicable Tribal laws and policies, including but not limited to, <cite path="SAF|SAF.02">Chapter SAF.02</cite>, <cite path="20">20</cite>, <cite path="ENV|ENV.01">Chapter ENV.01</cite>, <cite path="ENV|ENV.02">Chapter ENV.02</cite>, <cite path="ENV|ENV.03">Chapter ENV.03</cite>, <cite path="ENV|ENV.04">Chapter ENV.04</cite>, <cite path="ENV|ENV.05">Chapter ENV.05</cite>, <cite path="ENV|ENV.06">Chapter ENV.06</cite>, <cite path="PRP|PRP.01">Chapter PRP.01</cite>.</text>
+      <text>Uses of land under this ordinance shall comply with all applicable Tribal laws and policies, including but not limited to, <cite path="SAF|SAF.02">Chapter SAF.02</cite>, <cite path="ENV|ENV.01">Chapter ENV.01</cite>, <cite path="ENV|ENV.02">Chapter ENV.02</cite>, <cite path="ENV|ENV.03">Chapter ENV.03</cite>, <cite path="ENV|ENV.04">Chapter ENV.04</cite>, <cite path="ENV|ENV.05">Chapter ENV.05</cite>, <cite path="ENV|ENV.06">Chapter ENV.06</cite>, <cite path="PRP|PRP.01">Chapter PRP.01</cite>.</text>
       <annotation type="Prior Codifications">§PRP.02.10 was formerly codified as Chapter 43, §43.10</annotation>
     </section>
     <section>
@@ -2875,7 +2876,7 @@
     <prefix>Chapter</prefix>
     <num>PRP.04</num>
     <heading>Probate Code</heading>
-    <subheading>General Probate Provisions</subheading>
+    <subheading>Part I — General Probate Provisions</subheading>
     <section>
       <num>PRP.04.01</num>
       <heading>Purpose</heading>
@@ -3289,7 +3290,7 @@
       </para>
       <annotation type="Prior Codifications">§PRP.04.17 was formerly codified as Chapter 6, §6.1.17</annotation>
     </section>
-    <subheading>Wills</subheading>
+    <subheading>Part II — Wills</subheading>
     <section>
       <num>PRP.04.18</num>
       <heading>Who May Make A Will</heading>
@@ -3386,7 +3387,7 @@
               <td/>
             </tr>
             <tr>
-              <td colspan="3">Subscribed, sworn to and acknowledged before me by _____________ the testator, and subscribed and sworn to before me by ____________________ and __________________ witnesses, this ____ day of_______________ 19 _____.</td>
+              <td colspan="3">Subscribed, sworn to and acknowledged before me by _____________ the testator, and subscribed and sworn to before me by ____________________ and __________________ witnesses, this ____ day of_______________, ______.</td>
             </tr>
             <tr>
               <td/>
@@ -3513,7 +3514,7 @@
       </para>
       <annotation type="Prior Codifications">§PRP.04.30 was formerly codified as Chapter 6, §6.2.13</annotation>
     </section>
-    <subheading>Intestate Succession</subheading>
+    <subheading>Part III — Intestate Succession</subheading>
     <section>
       <num>PRP.04.31</num>
       <heading>Intestate Succession</heading>
@@ -3548,7 +3549,7 @@
     <section>
       <num>PRP.04.33</num>
       <heading>Share Of Heirs Other Than Surviving Spouse</heading>
-      <text>The part of the intestate estate not passing to the surviving spouse under <cite path="§6.3">§ 6.3</cite>.2 of this Probate Code, or the entire intestate estate if there is no surviving spouse, passes as follows:</text>
+      <text>The part of the intestate estate not passing to the surviving spouse under <cite path="§PRP.04.32 ">Section PRP.04.32</cite> of this Probate Code, or the entire intestate estate if there is no surviving spouse, passes as follows:</text>
       <para>
         <num>(a)</num>
         <text>to the issue of the decedent; if they are all of the same degree of kinship to the decedent they take equally, but if of unequal degree, then those of more remote degree take by representation;</text>
@@ -3611,11 +3612,11 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>In cases not covered by Sub<cite path="§6.3">section 6.3</cite>.9 (a), a person born out of wedlock is a child of the mother and is a child of the father, if the relationship of parent and child has been established in accordance with the Stockbridge-Munsee Youth Code.</text>
+        <text>In cases not covered by <cite path="PRP.04.39|(a)">subsection (a)</cite>, a person born out of wedlock is a child of the mother and is a child of the father, if the relationship of parent and child has been established in accordance with the Stockbridge-Munsee Youth Code.</text>
       </para>
       <annotation type="Prior Codifications">§PRP.04.39 was formerly codified as Chapter 6, §6.3.9</annotation>
     </section>
-    <subheading>Family Rights\Protection</subheading>
+    <subheading>Part IV — Family Rights\Protection</subheading>
     <section>
       <num>PRP.04.40</num>
       <heading>Spouse's Right To Elective Share</heading>
@@ -3731,7 +3732,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>In satisfying a share provided by this section, the devises made by the will abate as provided in <cite path="§PRP.04.76">Section PRP.04.76</cite>.10 of this Probate Code, which concerns "abatement".</text>
+        <text>In satisfying a share provided by this section, the devises made by the will abate as provided in <cite path="§PRP.04.76">Section PRP.04.76</cite> of this Probate Code, which concerns "abatement".</text>
       </para>
       <annotation type="Prior Codifications">§PRP.04.47 was formerly codified as Chapter 6, §6.4.8</annotation>
     </section>
@@ -3810,7 +3811,7 @@
       </para>
       <annotation type="Prior Codifications">§PRP.04.53 was formerly codified as Chapter 6, §6.4.14</annotation>
     </section>
-    <subheading>Inheritance By Non-Indians/Fractionated Heirship</subheading>
+    <subheading>Part V — Inheritance By Non-Indians/Fractionated Heirship</subheading>
     <section>
       <num>PRP.04.54</num>
       <heading>Restrictions On Inheritance Of Individual Trust/Restriction Lands By Non-Indians</heading>
@@ -3832,7 +3833,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Any ineligible devisee shall also have the right to renounce their devise in favor of a person or persons who are eligible to inherit in accordance with <cite path="§6.1">Section 6.1</cite>.14 (Renunciation of Succession) of this Probate Code.</text>
+        <text>Any ineligible devisee shall also have the right to renounce their devise in favor of a person or persons who are eligible to inherit in accordance with <cite path="§PRP.04.14">Section PRP.04.14</cite> (Renunciation of Succession) of this Probate Code.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -3882,7 +3883,7 @@
       </para>
       <annotation type="Prior Codifications">§PRP.04.55 was formerly codified as Chapter 6, §6.5.2</annotation>
     </section>
-    <subheading>Administration Of Intestate Estates</subheading>
+    <subheading>Part VI — Administration Of Intestate Estates</subheading>
     <section>
       <num>PRP.04.56</num>
       <heading>Petition</heading>
@@ -4043,7 +4044,7 @@
       </para>
       <annotation type="Prior Codifications">§PRP.04.66 was formerly codified as Chapter 6, §6.6.11</annotation>
     </section>
-    <subheading>Probate Of Wills</subheading>
+    <subheading>Part VII — Probate Of Wills</subheading>
     <section>
       <num>PRP.04.67</num>
       <heading>Duty To Present Will For Probate</heading>
@@ -4123,13 +4124,13 @@
     <section>
       <num>PRP.04.72</num>
       <heading>Duties Of Executor; Bond</heading>
-      <text>The duties of the Executor shall be the same as those prescribed in this Probate Code for the Administrator of an intestate estate (Part 6), and the Executor shall file a bond in a like manner and subject to the same exceptions.</text>
+      <text>The duties of the Executor shall be the same as those prescribed in this Probate Code for the Administrator of an intestate estate, and the Executor shall file a bond in a like manner and subject to the same exceptions.</text>
       <annotation type="Prior Codifications">§PRP.04.72 was formerly codified as Chapter 6, §6.7.6</annotation>
     </section>
     <section>
       <num>PRP.04.73</num>
       <heading>Creditors</heading>
-      <text>Notice to creditors, determination of the validity of claims, and payment of claims shall be handled as prescribed for intestate estates (Part 6).</text>
+      <text>Notice to creditors, determination of the validity of claims, and payment of claims shall be handled as prescribed for intestate estates.</text>
       <annotation type="Prior Codifications">§PRP.04.73 was formerly codified as Chapter 6, §6.7.7</annotation>
     </section>
     <section>
@@ -4191,7 +4192,7 @@
       <text>An estate may be reopened whenever necessary to dispose of a decedent's property discovered after their estate has been closed. The Court shall order distribution of the property to the person or persons entitled thereto after making whatever orders appear necessary to assure a just participation of the after discovered property in the expenses of the estate.</text>
       <annotation type="Prior Codifications">§PRP.04.77 was formerly codified as Chapter 6, §6.7.11</annotation>
     </section>
-    <subheading>Guardianship</subheading>
+    <subheading>Part VIII — Guardianship</subheading>
     <section>
       <num>PRP.04.78</num>
       <heading>Definition Of Guardian</heading>
@@ -4227,9 +4228,10 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>By Court appointment. Where a minor or mental incompetent is in need of a guardian, and no guardian is appointed pursuant to a valid will, the Court may appoint a guardian, to promote the best interests of the minor or mental incompetent.</text>
+        <heading>By Court appointment.</heading>
+        <text>Where a minor or mental incompetent is in need of a guardian, and no guardian is appointed pursuant to a valid will, the Court may appoint a guardian, to promote the best interests of the minor or mental incompetent.</text>
       </para>
-      <para proof="needed">
+      <para>
         <num>(c)</num>
         <heading>Hearing.</heading>
         <text>In each case where a guardian is to be appointed, either by will, or by Court appointment, a hearing shall be held following notice to all interested parties.</text>
@@ -4298,7 +4300,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>In the case of alleged incompetent persons, the grounds for incompetency under <cite path="§YAE.02.01">Section YAE.02.01</cite>; and</text>
+          <text>In the case of alleged incompetent persons, the grounds for incompetency under <cite path="§PRP.04.88">Section PRP.04.88</cite>; and</text>
         </para>
         <para>
           <num>(8)</num>
@@ -4438,7 +4440,7 @@
     <prefix>Chapter</prefix>
     <num>PRP.05</num>
     <heading>Housing</heading>
-    <subheading>General Provisions</subheading>
+    <subheading>Part I — General Provisions</subheading>
     <section>
       <num>PRP.05.01</num>
       <heading>Applicability</heading>
@@ -4525,9 +4527,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <u>Conflicts With Other Laws</u>
-        </text>
+        <heading>Conflicts With Other Laws</heading>
         <para>
           <num>(1)</num>
           <text>Tribal Laws: To the extent that this Ordinance may conflict with Stockbridge-Munsee tribal laws or ordinances which have been enacted to comply with statutes or regulations of any agency of the United States, such tribal laws or ordinances may govern over the provisions of this Ordinance if it has specific applicability and it is clearly in conflict with the provisions of this Ordinance.</text>
@@ -4730,7 +4730,7 @@
       </para>
       <annotation type="Prior Codifications">§PRP.05.05 was formerly codified as Chapter 46, §46.1-5</annotation>
     </section>
-    <subheading>Landlord/Tenant Rights, Obligations And Remedies</subheading>
+    <subheading>Part II — Landlord/Tenant Rights, Obligations And Remedies</subheading>
     <section>
       <num>PRP.05.06</num>
       <heading>Sources Of Rights, Obligations, And Remedies</heading>
@@ -4764,7 +4764,7 @@
     <section>
       <num>PRP.05.07</num>
       <heading>Effect Of Any Agreement Regarding Dwellings</heading>
-      <text>Unless an agreement or an applicable provision of the agreement is clearly contrary to this Ordinance or the laws identified in <strong><cite path="§46.1">§ 46.1</cite>-4 </strong>or <strong><cite path="§46.2">§ 46.2</cite>-1</strong>, the agreement or provision will govern the rights and obligations of any party before the Tribal Court, and the Court must grant the relief provided for in the agreement according to its terms.  Where there is no written agreement, the intent of the parties expressed in their oral agreement or relationship will govern, as well as applicable provisions of this Ordinance.</text>
+      <text>Unless an agreement or an applicable provision of the agreement is clearly contrary to this Ordinance or the laws identified in <cite path="§PRP.05.04">Section PRP.05.04</cite> or <cite path="§PRP.05.06">Section PRP.05.06</cite>, the agreement or provision will govern the rights and obligations of any party before the Tribal Court, and the Court must grant the relief provided for in the agreement according to its terms.  Where there is no written agreement, the intent of the parties expressed in their oral agreement or relationship will govern, as well as applicable provisions of this Ordinance.</text>
       <annotation type="Prior Codifications">§PRP.05.07 was formerly codified as Chapter 46, §46.2-2</annotation>
     </section>
     <section>
@@ -4979,7 +4979,7 @@
       </para>
       <annotation type="Prior Codifications">§PRP.05.13 was formerly codified as Chapter 46, §46.2-8</annotation>
     </section>
-    <subheading>Termination Of Rental Agreements/Termination Notice Requirements</subheading>
+    <subheading>Part III — Termination Of Rental Agreements/Termination Notice Requirements</subheading>
     <section>
       <num>PRP.05.14</num>
       <heading>Termination Procedures</heading>
@@ -5004,18 +5004,18 @@
       <text>Leases, agreements, or otherwise that have previously been approved by the Secretary are subject to the appeal procedures found in 25 C.F.R. Part 2.</text>
       <annotation type="Prior Codifications">§PRP.05.15 was formerly codified as Chapter 46, §46.3-2</annotation>
     </section>
-    <subheading>Eviction Process</subheading>
+    <subheading>Part IV — Eviction Process</subheading>
     <section>
       <num>PRP.05.16</num>
       <heading>Grounds For Eviction</heading>
-      <text>After proper notice terminating a tenant's tenancy, as set forth in Part 3 of this Ordinance, a tenant may be evicted from any premises, ordered to pay damages and costs, or otherwise be subjected to the order or judgment of the Tribal Court for the breach of any obligation under this Ordinance, any agreement, including an agreement to purchase or rent any dwelling, or for any other obligation provided by law.  A tenant may be evicted for:</text>
+      <text>After proper notice terminating a tenant's tenancy, as set forth in <cite path="§PRP.05.14">Section PRP.05.14</cite> of this Ordinance, a tenant may be evicted from any premises, ordered to pay damages and costs, or otherwise be subjected to the order or judgment of the Tribal Court for the breach of any obligation under this Ordinance, any agreement, including an agreement to purchase or rent any dwelling, or for any other obligation provided by law.  A tenant may be evicted for:</text>
       <para>
         <num>(a)</num>
         <text>Nonpayment of rent under an agreement for the lease purchase or occupation of a dwelling when such payments are not made after ten (10) calendar days of the agreement date of payment, or ten calendar days following the first day of the month in a month-to-month tenancy.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Any arrearage in rent, costs, or damages which have been due and owing for thirty (30) calendar days or more.   The receipt by a landlord of partial payments under an agreement shall not excuse the payment of any balance due upon demand, unless otherwise agreed to between the parties.</text>
+        <text>Any arrearage in rent, costs, or damages which have been due and owing for thirty (30) calendar days or more. The receipt by a landlord of partial payments under an agreement shall not excuse the payment of any balance due upon demand, unless otherwise agreed to between the parties.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -5050,14 +5050,36 @@
       <para>
         <num>(b)</num>
         <text>Any notice which substantially complies with the following form will be sufficient:</text>
-        <text>To:	[Name of Tenant] and occupiers of [address of premises or reasonable description of location]</text>
-        <text>From:	[Name of Landlord]</text>
-        <text>You are required to quit possession or occupancy of these premises, move out, and return the possession of the premises to the landlord on or before [date] for the following reason(s): [state what they are]</text>
-        <text>[Name and address of the person giving notice, date, and signature]</text>
+        <include>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td>To:	[Name of Tenant] and occupiers of [address of premises or reasonable description of location]</td>
+                </tr>
+                <tr>
+                  <td><br/></td>
+                </tr>
+                <tr>
+                  <td>From:	[Name of Landlord]</td>
+                </tr>
+                <tr>
+                  <td><br/></td>
+                </tr>
+                <tr>
+                  <td>You are required to quit possession or occupancy of these premises, move out, and return the possession of the premises to the landlord on or before [date] for the following reason(s): [state what they are]</td>
+                </tr>
+                <tr>
+                  <td>[Name and address of the person giving notice, date, and signature]</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </include>
       </para>
       <para>
         <num>(c)</num>
-        <text>The notice must provide not less than eight (8) calendar days following the date of service of the notice to quit but not to exceed 30 days following the date of service of notice to quit, except in cases of emergency or nuisance or injuries as provided in <strong><cite path="§46.4">§ 46.4</cite>-1</strong>(C).</text>
+        <text>The notice must provide not less than eight (8) calendar days following the date of service of the notice to quit but not to exceed 30 days following the date of service of notice to quit, except in cases of emergency or nuisance or injuries as provided in <cite path="§PRP.05.16|(c)">Section PRP.05.16(c)</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -5080,7 +5102,7 @@
       <heading>Forcible Eviction</heading>
       <para>
         <num>(a)</num>
-        <text>Where the Court orders an eviction, and the defendant or any other occupant of the premises refuses to vacate voluntarily by the effective date of that Order, the defendant or other occupants may be forcibly removed from the premises by a tribal law enforcement officer in accordance with the procedure in § <strong><cite path="§46.6">46.6</cite>-10</strong>. At the hearing where eviction is ordered, the Court shall inform the defendant that if he does not vacate the premises voluntarily by the effective date, he and the other occupants will be subject to forcible eviction, and their property will be subject to storage, sale and disposal as set forth in <strong><cite path="§46.4">§ 46.4</cite>-5</strong>.</text>
+        <text>Where the Court orders an eviction, and the defendant or any other occupant of the premises refuses to vacate voluntarily by the effective date of that Order, the defendant or other occupants may be forcibly removed from the premises by a tribal law enforcement officer in accordance with the procedure in <cite path="§PRP.05.33">Section PRP.05.33</cite>. At the hearing where eviction is ordered, the Court shall inform the defendant that if he does not vacate the premises voluntarily by the effective date, he and the other occupants will be subject to forcible eviction, and their property will be subject to storage, sale and disposal as set forth in <cite path="§PRP.05.20">Section PRP.05.20</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§PRP.05.19 was formerly codified as Chapter 46, §46.4-4</annotation>
     </section>
@@ -5090,7 +5112,7 @@
       <text>Following forcible eviction of the defendant and/or other occupants, the former occupants' personal property shall be stored by the owner of the premises for at least thirty (30) days, either on the premises or at another suitable location.  In order to reclaim their property, the former occupants must pay the reasonable costs of its removal and storage.  If they do not pay such costs within thirty (30) days, the owner is authorized to sell the property in order to recover these costs.  Upon request by the former occupants, the landlord must provide them with pertinent information concerning the sale, including the time, date and location.  Any proceeds from the sale in excess of the storage and removal costs must be remitted to the former occupants.  Nothing in this section shall be construed to prevent the former occupants from reclaiming property remaining after the sale if they can arrange to do so in a manner satisfactory to the owner.</text>
       <annotation type="Prior Codifications">§PRP.05.20 was formerly codified as Chapter 46, §46.4-5</annotation>
     </section>
-    <subheading>Notice Procedures</subheading>
+    <subheading>Part V — Notice Procedures</subheading>
     <section>
       <num>PRP.05.21</num>
       <heading>Notices Other Than Notices To Cancel Or Terminate An Agreement</heading>
@@ -5157,7 +5179,7 @@
       <text>The person giving notice must keep a copy of the notice and proof of service in accordance with <cite path="46.5-3">this chapter</cite>, and be able to demonstrate service by affidavit or other manner recognized by law.</text>
       <annotation type="Prior Codifications">§PRP.05.23 was formerly codified as Chapter 46, §46.5-3</annotation>
     </section>
-    <subheading>Court Procedures</subheading>
+    <subheading>Part VI — Court Procedures</subheading>
     <section>
       <num>PRP.05.24</num>
       <heading>Summons And Complaint</heading>
@@ -5184,14 +5206,14 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>The relief demanded, including any claims for damages, fees, costs, or other special relief, which may include, in accordance with <strong><cite path="§46.4">§ 46.4</cite>-1</strong>, non-payment of rent or other costs between the time of notice and the Execution of Judgment described at <strong><cite path="§46.6">§ 46.6</cite>-12</strong>.</text>
+        <text>The relief demanded, including any claims for damages, fees, costs, or other special relief, which may include, in accordance with <cite path="§PRP.05.164">Section PRP.05.16</cite>, non-payment of rent or other costs between the time of notice and the Execution of Judgment described at <cite path="§PRP.05.33 ">Section PRP.05.33</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§PRP.05.24 was formerly codified as Chapter 46, §46.6-1</annotation>
     </section>
     <section>
       <num>PRP.05.25</num>
       <heading>Action Upon Filing Complaint</heading>
-      <text>When a complaint is filed in the Tribal Court, it must be immediately presented to a Tribal Court Judge.  This must be on the date of filing, or, if no judge is present, on the first regular Court day after filing or when a judge may first be found.  The judge must review the complaint and must, if it appears to be in compliance with <strong><cite path="§46.6">§ 46.6</cite>-1</strong>, issue an order of the Court requiring the defendant named in the complaint to appear before the Court on a certain date to contest the complaint.  The date for appearance of answering the complaint must be no less than three (3) calendar days after the date of the order in matters involving a nuisance or injuries provided in <strong>§<cite path="§46.4">46.4</cite>-1</strong>(C) or ten (10) calendar days in all other cases.</text>
+      <text>When a complaint is filed in the Tribal Court, it must be immediately presented to a Tribal Court Judge.  This must be on the date of filing, or, if no judge is present, on the first regular Court day after filing or when a judge may first be found.  The judge must review the complaint and must, if it appears to be in compliance with <cite path="§PRP.05.24">Section PRP.05.24</cite>, issue an order of the Court requiring the defendant named in the complaint to appear before the Court on a certain date to contest the complaint. The date for appearance of answering the complaint must be no less than three (3) calendar days after the date of the order in matters involving a nuisance or injuries provided in <cite path="§PRP.05.16|(c)">Section PRP.05.16(c)</cite> or ten (10) calendar days in all other cases.</text>
       <annotation type="Prior Codifications">§PRP.05.25 was formerly codified as Chapter 46, §46.6-2</annotation>
     </section>
     <section>
@@ -5207,7 +5229,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>A defendant may, for good cause shown, and upon the payment of a reasonable sum for the fair rental value of the premises between the date on which the complaint was filed and the date of hearing, obtain an extension of time, beyond the 15 day period.  The Court may refuse to extend the date of hearing where the complaint is based upon nuisance or injuries provided in <strong>§<cite path="§46.4">46.4</cite>-1</strong>(C), and must not extend the date of hearing where the complaint is based upon conduct which is alleged to constitute a serious danger to public health, safety, or peace.</text>
+        <text>A defendant may, for good cause shown, and upon the payment of a reasonable sum for the fair rental value of the premises between the date on which the complaint was filed and the date of hearing, obtain an extension of time, beyond the 15 day period.  The Court may refuse to extend the date of hearing where the complaint is based upon nuisance or injuries provided in <cite path="§PRP.05.16|(c)">Section PRP.05.16(c)</cite>, and must not extend the date of hearing where the complaint is based upon conduct which is alleged to constitute a serious danger to public health, safety, or peace.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -5252,7 +5274,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>No defense may be founded upon either of the grounds listed in (A)(1) or (A)(2) unless:</text>
+        <text>No defense may be founded upon either of the grounds listed in <cite path="§PRP.05.27|(a)|(1)">(a)(1)</cite> or <cite path="§PRP.05.27|(a)|(2)">(a)(2</cite> unless:</text>
         <para>
           <num>(1)</num>
           <text>the obligation to maintain or repair is that of the landlord under this Ordinance or the agreement of the parties, and a clear and reasonable demand was made by the tenant to correct such conditions or the landlord knew of them; and</text>
@@ -5378,13 +5400,16 @@
       <heading>Execution Of Judgment</heading>
       <para>
         <num>(a)</num>
-        <text>(1) In an action for eviction, if the court finds that the plaintiff is entitled to possession, the order for judgment shall be for the restitution of the premises to the plaintiff and for such other relief that the court orders in accordance with this Ordinance.</text>
         <para>
           <num>(1)</num>
-          <text>At the time of ordering judgment for the restitution of premises, the court shall order that a writ of restitution be issued, and the writ may be delivered to a tribal law enforcement officer for execution in accordance with (B) of this section. No writ shall be executed if received by a tribal law enforcement officer more than 30 days after its issuance.</text>
+          <text>In an action for eviction, if the court finds that the plaintiff is entitled to possession, the order for judgment shall be for the restitution of the premises to the plaintiff and for such other relief that the court orders in accordance with this Ordinance.</text>
         </para>
         <para>
           <num>(2)</num>
+          <text>At the time of ordering judgment for the restitution of premises, the court shall order that a writ of restitution be issued, and the writ may be delivered to a tribal law enforcement officer for execution in accordance with <cite path="§PRP.05.33">(b)</cite> of this section. No writ shall be executed if received by a tribal law enforcement officer more than 30 days after its issuance.</text>
+        </para>
+        <para>
+          <num>(3)</num>
           <text>Upon a judgment in favor of the plaintiff, the plaintiff may request a writ of restitution from the Court.  Upon such request, the Court shall provide the defendant with reasonable notice and opportunity to be heard on the matter of the issuance of a writ.</text>
           <para>
             <num>(A)</num>
@@ -5413,7 +5438,7 @@
     <section>
       <num>PRP.05.34</num>
       <heading>Stay Of Execution</heading>
-      <text>Unless the losing party is a tenant against whom a landlord has filed at least three (3) tenant termination notices according to Part 3 of this Ordinance, the losing party may apply for a stay of execution of the judgment or order, if:</text>
+      <text>Unless the losing party is a tenant against whom a landlord has filed at least three (3) tenant termination notices according to <cite path="§PRP.05.14">Section PRP.05.14</cite> of this Ordinance, the losing party may apply for a stay of execution of the judgment or order, if:</text>
       <para>
         <num>(a)</num>
         <text>Good and reasonable grounds affecting the well-being of the party are stated; or</text>
@@ -5446,7 +5471,7 @@
       <text>Any miscellaneous complaint or claim including a complaint or claim by a tenant which does not fall within the procedures of this Ordinance may be made under the general tribal civil procedure Ordinance and/or tribal small claims procedure Ordinance.</text>
       <annotation type="Prior Codifications">§PRP.05.37 was formerly codified as Chapter 46, §46.6-14</annotation>
     </section>
-    <subheading>Mortgages And Foreclosures</subheading>
+    <subheading>Part VII — Mortgages And Foreclosures</subheading>
     <section>
       <num>PRP.05.38</num>
       <heading>Recording Of Mortgages By Recording Clerk</heading>
@@ -5497,12 +5522,32 @@
       <para>
         <num>(c)</num>
         <text>The Recording Clerk shall make a true and correct copy of the endorsed Mortgage or other document and shall certify the copy as follows:</text>
-        <text>I certify that this is a true and correct copy of a document received for recording this date.</text>
-        <text>Given under my hand and seal this _______ day of _________________.</text>
-        <text>_______________________________________</text>
-        <text>(Signature)</text>
-        <text>_______________________</text>
-        <text>(Date)</text>
+        <include>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td>I certify that this is a true and correct copy of a document received for recording this date.</td>
+                </tr>
+                <tr>
+                  <td>Given under my hand and seal this _______ day of _________________.</td>
+                </tr>
+                <tr>
+                  <td>_______________________________________</td>
+                </tr>
+                <tr>
+                  <td>(Signature)</td>
+                </tr>
+                <tr>
+                  <td>_______________________</td>
+                </tr>
+                <tr>
+                  <td>(Date)</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </include>
       </para>
       <para>
         <num>(d)</num>
