@@ -129,7 +129,7 @@
       <para>
         <num>(b)</num>
         <heading>Authority.</heading>
-        <text>This ordinance is authorized under Article VII (f) of the Stockbridge-Munsee Constitution and inherent tribal authority as an exercise of governmental powers to govern members of the Stockbridge-Munsee Community, as well as the use, management and administration of the Stockbridge-Munsee Reservation.</text>
+        <text>This ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite> and inherent tribal authority as an exercise of governmental powers to govern members of the Stockbridge-Munsee Community, as well as the use, management and administration of the Stockbridge-Munsee Reservation.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -223,7 +223,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Local Food Production.</text>
+        <heading>Local Food Production.</heading>
         <para>
           <num>(1)</num>
           <text>The Tribe supports local gardening efforts through work to till and cultivate gardens with community members, provide support through tribal summer youth programs to enhance these gardens, and to support the distribution of seeds and plant starts for community members.</text>
@@ -235,10 +235,10 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Traditional Foods.</text>
+        <heading>Traditional Foods.</heading>
         <para>
           <num>(1)</num>
-          <text>As our people require traditional foods for our good health and sustenance in accordance with our covenant with the Creator and our ability to sustain ourselves and ecosystems, the Tribe supports ongoing traditional harvests of wild rice, maple syrup, medicinal plants, fish, game and deer on tribal lands pursuant to the Fish and Wildlife Ordinance, Chapter 21, and the Forestry Ordinance, Chapter 22.</text>
+          <text>As our people require traditional foods for our good health and sustenance in accordance with our covenant with the Creator and our ability to sustain ourselves and ecosystems, the Tribe supports ongoing traditional harvests of wild rice, maple syrup, medicinal plants, fish, game and deer on tribal lands pursuant to the Fish and Wildlife Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.01">Chapter ENV.01</cite>, and the Forestry Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.01">Chapter ENV.02</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -251,7 +251,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Traditional Agriculture.</text>
+        <heading>Traditional Agriculture.</heading>
         <para>
           <num>(1)</num>
           <text>The Tribe supports the restoration of knowledge about and appropriate implementation of traditional agriculture and harvesting techniques.</text>
@@ -271,7 +271,8 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Animal Husbandry and Aquaculture.  The Tribe supports the use of sustainable practices in relation to livestock, poultry, fisheries, and aquaculture activities, such as a pasture-based system or a aquaponics system that create symbiotic environment.</text>
+        <heading>Animal Husbandry and Aquaculture.</heading>
+        <text>The Tribe supports the use of sustainable practices in relation to livestock, poultry, fisheries, and aquaculture activities, such as a pasture-based system or a aquaponics system that create symbiotic environment.</text>
       </para>
       <para>
         <num>(f)</num>

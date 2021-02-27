@@ -102,19 +102,19 @@
     <section>
       <num>SAF.02.01</num>
       <heading>Statement Of Purpose, Findings, And Authority</heading>
-      <para proof="needed">
+      <para>
         <num>(a)</num>
         <heading>Purpose.</heading>
         <text>The Stockbridge-Munsee Tribal Council enacts this Ordinance to provide for the public peace and good order and to minimize health and accident hazards to lands and persons under the jurisdiction of the Stockbridge-Munsee Community.</text>
       </para>
-      <para proof="needed">
+      <para>
         <num>(b)</num>
         <heading>Findings.</heading>
-        <text>The Stockbridge-Munsee Tribal Council further finds that <cite path="16.1">this chapter</cite> is necessary to protect social, economic and political welfare of the Stockbridge-Munsee Community and its members.</text>
+        <text>The Stockbridge-Munsee Tribal Council further finds that <cite path="SAF|SAF.02">this chapter</cite> is necessary to protect social, economic and political welfare of the Stockbridge-Munsee Community and its members.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Authority.</text>
+        <heading>Authority.</heading>
         <para>
           <num>(1)</num>
           <text>The Ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite> and inherent tribal authority as an exercise of governmental powers to govern the members of the Stockbridge-Munsee Community, as well as the use, management and administration of the Stockbridge-Munsee Reservation.</text>
@@ -131,15 +131,18 @@
       <heading>Jurisdiction</heading>
       <para>
         <num>(a)</num>
-        <text>Territorial Jurisdiction.  This ordinance shall apply on the Stockbridge-Munsee Reservation, which for purposes of enforcement of this ordinance includes proclaimed reservation lands and tribal trust lands as well as individual trust lands under the jurisdiction of the Stockbridge-Munsee Community.  This ordinance shall also apply in relation to lands that the Stockbridge-Munsee Community owns in fee simple.</text>
+        <heading>Territorial Jurisdiction.</heading>
+        <text>This ordinance shall apply on the Stockbridge-Munsee Reservation, which for purposes of enforcement of this ordinance includes proclaimed reservation lands and tribal trust lands as well as individual trust lands under the jurisdiction of the Stockbridge-Munsee Community.  This ordinance shall also apply in relation to lands that the Stockbridge-Munsee Community owns in fee simple.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Personal Jurisdiction.  This ordinance shall apply in relation to members of the Stockbridge-Munsee Community, as well as such persons who consent to the jurisdiction of the Stockbridge-Munsee Community by entering tribal lands and endangering the economic, social and political welfare of the Stockbridge-Munsee Community by violating this ordinance.</text>
+        <heading>Personal Jurisdiction.</heading>
+        <text>This ordinance shall apply in relation to members of the Stockbridge-Munsee Community, as well as such persons who consent to the jurisdiction of the Stockbridge-Munsee Community by entering tribal lands and endangering the economic, social and political welfare of the Stockbridge-Munsee Community by violating this ordinance.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Subject Matter Jurisdiction. The Stockbridge-Munsee Tribal Court may exercise jurisdiction to hear violations of this ordinance where there is territorial and/or personal jurisdiction.</text>
+        <heading>Subject Matter Jurisdiction.</heading>
+        <text>The Stockbridge-Munsee Tribal Court may exercise jurisdiction to hear violations of this ordinance where there is territorial and/or personal jurisdiction.</text>
       </para>
       <annotation type="Prior Codifications">§SAF.02.02 was formerly codified as Chapter 16, §16.2</annotation>
     </section>
@@ -271,7 +274,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Whoever violates subsection (B) hereunder in any of the following circumstances is in violation of an additional count under this ordinance:</text>
+        <text>Whoever violates <cite path="SAF.02.08|(b)">subsection (b)</cite> hereunder in any of the following circumstances is in violation of an additional count under this ordinance:</text>
         <para>
           <num>(1)</num>
           <text>The act is accompanied by a credible threat that places the victim in reasonable fear of death or great bodily harm.</text>
@@ -317,10 +320,9 @@
         <num>(c)</num>
         <text>Worthless Checks:  No person shall issue a check or other order for payment that he or she intends shall not be paid.</text>
       </para>
-      <para proof="needed">
+      <para>
         <num>(d)</num>
-        <heading>Restitution:</heading>
-        <text>In addition to other remedies, the court may order a violator to pay restitution to the victim.</text>
+        <text>Restitution:  In addition to other remedies, the court may order a violator to pay restitution to the victim.</text>
       </para>
       <annotation type="Prior Codifications">§SAF.02.10 was formerly codified as Chapter 16, §16.10</annotation>
     </section>
@@ -1370,7 +1372,7 @@
       <heading>Statement Of Findings, Purpose And Authority</heading>
       <para>
         <num>(a)</num>
-        <text>Findings.</text>
+        <heading>Findings.</heading>
         <para>
           <num>(1)</num>
           <text>The Stockbridge-Munsee Tribal Council finds that the Stockbridge-Munsee Community has entered into a gaming compact with the State of Wisconsin and, pursuant to that gaming compact, the Stockbridge-Munsee Community agreed to enact an ordinance setting forth public health and safety standards.</text>
@@ -1384,15 +1386,15 @@
           <text>The Stockbridge-Munsee Tribal Council finds that this ordinance is necessary to protect the social, economic and political welfare of the Stockbridge-Munsee Community and its members.</text>
         </para>
       </para>
-      <para proof="needed">
+      <para>
         <num>(b)</num>
         <heading>Purpose.</heading>
         <text>The Stockbridge-Munsee Tribal Council enacts this ordinance to provide for the health and safety of persons in any facility that is used by the Stockbridge-Munsee Community for Class III gaming activities pursuant to a gaming compact.</text>
       </para>
-      <para proof="needed">
+      <para>
         <num>(c)</num>
         <heading>Authority.</heading>
-        <text>The Tribal Council of the Stockbridge-Munsee Community has the authority to adopt ordinances providing for the health and safety of the general public and tribal members on reservation and trust lands within the jurisdiction of the Tribe by virtue of the provisions of Article VII, section 1(a) and (f) of the Stockbridge-Munsee Constitution.</text>
+        <text>The Tribal Council of the Stockbridge-Munsee Community has the authority to adopt ordinances providing for the health and safety of the general public and tribal members on reservation and trust lands within the jurisdiction of the Tribe by virtue of the provisions of <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(a)">Article VII, section 1(a)</cite> and <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">(f) of the Stockbridge-Munsee Constitution</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§SAF.03.01 was formerly codified as Chapter 26, §26.1</annotation>
     </section>
@@ -1493,9 +1495,9 @@
       <para>
         <num>(c)</num>
         <text>The following ASME standards are hereby incorporated, by reference, into this ordinance as tribal standards:</text>
-        <para proof="needed">
+        <para>
           <num>(1)</num>
-          <heading>Safety Code for Elevators and Escalators, ASME A17.1/CSA B44-2013.</heading>
+          <text>Safety Code for Elevators and Escalators, ASME A17.1/CSA B44-2013.</text>
         </para>
       </para>
       <para>
@@ -1616,7 +1618,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Isolate or quarantine any individual who is unable or unwilling for reasons of religion or conscience to receive the vaccination under paragraph 1.</text>
+          <text>Isolate or quarantine any individual who is unable or unwilling for reasons of religion or conscience to receive the vaccination under <cite path="§SAF.04.03|(a)|(1)">subsection (1)</cite>.</text>
         </para>
       </para>
       <annotation type="Prior Codifications">§SAF.04.03 was formerly codified as Chapter 26A, §26A.3</annotation>
@@ -1626,7 +1628,7 @@
       <heading>Isolation And Quarantine</heading>
       <para>
         <num>(a)</num>
-        <text>The Director may require isolation or quarantine of a patient or individual who is a carrier of a communicable disease, a patient or individual under <cite path="§26A.3|(A)|(2)">Section 26A.3(A)(2)</cite>, quarantine of contacts, concurrent and terminal disinfection, or modified forms of these procedures as may be necessary.</text>
+        <text>The Director may require isolation or quarantine of a patient or individual who is a carrier of a communicable disease, a patient or individual under <cite path="§SAF.04.03|(a)|(2)">Section SAF.04.03 (a)(2)</cite>, quarantine of contacts, concurrent and terminal disinfection, or modified forms of these procedures as may be necessary.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1656,7 +1658,7 @@
           <text>The Stockbridge-Munsee Community is responsible for the following costs accruing under this section unless the costs are payable through 3rd party liability or through any benefit system:</text>
           <para>
             <num>(A)</num>
-            <text>The expense of employing guards under (E).</text>
+            <text>The expense of employing guards under <cite path="§SAF.04.04|(e)">subsection (e)</cite>.</text>
           </para>
           <para>
             <num>(B)</num>
@@ -1674,7 +1676,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>The Director shall notify the Tribal President if the Director implicates any of the options in Section 26 A.4(A-F).</text>
+        <text>The Director shall notify the Tribal President if the Director implicates any of the options in <cite path="§SAF.04.04|(a)">SAF.04.04(a)</cite> to <cite path="§SAF.04.04|(f)">(f)</cite>.</text>
       </para>
       <annotation type="Prior Codifications">§SAF.04.04 was formerly codified as Chapter 26A, §26A.4</annotation>
     </section>
@@ -1683,11 +1685,11 @@
       <heading>Enforcement</heading>
       <para>
         <num>(a)</num>
-        <text>A violation of Section 26 A.4(D) is subject to a fine not to exceed $100 or imprisonment not to exceed 3 months.</text>
+        <text>A violation of <cite path="§SAF.04.04|(d)">SAF.04.04(d)</cite> is subject to a fine not to exceed $100 or imprisonment not to exceed 3 months.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Any person, whether authorized under Sections 26 A.4(C) or (D) or not, who enters an isolation or quarantine premises may be subject to isolation or quarantine under this section.</text>
+        <text>Any person, whether authorized under <cite path="§SAF.04.04|(c)">SAF.04.04(c)</cite> or <cite path="§SAF.04.04|(d)">(d)</cite> or not, who enters an isolation or quarantine premises may be subject to isolation or quarantine under this section.</text>
       </para>
       <para>
         <num>(c)</num>
