@@ -260,4 +260,6 @@
       <annotation type="Prior Codifications">§EMP.02.09 was formerly codified as Chapter 54, §54.8</annotation>
     </section>
   </codify:insert>
+  <codify:annotation path="EMP.02" type="Legislative History" history="false" dest="container">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 031-20">Resolution No.031-20</cite>, adopted January 21, 2020, approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="EMP.02" type="Legislative History" history="false" dest="container">5. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite>, adopted January 21, 2021, approved by BIA January 28, 2021.</codify:annotation>
 </document>
