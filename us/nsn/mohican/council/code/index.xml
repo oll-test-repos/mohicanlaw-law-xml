@@ -26,4 +26,5 @@
   <xi:include href="./VEH.xml"/>
   <xi:include href="./BUS.xml"/>
   <xi:include href="./TAX.xml"/>
+  <xi:include href="./attachments.xml"/>
 </document>
