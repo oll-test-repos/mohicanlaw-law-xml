@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Stockbridge-Munsee Tribal Council Res. No. 024-15">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 024-15">
   <num>024-15</num>
   <heading/>
   <meta>
@@ -30,11 +30,11 @@
       </para>
       <para>
         <num>2.</num>
-        <text><em><cite doc="Stockbridge-Munsee Tribal Code" path="§17.4|(A)" proof="needed">Section 17.4 (A)</cite> </em>amended by striking "Court" replacing with "Plaintiff" and adding "court issued" to "summons".</text>
+        <text><em><cite doc="Stockbridge-Munsee Tribal Code" path="§17.4|(A)" proof="needed">Section 17.4 (A)</cite></em>amended by striking "Court" replacing with "Plaintiff" and adding "court issued" to "summons".</text>
       </para>
       <para>
         <num>3.</num>
-        <text><em><cite doc="Stockbridge-Munsee Tribal Code" path="§17.4|(B)" proof="needed">Section 17.4 (B)</cite> </em>Service of the Summons and complaint shall be made by either of the following methods: (1) By an officer of the Stockbridge-Munsee Tribal Police Department or an officer of the Tribal Court delivering the summons and complaint to the named defendant personally, or any person certified as an officer of the Court authorized to make personal service; (2) Service may be obtained when the Court Clerk sends the summons and a copy of the complaint to the named defendant by certified mail, return receipt requested, and with "deliver to addressee only" stamped on the envelope." struck in its entirety and replaced with:</text>
+        <text><em><cite doc="Stockbridge-Munsee Tribal Code" path="§17.4|(B)" proof="needed">Section 17.4 (B)</cite></em>Service of the Summons and complaint shall be made by either of the following methods: (1) By an officer of the Stockbridge-Munsee Tribal Police Department or an officer of the Tribal Court delivering the summons and complaint to the named defendant personally, or any person certified as an officer of the Court authorized to make personal service; (2) Service may be obtained when the Court Clerk sends the summons and a copy of the complaint to the named defendant by certified mail, return receipt requested, and with "deliver to addressee only" stamped on the envelope." struck in its entirety and replaced with:</text>
         <text><em>"</em><u>Service of Process.</u><em>"</em> Service of process shall consist of delivering to the party served an authenticated copy of the Summons and Complaint.  The Summons shall advise the defendant that he or she is required to answer the complaint within twenty (20) days or a default judgment may be entered against him or her.</text>
         <para>
           <num>(1)</num>

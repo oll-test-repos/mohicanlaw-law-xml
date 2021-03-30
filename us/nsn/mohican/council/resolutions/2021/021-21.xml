@@ -3,7 +3,7 @@
   <num>021-21</num>
   <heading/>
   <meta>
-  <ordinance/>
+    <ordinance/>
     <effective>2021-02-16</effective>
     <history>
       <adopted>2021-02-16</adopted>
@@ -107,7 +107,7 @@
             </ul>
           </li>
           <li>
-            <text>Title EDU – Education </text>
+            <text>Title EDU – Education</text>
             <ul>
               <li>Education</li>
               <li>Truancy</li>
@@ -123,7 +123,7 @@
             </ul>
           </li>
           <li>
-            <text>Title EMP – Employment </text>
+            <text>Title EMP – Employment</text>
             <ul>
               <li>Employee Rights Ordinance</li>
               <li>Employee Preference Policy Ordinance</li>
@@ -133,7 +133,7 @@
             </ul>
           </li>
           <li>
-            <text>Title PRP – Property and Land Management </text>
+            <text>Title PRP – Property and Land Management</text>
             <ul>
               <li>Land Ordinance</li>
               <li>Mohican Land Use Code</li>
@@ -154,14 +154,14 @@
             </ul>
           </li>
           <li>
-            <text>Title GMG – Gaming </text>
+            <text>Title GMG – Gaming</text>
             <ul>
               <li>Gaming Ordinance</li>
               <li>Revenue Allocation Plan</li>
             </ul>
           </li>
           <li>
-            <text>Title SAF – Safety and Public Health </text>
+            <text>Title SAF – Safety and Public Health</text>
             <ul>
               <li>General Citation Ordinance</li>
               <li>Public Peace and Good Order Ordinance</li>
@@ -178,7 +178,7 @@
             </ul>
           </li>
           <li>
-            <text>Title VEH – Vehicles, Roads and Traffic </text>
+            <text>Title VEH – Vehicles, Roads and Traffic</text>
             <ul>
               <li>Road Safety Ordinance</li>
               <li>All-Terrain Vehicle Safety Ordinance</li>
@@ -195,7 +195,7 @@
             </ul>
           </li>
           <li>
-            <text>Title TAX – Taxation </text>
+            <text>Title TAX – Taxation</text>
             <ul>
               <li>Tax Ordinance</li>
             </ul>

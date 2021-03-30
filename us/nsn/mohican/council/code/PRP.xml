@@ -2193,7 +2193,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <heading>>Land Use Review Board Action.</heading>
+        <heading>&gt;Land Use Review Board Action.</heading>
         <para>
           <num>(1)</num>
           <text>Conditional Use Permits. The Land Use Review Board shall determine whether the application complies with applicable requirements of this Code, and whether the use shall significantly adversely affect the environment, cultural resources, or endanger public health or safety.</text>
@@ -2766,26 +2766,26 @@
       <num>PRP.03.07</num>
       <heading>Duties Of Responsible Person</heading>
       <text>The Land and Enrollment Manager shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>accept for filing all records presented to his/her office as listed above.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>endorse each document</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>keep a record of all documents  presented in a suitably bound book.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>assure the safe-keeping of all records filed.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>provide accessibility to records in accordance with D. above, and shall issue copies as requested.</text>
-        </para>
+      <para>
+        <num>(a)</num>
+        <text>accept for filing all records presented to his/her office as listed above.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>endorse each document</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>keep a record of all documents  presented in a suitably bound book.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>assure the safe-keeping of all records filed.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>provide accessibility to records in accordance with D. above, and shall issue copies as requested.</text>
+      </para>
       <annotation type="Prior Codifications">§PRP.03.07 was formerly codified as Chapter 44-A , §44-A .7</annotation>
     </section>
     <section>
@@ -5020,13 +5020,17 @@
                   <td>To:	[Name of Tenant] and occupiers of [address of premises or reasonable description of location]</td>
                 </tr>
                 <tr>
-                  <td><br/></td>
+                  <td>
+                    <br/>
+                  </td>
                 </tr>
                 <tr>
                   <td>From:	[Name of Landlord]</td>
                 </tr>
                 <tr>
-                  <td><br/></td>
+                  <td>
+                    <br/>
+                  </td>
                 </tr>
                 <tr>
                   <td>You are required to quit possession or occupancy of these premises, move out, and return the possession of the premises to the landlord on or before [date] for the following reason(s): [state what they are]</td>
