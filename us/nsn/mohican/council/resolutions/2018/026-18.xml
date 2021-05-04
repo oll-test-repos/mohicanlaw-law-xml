@@ -714,4 +714,6 @@
       <annotation type="Prior Codifications">§TAX.01.25 was formerly codified as Chapter 57, §57.25</annotation>
     </section>
   </codify:insert>
+  <codify:annotation path="TAX.01" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-18">Resolution No.026-18</cite>, adopted March 6, 2018, approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="TAX.01" type="Legislative History" history="false" dest="container">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite>, adopted January 21, 2021, approved by BIA January 28, 2021.</codify:annotation>
 </document>

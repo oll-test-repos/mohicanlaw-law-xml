@@ -50,5 +50,6 @@
       <heading>Reserved</heading>
     </section>
   </codify:replace>
-  <codify:annotation path="TCT.02" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No.011-20">Resolution No.011-20</cite>, adopted November 5, 2019, approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="TCT.02" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 011-20">Resolution No.011-20</cite>, adopted November 5, 2019, approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="TCT.02" type="Legislative History" history="false" dest="container">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite>, adopted January 21, 2021, approved by BIA January 28, 2021.</codify:annotation>
 </document>
