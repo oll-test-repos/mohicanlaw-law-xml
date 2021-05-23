@@ -3,7 +3,10 @@
   <heading>2007 Council Resolutions</heading>
   <xi:include href="./059-07.xml"/>
   <xi:include href="./058-07.xml"/>
+  <xi:include href="./056-07.xml"/>
+  <xi:include href="./049-07.xml"/>
   <xi:include href="./046-07.xml"/>
   <xi:include href="./033-07.xml"/>
+  <xi:include href="./011-07.xml"/>
   <xi:include href="./07-001.xml"/>
 </collection>
