@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 026-04">
+  <num>026-04</num>
+  <heading/>
+  <meta>
+    <ordinance>Financial Responsibility Code</ordinance>
+    <effective>2004-06-15</effective>
+    <history>
+      <adopted>2004-06-01</adopted>
+      <text><cite path="§TCT.05.01|(c)">Section TCT.05.01(c)</cite> amended by Tribal Council by adding "and <cite path="§GMG.02.07|(g)">Section GMG.02.07(g)</cite>" at the end of the sentence to permit enforcement of child support orders.</text>
+    </history>
+    <citations>
+      <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 026-04</citation>
+    </citations>
+  </meta>
+</document>
