@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 026-21" codify:doc="Stockbridge-Munsee Tribal Code">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 026-21" codify:doc="Stockbridge-Munsee Tribal Code">
   <num>026-21</num>
   <heading/>
   <meta>
@@ -17,7 +17,7 @@
     <container>
       <num>PRP.03</num>
       <prefix>Chapter</prefix>
-      <heading></heading>
+      <heading/>
       <reason>Recodified</reason>
       <text>Recodified as <cite path="ADM.03">ADM.03</cite>.</text>
     </container>
@@ -207,8 +207,7 @@
         <annotation type="Prior Codifications">§ADM.03.12 was formerly codified as §PRP.03.12</annotation>
       </section>
       <annotations>
-        <annotation type="Legislative History">1. Adopted by Tribal Council on February 19, 2002, Resolution No. 012-02.</annotation>
-        <annotation type="Legislative History">2. Approved by BIA on March 5, 2002.</annotation>
+        <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 012-02">Resolution No. 012-02</cite>, adopted February 19, 2002, approved by BIA March 5, 2002.</annotation>
       </annotations>
     </container>
   </codify:insert>
