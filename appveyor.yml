@@ -7,7 +7,6 @@ environment:
 # Do not build feature branch with open Pull Requests
 skip_branch_with_pr: true
 
-
 on_finish:
   - ps: >-
       if (Test-Path $env:APPVEYOR_BUILD_FOLDER\test_roundtrip.log){
@@ -17,7 +16,6 @@ on_finish:
           $blockRdp = $true; iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/appveyor/ci/master/scripts/enable-rdp.ps1'))
       };
 
-
 init:
   # exit if secure variables are unset (saves time if fired by a non-team pull request)
   - ps: if ($env:GH_SSH_PRIVATE_KEY -eq $null) { exit }
@@ -26,6 +24,9 @@ init:
   - git config --global user.email developers@openlawlib.org
 
 install:
+  # upgrade pip
+  - "%PYTHON%\\python.exe -m pip install --upgrade pip"
+
   # the only way we can use the deploy key is by putting it in an environment variable (see above)
   # and then using PowerShell (ps) to copy the environment variable into a file (see below)
   # begin/end key lines should be in the environment variable
@@ -54,10 +55,8 @@ build_script:
   - "%PYTHON%\\python.exe  -m oll.tools.cli ci build_preview --library-root .. --auth ../law %FLAG%"
 
 test_script:
-  - echo Skipping doomed test discovery to save time
   # run roundtrip tests
-  # uncomment when tests are implemented
-  # - "cd %APPVEYOR_BUILD_FOLDER% && %PYTHON%\\python.exe -m pytest --pyargs oll.partners.us.nsn.mohican.council.tests.docs.code.roundtrip -m \"full_roundtrip\""
+  - "cd %APPVEYOR_BUILD_FOLDER% && %PYTHON%\\python.exe -m pytest --pyargs oll.partners.us.nsn.mohican.council.tests.docs.code.roundtrip -m \"full_roundtrip\""
 
 notifications:
   - provider: Slack
