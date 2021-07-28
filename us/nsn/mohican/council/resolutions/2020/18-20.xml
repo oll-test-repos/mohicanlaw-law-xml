@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 18-20">
-  <heading/>
   <num>18-20</num>
+  <heading/>
   <meta>
-    <stub/>
-    <adopted>2019-11-03</adopted>
+    <ordinance>Membership</ordinance>
+    <history>
+      <adopted>2019-12-03</adopted>
+    </history>
     <citations>
       <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 18-20</citation>
     </citations>
@@ -44,11 +46,4 @@
       <text>the amended ordinance shall be forwarded to the Secretary of Interior for approval consistent with Article III, Section 4 of the Tribe's Constitution.</text>
     </recital>
   </recitals>
-  <procedural-data>
-    <text>CERTIFICATION</text>
-    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom ______, constituting a quorum, were present at a meeting duly called, noticed, and held on the _____ day of ___________, 2019, that the foregoing resolution was duly adopted at such meeting by a vote of ___ for, ___ against, and ___ abstaining</text>
-    <text>_____________________________        	 	_____________________________</text>
-    <text>Shannon Holsey, President         			Jerilyn Johnson, Secretary</text>
-    <text>Stockbridge-Munsee Tribal Council			Stockbridge-Munsee Tribal Council</text>
-  </procedural-data>
 </document>

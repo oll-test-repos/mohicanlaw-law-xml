@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 014-19">
+  <num>014-19</num>
   <heading/>
   <meta>
+    <ordinance>Revenue Allocation Plan</ordinance>
     <effective>2019-03-13</effective>
     <history>
       <adopted>2018-11-06</adopted>
     </history>
     <citations>
       <citation type="res" url="./adopted/014-19.pdf">Stockbridge-Munsee Tribal Council Res. No. 014-19</citation>
+      <citation type="res" url="./BIA/014-19.pdf">BIA Approval for Res. No. 014-19</citation>
     </citations>
   </meta>
   <recitals>
@@ -17,7 +20,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend	Ordinances;</text>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -38,10 +41,4 @@
       </ul>
     </text>
   </recitals>
-  <procedural-data>
-    <text>CERTIFICATION</text>
-    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom ____, constituting a quorum, were present at a meeting duly called, noticed, and held on the ____ day of _______, 2018, that the foregoing resolution was duly adopted at such meeting by a vote of ____ for, ____against, and ____abstaining.</text>
-    <text>_____________________________				________________________</text>
-    <text>Shannon Holsey, President					Jerilyn Johnson, Secretary</text>
-  </procedural-data>
 </document>

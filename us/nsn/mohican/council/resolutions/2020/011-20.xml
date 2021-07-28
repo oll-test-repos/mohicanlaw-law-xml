@@ -1,10 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 011-20">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 011-20">
+  <num>011-20</num>
   <heading/>
   <meta>
-    <effective/>
+    <ordinance>Civil Procedure</ordinance>
+    <effective>2021-01-28</effective>
     <history>
-      <adopted/>
+      <adopted>2019-11-05</adopted>
     </history>
     <citations>
       <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 011-20</citation>
@@ -29,17 +31,25 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>The present Chapter 5 needs to be modified in order to replace references to appellate procedure with cross reference to the new Chapter 5-A, Appellate Procedure ordinance and deleting language addressing appellate procedure.</text>
+      <text>The present  <cite path="TCT|TCT.02">Chapter 5</cite> needs to be modified in order to replace references to appellate procedure with cross reference to the new  <cite path="TCT|TCT.03">Chapter 5-A</cite>, Appellate Procedure ordinance and deleting language addressing appellate procedure.</text>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
-      <text>the Stockbridge-Munsee Tribal Council hereby approves changes to Chapter 5 that amend <cite doc="Stockbridge-Munsee Tribal Code" path="5.2|(A)|(3)" proof="needed">Section 5.2 (A)(3)</cite> to add a cross-reference to Chapter 5-A and delete <cite doc="Stockbridge-Munsee Tribal Code" path="5.22" proof="needed">Section 5.22</cite>, which previously addressed appellate procedure.</text>
+      <text>the Stockbridge-Munsee Tribal Council hereby approves changes to Chapter 5 that amend <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.02|(a)|(3)">Section 5.2 (A)(3)</cite> to add a cross-reference to Chapter 5-A and delete <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.22">Section 5.22</cite>, which previously addressed appellate procedure.</text>
     </recital>
   </recitals>
-  <procedural-data>
-    <text>CERTIFICATION</text>
-    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom ____, constituting a quorum, were present at a meeting duly called, noticed, and held on the ____ day of _______, 2019, that the foregoing resolution was duly adopted at such meeting by a vote of ____ for, ____against, and ____abstaining.</text>
-    <text>_____________________________				________________________</text>
-    <text>Shannon Holsey, President					Jerilyn Johnson, Secretary</text>
-  </procedural-data>
+  <!-- <codify:replace path="TCT.02.02|(a)|(3)">
+    <para>
+      <num>(3)</num>
+      <text>To establish a set of procedural rules to govern civil litigation in the Tribal Court System, except to the extent the Court of Appeals has its own procedural rules applying to appeals before it as established under <cite doc="Stockbridge-Munsee Tribal Code" path="TCT|TCT.03">Chapter TCT.03</cite>; and</text>
+    </para>
+  </codify:replace>
+  <codify:replace path="TCT.02.22">
+    <section>
+      <num>TCT.02.22</num>
+      <heading>Reserved</heading>
+    </section>
+  </codify:replace>
+  <codify:annotation path="TCT.02" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 011-20">Resolution No.011-20</cite>, adopted November 5, 2019, approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="TCT.02" type="Legislative History" history="false" dest="container">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite>, adopted January 21, 2021, approved by BIA January 28, 2021.</codify:annotation> -->
 </document>
