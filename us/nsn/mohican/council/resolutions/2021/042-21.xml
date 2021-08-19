@@ -88,20 +88,6 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.02">
-    <section>
-      <num>ENV.01.02</num>
-      <heading>Authority</heading>
-      <para>
-        <num>(a)</num>
-        <text>The Ordinance is authorized under <cite doc="Stockbridge-Munsee Constitution and By-laws" path="containers|const|VII|1|(f)">Article VII (f) of the Stockbridge-Munsee Constitution</cite>, and its inherent powers, as an exercise of its governmental powers to govern the use, management and administration of lands, waters, fish and wildlife of the Stockbridge-Munsee Indian Reservation.  Such authority is essential to protect the political integrity, economy, and the general welfare of the Stockbridge-Munsee Community.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>In addition, the Stockbridge-Munsee Community has authority over tribal lands owned in fee simple by virtue of its ownership of such land and its authority over the conduct of its members and may enforce this Ordinance consistent with such authority.</text>
-      </para>
-    </section>
-  </codify:replace>
   <codify:replace path="ENV.01.03">
     <section>
       <num>ENV.01.03</num>
