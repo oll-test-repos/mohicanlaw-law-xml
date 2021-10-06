@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 048-15">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 048-15">
   <num>048-15</num>
   <heading/>
   <meta>
@@ -7,10 +7,12 @@
     <effective/>
     <history>
       <adopted>2015-06-03</adopted>
-      <text>Authorized clarifications in relation to turkey hunting fees for permittees, the trout season for tribal members and citations.  These changes amend subsections <cite path="§21.9|(A)|(4)">21.9(A)(4)</cite>, <cite path="§ENV.01.09|(b)|(3)">Section ENV.01.09(b)(3)</cite>, <cite path="§21.10|(D)">21.10(D)</cite>, and <cite path="§21.21|(B)|(1)|(b)">21.21 (B)(1)(b)</cite>, (C), (C)(4), (D)(2) and (D)(3).</text>
     </history>
     <citations>
       <citation type="res" url="./adopted/048-15.pdf">Stockbridge-Munsee Tribal Council Res. No. 048-15</citation>
     </citations>
   </meta>
+  <annotations>
+    <annotation type="Legislative History">Authorized clarifications in relation to turkey hunting fees for permittees, the trout season for tribal members and citations.  These changes amend subsections <cite path="§21.9|(A)|(4)">21.9(A)(4)</cite>, <cite path="§ENV.01.09|(b)|(3)">Section ENV.01.09(b)(3)</cite>, <cite path="§21.10|(D)">21.10(D)</cite>, and <cite path="§21.21|(B)|(1)|(b)">21.21 (B)(1)(b)</cite>, (C), (C)(4), (D)(2) and (D)(3).</annotation>
+  </annotations>
 </document>

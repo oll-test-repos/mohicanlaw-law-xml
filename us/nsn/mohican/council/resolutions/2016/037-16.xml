@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 037-16">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 037-16">
   <num>037-16</num>
   <heading/>
   <meta>
@@ -8,7 +8,6 @@
     <effective>2017-08-03</effective>
     <history>
       <adopted>2016-03-15</adopted>
-      <text>Tribal Council, on March 17, 2015, posted for comment whole-scale revisions amending <cite path="TCT|TCT.01">Chapter TCT.01</cite> by adding a new <cite path="§TCT.01.07">Section TCT.01.07</cite> to creating an elected Judiciary Commission responsible for selection of judges and judiciary oversight; removing Sections <cite path="§TCT.01.06">Section TCT.01.06</cite>.5, <cite path="§TCT.01.07">Section TCT.01.07</cite>, <cite path="§TCT.01.10">Section TCT.01.10</cite>, <cite path="§TCT.01.11">Section TCT.01.11</cite>, <cite path="§TCT.01.13">Section TCT.01.13</cite>. <cite path="§TCT.01.14">Section TCT.01.14</cite>, <cite path="§TCT.01.15">Section TCT.01.15</cite>, <cite path="§TCT.01.16">Section TCT.01.16</cite>, <cite path="§1.17">1.17</cite>, <cite path="§1.18">1.18</cite>, <cite path="§1.19">1.19</cite>, <cite path="§1.20">1.20</cite>, <cite path="§1.29">1.29</cite>, <cite path="§TCT.01.03">Section TCT.01.03</cite>, <cite path="§1.31">1.31</cite>.5, <cite path="§1.32">1.32</cite>, <cite path="§1.33">1.33</cite> and <cite path="§1.34">1.34</cite> to be addressed in a new civil procedure ordinance; as well as amending and renumbering the remaining sections.</text>
       <text>Following review of comments, the Tribal Council made additional amendments to provide for a process for the direct election of the Chief Judge, clarifying revised requirements for judicial office and court personnel (including implementation of such requirements), providing due process when the Judiciary Commission disciplines judges, addresses court funding and fees, and clarifying contempt of court. These additional amendments were posted for comment on January 19, 2016.</text>
       <text>On March 15, 2016, the Tribal Council by Resolution No. 037-16 adopted amendments to <cite path="TCT|TCT.01">Chapter TCT.01</cite>, Court Code, that made the following whole-scale changes:</text>
       <text>
@@ -31,4 +30,7 @@
       <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 037-16</citation>
     </citations>
   </meta>
+  <annotations>
+    <annotation type="Legislative History">Tribal Council, on March 17, 2015, posted for comment whole-scale revisions amending <cite path="TCT|TCT.01">Chapter TCT.01</cite> by adding a new <cite path="§TCT.01.07">Section TCT.01.07</cite> to creating an elected Judiciary Commission responsible for selection of judges and judiciary oversight; removing Sections <cite path="§TCT.01.06">Section TCT.01.06</cite>.5, <cite path="§TCT.01.07">Section TCT.01.07</cite>, <cite path="§TCT.01.10">Section TCT.01.10</cite>, <cite path="§TCT.01.11">Section TCT.01.11</cite>, <cite path="§TCT.01.13">Section TCT.01.13</cite>. <cite path="§TCT.01.14">Section TCT.01.14</cite>, <cite path="§TCT.01.15">Section TCT.01.15</cite>, <cite path="§TCT.01.16">Section TCT.01.16</cite>, <cite path="§1.17">1.17</cite>, <cite path="§1.18">1.18</cite>, <cite path="§1.19">1.19</cite>, <cite path="§1.20">1.20</cite>, <cite path="§1.29">1.29</cite>, <cite path="§TCT.01.03">Section TCT.01.03</cite>, <cite path="§1.31">1.31</cite>.5, <cite path="§1.32">1.32</cite>, <cite path="§1.33">1.33</cite> and <cite path="§1.34">1.34</cite> to be addressed in a new civil procedure ordinance; as well as amending and renumbering the remaining sections.</annotation>
+  </annotations>
 </document>

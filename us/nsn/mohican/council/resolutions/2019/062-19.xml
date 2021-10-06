@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 062-19">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 062-19">
   <num>062-19</num>
   <heading/>
   <meta>
@@ -7,7 +7,6 @@
     <effective>2021-01-28</effective>
     <history>
       <adopted>2019-08-20</adopted>
-      <text>On August 20, 2019, the Tribal Council adopted a new ordinance, the Chapter 70 – Stockbridge-Munsee Flag Ordinance, by Resolution No. 062-19. The Tribe affirmed its adoption of the ordinance on January 21, 2021 in Resolution #017-21 after the BIA declined to act for timeliness. The new Flag Ordinance was approved by the BIA on January 28, 2021.</text>
     </history>
     <citations>
       <citation type="res" url="./adopted/062-19.pdf">Stockbridge-Munsee Tribal Council Res. No. 062-19</citation>
@@ -295,4 +294,7 @@
       </annotations>
     </container>
   </codify:insert>
+  <annotations>
+    <annotation type="Legislative History">On August 20, 2019, the Tribal Council adopted a new ordinance, the Chapter 70 – Stockbridge-Munsee Flag Ordinance, by Resolution No. 062-19. The Tribe affirmed its adoption of the ordinance on January 21, 2021 in Resolution #017-21 after the BIA declined to act for timeliness. The new Flag Ordinance was approved by the BIA on January 28, 2021.</annotation>
+  </annotations>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 018-16">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 018-16">
   <num>018-16</num>
   <heading/>
   <meta>
@@ -7,7 +7,6 @@
     <effective/>
     <history>
       <adopted>2016-01-07</adopted>
-      <text>Amendments incorporating the original 2015 revisions plus additional changes.  Tribal Council did not feel an additional comment period was necessary since changes primarily incorporated technical corrections required per NIGC.  Amendments submitted to NIGC for approval on January 7, 2016.  NIGC informed Tribe that additional corrections were needed so that language satisfies federal regulations.  Tribe withdrew ordinance from review by NIGC on February 17, 2016.</text>
     </history>
     <citations>
       <citation type="res" url="./adopted/018-16.pdf">Stockbridge-Munsee Tribal Council Res. No. 018-16</citation>
@@ -69,4 +68,7 @@
       <text>the Stockbridge-Munsee Tribal Council directs that the amendments to Chapter 25 be forwarded to the National Indian Gaming Commission for approval pursuant to 25 U.S.C. § 2710(e).</text>
     </recital>
   </recitals>
+  <annotations>
+    <annotation type="Legislative History">Amendments incorporating the original 2015 revisions plus additional changes.  Tribal Council did not feel an additional comment period was necessary since changes primarily incorporated technical corrections required per NIGC.  Amendments submitted to NIGC for approval on January 7, 2016.  NIGC informed Tribe that additional corrections were needed so that language satisfies federal regulations.  Tribe withdrew ordinance from review by NIGC on February 17, 2016.</annotation>
+  </annotations>
 </document>
