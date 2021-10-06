@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 055-10">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 055-10">
   <num>055-10</num>
   <heading/>
   <meta>
@@ -7,7 +7,6 @@
     <effective>2010-08-13</effective>
     <history>
       <adopted>2010-07-20</adopted>
-      <text>Amended <cite path="§EMP.01.01">Section EMP.01.01</cite>, <cite path="§EMP.01.02|(e)">Section EMP.01.02(e)</cite>, <cite path="§EMP.01.02|(f)">Section EMP.01.02(f)</cite>, <cite path="§EMP.01.02|(j)">Section EMP.01.02(j)</cite>, <cite path="§EMP.01.03|(e)">Section EMP.01.03(e)</cite>, <cite path="§EMP.01.03|(f)">Section EMP.01.03(f)</cite>, <cite path="§EMP.01.03|(i)">Section EMP.01.03(i)</cite>, <cite path="§EMP.01.03|(j)|(1)">Section EMP.01.03(j)(1)</cite>, <cite path="§EMP.01.03|(l)">Section EMP.01.03(l)</cite>, <cite path="§EMP.01.03|(m)">Section EMP.01.03(m)</cite>, <cite path="§EMP.01.05">Section EMP.01.05</cite>, <cite path="§EMP.01.06">Section EMP.01.06</cite>, and <cite path="§EMP.01.07|(g)">Section EMP.01.07(g)</cite>; created new <cite path="§EMP.01.02|(k)">Section EMP.01.02(k)</cite>; deleted <cite path="§EMP.01.07|(h)">Section EMP.01.07(h)</cite>, and renumbering <cite path="§EMP.01.02|(l)">Section EMP.01.02(l)</cite>-(P) and <cite path="§53.5|(I)">53.5(I)</cite>.  The version forwarded to the BIA for approval included both the 2007 amendments and those adopted in 2010.  Approved by the BIA, except for <cite path="§53.8">Section 53.8</cite>.  <cite path="§53.8">Section 53.8</cite>, regarding the need for BIA approval of future amendments, was deleted.</text>
     </history>
     <citations>
       <citation type="res" url="./adopted/055-10.pdf">Stockbridge-Munsee Tribal Council Res. No. 055-10</citation>
@@ -46,4 +45,7 @@
       </text>
     </recital>
   </recitals>
+  <annotations>
+    <annotation type="Legislative History">Amended <cite path="§EMP.01.01">Section EMP.01.01</cite>, <cite path="§EMP.01.02|(e)">Section EMP.01.02(e)</cite>, <cite path="§EMP.01.02|(f)">Section EMP.01.02(f)</cite>, <cite path="§EMP.01.02|(j)">Section EMP.01.02(j)</cite>, <cite path="§EMP.01.03|(e)">Section EMP.01.03(e)</cite>, <cite path="§EMP.01.03|(f)">Section EMP.01.03(f)</cite>, <cite path="§EMP.01.03|(i)">Section EMP.01.03(i)</cite>, <cite path="§EMP.01.03|(j)|(1)">Section EMP.01.03(j)(1)</cite>, <cite path="§EMP.01.03|(l)">Section EMP.01.03(l)</cite>, <cite path="§EMP.01.03|(m)">Section EMP.01.03(m)</cite>, <cite path="§EMP.01.05">Section EMP.01.05</cite>, <cite path="§EMP.01.06">Section EMP.01.06</cite>, and <cite path="§EMP.01.07|(g)">Section EMP.01.07(g)</cite>; created new <cite path="§EMP.01.02|(k)">Section EMP.01.02(k)</cite>; deleted <cite path="§EMP.01.07|(h)">Section EMP.01.07(h)</cite>, and renumbering <cite path="§EMP.01.02|(l)">Section EMP.01.02(l)</cite>-(P) and <cite path="§53.5|(I)">53.5(I)</cite>.  The version forwarded to the BIA for approval included both the 2007 amendments and those adopted in 2010.  Approved by the BIA, except for <cite path="§53.8">Section 53.8</cite>.  <cite path="§53.8">Section 53.8</cite>, regarding the need for BIA approval of future amendments, was deleted.</annotation>
+  </annotations>
 </document>

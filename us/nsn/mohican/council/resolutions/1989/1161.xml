@@ -7,7 +7,6 @@
     <effective/>
     <history>
       <adopted>1989-07-18</adopted>
-      <text>Adopting BIA recommended changes.</text>
       <text>Recommended changes by the BIA passed by Tribal Council.</text>
       <text>Recommended changes by the BIA passed.</text>
     </history>
@@ -15,4 +14,7 @@
       <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 1161</citation>
     </citations>
   </meta>
+  <annotations>
+    <annotation type="Legislative History">Adopting BIA recommended changes.</annotation>
+  </annotations>
 </document>

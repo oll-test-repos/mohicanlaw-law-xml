@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 051-06">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 051-06">
   <num>051-06</num>
   <heading/>
   <meta>
@@ -7,10 +7,12 @@
     <effective/>
     <history>
       <adopted>2006-07-18</adopted>
-      <text>Created sections <cite path="§21.2|(D)">21.2(D)</cite>, <cite path="§21.3|(A)|(4)">21.3(A)(4)</cite>, <cite path="§21.3|(B)|(3)">21.3(B)(3)</cite>, <cite path="§ENV.01.08|(a)">Section ENV.01.08(a)</cite>, <cite path="§21.8|(B)|(1)|(2)|(3)">21.8(B)(1)(2)(3)</cite>, <cite path="§21.8|(C)|(1)|(2)">21.8 (C)(1)(2)</cite>, and <cite path="§21.11|(A)|(1)|(2)|(3)">21.11(A)(1)(2)(3)</cite>; and amended <cite path="§21.3|(A)|(3)">section 21.3(A)(3)</cite>.</text>
     </history>
     <citations>
       <citation type="res">Stockbridge-Munsee Tribal Council Res. No. 051-06</citation>
     </citations>
   </meta>
+  <annotations>
+    <annotation type="Legislative History">Created sections <cite path="§21.2|(D)">21.2(D)</cite>, <cite path="§21.3|(A)|(4)">21.3(A)(4)</cite>, <cite path="§21.3|(B)|(3)">21.3(B)(3)</cite>, <cite path="§ENV.01.08|(a)">Section ENV.01.08(a)</cite>, <cite path="§21.8|(B)|(1)|(2)|(3)">21.8(B)(1)(2)(3)</cite>, <cite path="§21.8|(C)|(1)|(2)">21.8 (C)(1)(2)</cite>, and <cite path="§21.11|(A)|(1)|(2)|(3)">21.11(A)(1)(2)(3)</cite>; and amended <cite path="§21.3|(A)|(3)">section 21.3(A)(3)</cite>.</annotation>
+  </annotations>
 </document>

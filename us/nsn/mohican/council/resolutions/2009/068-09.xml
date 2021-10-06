@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 068-09">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 068-09">
   <num>068-09</num>
   <heading/>
   <meta>
@@ -7,7 +7,6 @@
     <effective/>
     <history>
       <adopted>2009-06-29</adopted>
-      <text>Amended <cite path="§BUS.05.01">Section BUS.05.01</cite> and <cite path="§BUS.05.02">Section BUS.05.02</cite>; Created new <cite path="§BUS.05.01|(a)|(1)">Section BUS.05.01(a)(1)</cite>, <cite path="§BUS.05.01|(b)">Section BUS.05.01(b)</cite>, <cite path="§BUS.05.01|(c)">Section BUS.05.01(c)</cite>, <cite path="§BUS.05.01|(d)">Section BUS.05.01(d)</cite>, and <cite path="§BUS.05.01|(e)">Section BUS.05.01(e)</cite>; and renumbered <cite path="§BUS.05.01">Section BUS.05.01</cite> as <cite path="§BUS.05.01|(a)">Section BUS.05.01(a)</cite>, <cite path="§GMG.02.04">Section GMG.02.04</cite> as <cite path="§BUS.05.04">Section BUS.05.04</cite>, and <cite path="§GMG.02.05">Section GMG.02.05</cite> as <cite path="§BUS.05.05">Section BUS.05.05</cite>.</text>
     </history>
     <citations>
       <citation type="res" url="./adopted/068-09.pdf">Stockbridge-Munsee Tribal Council Res. No. 068-09</citation>
@@ -46,4 +45,7 @@
       </ul>
     </text>
   </recitals>
+  <annotations>
+    <annotation type="Legislative History">Amended <cite path="§BUS.05.01">Section BUS.05.01</cite> and <cite path="§BUS.05.02">Section BUS.05.02</cite>; Created new <cite path="§BUS.05.01|(a)|(1)">Section BUS.05.01(a)(1)</cite>, <cite path="§BUS.05.01|(b)">Section BUS.05.01(b)</cite>, <cite path="§BUS.05.01|(c)">Section BUS.05.01(c)</cite>, <cite path="§BUS.05.01|(d)">Section BUS.05.01(d)</cite>, and <cite path="§BUS.05.01|(e)">Section BUS.05.01(e)</cite>; and renumbered <cite path="§BUS.05.01">Section BUS.05.01</cite> as <cite path="§BUS.05.01|(a)">Section BUS.05.01(a)</cite>, <cite path="§GMG.02.04">Section GMG.02.04</cite> as <cite path="§BUS.05.04">Section BUS.05.04</cite>, and <cite path="§GMG.02.05">Section GMG.02.05</cite> as <cite path="§BUS.05.05">Section BUS.05.05</cite>.</annotation>
+  </annotations>
 </document>
