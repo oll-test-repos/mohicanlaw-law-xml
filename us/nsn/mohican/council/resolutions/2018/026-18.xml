@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 026-18">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="Stockbridge-Munsee Tribal Code" id="Stockbridge-Munsee Tribal Council Res. No. 026-18">
   <num>026-18</num>
   <heading/>
   <meta>
@@ -729,6 +729,8 @@
       <annotation type="Prior Codifications">§TAX.01.25 was formerly codified as Chapter 57, §57.25</annotation>
     </section>
   </codify:insert>
-  <codify:annotation path="TAX.01" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-18">Resolution No.026-18</cite>, adopted March 6, 2018, approved by BIA January 28, 2021.</codify:annotation>
-  <codify:annotation path="TAX.01" type="Legislative History" history="false" dest="container">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite>, adopted January 21, 2021, approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="TAX.01" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-18">Resolution No.026-18</cite>, adopted March 6, 2018.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
+  <annotations>
+    <annotation type="Legislative History">Rescinded the existing Chapter 57 (Construction Tax Ordinance) and Chapter 57-A (Room Tax Ordinance) to adopt a new Tax Ordinance as Chapter 57. The new Chapter 57 establishes a more comprehensive tribal tax regime that incorporated both a sales tax and a hotel occupancy tax, as well as the related administrative process.</annotation>
+  </annotations>
 </document>

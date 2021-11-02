@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 02-16">
+<document xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 02-16">
   <num>02-16</num>
   <heading/>
   <meta>
@@ -42,4 +42,7 @@
       <text>the Stockbridge-Munsee Tribal Council directs that the amendments to Chapter 25 adopted at its meeting on October 26, 2015 be forwarded to the National Indian Gaming Commission for approval pursuant to 25 U.S.C. § 2710(e).</text>
     </recital>
   </recitals>
+  <annotations>
+    <annotation type="Legislative History">Revisions included a renumbering of the entire Ordinance to be consistent with format of other ordinances; changes to the definitions of ancillary facility, key employees and primary management officials, additional language for addressing disputes in relation to changes to operating procedures, and additional bases for suspension or denial of a gaming license.  Revised ordinance submitted to NIGC for approval on October 13, 2015.  NIGC informed Tribe that additional corrections needed to update ordinance so that language satisfies federal regulations.  Tribe withdrew ordinance from review by NIGC by letter dated November 18, 2015.</annotation>
+  </annotations>
 </document>
