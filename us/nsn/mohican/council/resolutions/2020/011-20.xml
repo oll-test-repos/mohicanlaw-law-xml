@@ -38,18 +38,4 @@
       <text>the Stockbridge-Munsee Tribal Council hereby approves changes to Chapter 5 that amend <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.02|(a)|(3)">Section 5.2 (A)(3)</cite> to add a cross-reference to Chapter 5-A and delete <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.02.22">Section 5.22</cite>, which previously addressed appellate procedure.</text>
     </recital>
   </recitals>
-  <!-- <codify:replace path="TCT.02.02|(a)|(3)">
-    <para>
-      <num>(3)</num>
-      <text>To establish a set of procedural rules to govern civil litigation in the Tribal Court System, except to the extent the Court of Appeals has its own procedural rules applying to appeals before it as established under <cite doc="Stockbridge-Munsee Tribal Code" path="TCT|TCT.03">Chapter TCT.03</cite>; and</text>
-    </para>
-  </codify:replace>
-  <codify:replace path="TCT.02.22">
-    <section>
-      <num>TCT.02.22</num>
-      <heading>Reserved</heading>
-    </section>
-  </codify:replace>
-  <codify:annotation path="TCT.02" type="Legislative History" history="false" dest="container">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 011-20">Resolution No.011-20</cite>, adopted November 5, 2019, approved by BIA January 28, 2021.</codify:annotation>
-  <codify:annotation path="TCT.02" type="Legislative History" history="false" dest="container">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite>, adopted January 21, 2021, approved by BIA January 28, 2021.</codify:annotation> -->
 </document>
