@@ -19,6 +19,7 @@
   <collection name="us/nsn/mohican/council/resolutions">
     <heading>Tribal Council Ordinance Resolutions.</heading>
     <text>Resolutions impacting the Stockbridge-Munsee Tribal Code are provided for reference and the convenience of Stockbridge-Munsee Tribal Law Library users. The list of resolutions for changes prior to codification in 2021 may be incomplete.</text>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2022/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2021/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2020/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2019/index.xml"/>
