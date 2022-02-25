@@ -1,0 +1,45 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Stockbridge-Munsee Tribal Council Res. No. 023-22">
+  <num>023-22</num>
+  <heading/>
+  <meta>
+    <history>
+      <adopted>__________</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/023-22.pdf" proof="needed">Stockbridge-Munsee Tribal Council Res. No. 023-22</citation>
+      <citation type="BIA" url="./BIA/023-22.pdf" proof="needed">BIA Approval for Res. No. 023-22</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community recognizes the negative impacts that substance abuse and addiction issues have on the community and wishes to provide additional ways to help individuals with these issues find a path back to being a healthy and productive member of the community;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The establishment of a Healing to Wellness Court would provide an option for diversion of legal offenders with substance abuse and addiction issues away from the regular court system and toward a more holistic, healing approach that involves a treatment-oriented perspective;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council wishes to establish a Healing to Wellness Court as part of the Stockbridge-Munsee Tribal Court system through the adoption of the Healing to Wellness Court Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.06" proof="needed">Chapter TCT.06</cite>;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.06" proof="needed">Chapter TCT.06</cite>, Healing to Wellness Court Ordinance, and authorizes its submittal to the U.S. Bureau of Indian Affairs for approval.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 6, constituting a quorum, were present at a meeting duly called, noticed, and held on the 18th day of January, 2022, that the foregoing resolution was duly adopted at such meeting by a vote of 5 for, 0 against, and 0 abstaining.</text>
+    <text>_______________________	   ________________________</text>
+    <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
+  </procedural-data>
+</document>
