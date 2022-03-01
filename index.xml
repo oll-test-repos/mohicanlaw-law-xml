@@ -11,6 +11,7 @@
       <html-bulk>https://github.com/mohicanlaw/law-html</html-bulk>
       <html>https://law.mohican.com</html>
       <static-assets>https://github.com/mohicanlaw/law-static-assets</static-assets>
+      <law-git>https://github.com/mohicanlaw/law.git</law-git>
     </canonical-urls>
     <history-start>2021-01-28</history-start>
   </meta>
