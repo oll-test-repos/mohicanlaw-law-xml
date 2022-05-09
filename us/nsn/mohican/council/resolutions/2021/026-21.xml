@@ -19,7 +19,7 @@
       <prefix>Chapter</prefix>
       <heading/>
       <reason>Recodified</reason>
-      <text>Recodified as <cite path="ADM.03">ADM.03</cite>.</text>
+      <text>Recodified as <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">ADM.03</cite>.</text>
     </container>
   </codify:replace>
   <codify:insert path="ADM">
@@ -184,7 +184,7 @@
       <section>
         <num>ADM.03.11</num>
         <heading>Effective Date</heading>
-        <text><cite path="ADM.03">This Chapter</cite> shall become effective 30 days after approval by the Stockbridge-Munsee Community.</text>
+        <text><cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">This Chapter</cite> shall become effective 30 days after approval by the Stockbridge-Munsee Community.</text>
         <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.11</annotation>
         <annotation type="Prior Codifications">Formerly codified as §PRP.03.11</annotation>
       </section>
@@ -193,15 +193,15 @@
         <heading>Coverage, Severability, Amendments</heading>
         <para>
           <num>(a)</num>
-          <text><cite path="ADM.03">This Chapter</cite> shall be binding on all entities, enterprises, and organizations operating under the Stockbridge-Munsee Community and all other tribal laws requiring recording shall abide by <cite path="ADM.03">this Chapter</cite>.</text>
+          <text><cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">This Chapter</cite> shall be binding on all entities, enterprises, and organizations operating under the Stockbridge-Munsee Community and all other tribal laws requiring recording shall abide by <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">this Chapter</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>If any provision of <cite path="ADM.03">this Chapter</cite> is ruled illegal by a court of competent jurisdiction, the remaining provisions shall remain unaffected.</text>
+          <text>If any provision of <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">this Chapter</cite> is ruled illegal by a court of competent jurisdiction, the remaining provisions shall remain unaffected.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text><cite path="ADM.03">This Chapter</cite> may be amended by resolution of the Tribal Council.</text>
+          <text><cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">This Chapter</cite> may be amended by resolution of the Tribal Council.</text>
         </para>
         <annotation type="Prior Codifications">Formerly codified as Chapter 44-A, §44-A.12</annotation>
         <annotation type="Prior Codifications">Formerly codified as §PRP.03.12</annotation>
