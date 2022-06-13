@@ -15,6 +15,7 @@
     </canonical-urls>
     <history-start>2021-01-28</history-start>
   </meta>
+  <text>Below is a link to the Stockbridge-Munsee Tribal Code, which was reformatted in 2021. Specific ordinances are now included in the Code as Titles with three-letter abbreviations instead of chapters. To find the new location of a former chapter, you can use the cross-references table by clicking the "Old Code Cross-References" link below. To search for phrases or words in the code, see the search button on the upper left side of the screen. To compare the current code with previous versions of the code, select the “Compare historical documents” icon on the panel to the left.</text>
   <xi:include href="./us/nsn/mohican/council/constitution/index.xml"/>
   <xi:include href="./us/nsn/mohican/council/code/index.xml"/>
   <collection name="us/nsn/mohican/council/resolutions">
@@ -66,4 +67,5 @@
     <xi:include href="./us/nsn/mohican/council/resolutions/1968/index.xml"/>
   </collection>
   <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
+  <text><a href="https://law.mohican.com/us/nsn/mohican/council/code/attachments/recodification-table">Old Code Cross-References</a></text>
 </library>
