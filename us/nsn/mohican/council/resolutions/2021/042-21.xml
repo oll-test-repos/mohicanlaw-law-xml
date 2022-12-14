@@ -47,9 +47,9 @@
   </procedural-data>
   <codify:replace path="ENV.01.01">
     <section>
-      <num>ENV.01.01~2</num>
+      <num>ENV.01.01</num>
       <heading>Tribal Council Purpose And Findings fffffffffff</heading>
-      <text>The Tribal Council finds that:</text>
+      <text>The Tribal Council finds that aaaaaaaaaa:</text>
       <para>
         <num>(a)</num>
         <text>One of the most important short and long-term resources is the fish and wildlife of the Stockbridge-Munsee Community.</text>
