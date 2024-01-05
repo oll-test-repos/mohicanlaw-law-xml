@@ -78,5 +78,27 @@
   <collection name="us/nsn/mohican/council/meetings">
     <heading>Tribal Council Motions on By-Laws.</heading>
     <xi:include href="./us/nsn/mohican/council/meetings/2025/index.xml"/>
+  <collection name="us/nsn/mohican/council/opinions">
+    <heading>Tribal Court of Appeals Opinions</heading>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2023/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2022/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2021/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2020/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2019/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2018/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2017/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2016/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2015/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2014/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2013/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2012/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2011/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2010/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2008/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2006/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2003/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2002/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2000/index.xml"/>
+    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/1997/index.xml"/>
   </collection>
 </library>
