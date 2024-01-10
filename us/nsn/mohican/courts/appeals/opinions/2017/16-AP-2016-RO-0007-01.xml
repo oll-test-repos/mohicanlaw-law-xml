@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 16-AP-2016-RO-0007">
-  <num>16-AP-2016-RO-0007</num>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Mohican Nation Stockbridge-Munsee Band of Indians Tribal Court of Appeals Case No. 16-AP-2016-RO-0007-01">
+  <num>16-AP-2016-RO-0007-01</num>
   <heading>Jolene Bowman, et al. vs. Stockbridge Munsee Community Election Board</heading>
   <meta>
     <effective>2017-02-28</effective>
@@ -45,11 +45,11 @@
   </container>
   <container>
     <heading>JURISDICTION</heading>
-    <text>The court has jurisdiction over this matter per Chapter 1, §1.6 (L) of the Stockbridge-Munsee Tribal Court Code which gives the Court of Appeals the jurisdiction to hear appeals from the Trial Tribal Court.</text>
+    <text>The court has jurisdiction over this matter per <cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Chapter 1</cite>, <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)">§1.6 (L) of the Stockbridge-Munsee Tribal Court Code</cite> which gives the Court of Appeals the jurisdiction to hear appeals from the Trial Tribal Court.</text>
   </container>
   <container>
     <heading>PROCEDURAL BACKGROUND</heading>
-    <text>On October 25, 2016, Mr. Vele filed a Request with the Stockbridge-Munsee Tribal Court (hereinafter "Tribal Court") to file as an Amicus Curiae and for a substitution of the judge in the matter of <em>Jolene Bowman and Joseph Miller, v. the Stockbridge-Munsee Election Board</em> (hereinafter "<em><u>Bowman and Miller</u></em> case"), Case No. 2016-RO-007. On November 3, 2016, the Tribal Court issued a Preliminary Injunction Order that indefinitely suspended any and all action relating to holding a new annual 2016 election. On November 4, 2016, Mr. Vele filed an appeal of this November 3rd Preliminary injunctive order with the Court of Appeals. On November 18, 2016, the Tribal Court issued a permanent injunction in the Decision and Order in the Bowman and Miller case.</text>
+    <text>On October 25, 2016, Mr. Vele filed a Request with the Stockbridge-Munsee Tribal Court (hereinafter "Tribal Court") to file as an Amicus Curiae and for a substitution of the judge in the matter of <cite doc="2016-RO-007"><em>Jolene Bowman and Joseph Miller, v. the Stockbridge-Munsee Election Board</em> (hereinafter "<em><u>Bowman and Miller</u></em> case"), Case No. 2016-RO-007</cite>. On November 3, 2016, the Tribal Court issued a Preliminary Injunction Order that indefinitely suspended any and all action relating to holding a new annual 2016 election. On November 4, 2016, Mr. Vele filed an appeal of this November 3rd Preliminary injunctive order with the Court of Appeals. On November 18, 2016, the Tribal Court issued a permanent injunction in the Decision and Order in the Bowman and Miller case.</text>
   </container>
   <container>
     <heading>ANALYSIS</heading>

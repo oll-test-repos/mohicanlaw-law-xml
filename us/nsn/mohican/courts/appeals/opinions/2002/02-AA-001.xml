@@ -41,26 +41,28 @@
   </text>
   <container>
     <heading>Jurisdictional Statement</heading>
-    <text>Appellant was an employee of the Stockbridge-Munsee Tribe, a federally recognized Tribe of Indians. She appeals the granting of a motion to dismiss her case against the Appellees, and the denial of the Appellant's motion to that have this matter placed on the Court's docket and to proceed to a judicial hearing under the provisions of Chapter 53 of the Stockbridge-Munsee Tribal Code.</text>
-    <text>The Mohican Nation, Stockbridge-Munsee Band of Mohicans Court of Appeals has jurisdiction over this appeal pursuant to Section 1.6 (L) of the <em>Mohican Judiciary Act,</em> which states that The Stockbridge-Munsee Court of Appeals shall have jurisdiction over appeals from the Tribal Court.</text>
+    <text>Appellant was an employee of the Stockbridge-Munsee Tribe, a federally recognized Tribe of Indians. She appeals the granting of a motion to dismiss her case against the Appellees, and the denial of the Appellant's motion to that have this matter placed on the Court's docket and to proceed to a judicial hearing under the provisions of <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53 of the Stockbridge-Munsee Tribal Code</cite>.</text>
+    <text>The Mohican Nation, Stockbridge-Munsee Band of Mohicans Court of Appeals has jurisdiction over this appeal pursuant to <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.6|(L)" proof="needed">Section 1.6 (L) of the <em>Mohican Judiciary Act,</em></cite> which states that The Stockbridge-Munsee Court of Appeals shall have jurisdiction over appeals from the Tribal Court.</text>
   </container>
   <container>
     <heading>Background</heading>
-    <text>On October 26, 2001, the Appellant received a letter from Ms. Tammy Pecore stating that she was terminated from her position with the Mohican North Star Casino. That letter also included the Appellant's rights to grieve the termination. The letter included: <em>In the event you wish to appeal your termination, please refer to the Grievance Process on page 42 of the Green Handbook, which states, "an employee can file a grievance within 5 days of the action being grieved". Also refer to Section 53.4 and 53.45 of the Employee Rights Ordinance, which states, "an employee may choose to waive the internal grievance process and file a claim directly with the Tribal Court within 30 calendar days of the event or events that gave rise to the employee's claim".</em></text>
+    <text>On October 26, 2001, the Appellant received a letter from Ms. Tammy Pecore stating that she was terminated from her position with the Mohican North Star Casino. That letter also included the Appellant's rights to grieve the termination. The letter included: <em>In the event you wish to appeal your termination, please refer to the Grievance Process on page 42 of the Green Handbook, which states, "an employee can file a grievance within 5 days of the action being grieved". Also refer to <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.05">Section 53.4 </cite>and <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.06">53.45 of the Employee Rights Ordinance</cite>, which states, "an employee may choose to waive the internal grievance process and file a claim directly with the Tribal Court within 30 calendar days of the event or events that gave rise to the employee's claim".</em></text>
     <text>The Appellant proceeded to the Stockbridge-Munsee Tribal Offices on November 26, 2001 and attempted to file a type written letter that was dated on November 15, 2001 along with a copy of her termination letter and copy of a payroll check. The Tribal Court Clerk was not at work that day, so the Appellant sought another employee of the Tribe who was not the Clerk of Court, but who identified herself as "CG" who initialed the documents. These documents were not file stamped with a date and time of filing, but were only initialed by "CG".</text>
     <text>From here the record becomes unclear as to what happened to these documents between November 26, 2001 and March 26, 2002 when the Appellant's motions were filed seeking a Court Order to direct the Clerk of Court to assign a docket number to the statement of claim and to basically get this case on the Court's calendar. This case then began to proceed to a hearing on May 03, 2002 at which time the Tribal Court denied the Appellant's Motions and granted the Appellee's <em>Motion to Dismiss the Complaint</em> without prejudice.</text>
     <text>This Court of Appeals has reviewed the filings in the case, and has convened, via a teleconference call.</text>
   </container>
   <container>
     <heading>Issues</heading>
-    <text>The Appellees basic arguments are that the Appellant did not file sufficient notice of her intent to appeal her termination. Appellees argue, even though the Appellant had documents filed<fn path="|footnotes|1">1</fn> within the time frame allowed under Chapter 53 of the Tribal Code, that those documents were deficient in meeting the requirements of notice of appeal. The Appellees then argue that the motion to have the case proceed through Court was not filed within the time limits established by Chapter 53 of the Tribal Code.</text>
+    <text>The Appellees basic arguments are that the Appellant did not file sufficient notice of her intent to appeal her termination. Appellees argue, even though the Appellant had documents filed<fn path="|footnotes|1">1</fn> within the time frame allowed under <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53 of the Tribal Code</cite>, that those documents were deficient in meeting the requirements of notice of appeal. The Appellees then argue that the motion to have the case proceed through Court was not filed within the time limits established by <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53 of the Tribal Code</cite>.</text>
     <text>The Appellant argues that she did file the required documents in a timely manner and, therefore, should be allowed to proceed to a hearing on her appeal of her termination.</text>
   </container>
   <container>
     <heading>Analysis</heading>
-    <text>The Appellate Court first looks to the sections of the Tribal Code which the Appellant was told to rely upon in her letter of termination. The letter of termination refers the Appellant to §53.4 and §53.45 which read:</text>
+    <text>The Appellate Court first looks to the sections of the Tribal Code which the Appellant was told to rely upon in her letter of termination. The letter of termination refers the Appellant to <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.05">§53.4 </cite>and <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.06">§53.45 </cite>which read:</text>
     <text>
-      <strong>Section 53.4 Employee Appeals to Tribal Court</strong>
+      <strong>
+        <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.05">Section 53.4 Employee Appeals to Tribal Court</cite>
+      </strong>
     </text>
     <para>
       <num>(A)</num>
@@ -69,7 +71,7 @@
         <num>(1)</num>
         <heading>Only violations of those employee rights enumerated in Section 53.3 of this Ordinance are appealable to the Tribal Court.</heading>
         <text>
-          <strong>All other issues must be handler through an internal grievance process as provided for in the Employee Information Handbook. The internal grievance process shall be the final recourse for all issue not expressly enumerated in Section 53.3.</strong>
+          <strong>All other issues must be handler through an internal grievance process as provided for in the Employee Information Handbook. The internal grievance process shall be the final recourse for all issue not expressly enumerated in <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03">Section 53.3</cite>.</strong>
         </text>
       </para>
       <para>
@@ -86,12 +88,14 @@
       </para>
     </para>
     <text>
-      <strong>Section 53.45 Statute of Limitations</strong>
+      <strong>
+        <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.06">Section 53.45 Statute of Limitations</cite>
+      </strong>
     </text>
     <text>
       <strong>The employee must initiate the internal grievance process or court action, whichever applies, within 30 calendar days of the event or events that gave rise to the employee's claim.</strong>
     </text>
-    <text>These are the only two sections of Chapter 53 referenced in the letter of termination. It is clear that the Appellant elected to proceed under §53.4(2) (a) and to take her dispute directly to the Tribal Court. The Appellant attempted to initiate the court action under §53.45 by filing documents within 30 calendar days of her termination.</text>
+    <text>These are the only two sections of <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01">Chapter 53</cite> referenced in the letter of termination. It is clear that the Appellant elected to proceed under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.4|(2)|(a)">§53.4(2) (a)</cite> and to take her dispute directly to the Tribal Court. The Appellant attempted to initiate the court action under <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.06">§53.45 </cite>by filing documents within 30 calendar days of her termination.</text>
     <text>The Appellees further argue that the Appellant did not follow the proper procedures in filing in Court. Their argument is; <em>….the Court procedures says the petition filed in Tribal Court under this ordinance, meaning the employee rights ordinance, may be in any written format, but shall, but shall include at least the following information. It list {sic} 4 items: name and address of the petitioner, a statement identifying the enumerated right under section 53.3; description of the facts; then 4</em><sup><em>th</em></sup><em>, specific request stating required relief. Out of those shallow requirements, 3 of them were not even close to being met."</em><fn path="|footnotes|2">2</fn><em/></text>
     <text>This argument would be given more weight if the letter of termination had also referred the Appellant to §$53.5 of the Tribal Code which states:</text>
     <text>
@@ -125,6 +129,45 @@
     </para>
     <text>
       <strong>Section 1.32 Irregularities</strong>
+    <text>These are the only two sections of <cite doc="Old Stockbridge-Munsee Tribal Code" path="53">Chapter 53</cite> referenced in the letter of termination. It is clear that the Appellant elected to proceed under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.4|(2)|(a)">§53.4(2) (a)</cite> and to take her dispute directly to the Tribal Court. The Appellant attempted to initiate the court action under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§53.45">§53.45 </cite>by filing documents within 30 calendar days of her termination.</text>
+    <text>The Appellees further argue that the Appellant did not follow the proper procedures in filing in Court. Their argument is; <em>….the Court procedures says the petition filed in Tribal Court under this ordinance, meaning the employee rights ordinance, may be in any written format, but shall, but shall include at least the following information. It list {sic} 4 items: name and address of the petitioner, a statement identifying the enumerated right under <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.03">section 53.3</cite>; description of the facts; then 4</em><sup><em>th</em></sup><em>, specific request stating required relief. Out of those shallow requirements, 3 of them were not even close to being met."</em></text>
+    <text>This argument would be given more weight if the letter of termination had also referred the Appellant to <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07">§§53.5 of the Tribal Code</cite> which states:</text>
+    <include>
+      <section>
+        <num>53.5</num>
+        <heading>Court Procedures</heading>
+        <para>
+          <num>(A)</num>
+          <heading>The petition filed in tribal court under this Ordinance may be in any written format, but shall include at least the following information:</heading>
+          <para>
+            <num>(1)</num>
+            <heading>The name and address of the petitioner.</heading>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>A statement identifying which of the enumerated rights under Section 53.3 has been violated.</heading>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>A brief description of the facts and events that gave rise to the alleged violation including the names of potential witnesses and the name of the petitioner's supervisor, if applicable.</heading>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>A specific request stating the required relief.</heading>
+            <text>
+              <strong>Relief is governed by subsection (F) below.</strong>
+            </text>
+          </para>
+        </para>
+      </section>
+    </include>
+    <text>In reviewing what steps the Appellant took in this case, this Court concludes she complied with <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.05">§53.4 </cite>and <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.06">§53.45</cite>, the two sections her letter of termination referenced. However, holding her to the letter of the requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="§EMP.01.07">§53.5 </cite>when she was not referred to that section, may conflict with the general principles of fairness and proper notice.</text>
+    <text>The Tribe's Code, in general, requires a libera interpretation of its provisions. Tribal Code <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.01.03|(b)">§1.3 (B)</cite> specifically states: <em>"This code is exempted from the rule of strict construction. It shall be read and understood in manner that gives full effect to the purposes for which it was enacted.</em>"</text>
+    <text>Further, this Court finds under <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.32">Tribal Code §1.32 </cite>that deficient filings do not, as a matter of course, render them invalid.</text>
+    <text>
+      <strong>
+        <cite doc="Old Stockbridge-Munsee Tribal Code" path="§1.32">Section 1.32 Irregularities</cite>
+      </strong>
     </text>
     <para>
       <num>(A)</num>
