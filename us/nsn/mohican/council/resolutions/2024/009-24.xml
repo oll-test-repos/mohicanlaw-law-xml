@@ -155,5 +155,5 @@
       </para>
     </section>
   </codify:replace>
-  <codify:annotation path="" type="Legislative History" history="false" dest="container">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 009-24">Resolution No. 009-24</cite>, adopted January 2, 2024</codify:annotation>
+  <codify:annotation path="TCT.06" type="Legislative History" history="false" dest="container">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 009-24">Resolution No. 009-24</cite>, adopted January 2, 2024</codify:annotation>
 </document>
