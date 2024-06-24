@@ -68,5 +68,9 @@
     <xi:include href="./us/nsn/mohican/council/resolutions/1971/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/1968/index.xml"/>
   </collection>
+  <collection name="us/nsn/mohican/council/bylaws">
+    <heading>Committee Bylaws.</heading>
+    <xi:include href="./us/nsn/mohican/cultural-affairs/index.xml"/>
+  </collection>
   <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
 </library>
