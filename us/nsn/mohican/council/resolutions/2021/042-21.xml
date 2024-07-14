@@ -3,9 +3,9 @@
   <heading/>
   <meta>
     <ordinance>Fish and Wildlife</ordinance>
-    <effective>2023-03-04</effective>
+    <effective>2021-08-03</effective>
     <history>
-      <adopted>2022-08-04</adopted>
+      <adopted>2021-08-03</adopted>
     </history>
     <citations>
       <citation type="res" url="./adopted/042-21.pdf">Stockbridge-Munsee Tribal Council Res. No. 042-21</citation>
@@ -48,8 +48,13 @@
   <codify:replace path="ENV.01.01">
     <section>
       <num>ENV.01.01</num>
+<<<<<<< HEAD
       <heading>Tribal Council Purpose And Findings fffffffffff</heading>
       <text>The Tribal Council finds that aaaaaaaaaa:</text>
+=======
+      <heading>Tribal Council Purpose And Findings</heading>
+      <text>The Tribal Council finds that:</text>
+>>>>>>> upstream/master
       <para>
         <num>(a)</num>
         <text>One of the most important short and long-term resources is the fish and wildlife of the Stockbridge-Munsee Community.</text>
@@ -1268,5 +1273,5 @@
       </para>
     </section>
   </codify:replace>
-  <codify:annotation path="ENV.01" type="Legislative History" history="false" dest="container">29. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 042-21">Resolution No. 042-021</cite>, adopted August, 3 2021.</codify:annotation>
+  <codify:annotation path="ENV.01" type="Legislative History" history="false" dest="container">29. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 042-21">Resolution No. 042-021</cite>, adopted August 3, 2021.</codify:annotation>
 </document>
