@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" name="2024">
   <heading>CULTURAL AFFAIRS COMMITTEE BY-LAWS</heading>
-  <container>
+  <meta>
+    <effective>2024-09-03</effective>
+    <history>
+      <adopted>2024-09-03</adopted>
+    </history>
+  </meta>
+  <section>
     <prefix>Article</prefix>
     <num>1</num>
     <heading>Purpose and Authority</heading>
@@ -21,8 +27,11 @@
       <num>(d)</num>
       <text>Communication to Committee.  Communications to the Committee should be sent to the Committee's attention and submitted to the Tribal Secretary.</text>
     </para>
-  </container>
-  <container>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+    </annotations>
+  </section>
+  <section>
     <prefix>Article</prefix>
     <num>2</num>
     <heading>Role and Responsibilities</heading>
@@ -90,8 +99,11 @@
         <text>Neither the Committee nor an individual member of the Committee shall engage in a Committee activity when there is a conflict or perceived conflict of interest; they must stand down from the Committee until the item has been completed or the Committee must table the item and get direction from the Tribal Council regarding further activity.  An example of a conflict of interest would be any situation where individual Committee Member(s)' personal interests, i.e.,  family, friendships, financial, or social factors, could compromise Committee Member(s)' judgement, decisions, actions.  Or, engaging in activities that lead to personal gain at the expense of the Committee and/or the areas the Committee's authority, roles and responsibilities service.</text>
       </para>
     </para>
-  </container>
-  <container>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+    </annotations>
+  </section>
+  <section>
     <prefix>Article</prefix>
     <num>3</num>
     <heading>Composition</heading>
@@ -159,8 +171,11 @@
       <num>(d)</num>
       <text>Resignation.  Resignations from the Committee shall be in writing and presented to the Tribal Council, via the Tribal Council Secretary and the Committee Chair.</text>
     </para>
-  </container>
-  <container>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+    </annotations>
+  </section>
+  <section>
     <prefix>Article</prefix>
     <num>4</num>
     <heading>Officers and Their Duties.</heading>
@@ -184,8 +199,11 @@
       <num>(e)</num>
       <text>Officer Selection Process and Term.  The officers shall serve terms of one (1) year and shall be elected by a majority vote of the Committee. Terms of office for the officers shall run consistent with the timing for terms of appointment. In the event of a vacancy, the successor shall be elected by a majority vote of the Committee for the duration of the unexpired term.</text>
     </para>
-  </container>
-  <container>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+    </annotations>
+  </section>
+  <section>
     <prefix>Article</prefix>
     <num>5</num>
     <heading>Committee Member Conduct Expectations</heading>
@@ -221,8 +239,11 @@
       <num>(d)</num>
       <text>Committee Members shall follow proper protocol and communicate with the Tribal Council only through the Committee Chairperson or as otherwise determined by a vote of the Committee.</text>
     </para>
-  </container>
-  <container>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+    </annotations>
+  </section>
+  <section>
     <prefix>Article</prefix>
     <num>6</num>
     <heading>Meetings</heading>
@@ -298,8 +319,11 @@
       <num>(l)</num>
       <text>Grievance.  A committee member, staff or attendee may file a grievance related to Committee Member Conduct, said grievance to be filed with the Tribal Council.</text>
     </para>
-  </container>
-  <container>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+    </annotations>
+  </section>
+  <section>
     <prefix>Article</prefix>
     <num>7</num>
     <heading>Stipend</heading>
@@ -307,8 +331,11 @@
       <num>(a)</num>
       <text>All Committee Members shall receive a stipend to be determined by the Tribal Council.</text>
     </para>
-  </container>
-  <container>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+    </annotations>
+  </section>
+  <section>
     <prefix>Article</prefix>
     <num>8</num>
     <heading>Recordkeeping</heading>
@@ -324,8 +351,11 @@
       <num>(c)</num>
       <text>Reporting.  The Committee shall report the minutes to the Tribal Council. Reporting of the minutes shall be made within a reasonable time after a meeting is held and presented to the Tribal Council at a regular meeting in person by a member of the Committee, or as the Tribal Council and the Committee agree.</text>
     </para>
-  </container>
-  <container>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+    </annotations>
+  </section>
+  <section>
     <prefix>Article</prefix>
     <num>9</num>
     <heading>Amendments</heading>
@@ -333,5 +363,8 @@
       <num>(a)</num>
       <text>Amendments to these By-Laws shall be recommended by the Committee to the Stockbridge-Munsee Tribal Council at a regular meeting. Amendments are effective upon adoption by the Committee and approval by the Tribal Council.</text>
     </para>
-  </container>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
+    </annotations>
+  </section>
 </document>
