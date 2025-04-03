@@ -8,33 +8,27 @@
       <citation type="reporter" url="./2021 SMTCA 1.pdf">2021 SMTCA 1</citation>
       <citation type="opinion" url="./2020-CV-0014.pdf">Case No. 2020-CV-0014</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Aaron Miller</name>
+        <designation>Petitioner/Appellee</designation>
+      </party>
+      <party>
+        <name>Thomas Gardner</name>
+        <designation>Defendant-Appellant</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Aaron Miller,</span>
-            <span class="right">Petitioner/Appellee,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Thomas Gardner,</span>
-            <span class="right">Defendant-Appellant,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
-  <text>This matter came before the Court upon a pro se notice from Defendant/Appellant, Thomas Gardner, to the Associate Clerk of this Court, seeing to withdraw his appeal. The document included multiple profanities, but clearly indicated an intent by Appellant to abandon this appeal. The Court acknowledges that litigation is emotion-filled, but sending a cursing rant to the Court Clerk is not the most effective way to endear oneself to the Court. <cite doc="694 Fed. Appx. 368" path="370"><u>See, U.S. v. Dial</u>, 694 Fed. Appx. 368, 370 (6<sup>th</sup> Cir. 2017)</cite>. Future acts, such as the April 9, 2021 at 10:23 a.m. email to the Clerk of this Court, may result in contempt.<strong>WHEREFORE, PREMISES CONSIDERED;</strong></text>
-  <text><strong><em>IT IS ORDERED that</em></strong> this appeal is dismissed with prejudice and court cost associated with this appeal, if any, are assessed against Defendant/Appellant, Thomas Gardner, for which execution may immediately issue.</text>
+  <para>
+    <num>&#182;1</num>
+    <text>This matter came before the Court upon a pro se notice from Defendant/Appellant, Thomas Gardner, to the Associate Clerk of this Court, seeing to withdraw his appeal. The document included multiple profanities, but clearly indicated an intent by Appellant to abandon this appeal. The Court acknowledges that litigation is emotion-filled, but sending a cursing rant to the Court Clerk is not the most effective way to endear oneself to the Court. <cite doc="694 Fed. Appx. 368" path="370"><u>See, U.S. v. Dial</u>, 694 Fed. Appx. 368, 370 (6<sup>th</sup> Cir. 2017)</cite>. Future acts, such as the April 9, 2021 at 10:23 a.m. email to the Clerk of this Court, may result in contempt.<strong>WHEREFORE, PREMISES CONSIDERED;</strong></text>
+  </para>
+  <para>
+    <num>&#182;2</num>
+    <text><strong><em>IT IS ORDERED that</em></strong> this appeal is dismissed with prejudice and court cost associated with this appeal, if any, are assessed against Defendant/Appellant, Thomas Gardner, for which execution may immediately issue.</text>
+  </para>
   <procedural-data>
     <text>Entered this 21st day of July, 2021.</text>
-    <text>________________________________________</text>
     <text>
       <strong>Gregory D. Smith</strong>
     </text>

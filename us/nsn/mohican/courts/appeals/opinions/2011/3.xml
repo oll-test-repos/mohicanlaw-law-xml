@@ -8,47 +8,48 @@
       <citation type="reporter" url="./2011 SMTCA 3.pdf">2011 SMTCA 3</citation>
       <citation type="opinion" url="./10-AP-2010-AA-0004.pdf">Case No. 10-AP-2010-AA-0004</citation>
     </citations>
+    <parties>
+      <party>
+        <name>Tammy Pecore</name>
+        <designation>Plaintiff/Appellant</designation>
+      </party>
+      <party>
+        <name>Stockbridge-Munsee Community d.b.a Mohican North Star Gaming and Resort</name>
+        <designation>Defendant/Appellee</designation>
+      </party>
+    </parties>
   </meta>
-  <text>
-    <div class="opinion-heading">
-      <hr class="dashed-hr"/>
-      <div class="container">
-        <div class="column">
-          <div class="row">
-            <span class="left">Tammy Pecore,</span>
-            <span class="right">Plaintiff/Appellant,</span>
-          </div>
-          <div class="row">
-            <span class="center">-v-</span>
-          </div>
-          <div class="row">
-            <span class="left">Stockbridge-Munsee Community d.b.a Mohican North Star Gaming and Resort,</span>
-            <span class="right">Defendant/Appellee,</span>
-          </div>
-        </div>
-      </div>
-      <hr class="dashed-hr"/>
-    </div>
-  </text>
-  <text>The above-entitled action having been heard by the Stockbridge-Munsee Appellant Court by Pro tempore Honorable Gerold Smith, Honorable Candace Des Armo Coury and Pro tempore, Honorable Donald Gurnoe. This Court affirmed the lower courts decision and order by the Stockbridge-Munsee Court in Case No. 2010-AA-0004.</text>
+  <para>
+    <num>&#182;1</num>
+    <text>The above-entitled action having been heard by the Stockbridge-Munsee Appellant Court by Pro tempore Honorable Gerold Smith, Honorable Candace Des Armo Coury and Pro tempore, Honorable Donald Gurnoe. This Court affirmed the lower courts decision and order by the Stockbridge-Munsee Court in Case No. 2010-AA-0004.</text>
+  </para>
   <container name="MOTION FOR RECONSIDERATION">
     <heading>MOTION FOR RECONSIDERATION</heading>
-    <text>The Motion for Reconsideration is now before the Stockbridge-Munsee Appellant Court by Pro tempore, Gerold Smith, Pro tempore, Honorable Donald Gurnoe and Honorable Candace Des Armo Coury.</text>
+    <para>
+      <num>&#182;2</num>
+      <text>The Motion for Reconsideration is now before the Stockbridge-Munsee Appellant Court by Pro tempore, Gerold Smith, Pro tempore, Honorable Donald Gurnoe and Honorable Candace Des Armo Coury.</text>
+    </para>
   </container>
   <container name="Review of Facts and Findings">
     <heading>Review of Facts and Findings</heading>
-    <text>Upon review of all facts and documents this Appellate Court finds the following:</text>
     <para>
-      <num>1.</num>
-      <text><cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Stockbridge-Munsee Tribal Law, Chapter 1</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.01.06" proof="needed">Section 1.6.5(C)(7)</cite> states that any motion or request by a party after a judgement must be filed within 10 days after entry of judgement. The final judgement of the Stockbridge-Munsee Appellant Court was signed on November 22, 2010. The Motion for Reconsideration was filed on June 14, 2011. The date of filing of the Motion for Reconsideration is well beyond the allowed 10 days.</text>
-    </para>
-    <para>
-      <num>2.</num>
-      <text><cite doc="SMRP" path="§24|(A)" proof="needed">Stockbridge-Munsee Tribal Court, Rules of Procedure, Appeals, 24 Exclusive Jurisdiction(A)</cite> it states, "The Court of Appeals shall have exclusive jurisdiction to review all decisions of the Tribal Court as provided herein. The decision of the Court of Appeals shall be final as to all such review." Notwithstanding the belated filing of this Motion, the decision of this Appellant Court is final.</text>
+      <num>&#182;3</num>
+      <text>Upon review of all facts and documents this Appellate Court finds the following:</text>
+      <para>
+        <num>1.</num>
+        <text><cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Stockbridge-Munsee Tribal Law, Chapter 1</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.01.06" proof="needed">Section 1.6.5(C)(7)</cite> states that any motion or request by a party after a judgement must be filed within 10 days after entry of judgement. The final judgement of the Stockbridge-Munsee Appellant Court was signed on November 22, 2010. The Motion for Reconsideration was filed on June 14, 2011. The date of filing of the Motion for Reconsideration is well beyond the allowed 10 days.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><cite doc="SMRP" path="§24|(A)" proof="needed">Stockbridge-Munsee Tribal Court, Rules of Procedure, Appeals, 24 Exclusive Jurisdiction(A)</cite> it states, "The Court of Appeals shall have exclusive jurisdiction to review all decisions of the Tribal Court as provided herein. The decision of the Court of Appeals shall be final as to all such review." Notwithstanding the belated filing of this Motion, the decision of this Appellant Court is final.</text>
+      </para>
     </para>
     <container name="DECISION">
       <heading>DECISION</heading>
-      <text>The Stockbridge-Munsee Appellant Court affirms its November 22, 2010 decision.</text>
+      <para>
+        <num>&#182;4</num>
+        <text>The Stockbridge-Munsee Appellant Court affirms its November 22, 2010 decision.</text>
+      </para>
     </container>
   </container>
   <procedural-data>
@@ -56,12 +57,9 @@
     <text>
       <strong>BY THE COURT</strong>
     </text>
-    <text>________________________________________</text>
     <text>Candace Des Armo Coury</text>
     <text>Stockbridge-Munsee Tribal Judge</text>
-    <text>________________________________________</text>
     <text>Pro tempore, Honorable Garold Smith</text>
-    <text>________________________________________</text>
     <text>Pro tempore, Honorable Donald Gurnoe</text>
   </procedural-data>
 </document>

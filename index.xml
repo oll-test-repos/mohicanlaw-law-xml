@@ -78,8 +78,10 @@
   <collection name="us/nsn/mohican/council/meetings">
     <heading>Tribal Council Motions on By-Laws.</heading>
     <xi:include href="./us/nsn/mohican/council/meetings/2025/index.xml"/>
-  <collection name="us/nsn/mohican/council/opinions">
+  </collection>
+  <collection name="us/nsn/mohican/courts/appeals/opinions">
     <heading>Tribal Court of Appeals Opinions</heading>
+    <text>In addition to the opinions, view the Tribal Court of Appeals <a href="/us/nsn/mohican/council/code/TCT.03">Rules</a> or <a href="https://www.mohican.com/government/court-of-appeals/">Forms.</a></text>
     <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2023/index.xml"/>
     <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2022/index.xml"/>
     <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2021/index.xml"/>
