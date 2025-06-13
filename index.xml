@@ -71,8 +71,8 @@
   </collection>
   <collection name="us/nsn/mohican/council/bylaws">
     <heading>Committee By-Laws.</heading>
-    <xi:include href="./us/nsn/mohican/cultural-affairs/index.xml"/>
-    <xi:include href="./us/nsn/mohican/ella-besaw-community-advisory/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/bylaws/cultural-affairs/index.xml"/>
+    <xi:include href="./us/nsn/mohican/council/bylaws/ella-besaw-community-advisory/index.xml"/>
   </collection>
   <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
   <collection name="us/nsn/mohican/council/meetings">
