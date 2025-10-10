@@ -530,5 +530,5 @@
       </section>
     </container>
   </codify:insert>
-  <codify:annotation path="ADM.04" type="Legislative History" history="false" dest="container" proof="needed">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 056-25">Resolution No. 056-25</cite>, adopted September 2, 2025</codify:annotation>
+  <codify:annotation path="ADM.04" type="Legislative History" history="false" dest="container" proof="needed">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 056-25">Resolution No. 056-25</cite>, adopted September 2, 2025, approved by BIA September 12, 2025.</codify:annotation>
 </document>
