@@ -8,8 +8,8 @@
       <adopted>2025-09-02</adopted>
     </history>
     <citations>
-      <citation type="res" url="./adopted/056-25.pdf" proof="needed">Stockbridge-Munsee Tribal Council Res. No. 056-25</citation>
-      <citation type="BIA" url="./BIA/056-25.pdf" proof="needed">BIA Approval for Res. No. 056-25</citation>
+      <citation type="res" url="./adopted/056-25.pdf">Stockbridge-Munsee Tribal Council Res. No. 056-25</citation>
+      <citation type="BIA" url="./BIA/056-25.pdf">BIA Approval for Res. No. 056-25</citation>
     </citations>
   </meta>
   <recitals>
@@ -35,7 +35,7 @@
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
-      <text>that the Stockbridge-Munsee Tribal Council hereby adopts <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.04" proof="needed">Chapter ADM.04</cite>, the Stockbridge-Munsee General Welfare Ordinance.</text>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.04">Chapter ADM.04</cite>, the Stockbridge-Munsee General Welfare Ordinance.</text>
     </recital>
     <recital>
       <conjunction>BE IT FURTHER RESOLVED,</conjunction>
@@ -151,7 +151,7 @@
         </para>
         <para>
           <num>(p)</num>
-          <text>"Safe Harbor Program" means a Program that meets the requirements of <cite doc="Stockbridge-Munsee Constitution and By-laws" path="III|3" proof="needed">Article III, Section 3</cite>.2 and IRS Revenue Procedure 2014-35, as the same may hereafter be amended.  Need shall be presumed for Assistance provided under a Safe Harbor Program.</text>
+          <text>"Safe Harbor Program" means a Program that meets the requirements of <cite doc="Stockbridge-Munsee Constitution and By-laws" path="III|3">Article III, Section 3</cite>.2 and IRS Revenue Procedure 2014-35, as the same may hereafter be amended.  Need shall be presumed for Assistance provided under a Safe Harbor Program.</text>
         </para>
         <para>
           <num>(q)</num>
@@ -181,7 +181,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>The Program is intended for the promotion of the general welfare of eligible Beneficiaries as described further under sub<cite path="§ADM.04.03|(b)" proof="needed">section ADM.04.03 (b)</cite>;</text>
+              <text>The Program is intended for the promotion of the general welfare of eligible Beneficiaries as described further under sub<cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.04.03|(b)">section ADM.04.03 (b)</cite>;</text>
             </para>
             <para>
               <num>(C)</num>
@@ -329,7 +329,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Funds that are not used consistent with the purposes of the Program may be considered Misused and subject to forfeiture consistent with <cite path="§ADM.04.08" proof="needed">ADM.04.08</cite>.</text>
+          <text>Funds that are not used consistent with the purposes of the Program may be considered Misused and subject to forfeiture consistent with <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.04.08">ADM.04.08</cite>.</text>
         </para>
       </section>
       <section>
@@ -405,7 +405,7 @@
           <text>Except as otherwise authorized by federal law, Assistance shall be garnished <em>only if the Council specifically designates within the Program Guidelines</em>, or by law, that the Assistance shall be eligible for garnishment and such garnishment is subject to the following limitations.</text>
           <para>
             <num>(1)</num>
-            <text>Judgments for Obligations Owed to the Tribe.  The Tribe may garnish Assistance for payment to the Tribe for any amounts due to the Tribe as established by a court of competent jurisdiction by judgment. Any remaining funds will be distributed to the Beneficiary unless there is a judgment for child support per <cite path="§ADM.04.09|(2)" proof="needed">subsection (2)</cite>.</text>
+            <text>Judgments for Obligations Owed to the Tribe.  The Tribe may garnish Assistance for payment to the Tribe for any amounts due to the Tribe as established by a court of competent jurisdiction by judgment. Any remaining funds will be distributed to the Beneficiary unless there is a judgment for child support per <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.04.09|(2)">subsection (2)</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -416,7 +416,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>Garnishment for child support shall be effective only if there is a valid, final, court order or judgement that is enforceable in accordance with Stockbridge-Munsee Child Support Code, <cite path="YAE.09" proof="needed">Chapter YAE.09</cite>; the Stockbridge-Munsee Recognition and Enforcement of Foreign Judgments, <cite path="§TCT.05.22" proof="needed">Section TCT.05.22</cite>; and the Full Faith and Credit for Child Support Orders Act (28 U.S.C. §1738B).</text>
+              <text>Garnishment for child support shall be effective only if there is a valid, final, court order or judgement that is enforceable in accordance with Stockbridge-Munsee Child Support Code, <cite doc="Stockbridge-Munsee Tribal Code" path="YAE.09">Chapter YAE.09</cite>; the Stockbridge-Munsee Recognition and Enforcement of Foreign Judgments, <cite doc="Stockbridge-Munsee Tribal Code" path="§TCT.05.22">Section TCT.05.22</cite>; and the Full Faith and Credit for Child Support Orders Act (28 U.S.C. §1738B).</text>
             </para>
             <para>
               <num>(C)</num>
@@ -424,7 +424,7 @@
             </para>
             <para>
               <num>(D)</num>
-              <text>If the Beneficiary has obligations both to the Tribe under <cite path="§ADM.04.09|(1)" proof="needed">subsection (1) and </cite>this <cite path="§ADM.04.09|(2)" proof="needed">subsection (2) </cite>for child support, then the following shall be utilized.</text>
+              <text>If the Beneficiary has obligations both to the Tribe under <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.04.09|(1)">subsection (1) and </cite>this <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.04.09|(2)">subsection (2) </cite>for child support, then the following shall be utilized.</text>
               <para>
                 <num>(i)</num>
                 <text>50% of the Assistance will be allocated to the Tribe for satisfaction of judgments owed to the Tribe.</text>
@@ -436,11 +436,11 @@
             </para>
             <para>
               <num>(E)</num>
-              <text>In the event the amount owed under either subsection <cite path="§ADM.04.09|(1)" proof="needed">(1)</cite> or <cite path="§ADM.04.09|(2)" proof="needed">(2)</cite> is less than 50% of the Assistance, then the remaining amount shall be allocated for the payment of the other debt.</text>
+              <text>In the event the amount owed under either subsection <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.04.09|(1)">(1)</cite> or <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.04.09|(2)">(2)</cite> is less than 50% of the Assistance, then the remaining amount shall be allocated for the payment of the other debt.</text>
             </para>
             <para>
               <num>(F)</num>
-              <text>In the event the amount owed under both subsections <cite path="§ADM.04.09|(1)" proof="needed">(1)</cite> and <cite path="§ADM.04.09|(2)" proof="needed">(2)</cite> total less than 100% of the Assistance, the remainder shall be payable to the Beneficiary.</text>
+              <text>In the event the amount owed under both subsections <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.04.09|(1)">(1)</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="§ADM.04.09|(2)">(2)</cite> total less than 100% of the Assistance, the remainder shall be payable to the Beneficiary.</text>
             </para>
           </para>
         </para>
@@ -530,5 +530,5 @@
       </section>
     </container>
   </codify:insert>
-  <codify:annotation path="ADM.04" type="Legislative History" history="false" dest="container" proof="needed">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 056-25">Resolution No. 056-25</cite>, adopted September 2, 2025, approved by BIA September 12, 2025.</codify:annotation>
+  <codify:annotation path="ADM.04" type="Legislative History" history="false" dest="container">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 056-25">Resolution No. 056-25</cite>, adopted September 2, 2025, approved by BIA September 12, 2025.</codify:annotation>
 </document>
