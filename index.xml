@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <heading>Stockbridge-Munsee Tribal Law Library</heading>
   <meta>
@@ -7,11 +7,11 @@
       <email>help@openlawlib.org</email>
     </contact>
     <canonical-urls>
-      <xml-bulk>https://github.com/mohicanlaw/law-xml</xml-bulk>
-      <html-bulk>https://github.com/mohicanlaw/law-html</html-bulk>
+      <xml-bulk>https://github.com/oll-test-repos/mohicanlaw-law-xml</xml-bulk>
+      <html-bulk>https://github.com/oll-test-repos/mohicanlaw-law-html</html-bulk>
       <html>https://law.mohican.com</html>
-      <static-assets>https://github.com/mohicanlaw/law-static-assets</static-assets>
-      <law-git>https://github.com/mohicanlaw/law.git</law-git>
+      <static-assets>https://github.com/oll-test-repos/mohicanlaw-law-static-assets</static-assets>
+      <law-git>git@github.com:oll-test-repos/mohicanlaw-law.git</law-git>
     </canonical-urls>
     <history-start>2021-01-28</history-start>
   </meta>
